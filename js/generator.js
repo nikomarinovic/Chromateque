@@ -64,7 +64,11 @@ function generatePalette(mode) {
   const btn = document.getElementById("gen-btn");
   const select = document.getElementById("gen-mode");
   const modeLabel = document.getElementById("gen-mode-label");
+  const copyBtn = document.getElementById("gen-copy");
+  const formatSelect = document.getElementById("gen-format");
   if (!grid || !btn) return;
+
+  let currentSwatches = [];
 
   function copySwatch(hex, el) {
     const finish = () => {
@@ -84,9 +88,49 @@ function generatePalette(mode) {
     }
   }
 
+  function formatPalette(hexes, format) {
+    switch (format) {
+      case "css":
+        return `:root {\n${hexes
+          .map((hex, i) => `  --color-${i + 1}: ${hex};`)
+          .join("\n")}\n}`;
+      case "tailwind":
+        return `colors: {\n${hexes
+          .map((hex, i) => `  chroma${i + 1}: "${hex}",`)
+          .join("\n")}\n}`;
+      case "json":
+        return JSON.stringify(hexes, null, 2);
+      case "hex":
+      default:
+        return hexes.join(", ");
+    }
+  }
+
+  function copyPalette() {
+    if (!currentSwatches.length || !copyBtn) return;
+    const format = formatSelect ? formatSelect.value : "hex";
+    const text = formatPalette(
+      currentSwatches.map((s) => s.hex),
+      format
+    );
+    const finish = () => {
+      const original = copyBtn.textContent;
+      copyBtn.textContent = "Copied!";
+      setTimeout(() => {
+        copyBtn.textContent = original;
+      }, 1200);
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(finish).catch(finish);
+    } else {
+      finish();
+    }
+  }
+
   function render() {
     const mode = select ? select.value : "random";
     const { key, swatches } = generatePalette(mode);
+    currentSwatches = swatches;
 
     grid.innerHTML = swatches
       .map(
@@ -115,6 +159,7 @@ function generatePalette(mode) {
 
   btn.addEventListener("click", render);
   if (select) select.addEventListener("change", render);
+  if (copyBtn) copyBtn.addEventListener("click", copyPalette);
 
   document.addEventListener("keydown", (e) => {
     const tag = (e.target && e.target.tagName) || "";

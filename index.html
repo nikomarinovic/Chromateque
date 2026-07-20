@@ -14,6 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style_index.css" />
   </head>
   <body data-mode="preview">
@@ -36,7 +37,7 @@
         </nav>
         <div class="nav-cta">
           <a
-            href="https://github.com/nikomarinovic/chromateque"
+            href="https://github.com/nikomarinovic"
             target="_blank"
             rel="noreferrer"
             class="btn btn-ghost"
@@ -127,6 +128,10 @@
 
           <div class="colors-toolbar">
             <p id="color-count" class="color-count">Showing 12 of 24 colors</p>
+            <div class="search-field">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
+              <input id="color-search" type="text" placeholder="Search by name or hex…" autocomplete="off" />
+            </div>
           </div>
 
           <div class="tabs" data-color-tabs>
@@ -177,9 +182,20 @@
           </div>
 
           <div class="generator-palette" id="generator-palette"></div>
-          <p style="margin-top: 14px; font-size: 12.5px; color: #a1a1aa;">
-            Scheme: <span id="gen-mode-label">Analogous</span>
-          </p>
+          <div class="generator-footer">
+            <p style="font-size: 12.5px; color: #a1a1aa;">
+              Scheme: <span id="gen-mode-label">Analogous</span>
+            </p>
+            <div class="generator-export">
+              <select id="gen-format" class="gen-select">
+                <option value="hex">Hex list</option>
+                <option value="css">CSS variables</option>
+                <option value="tailwind">Tailwind config</option>
+                <option value="json">JSON</option>
+              </select>
+              <button id="gen-copy" class="btn btn-secondary">Copy palette</button>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -252,9 +268,9 @@
           <div class="footer-col">
             <h4>Community</h4>
             <ul>
-              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">GitHub</a></li>
-              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">Contribute a palette</a></li>
-              <li><a href="https://github.com/nikomarinovic/Chromateque/issues" target="_blank" rel="noreferrer">Report an issue</a></li>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">GitHub</a></li>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Contribute a palette</a></li>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Report an issue</a></li>
             </ul>
           </div>
         </div>
