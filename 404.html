@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chromateque — Page not found</title>
+    <meta name="robots" content="noindex" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style_index.css" />
+    <style>
+      .notfound {
+        min-height: calc(100vh - 64px - 320px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 64px 0;
+      }
+      .notfound-inner {
+        text-align: center;
+        max-width: 46ch;
+        margin: 0 auto;
+      }
+      .notfound-code {
+        font-family: "JetBrains Mono", ui-monospace, monospace;
+        font-size: 13px;
+        letter-spacing: 0.14em;
+        color: #a1a1aa;
+        margin-bottom: 20px;
+      }
+      .notfound-swatches {
+        display: flex;
+        justify-content: center;
+        gap: 8px;
+        margin-bottom: 28px;
+      }
+      .notfound-swatches div {
+        width: 34px;
+        height: 34px;
+        border-radius: 10px;
+        box-shadow: 0 0 0 1px rgba(9, 9, 11, 0.06);
+      }
+      .notfound h1 {
+        font-size: clamp(30px, 5vw, 44px);
+        font-weight: 600;
+        letter-spacing: -0.02em;
+      }
+      .notfound p {
+        margin-top: 14px;
+        color: #71717a;
+        font-size: 15px;
+        line-height: 1.6;
+      }
+      .notfound-actions {
+        margin-top: 32px;
+        display: flex;
+        justify-content: center;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+      .notfound-hex {
+        margin-top: 28px;
+        font-family: "JetBrains Mono", ui-monospace, monospace;
+        font-size: 12px;
+        color: #a1a1aa;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="nav">
+      <div class="container nav-inner">
+        <a href="index.html" class="brand">
+          <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <circle cx="13" cy="12" r="9" fill="#06b6d4" />
+            <circle cx="19" cy="12" r="9" fill="#ec4899" />
+            <circle cx="16" cy="19" r="9" fill="#f59e0b" />
+          </svg>
+          <span class="brand-name">Chromateque</span>
+        </a>
+        <nav class="nav-links">
+          <a href="index.html#explore">Explore</a>
+          <a href="palettes.html">Palettes</a>
+          <a href="index.html#generator">Generator</a>
+          <a href="docs.html">Docs</a>
+        </nav>
+        <div class="nav-cta">
+          <a href="colors.html" class="btn btn-primary">Browse Colors</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="notfound">
+        <div class="container notfound-inner">
+          <p class="notfound-code">ERROR · 404</p>
+          <div class="notfound-swatches" aria-hidden="true">
+            <div style="background:#18181b"></div>
+            <div style="background:#71717a"></div>
+            <div style="background:#d4d4d8"></div>
+            <div style="background:#f4f4f5"></div>
+          </div>
+          <h1>This color doesn't exist.</h1>
+          <p>
+            The page you're looking for isn't in the archive — it may have
+            been moved, renamed, or never swatched in the first place.
+          </p>
+          <div class="notfound-actions">
+            <a href="index.html" class="btn btn-primary btn-lg">Back to home</a>
+            <a href="colors.html" class="btn btn-secondary btn-lg">Browse Colors</a>
+          </div>
+          <p class="notfound-hex">#404040 — closest match found</p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <a href="index.html" class="brand">
+              <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <circle cx="13" cy="12" r="9" fill="#06b6d4" />
+                <circle cx="19" cy="12" r="9" fill="#ec4899" />
+                <circle cx="16" cy="19" r="9" fill="#f59e0b" />
+              </svg>
+              <span class="brand-name">Chromateque</span>
+            </a>
+            <p class="footer-tagline">
+              An open, ever-growing archive of colors and palettes for people
+              who obsess over hex codes.
+            </p>
+            <div class="footer-social">
+              <a
+                href="https://github.com/nikomarinovic"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="GitHub"
+              >
+                <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+              </a>
+            </div>
+          </div>
+
+          <div class="footer-col">
+            <h4>Product</h4>
+            <ul>
+              <li><a href="index.html#explore">Explore</a></li>
+              <li><a href="palettes.html">Palettes</a></li>
+              <li><a href="index.html#generator">Generator</a></li>
+              <li><a href="docs.html">Docs</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Archive</h4>
+            <ul>
+              <li><a href="colors.html">All colors</a></li>
+              <li><a href="palettes.html">All palettes</a></li>
+              <li><a href="docs.html#api">API reference</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Community</h4>
+            <ul>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">GitHub</a></li>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Contribute a palette</a></li>
+              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Report an issue</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p>© 2026 Chromateque. Crafted for developers and designers.</p>
+          <p>Built by <a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Niko Marinović</a></p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
