@@ -190,16 +190,28 @@ const colorGrid = document.getElementById("color-grid");
 const toggleLink = document.getElementById("toggle-colors");
 const colorCount = document.getElementById("color-count");
 const tabs = Array.from(document.querySelectorAll("[data-color-tabs] .tab"));
+const searchInput = document.getElementById("color-search");
 
 let activeCategory = "All";
+let searchQuery = "";
 let showAll = pageMode === "archive";
 
 function getFilteredColors() {
-  if (activeCategory === "All") {
-    return colors;
+  let list =
+    activeCategory === "All"
+      ? colors
+      : colors.filter((color) => color.category === activeCategory);
+
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase().replace(/^#/, "");
+    list = list.filter(
+      (color) =>
+        color.name.toLowerCase().includes(q) ||
+        color.hex.toLowerCase().replace("#", "").includes(q)
+    );
   }
 
-  return colors.filter((color) => color.category === activeCategory);
+  return list;
 }
 
 function copyHex(hex, chip) {
@@ -224,32 +236,39 @@ function copyHex(hex, chip) {
 function renderColors() {
   if (!colorGrid) return;
   const filtered = getFilteredColors();
-  const colorsToRender = showAll ? filtered : filtered.slice(0, previewCount);
+  const effectiveShowAll = showAll || Boolean(searchQuery);
+  const colorsToRender = effectiveShowAll
+    ? filtered
+    : filtered.slice(0, previewCount);
 
-  colorGrid.innerHTML = colorsToRender
-    .map(
-      (color) => `
+  if (colorsToRender.length === 0) {
+    colorGrid.innerHTML = `<p class="empty-state">No colors match “${searchQuery}”. Try a different name or hex.</p>`;
+  } else {
+    colorGrid.innerHTML = colorsToRender
+      .map(
+        (color) => `
       <div class="chip" style="--c: ${color.hex}" data-category="${color.category}" data-hex="${color.hex}" role="button" tabindex="0" aria-label="Copy ${color.name} ${color.hex}">
         <span>${color.name} · ${color.hex}</span>
       </div>
     `
-    )
-    .join("");
+      )
+      .join("");
 
-  Array.from(colorGrid.querySelectorAll(".chip")).forEach((chip) => {
-    chip.addEventListener("click", () => copyHex(chip.dataset.hex, chip));
-    chip.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        copyHex(chip.dataset.hex, chip);
-      }
+    Array.from(colorGrid.querySelectorAll(".chip")).forEach((chip) => {
+      chip.addEventListener("click", () => copyHex(chip.dataset.hex, chip));
+      chip.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          copyHex(chip.dataset.hex, chip);
+        }
+      });
     });
-  });
+  }
 
   if (colorCount) {
     const total = filtered.length;
-    colorCount.textContent = showAll
-      ? `Showing all ${total} colors`
+    colorCount.textContent = effectiveShowAll
+      ? `Showing ${total} of ${colors.length} colors`
       : `Showing ${Math.min(previewCount, total)} of ${total} colors`;
   }
 
@@ -268,6 +287,13 @@ function setActiveTab(tab) {
 tabs.forEach((tab) => {
   tab.addEventListener("click", () => setActiveTab(tab));
 });
+
+if (searchInput) {
+  searchInput.addEventListener("input", (event) => {
+    searchQuery = event.target.value.trim();
+    renderColors();
+  });
+}
 
 if (toggleLink && pageMode === "archive") {
   toggleLink.addEventListener("click", (event) => {

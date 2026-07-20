@@ -79,19 +79,47 @@ function paletteChip(hex, i) {
 
 function paletteCard(palette) {
   return `
-    <article class="palette" data-tags="${palette.tags.join(",")}">
+    <article class="palette" data-tags="${palette.tags.join(",")}" data-colors="${palette.colors.join(",")}">
       <div class="palette-swatches">
         ${palette.colors.map((hex, i) => paletteChip(hex, i)).join("")}
       </div>
       <div class="palette-meta">
         <h3>${palette.name}</h3>
-        <div class="tags">${palette.tags.map((t) => `<span>${t}</span>`).join("")}</div>
+        <div class="palette-meta-right">
+          <div class="tags">${palette.tags.map((t) => `<span>${t}</span>`).join("")}</div>
+          <button class="palette-copy" type="button" aria-label="Copy ${palette.name} as CSS variables">Copy</button>
+        </div>
       </div>
     </article>
   `;
 }
 
+function copyPaletteCard(article) {
+  const hexes = article.dataset.colors.split(",");
+  const css = `:root {\n${hexes.map((hex, i) => `  --color-${i + 1}: ${hex};`).join("\n")}\n}`;
+  const btn = article.querySelector(".palette-copy");
+  const finish = () => {
+    if (!btn) return;
+    const original = btn.textContent;
+    btn.textContent = "Copied!";
+    setTimeout(() => {
+      btn.textContent = original;
+    }, 1200);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(css).then(finish).catch(finish);
+  } else {
+    finish();
+  }
+}
+
 function renderPaletteGrid(el, list) {
   if (!el) return;
   el.innerHTML = list.map(paletteCard).join("");
+  Array.from(el.querySelectorAll(".palette-copy")).forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      copyPaletteCard(btn.closest(".palette"));
+    });
+  });
 }
