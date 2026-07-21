@@ -43,37 +43,6 @@ Getting started with Chromateque is fast:
 
 ---
 
-## Installation
-
-### macOS
-
-```bash
-git clone https://github.com/nikomarinovic/chromateque.git
-cd chromateque
-python3 -m http.server 8000
-# open http://localhost:8000
-```
-
-### Linux
-
-```bash
-git clone https://github.com/nikomarinovic/chromateque.git
-cd chromateque
-python3 -m http.server 8000
-# open http://localhost:8000
-```
-
-### Windows (PowerShell)
-
-```powershell
-git clone https://github.com/nikomarinovic/chromateque.git
-cd chromateque
-py -m http.server 8000
-# open http://localhost:8000
-```
-
----
-
 ## Features
 
 - **Color Archive** — ~185 named colors across Neutrals, Blue, Cyan, Green, Yellow, Orange, Red, Pink, Purple, Cyberpunk, and Pastel categories, with live text/hex search.
