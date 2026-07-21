@@ -59,6 +59,11 @@ function generatePalette(mode) {
   return { key, swatches: fn(baseHue) };
 }
 
+const defaultPalettes = [
+  ["#3c1943", "#72307e", "#a846b9", "#cb90d5", "#eedaf1"],
+  ["#193d43", "#30737e", "#46aab9", "#90ccd5", "#daeef1"]
+];
+
 (function initGenerator() {
   const grid = document.getElementById("generator-palette");
   const btn = document.getElementById("gen-btn");
@@ -69,6 +74,7 @@ function generatePalette(mode) {
   if (!grid || !btn) return;
 
   let currentSwatches = [];
+  let isInitial = true;
 
   function copySwatch(hex, el) {
     const finish = () => {
@@ -128,8 +134,19 @@ function generatePalette(mode) {
   }
 
   function render() {
-    const mode = select ? select.value : "random";
-    const { key, swatches } = generatePalette(mode);
+    let key, swatches;
+
+    if (isInitial) {
+      const hexes =
+        defaultPalettes[Math.floor(Math.random() * defaultPalettes.length)];
+      swatches = hexes.map((hex) => ({ hex }));
+      key = "featured";
+      isInitial = false;
+    } else {
+      const mode = select ? select.value : "random";
+      ({ key, swatches } = generatePalette(mode));
+    }
+
     currentSwatches = swatches;
 
     grid.innerHTML = swatches
