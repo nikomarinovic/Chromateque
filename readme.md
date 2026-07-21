@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.svg.svg" alt="Chromateque Logo" width="96" />
+  <img src="public/logo.svg" alt="Chromateque Logo" width="96" />
   <br />
   Chromateque
 </h1>
