@@ -196,6 +196,33 @@ let activeCategory = "All";
 let searchQuery = "";
 let showAll = pageMode === "archive";
 
+// The array above is just a small curated preview set. The real archive
+// (colors/<category>.json, grown by generate_colors.py) can hold thousands
+// of colors per category, so the "of X colors" count should reflect that
+// real total rather than this file's length. We fetch it once and re-render.
+let archiveCounts = null; // { "Red": 15400, "Blue": 400, ... } from colors/manifest.json
+
+fetch("colors/manifest.json")
+  .then((res) => (res.ok ? res.json() : null))
+  .then((data) => {
+    if (data && typeof data === "object") {
+      archiveCounts = data;
+      renderColors();
+    }
+  })
+  .catch(() => {
+    // no manifest available (e.g. opened via file://, or folder not generated
+    // yet) -- silently fall back to counting this file's own array below.
+  });
+
+function archiveTotalFor(category) {
+  if (!archiveCounts) return null;
+  if (category === "All") {
+    return Object.values(archiveCounts).reduce((sum, n) => sum + n, 0);
+  }
+  return archiveCounts[category] ?? null;
+}
+
 function getFilteredColors() {
   let list =
     activeCategory === "All"
@@ -266,10 +293,16 @@ function renderColors() {
   }
 
   if (colorCount) {
-    const total = filtered.length;
-    colorCount.textContent = effectiveShowAll
-      ? `Showing ${total} of ${colors.length} colors`
-      : `Showing ${Math.min(previewCount, total)} of ${total} colors`;
+    // When we know the real archive count for this category (from
+    // colors/manifest.json), show that as the "of X" total instead of the
+    // length of this page's small preview array -- unless the person is
+    // searching, since search only searches within the preview set here.
+    const realTotal = searchQuery ? null : archiveTotalFor(activeCategory);
+    const displayTotal = realTotal !== null ? realTotal : filtered.length;
+    const shown = effectiveShowAll
+      ? filtered.length
+      : Math.min(previewCount, filtered.length);
+    colorCount.textContent = `Showing ${shown.toLocaleString()} of ${displayTotal.toLocaleString()} colors`;
   }
 
   if (toggleLink && pageMode === "archive") {

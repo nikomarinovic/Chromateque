@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Royal Azure",
+    "hex": "#d4d7f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Storm",
+    "hex": "#d0d3f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Cobalt",
+    "hex": "#d1e6f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Indigo",
+    "hex": "#cae4fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Sapphire",
+    "hex": "#d0dbf6",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Sapphire",
+    "hex": "#c7dbff",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Indigo",
+    "hex": "#cddff8",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Midnight",
+    "hex": "#ccd7f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Indigo",
+    "hex": "#d1d3f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Sapphire",
+    "hex": "#d3e1f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Storm",
+    "hex": "#c9defa",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Navy",
+    "hex": "#cde2f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Cobalt",
+    "hex": "#ced5f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Storm",
+    "hex": "#c5e5fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Azure",
+    "hex": "#c1cdfc",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Midnight",
+    "hex": "#c1d7fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Indigo",
+    "hex": "#becdfd",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Ocean",
+    "hex": "#c8cbf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Sapphire",
+    "hex": "#bdcefc",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Cobalt",
+    "hex": "#bdd4fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Azure",
+    "hex": "#bad7fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Navy",
+    "hex": "#bdcef9",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Indigo",
+    "hex": "#bfc6f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Azure",
+    "hex": "#bac9fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Storm",
+    "hex": "#c0d5f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Sapphire",
+    "hex": "#c2c5f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Cobalt",
+    "hex": "#b5d7fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Ocean",
+    "hex": "#b6bbfb",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Navy",
+    "hex": "#b9bcf7",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Ocean",
+    "hex": "#b3c0fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Navy",
+    "hex": "#b6bdfa",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Navy",
+    "hex": "#c1dbef",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Midnight",
+    "hex": "#bbc8f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Azure",
+    "hex": "#b0d5fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Midnight",
+    "hex": "#b6c3f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Midnight",
+    "hex": "#b0d9fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Cobalt",
+    "hex": "#b5c1f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Navy",
+    "hex": "#afd5f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Midnight",
+    "hex": "#b5cef3",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Sapphire",
+    "hex": "#adc8fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Indigo",
+    "hex": "#b6d7f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Storm",
+    "hex": "#afb2f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Storm",
+    "hex": "#b7c5ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Azure",
+    "hex": "#b9d4ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Cobalt",
+    "hex": "#adbef9",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Ocean",
+    "hex": "#a7cefe",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 1",
+    "hex": "#a8dffd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 2",
+    "hex": "#b9c0e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 3",
+    "hex": "#acb0f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 4",
+    "hex": "#b0d0ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 5",
+    "hex": "#acb3f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 6",
+    "hex": "#a8d3f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 7",
+    "hex": "#a1d5fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 8",
+    "hex": "#a8bef3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 9",
+    "hex": "#a4bff6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 10",
+    "hex": "#b0d3e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 11",
+    "hex": "#aac1ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 12",
+    "hex": "#adb0ea",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 13",
+    "hex": "#a8aaef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 14",
+    "hex": "#a2ccf4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 15",
+    "hex": "#97c7fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 16",
+    "hex": "#a0a5f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 18",
+    "hex": "#adcae5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 19",
+    "hex": "#accde6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 17",
+    "hex": "#a0d3f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 20",
+    "hex": "#a2d2ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 21",
+    "hex": "#aacde6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 23",
+    "hex": "#a0caee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 22",
+    "hex": "#91c7fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 26",
+    "hex": "#96cbf6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 24",
+    "hex": "#9aa8f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 25",
+    "hex": "#98a9f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 27",
+    "hex": "#9dbced",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 29",
+    "hex": "#93aef7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 31",
+    "hex": "#a0ccea",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 28",
+    "hex": "#a6aee3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 30",
+    "hex": "#a3cfe6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 33",
+    "hex": "#a7cde2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 34",
+    "hex": "#94b9f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 32",
+    "hex": "#8dcbfb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 35",
+    "hex": "#95c0f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 36",
+    "hex": "#9faee7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 37",
+    "hex": "#9eb2e7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 38",
+    "hex": "#a0c7e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 39",
+    "hex": "#96c8ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 40",
+    "hex": "#979ced",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 41",
+    "hex": "#90bdf4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 42",
+    "hex": "#8db2f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 43",
+    "hex": "#86bbfc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 44",
+    "hex": "#959cec",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 45",
+    "hex": "#99c0e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 46",
+    "hex": "#99aee6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 47",
+    "hex": "#85b8f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 48",
+    "hex": "#858af6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 49",
+    "hex": "#9095eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 50",
+    "hex": "#9abae0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 51",
+    "hex": "#7cc1fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 52",
+    "hex": "#888ced",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 53",
+    "hex": "#8091f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 54",
+    "hex": "#84acef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 55",
+    "hex": "#8586ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 56",
+    "hex": "#82a9ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 57",
+    "hex": "#75b2fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 58",
+    "hex": "#8c9be3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 59",
+    "hex": "#76b6f7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 60",
+    "hex": "#8bbae2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 61",
+    "hex": "#8ab5e3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 62",
+    "hex": "#8ba9e1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 63",
+    "hex": "#839ae8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 64",
+    "hex": "#8893e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 66",
+    "hex": "#839de7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 65",
+    "hex": "#769cf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 68",
+    "hex": "#7abcee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 67",
+    "hex": "#7f80e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 69",
+    "hex": "#737cf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 70",
+    "hex": "#7aa2eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 71",
+    "hex": "#787eec",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 72",
+    "hex": "#7e80e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 73",
+    "hex": "#85b0dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 74",
+    "hex": "#83bcde",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 75",
+    "hex": "#8397dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 76",
+    "hex": "#676df8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 77",
+    "hex": "#74adeb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 78",
+    "hex": "#666ef9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 79",
+    "hex": "#67b6f7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 80",
+    "hex": "#627bfc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 81",
+    "hex": "#707bee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 82",
+    "hex": "#79ace3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 83",
+    "hex": "#708ceb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 84",
+    "hex": "#7ba9dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 88",
+    "hex": "#7fa3d7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 85",
+    "hex": "#5ca5fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 86",
+    "hex": "#5cc1fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 90",
+    "hex": "#5f7ef6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 87",
+    "hex": "#73a4e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 89",
+    "hex": "#6bbae9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 92",
+    "hex": "#5e90f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 91",
+    "hex": "#71b3e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 93",
+    "hex": "#509afc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 94",
+    "hex": "#63a6e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 95",
+    "hex": "#66aee4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 96",
+    "hex": "#6370e6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 97",
+    "hex": "#61a1e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 98",
+    "hex": "#6278e6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 99",
+    "hex": "#6d96da",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 100",
+    "hex": "#497afd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 101",
+    "hex": "#53adf2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 102",
+    "hex": "#5da3e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 103",
+    "hex": "#6b99da",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 104",
+    "hex": "#6f8fd6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 105",
+    "hex": "#53b7f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 106",
+    "hex": "#579eed",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 107",
+    "hex": "#6fa8d5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 108",
+    "hex": "#5db0e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 109",
+    "hex": "#4598fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 110",
+    "hex": "#6574db",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 111",
+    "hex": "#4c66f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 112",
+    "hex": "#6d6fcf",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 113",
+    "hex": "#4d68ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 114",
+    "hex": "#4674f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 115",
+    "hex": "#438bf6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 116",
+    "hex": "#539ae6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 117",
+    "hex": "#5971df",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 118",
+    "hex": "#4192f7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 119",
+    "hex": "#577fdf",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 120",
+    "hex": "#5b83db",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 121",
+    "hex": "#5784de",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 123",
+    "hex": "#659ed0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 122",
+    "hex": "#64a5d0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 124",
+    "hex": "#4274f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 125",
+    "hex": "#5182e0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 126",
+    "hex": "#46abe9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 127",
+    "hex": "#3c6bf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 128",
+    "hex": "#3852f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 129",
+    "hex": "#368ef8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 130",
+    "hex": "#527bd9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 132",
+    "hex": "#467ee5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 131",
+    "hex": "#58a4d3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 133",
+    "hex": "#538cd6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 137",
+    "hex": "#5a9ecc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 134",
+    "hex": "#41a7e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 135",
+    "hex": "#307ef6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 136",
+    "hex": "#449ce2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 138",
+    "hex": "#419ee4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 140",
+    "hex": "#599dcc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 139",
+    "hex": "#3b40e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 141",
+    "hex": "#4391e1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 142",
+    "hex": "#2544fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 143",
+    "hex": "#2a96f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 144",
+    "hex": "#4596dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 145",
+    "hex": "#2c8cf5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 147",
+    "hex": "#2f85f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 146",
+    "hex": "#2336fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 148",
+    "hex": "#2d56f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 149",
+    "hex": "#3b70e4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 150",
+    "hex": "#3253ec",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 151",
+    "hex": "#2949f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 152",
+    "hex": "#4f55cc",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 153",
+    "hex": "#2d45ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 154",
+    "hex": "#3d63de",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 155",
+    "hex": "#325ee8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 156",
+    "hex": "#3882e1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 157",
+    "hex": "#516fc8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 159",
+    "hex": "#4b75cd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 158",
+    "hex": "#2d70eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 160",
+    "hex": "#3d70db",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 161",
+    "hex": "#4885cf",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 162",
+    "hex": "#4f76c8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 163",
+    "hex": "#2a69ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 164",
+    "hex": "#249cf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 165",
+    "hex": "#3c9cd9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 166",
+    "hex": "#2643ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 167",
+    "hex": "#1a37f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 168",
+    "hex": "#1472fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 169",
+    "hex": "#224cee",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 170",
+    "hex": "#4146ce",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 171",
+    "hex": "#2589ea",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 172",
+    "hex": "#2a75e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 173",
+    "hex": "#171bf7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 174",
+    "hex": "#2071ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 175",
+    "hex": "#3966d4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 176",
+    "hex": "#1766f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 177",
+    "hex": "#2b51df",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 179",
+    "hex": "#0ca3fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 178",
+    "hex": "#177ef2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 180",
+    "hex": "#1386f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 181",
+    "hex": "#098dfe",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 182",
+    "hex": "#1c56eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 183",
+    "hex": "#4056c6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 184",
+    "hex": "#267ade",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 185",
+    "hex": "#1e8be4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 186",
+    "hex": "#0754fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 187",
+    "hex": "#2334dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 188",
+    "hex": "#2022df",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 189",
+    "hex": "#0d6bf2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 190",
+    "hex": "#3b70c0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 191",
+    "hex": "#0430f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 192",
+    "hex": "#346ac5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 193",
+    "hex": "#3055c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 194",
+    "hex": "#1042e6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 195",
+    "hex": "#0348f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 196",
+    "hex": "#1128e3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 197",
+    "hex": "#2f3dc3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 198",
+    "hex": "#3b54b6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 199",
+    "hex": "#1655db",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 200",
+    "hex": "#1b37d6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 201",
+    "hex": "#0f7fe0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 203",
+    "hex": "#2875c6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 202",
+    "hex": "#2a82c3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 204",
+    "hex": "#005fea",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 205",
+    "hex": "#2f6fbb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 206",
+    "hex": "#3887b1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 207",
+    "hex": "#1f76c9",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 208",
+    "hex": "#3234b5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 209",
+    "hex": "#1870cb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 210",
+    "hex": "#1371d0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 211",
+    "hex": "#2123c2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 212",
+    "hex": "#020ae0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 213",
+    "hex": "#1c43c5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 214",
+    "hex": "#2d7db3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 216",
+    "hex": "#0a0fd5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 217",
+    "hex": "#3875a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 218",
+    "hex": "#0225dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 215",
+    "hex": "#0b5fd3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 220",
+    "hex": "#0c72d1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 219",
+    "hex": "#0b10d2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 222",
+    "hex": "#1575c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 221",
+    "hex": "#2774b4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 223",
+    "hex": "#2c7daf",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 224",
+    "hex": "#156dc5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 225",
+    "hex": "#1351c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 226",
+    "hex": "#0b52ce",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 227",
+    "hex": "#2e72a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 228",
+    "hex": "#0e55c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 229",
+    "hex": "#1023c4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 230",
+    "hex": "#106ac4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 231",
+    "hex": "#1a5db8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 232",
+    "hex": "#1a3db6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 233",
+    "hex": "#1c6db3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 234",
+    "hex": "#1c57b3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 235",
+    "hex": "#1869b7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 236",
+    "hex": "#1120be",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 237",
+    "hex": "#0d36c0",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 238",
+    "hex": "#1436b7",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 239",
+    "hex": "#0f65bb",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 240",
+    "hex": "#1b36ae",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 241",
+    "hex": "#315c97",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 242",
+    "hex": "#1224b3",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 243",
+    "hex": "#1a21ab",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 244",
+    "hex": "#256d9a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 245",
+    "hex": "#0157bd",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 247",
+    "hex": "#0419ba",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 246",
+    "hex": "#205a9d",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 248",
+    "hex": "#284295",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 249",
+    "hex": "#0407b8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 250",
+    "hex": "#1646a5",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 251",
+    "hex": "#233698",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 252",
+    "hex": "#283692",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 253",
+    "hex": "#0e64aa",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 254",
+    "hex": "#0e32a8",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 255",
+    "hex": "#202c95",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 256",
+    "hex": "#275f8e",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 258",
+    "hex": "#0d56a6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 257",
+    "hex": "#24618f",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 259",
+    "hex": "#0c27a6",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 260",
+    "hex": "#17449b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 263",
+    "hex": "#154b9c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 261",
+    "hex": "#0f56a2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 262",
+    "hex": "#1c3694",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 264",
+    "hex": "#294f87",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 265",
+    "hex": "#1f4c90",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 266",
+    "hex": "#23648b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 267",
+    "hex": "#0c47a2",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 268",
+    "hex": "#0a2ca4",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 269",
+    "hex": "#1e3990",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 271",
+    "hex": "#172a96",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 272",
+    "hex": "#245189",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 270",
+    "hex": "#022bab",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 275",
+    "hex": "#0f339c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 273",
+    "hex": "#1b4a90",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 274",
+    "hex": "#122699",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 276",
+    "hex": "#0e5e9b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 277",
+    "hex": "#216388",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 278",
+    "hex": "#0f2e98",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 279",
+    "hex": "#053ca1",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 280",
+    "hex": "#29397c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 283",
+    "hex": "#15358f",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 284",
+    "hex": "#0f6694",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 281",
+    "hex": "#131990",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 282",
+    "hex": "#0c2f97",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 285",
+    "hex": "#064c9b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 286",
+    "hex": "#04229d",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 287",
+    "hex": "#104090",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 288",
+    "hex": "#172d89",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 289",
+    "hex": "#0b1e95",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 290",
+    "hex": "#074f98",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 291",
+    "hex": "#202f7e",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 292",
+    "hex": "#0a6494",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 293",
+    "hex": "#0b3f93",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 294",
+    "hex": "#03439b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 295",
+    "hex": "#0c4f8f",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 296",
+    "hex": "#135987",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 297",
+    "hex": "#0f578a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 298",
+    "hex": "#024096",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 299",
+    "hex": "#262972",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 300",
+    "hex": "#053593",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 301",
+    "hex": "#1b4d7d",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 302",
+    "hex": "#0b1e89",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 303",
+    "hex": "#203474",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 304",
+    "hex": "#123982",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 306",
+    "hex": "#0f5384",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 307",
+    "hex": "#0f4c84",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 305",
+    "hex": "#1c4a77",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 308",
+    "hex": "#0b2a87",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 309",
+    "hex": "#01328f",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 310",
+    "hex": "#14487c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 311",
+    "hex": "#020f8b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 312",
+    "hex": "#21476b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 313",
+    "hex": "#11467b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 314",
+    "hex": "#062c84",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 315",
+    "hex": "#1f4b6a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 316",
+    "hex": "#173d71",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 317",
+    "hex": "#1e4268",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 318",
+    "hex": "#104f76",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 319",
+    "hex": "#103b75",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 320",
+    "hex": "#040d80",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 321",
+    "hex": "#013882",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 323",
+    "hex": "#1f3663",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 322",
+    "hex": "#15356c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 324",
+    "hex": "#081d78",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 325",
+    "hex": "#1a1a66",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 326",
+    "hex": "#1d2162",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 327",
+    "hex": "#12406c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 328",
+    "hex": "#061577",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 329",
+    "hex": "#1c3a60",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 330",
+    "hex": "#092873",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 332",
+    "hex": "#111d6a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 331",
+    "hex": "#121b69",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 333",
+    "hex": "#171d63",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 334",
+    "hex": "#0c3e6e",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 335",
+    "hex": "#021276",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 336",
+    "hex": "#0f2168",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 337",
+    "hex": "#1c205b",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 338",
+    "hex": "#114166",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 340",
+    "hex": "#021572",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 339",
+    "hex": "#1b3b59",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 341",
+    "hex": "#19265a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 342",
+    "hex": "#073a6a",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 343",
+    "hex": "#121d5e",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 344",
+    "hex": "#0e3361",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 345",
+    "hex": "#1b2e54",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 346",
+    "hex": "#012f6e",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 348",
+    "hex": "#072766",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 347",
+    "hex": "#082465",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 349",
+    "hex": "#01186c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 350",
+    "hex": "#0e125c",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 351",
+    "hex": "#071562",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 353",
+    "hex": "#182450",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 352",
+    "hex": "#0a115d",
+    "category": "Blue"
+  },
+  {
+    "name": "Blue 354",
+    "hex": "#013466",
+    "category": "Blue"
+  }
+]

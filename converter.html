@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Chromateque — All Palettes</title>
+    <title>Chromateque — Color Converter</title>
     <meta
       name="description"
-      content="Browse every curated palette in the Chromateque archive, filterable by mood and tag."
+      content="Convert any color between HEX, RGB, HSL, HSV and CMYK instantly."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -17,7 +17,7 @@
     <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style_index.css" />
   </head>
-  <body data-mode="archive">
+  <body data-mode="tool">
     <header class="nav">
       <div class="container nav-inner">
         <a href="index.html" class="brand">
@@ -43,34 +43,101 @@
           </div>
         </nav>
         <div class="nav-cta">
-          <a href="index.html#generator" class="btn btn-ghost">Generator</a>
+          <a href="gradient.html" class="btn btn-ghost">Gradient</a>
           <a href="colors.html" class="btn btn-primary">Browse Colors</a>
         </div>
       </div>
     </header>
 
     <main>
-      <section class="section">
+      <section class="section tool-hero" style="padding-bottom: 32px;">
         <div class="container">
-          <div class="section-head">
-            <div>
-              <h2>All palettes</h2>
-              <p>
-                Every curated palette in the archive — five-color systems
-                balanced for interfaces, brand identities and editorial work.
-              </p>
+          <div class="docs-eyebrow">Tools</div>
+          <h1>Color converter</h1>
+          <p>
+            Type a color in any format — HEX, RGB or HSL — and see it
+            instantly converted to HEX, RGB, HSL, HSV and CMYK.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" style="padding-top: 8px;">
+        <div class="container">
+          <div class="tool-card">
+            <label class="field-label" for="converter-input">Enter a color</label>
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <input
+                id="converter-picker"
+                type="color"
+                value="#3b82f6"
+                aria-label="Pick a color"
+                style="width: 44px; height: 44px; flex: none; border: none; padding: 0; border-radius: 10px; cursor: pointer; box-shadow: 0 0 0 1px var(--line-2);"
+              />
+              <input
+                id="converter-input"
+                class="field-input"
+                type="text"
+                value="#3b82f6"
+                placeholder="#3b82f6, rgb(59,130,246), hsl(217,91%,60%), 59,130,246…"
+                autocomplete="off"
+                spellcheck="false"
+                style="flex: 1;"
+              />
+            </div>
+            <p id="converter-error" class="field-hint is-error"></p>
+
+            <div class="converter-layout" style="margin-top: 24px;">
+              <div id="converter-preview" class="converter-preview"></div>
+
+              <div class="format-grid">
+                <div id="row-hex" class="format-row">
+                  <div>
+                    <div class="format-row-label">Hex</div>
+                    <div class="format-row-value">—</div>
+                  </div>
+                  <button class="format-copy" type="button" aria-label="Copy hex value">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  </button>
+                </div>
+                <div id="row-rgb" class="format-row">
+                  <div>
+                    <div class="format-row-label">RGB</div>
+                    <div class="format-row-value">—</div>
+                  </div>
+                  <button class="format-copy" type="button" aria-label="Copy RGB value">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  </button>
+                </div>
+                <div id="row-hsl" class="format-row">
+                  <div>
+                    <div class="format-row-label">HSL</div>
+                    <div class="format-row-value">—</div>
+                  </div>
+                  <button class="format-copy" type="button" aria-label="Copy HSL value">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  </button>
+                </div>
+                <div id="row-hsv" class="format-row">
+                  <div>
+                    <div class="format-row-label">HSV</div>
+                    <div class="format-row-value">—</div>
+                  </div>
+                  <button class="format-copy" type="button" aria-label="Copy HSV value">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  </button>
+                </div>
+                <div id="row-cmyk" class="format-row" style="grid-column: 1 / -1;">
+                  <div>
+                    <div class="format-row-label">CMYK</div>
+                    <div class="format-row-value">—</div>
+                  </div>
+                  <button class="format-copy" type="button" aria-label="Copy CMYK value">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
-
-          <div class="colors-toolbar">
-            <p id="palette-count" class="color-count">Loading palettes…</p>
-          </div>
-
-          <div class="tabs" id="palette-tabs">
-            <button class="tab is-active" data-tag="All">All</button>
-          </div>
-
-          <div class="palette-grid" id="palette-grid"></div>
         </div>
       </section>
     </main>
@@ -92,12 +159,7 @@
               who obsess over hex codes.
             </p>
             <div class="footer-social">
-              <a
-                href="https://github.com/nikomarinovic"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="GitHub"
-              >
+              <a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer" aria-label="GitHub">
                 <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
               </a>
             </div>
@@ -150,45 +212,6 @@
     </footer>
 
     <script src="js/nav.js" defer></script>
-    <script src="js/palettes.js" defer></script>
-    <script defer>
-      window.addEventListener("DOMContentLoaded", () => {
-        const grid = document.getElementById("palette-grid");
-        const count = document.getElementById("palette-count");
-        const tabsWrap = document.getElementById("palette-tabs");
-
-        const allTags = Array.from(
-          new Set(palettes.flatMap((p) => p.tags))
-        ).sort();
-
-        allTags.forEach((tag) => {
-          const btn = document.createElement("button");
-          btn.className = "tab";
-          btn.dataset.tag = tag;
-          btn.textContent = tag;
-          tabsWrap.appendChild(btn);
-        });
-
-        function apply(tag) {
-          const list =
-            tag === "All"
-              ? palettes
-              : palettes.filter((p) => p.tags.includes(tag));
-          renderPaletteGrid(grid, list);
-          count.textContent = `Showing ${list.length} of ${palettes.length} palettes`;
-        }
-
-        tabsWrap.addEventListener("click", (e) => {
-          const btn = e.target.closest(".tab");
-          if (!btn) return;
-          Array.from(tabsWrap.children).forEach((el) =>
-            el.classList.toggle("is-active", el === btn)
-          );
-          apply(btn.dataset.tag);
-        });
-
-        apply("All");
-      });
-    </script>
+    <script src="js/converter.js" defer></script>
   </body>
 </html>

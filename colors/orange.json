@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Soft Sunset",
+    "hex": "#fce0ce",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Coral",
+    "hex": "#f7e5d2",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Pumpkin",
+    "hex": "#f9d8cf",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Amber",
+    "hex": "#fadece",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Amber",
+    "hex": "#f5e5d3",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Tangerine",
+    "hex": "#f8e3ce",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Tangerine",
+    "hex": "#f8dbce",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Citrus",
+    "hex": "#f5e0d1",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Sunset",
+    "hex": "#fdd4c9",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Apricot",
+    "hex": "#f9dbcd",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Amber",
+    "hex": "#f7e0ce",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Copper",
+    "hex": "#fbdfc7",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Peach",
+    "hex": "#fae2c5",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Amber",
+    "hex": "#fbdfc3",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Apricot",
+    "hex": "#fdcdc0",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Pumpkin",
+    "hex": "#fad1c3",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Pumpkin",
+    "hex": "#f9d6c3",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Coral",
+    "hex": "#f6dbc6",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Coral",
+    "hex": "#f2dac9",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Sunset",
+    "hex": "#fcdabf",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Copper",
+    "hex": "#fecfbb",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Apricot",
+    "hex": "#f2d8c7",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Amber",
+    "hex": "#f9ddbd",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Sunset",
+    "hex": "#f5d2be",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Citrus",
+    "hex": "#fdd9b5",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Apricot",
+    "hex": "#f7c8bb",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Peach",
+    "hex": "#fbcab6",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Citrus",
+    "hex": "#f0d6c0",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Coral",
+    "hex": "#f4d9bb",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Flame",
+    "hex": "#f5caba",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Peach",
+    "hex": "#fec6b1",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Citrus",
+    "hex": "#f6cab8",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Amber",
+    "hex": "#f5d2b8",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Pumpkin",
+    "hex": "#fbc5b2",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Apricot",
+    "hex": "#fcc2b0",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Citrus",
+    "hex": "#fcc6af",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Citrus",
+    "hex": "#f1d4ba",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Peach",
+    "hex": "#fcd6ae",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Coral",
+    "hex": "#f3cbb7",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Pumpkin",
+    "hex": "#f9caaf",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Copper",
+    "hex": "#f8d6b0",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Apricot",
+    "hex": "#fbcdac",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Sunset",
+    "hex": "#f3ccb4",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Peach",
+    "hex": "#facbac",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Coral",
+    "hex": "#fed6a7",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Pumpkin",
+    "hex": "#f3c4b2",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Copper",
+    "hex": "#ffcba6",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Tangerine",
+    "hex": "#f3d6b2",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Citrus",
+    "hex": "#fbbdaa",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Copper",
+    "hex": "#f2ccb2",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Tangerine",
+    "hex": "#efd6b5",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Sunset",
+    "hex": "#fac6aa",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Coral",
+    "hex": "#fdc5a5",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Sunset",
+    "hex": "#fabba8",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Tangerine",
+    "hex": "#edc2b4",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Amber",
+    "hex": "#fecca3",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Copper",
+    "hex": "#f2d2af",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Flame",
+    "hex": "#fdb7a3",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Pumpkin",
+    "hex": "#f0beb0",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Copper",
+    "hex": "#f2c9ac",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Peach",
+    "hex": "#ecceb0",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Tangerine",
+    "hex": "#edc2ae",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Apricot",
+    "hex": "#f2c5a8",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Peach",
+    "hex": "#f6caa4",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Tangerine",
+    "hex": "#f2c0a8",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 1",
+    "hex": "#febb9b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 2",
+    "hex": "#f6cea2",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 3",
+    "hex": "#face9e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 4",
+    "hex": "#fcd09b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 5",
+    "hex": "#f2b7a5",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 7",
+    "hex": "#efbca6",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 8",
+    "hex": "#f9b99c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 9",
+    "hex": "#f4bfa1",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 6",
+    "hex": "#f3cba2",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 10",
+    "hex": "#f5bc9e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 11",
+    "hex": "#f3ce9f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 12",
+    "hex": "#fba996",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 13",
+    "hex": "#f0c4a0",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 14",
+    "hex": "#f0b2a0",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 15",
+    "hex": "#fecf91",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 16",
+    "hex": "#f7bb96",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 17",
+    "hex": "#fdc88e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 18",
+    "hex": "#eeb39c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 19",
+    "hex": "#eeb69c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 20",
+    "hex": "#f8ae90",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 21",
+    "hex": "#f5b592",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 22",
+    "hex": "#fca189",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 23",
+    "hex": "#fdc688",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 24",
+    "hex": "#f5a890",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 25",
+    "hex": "#f0b094",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 26",
+    "hex": "#e8bc9a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 27",
+    "hex": "#edba94",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 28",
+    "hex": "#f4af8d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 29",
+    "hex": "#e7be9a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 30",
+    "hex": "#f4aa8c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 31",
+    "hex": "#f1bb8e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 32",
+    "hex": "#fac684",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 33",
+    "hex": "#edb591",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 34",
+    "hex": "#f5a386",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 35",
+    "hex": "#e6c294",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 36",
+    "hex": "#f2a388",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 37",
+    "hex": "#e6a694",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 38",
+    "hex": "#f1b088",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 39",
+    "hex": "#f0bc85",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 40",
+    "hex": "#eeb187",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 41",
+    "hex": "#e4b390",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 42",
+    "hex": "#f39d7d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 43",
+    "hex": "#e59c88",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 44",
+    "hex": "#f1997c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 45",
+    "hex": "#edbf7f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 46",
+    "hex": "#e9bb82",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 47",
+    "hex": "#efaa7b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 48",
+    "hex": "#e7aa82",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 50",
+    "hex": "#f19e78",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 49",
+    "hex": "#f6b172",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 51",
+    "hex": "#ef9679",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 52",
+    "hex": "#f3a674",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 54",
+    "hex": "#fcab6a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 53",
+    "hex": "#f7a46f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 55",
+    "hex": "#f1ab73",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 56",
+    "hex": "#f4aa70",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 57",
+    "hex": "#f8af6b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 58",
+    "hex": "#e4a77e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 59",
+    "hex": "#eb9276",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 60",
+    "hex": "#f6a36b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 61",
+    "hex": "#f3b16d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 62",
+    "hex": "#f2b46d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 63",
+    "hex": "#fd8862",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 64",
+    "hex": "#fea461",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 65",
+    "hex": "#f4896a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 66",
+    "hex": "#e49179",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 67",
+    "hex": "#e0aa7d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 68",
+    "hex": "#e5ac78",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 69",
+    "hex": "#ea9972",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 70",
+    "hex": "#f0a06a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 71",
+    "hex": "#fbb65e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 72",
+    "hex": "#ef9b6a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 74",
+    "hex": "#e69471",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 73",
+    "hex": "#eb8d6c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 75",
+    "hex": "#faae5d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 76",
+    "hex": "#f39863",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 77",
+    "hex": "#f4a361",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 78",
+    "hex": "#ed8468",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 80",
+    "hex": "#f2ae62",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 79",
+    "hex": "#eab269",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 81",
+    "hex": "#e19471",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 82",
+    "hex": "#ed9965",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 83",
+    "hex": "#e69a6b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 84",
+    "hex": "#fbad55",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 85",
+    "hex": "#f5a85a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 86",
+    "hex": "#e89066",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 87",
+    "hex": "#e49169",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 88",
+    "hex": "#f1b05c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 89",
+    "hex": "#e8aa64",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 90",
+    "hex": "#e6a565",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 91",
+    "hex": "#e2ad69",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 93",
+    "hex": "#ff8a4b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 92",
+    "hex": "#e19669",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 94",
+    "hex": "#e48065",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 95",
+    "hex": "#f6b152",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 96",
+    "hex": "#e2aa65",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 97",
+    "hex": "#e97d5c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 98",
+    "hex": "#fc7949",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 99",
+    "hex": "#e0a463",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 100",
+    "hex": "#fb9c47",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 101",
+    "hex": "#fb9246",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 102",
+    "hex": "#ffa040",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 103",
+    "hex": "#de945f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 104",
+    "hex": "#f56b47",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 105",
+    "hex": "#da9662",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 106",
+    "hex": "#df955a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 108",
+    "hex": "#db985d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 107",
+    "hex": "#f96b3e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 109",
+    "hex": "#e58251",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 110",
+    "hex": "#f17e44",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 111",
+    "hex": "#e6714e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 112",
+    "hex": "#ed6b46",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 113",
+    "hex": "#d79b5c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 114",
+    "hex": "#f87239",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 115",
+    "hex": "#d77a5a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 116",
+    "hex": "#e87748",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 117",
+    "hex": "#f88737",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 118",
+    "hex": "#d68d59",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 120",
+    "hex": "#dca151",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 119",
+    "hex": "#e57547",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 121",
+    "hex": "#e19a49",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 122",
+    "hex": "#d58354",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 123",
+    "hex": "#de954a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 127",
+    "hex": "#fd752a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 124",
+    "hex": "#df8e48",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 125",
+    "hex": "#e07946",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 126",
+    "hex": "#d7794f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 128",
+    "hex": "#d8794c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 129",
+    "hex": "#d57e4e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 130",
+    "hex": "#e17341",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 131",
+    "hex": "#f7872a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 132",
+    "hex": "#fc7525",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 133",
+    "hex": "#dc7144",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 134",
+    "hex": "#f5592b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 135",
+    "hex": "#d77d48",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 136",
+    "hex": "#e97836",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 137",
+    "hex": "#f37a2c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 138",
+    "hex": "#fd9422",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 139",
+    "hex": "#fd6c21",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 140",
+    "hex": "#dd7e41",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 141",
+    "hex": "#f77926",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 143",
+    "hex": "#e97333",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 142",
+    "hex": "#fc981f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 144",
+    "hex": "#fd981e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 145",
+    "hex": "#e77233",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 146",
+    "hex": "#d79442",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 147",
+    "hex": "#d69142",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 148",
+    "hex": "#ec5e2b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 149",
+    "hex": "#d85b3d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 150",
+    "hex": "#d68d3d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 151",
+    "hex": "#ec6526",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 152",
+    "hex": "#fb8117",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 153",
+    "hex": "#d37b3e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 154",
+    "hex": "#df9431",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 155",
+    "hex": "#d68f3a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 156",
+    "hex": "#d86238",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 157",
+    "hex": "#fa9116",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 158",
+    "hex": "#d2823d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 159",
+    "hex": "#fa7f15",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 160",
+    "hex": "#f69919",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 161",
+    "hex": "#fb4c14",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 162",
+    "hex": "#dc7932",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 163",
+    "hex": "#f08b1d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 165",
+    "hex": "#fa6413",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 164",
+    "hex": "#d47338",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 166",
+    "hex": "#f16e1b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 167",
+    "hex": "#e78e24",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 168",
+    "hex": "#f86c13",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 169",
+    "hex": "#ef641c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 170",
+    "hex": "#f79114",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 172",
+    "hex": "#dd5b2d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 171",
+    "hex": "#db612e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 173",
+    "hex": "#ee871a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 176",
+    "hex": "#e76021",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 174",
+    "hex": "#e25f26",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 175",
+    "hex": "#e08a28",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 177",
+    "hex": "#e08f26",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 180",
+    "hex": "#fc9609",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 178",
+    "hex": "#ce6537",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 179",
+    "hex": "#f07e14",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 181",
+    "hex": "#de5726",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 182",
+    "hex": "#d38231",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 184",
+    "hex": "#e27422",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 183",
+    "hex": "#e36420",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 185",
+    "hex": "#d17e31",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 186",
+    "hex": "#d66d2c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 187",
+    "hex": "#d05e30",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 188",
+    "hex": "#e74119",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 189",
+    "hex": "#fa6d05",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 190",
+    "hex": "#f3490b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 191",
+    "hex": "#f2740a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 192",
+    "hex": "#ec370a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 193",
+    "hex": "#f24703",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 194",
+    "hex": "#f07401",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 195",
+    "hex": "#cc5123",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 196",
+    "hex": "#c1732c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 197",
+    "hex": "#bc702d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 198",
+    "hex": "#cf5b19",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 199",
+    "hex": "#cb5f1c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 200",
+    "hex": "#ce6e18",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 201",
+    "hex": "#bd4729",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 204",
+    "hex": "#dc760a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 202",
+    "hex": "#c24a24",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 203",
+    "hex": "#da6a0c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 205",
+    "hex": "#df6406",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 207",
+    "hex": "#c7651e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 208",
+    "hex": "#d45911",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 206",
+    "hex": "#d17014",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 209",
+    "hex": "#da360a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 210",
+    "hex": "#da3609",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 211",
+    "hex": "#cd5715",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 212",
+    "hex": "#d77f08",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 213",
+    "hex": "#c85316",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 214",
+    "hex": "#d0580e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 215",
+    "hex": "#be5f1f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 217",
+    "hex": "#b86225",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 218",
+    "hex": "#b55928",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 216",
+    "hex": "#c23b1b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 219",
+    "hex": "#b77625",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 220",
+    "hex": "#c27119",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 222",
+    "hex": "#d56404",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 221",
+    "hex": "#d15708",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 223",
+    "hex": "#d15207",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 224",
+    "hex": "#c9600f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 225",
+    "hex": "#ae6329",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 226",
+    "hex": "#c37111",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 227",
+    "hex": "#c16f12",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 228",
+    "hex": "#c35a0f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 229",
+    "hex": "#ab5e27",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 230",
+    "hex": "#b8481a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 231",
+    "hex": "#a85028",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 232",
+    "hex": "#b74718",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 233",
+    "hex": "#b0491f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 234",
+    "hex": "#c4530a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 235",
+    "hex": "#c74105",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 236",
+    "hex": "#a55e27",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 238",
+    "hex": "#bc680f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 237",
+    "hex": "#b1491a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 239",
+    "hex": "#b63b12",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 240",
+    "hex": "#c53103",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 241",
+    "hex": "#c54402",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 242",
+    "hex": "#bc600a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 243",
+    "hex": "#a65d20",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 244",
+    "hex": "#a63b20",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 245",
+    "hex": "#bd3908",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 246",
+    "hex": "#a35322",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 247",
+    "hex": "#a9471c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 248",
+    "hex": "#a16223",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 249",
+    "hex": "#ba440a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 251",
+    "hex": "#a66c1d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 250",
+    "hex": "#a05123",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 252",
+    "hex": "#ad6015",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 253",
+    "hex": "#bb4d06",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 254",
+    "hex": "#9f4221",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 255",
+    "hex": "#b04a10",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 256",
+    "hex": "#b06310",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 257",
+    "hex": "#b93206",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 258",
+    "hex": "#be5901",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 259",
+    "hex": "#9e4d21",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 260",
+    "hex": "#ac2d10",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 261",
+    "hex": "#a74d14",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 262",
+    "hex": "#976224",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 263",
+    "hex": "#a55215",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 264",
+    "hex": "#a86112",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 265",
+    "hex": "#af4108",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 267",
+    "hex": "#a72f0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 266",
+    "hex": "#99341c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 268",
+    "hex": "#9e3e16",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 269",
+    "hex": "#99481b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 271",
+    "hex": "#ad2706",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 270",
+    "hex": "#b36500",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 272",
+    "hex": "#98601b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 274",
+    "hex": "#9c5715",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 273",
+    "hex": "#97371a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 275",
+    "hex": "#b02c01",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 276",
+    "hex": "#ad4303",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 277",
+    "hex": "#95371b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 278",
+    "hex": "#9f300f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 279",
+    "hex": "#993b14",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 281",
+    "hex": "#8d551e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 284",
+    "hex": "#8d451e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 285",
+    "hex": "#a75b04",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 280",
+    "hex": "#9b5d10",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 282",
+    "hex": "#9b5e10",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 283",
+    "hex": "#933117",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 286",
+    "hex": "#a43905",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 287",
+    "hex": "#884e20",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 288",
+    "hex": "#964511",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 289",
+    "hex": "#944f13",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 290",
+    "hex": "#88561e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 291",
+    "hex": "#8e5a16",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 292",
+    "hex": "#8c5818",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 293",
+    "hex": "#a15401",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 294",
+    "hex": "#83401f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 295",
+    "hex": "#87331b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 296",
+    "hex": "#953e0b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 297",
+    "hex": "#8c4414",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 298",
+    "hex": "#7f3d1f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 301",
+    "hex": "#853814",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 299",
+    "hex": "#935106",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 300",
+    "hex": "#873412",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 302",
+    "hex": "#7d401c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 303",
+    "hex": "#965202",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 304",
+    "hex": "#953603",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 305",
+    "hex": "#823816",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 307",
+    "hex": "#854112",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 308",
+    "hex": "#884a0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 306",
+    "hex": "#8b2b0b",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 310",
+    "hex": "#7e3317",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 311",
+    "hex": "#874b0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 312",
+    "hex": "#8f2606",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 313",
+    "hex": "#8c4009",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 309",
+    "hex": "#794f1c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 314",
+    "hex": "#8d3a06",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 315",
+    "hex": "#7e5215",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 316",
+    "hex": "#904803",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 317",
+    "hex": "#83300f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 319",
+    "hex": "#842b0d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 318",
+    "hex": "#8d4004",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 320",
+    "hex": "#813b0f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 321",
+    "hex": "#7f440f",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 322",
+    "hex": "#73361a",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 324",
+    "hex": "#803b0c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 323",
+    "hex": "#722e19",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 325",
+    "hex": "#734416",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 326",
+    "hex": "#752e11",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 327",
+    "hex": "#7c4b09",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 328",
+    "hex": "#814804",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 330",
+    "hex": "#6e3916",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 329",
+    "hex": "#734310",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 331",
+    "hex": "#77320c",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 332",
+    "hex": "#7c3206",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 333",
+    "hex": "#793008",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 334",
+    "hex": "#7c4505",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange 335",
+    "hex": "#73340c",
+    "category": "Orange"
+  }
+]

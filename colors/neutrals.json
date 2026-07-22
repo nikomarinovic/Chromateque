@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Cold Snow",
+    "hex": "#f3f5f4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Fog",
+    "hex": "#f5f2f3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Snow",
+    "hex": "#f2f4f5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Steel",
+    "hex": "#f3f4f1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Pearl",
+    "hex": "#f3f1f2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Snow",
+    "hex": "#eff2f2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Graphite",
+    "hex": "#f0f0f0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Graphite",
+    "hex": "#f1eff1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Slate",
+    "hex": "#eff0ef",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Charcoal",
+    "hex": "#efefee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Pearl",
+    "hex": "#edf0ee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Charcoal",
+    "hex": "#eeeeee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Mist",
+    "hex": "#eceeee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Pearl",
+    "hex": "#edebee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Shadow",
+    "hex": "#ebecee",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Pearl",
+    "hex": "#ebeeea",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Carbon",
+    "hex": "#e9ede9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Ash",
+    "hex": "#eaeaeb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Bone",
+    "hex": "#e9e9ea",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Silver",
+    "hex": "#e8e9e9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Pearl",
+    "hex": "#e7eae8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Steel",
+    "hex": "#e8e8e8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Mist",
+    "hex": "#e5e4ea",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Obsidian",
+    "hex": "#e9e7e5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Ivory",
+    "hex": "#e6e6e6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Smoke",
+    "hex": "#e2e7e4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Mist",
+    "hex": "#e5e3e4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Stone",
+    "hex": "#e4e2e3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Shadow",
+    "hex": "#e2e5e0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Snow",
+    "hex": "#e4e0e4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Graphite",
+    "hex": "#e2e2e2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Ash",
+    "hex": "#e1e3e0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Smoke",
+    "hex": "#e5dee3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Obsidian",
+    "hex": "#dfe3e4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Carbon",
+    "hex": "#e2e0e0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Cloud",
+    "hex": "#dfdfe2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Stone",
+    "hex": "#dddee4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Mist",
+    "hex": "#e0e0df",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Steel",
+    "hex": "#dfdfe0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Slate",
+    "hex": "#e0dde1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Cloud",
+    "hex": "#dfdedf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Mist",
+    "hex": "#e0dae2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Graphite",
+    "hex": "#dfdedd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Silver",
+    "hex": "#e0dbdb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Fog",
+    "hex": "#e0dadd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Silver",
+    "hex": "#dedade",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Stone",
+    "hex": "#dad9de",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Stone",
+    "hex": "#d7dade",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Ivory",
+    "hex": "#d5dcdc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Ivory",
+    "hex": "#d8d9d9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Carbon",
+    "hex": "#d9d8d9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Carbon",
+    "hex": "#d5d9d7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Fog",
+    "hex": "#d8dad4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Ivory",
+    "hex": "#d5d5d8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Obsidian",
+    "hex": "#dad9d3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Silver",
+    "hex": "#d3d9d9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Pearl",
+    "hex": "#d6d4d4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Ash",
+    "hex": "#d5d3d6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Pearl",
+    "hex": "#d8d0d6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Graphite",
+    "hex": "#d2d1d6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Smoke",
+    "hex": "#cfd7d3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Cloud",
+    "hex": "#d2d3d1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Bone",
+    "hex": "#d6d2ce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Ivory",
+    "hex": "#d5cfd4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Stone",
+    "hex": "#d1d2d1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Silver",
+    "hex": "#cdced4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Graphite",
+    "hex": "#d0d1ce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Snow",
+    "hex": "#cfcfce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Obsidian",
+    "hex": "#cfd2cb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Ash",
+    "hex": "#c8ced4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Bone",
+    "hex": "#cac9d2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Stone",
+    "hex": "#d2cec8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Ash",
+    "hex": "#d3c7d3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Shadow",
+    "hex": "#cfd0ca",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Obsidian",
+    "hex": "#cecccc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Silver",
+    "hex": "#cdcccd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Silver",
+    "hex": "#cbccce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Bone",
+    "hex": "#cccccc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Bone",
+    "hex": "#c7d1cc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Mist",
+    "hex": "#c8cfce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Carbon",
+    "hex": "#caccca",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Pearl",
+    "hex": "#c5d1ca",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Snow",
+    "hex": "#c8d0c6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Steel",
+    "hex": "#c6d0c7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Steel",
+    "hex": "#c7ccce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Ivory",
+    "hex": "#ccc7ce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Mist",
+    "hex": "#cacfc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Snow",
+    "hex": "#cacacb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Pearl",
+    "hex": "#c7cdcd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Obsidian",
+    "hex": "#cbcec6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Ivory",
+    "hex": "#c8cec6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Fog",
+    "hex": "#ccc8c2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Shadow",
+    "hex": "#c9c2cc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Fog",
+    "hex": "#c7c6c7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Silver",
+    "hex": "#c9c4c8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Steel",
+    "hex": "#c9c7c4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Cloud",
+    "hex": "#c3c6c9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Slate",
+    "hex": "#c4c7c6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Bone",
+    "hex": "#c8cbc0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Pearl",
+    "hex": "#c8c8c2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Ash",
+    "hex": "#c3bfc8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Shadow",
+    "hex": "#c7c0c4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Stone",
+    "hex": "#c1c6c3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Ash",
+    "hex": "#c2bbc8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Snow",
+    "hex": "#c0c3bf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Silver",
+    "hex": "#c6c3bc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Charcoal",
+    "hex": "#c4c6bb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Ash",
+    "hex": "#bebdbf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Carbon",
+    "hex": "#bbbec1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Fog",
+    "hex": "#bfbfbd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Shadow",
+    "hex": "#bdbcbf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Smoke",
+    "hex": "#c1bfb9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Obsidian",
+    "hex": "#b6c3c4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Cloud",
+    "hex": "#c1c1b9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Smoke",
+    "hex": "#c3b7bf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Fog",
+    "hex": "#b7c1b8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Fog",
+    "hex": "#b9bebe",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Stone",
+    "hex": "#bbbbbb",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Slate",
+    "hex": "#b9bcbc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Graphite",
+    "hex": "#b5c0b5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Charcoal",
+    "hex": "#bab9b9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Slate",
+    "hex": "#b1c1c1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Smoke",
+    "hex": "#b2bec0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Cloud",
+    "hex": "#bcbbb4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Smoke",
+    "hex": "#bbbab5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Shadow",
+    "hex": "#bfb7b1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Obsidian",
+    "hex": "#b8bbb4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Carbon",
+    "hex": "#bbbab1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Charcoal",
+    "hex": "#b6bcae",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Slate",
+    "hex": "#b5b9b1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Ash",
+    "hex": "#afb6ba",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Ash",
+    "hex": "#afb1b9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Smoke",
+    "hex": "#b0b6b5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Slate",
+    "hex": "#acb8af",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Cloud",
+    "hex": "#baabaa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Smoke",
+    "hex": "#aeb6b3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Carbon",
+    "hex": "#adb4ae",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Ivory",
+    "hex": "#b0b6aa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Snow",
+    "hex": "#b9b8a7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Steel",
+    "hex": "#a4aeb7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Graphite",
+    "hex": "#a4b4ae",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Silver",
+    "hex": "#a6aeb0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Mist",
+    "hex": "#aca8ad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Steel",
+    "hex": "#a0b4ab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Graphite",
+    "hex": "#acada7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Obsidian",
+    "hex": "#a9aaab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Cloud",
+    "hex": "#a1a0b3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Cloud",
+    "hex": "#aeada4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Cloud",
+    "hex": "#a0b0b1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Obsidian",
+    "hex": "#a1aeb0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Fog",
+    "hex": "#aca3ad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Smoke",
+    "hex": "#a8aaa4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Shadow",
+    "hex": "#a8a5a8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Ivory",
+    "hex": "#a3b09d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Slate",
+    "hex": "#aaa3aa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Shadow",
+    "hex": "#a6a6a6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Bone",
+    "hex": "#a2a2aa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Stone",
+    "hex": "#a1a7ab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Slate",
+    "hex": "#a1a5a9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Bone",
+    "hex": "#a0aaa8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Shadow",
+    "hex": "#9dacab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Steel",
+    "hex": "#aa9fa5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Bone",
+    "hex": "#a4a4a4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Steel",
+    "hex": "#9caca6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Carbon",
+    "hex": "#a6a4a1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Charcoal",
+    "hex": "#98acad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Snow",
+    "hex": "#989bad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Charcoal",
+    "hex": "#a1a3a3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Charcoal",
+    "hex": "#99a0aa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Mist",
+    "hex": "#a09ca7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Charcoal",
+    "hex": "#a9ac97",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Stone",
+    "hex": "#a49e9e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Slate",
+    "hex": "#9995aa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Mist",
+    "hex": "#9e9ea0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Graphite",
+    "hex": "#a094a8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Carbon",
+    "hex": "#9f9e9d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Ivory",
+    "hex": "#9d9e9d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Fog",
+    "hex": "#9997a3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Charcoal",
+    "hex": "#93a5a6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Bone",
+    "hex": "#95a398",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 1",
+    "hex": "#979ca1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 2",
+    "hex": "#a59294",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 3",
+    "hex": "#9099a6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 4",
+    "hex": "#9e9796",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 5",
+    "hex": "#989e96",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 6",
+    "hex": "#9c989b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 7",
+    "hex": "#999c97",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 8",
+    "hex": "#969e94",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 9",
+    "hex": "#979b98",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 10",
+    "hex": "#96a190",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 11",
+    "hex": "#919f93",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 12",
+    "hex": "#939e90",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 13",
+    "hex": "#918ba3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 14",
+    "hex": "#93999a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 15",
+    "hex": "#9d998f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 16",
+    "hex": "#988e9e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 17",
+    "hex": "#8b9f8f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 18",
+    "hex": "#9b9a8d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 19",
+    "hex": "#8c899f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 20",
+    "hex": "#9e889e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 21",
+    "hex": "#988d8f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 22",
+    "hex": "#96908d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 23",
+    "hex": "#95988a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 24",
+    "hex": "#8a8f98",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 25",
+    "hex": "#948e90",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 26",
+    "hex": "#938d92",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 27",
+    "hex": "#8e8e8e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 28",
+    "hex": "#818d9b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 29",
+    "hex": "#8f8d8f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 30",
+    "hex": "#988884",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 31",
+    "hex": "#859487",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 32",
+    "hex": "#988e80",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 33",
+    "hex": "#98987f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 34",
+    "hex": "#848e92",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 35",
+    "hex": "#878c8b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 36",
+    "hex": "#86888c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 37",
+    "hex": "#7e928e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 38",
+    "hex": "#7f9186",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 39",
+    "hex": "#838c8b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 40",
+    "hex": "#808e8e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 41",
+    "hex": "#878a84",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 42",
+    "hex": "#8c8b81",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 43",
+    "hex": "#7f838e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 44",
+    "hex": "#8a828a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 46",
+    "hex": "#7d8e87",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 45",
+    "hex": "#80858b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 47",
+    "hex": "#878188",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 48",
+    "hex": "#8a8e7a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 51",
+    "hex": "#8c7c83",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 49",
+    "hex": "#918377",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 50",
+    "hex": "#91767e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 52",
+    "hex": "#829275",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 53",
+    "hex": "#7d888a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 54",
+    "hex": "#7d8780",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 55",
+    "hex": "#838183",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 56",
+    "hex": "#81817f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 57",
+    "hex": "#74718f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 58",
+    "hex": "#888c72",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 59",
+    "hex": "#7f807e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 60",
+    "hex": "#7c7e82",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 61",
+    "hex": "#8b7283",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 62",
+    "hex": "#798c70",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 64",
+    "hex": "#7a8177",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 63",
+    "hex": "#837975",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 65",
+    "hex": "#737383",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 66",
+    "hex": "#748470",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 67",
+    "hex": "#866e70",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 68",
+    "hex": "#816b88",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 69",
+    "hex": "#7e7370",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 70",
+    "hex": "#767776",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 71",
+    "hex": "#6f767e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 72",
+    "hex": "#787376",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 73",
+    "hex": "#6f6d7d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 74",
+    "hex": "#7a6f70",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 77",
+    "hex": "#766a7e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 75",
+    "hex": "#737770",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 76",
+    "hex": "#717770",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 78",
+    "hex": "#77687d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 79",
+    "hex": "#716d78",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 80",
+    "hex": "#766e74",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 81",
+    "hex": "#6a7876",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 82",
+    "hex": "#697973",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 83",
+    "hex": "#6c6f75",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 84",
+    "hex": "#7d6376",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 85",
+    "hex": "#746b75",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 86",
+    "hex": "#747a65",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 87",
+    "hex": "#756969",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 88",
+    "hex": "#656a79",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 90",
+    "hex": "#647976",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 89",
+    "hex": "#736e69",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 91",
+    "hex": "#6e6e6e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 92",
+    "hex": "#746e63",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 93",
+    "hex": "#636471",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 94",
+    "hex": "#5e7474",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 95",
+    "hex": "#6f6367",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 96",
+    "hex": "#6c6965",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 97",
+    "hex": "#686868",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 98",
+    "hex": "#5f5c72",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 99",
+    "hex": "#666567",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 100",
+    "hex": "#67606b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 101",
+    "hex": "#646566",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 102",
+    "hex": "#696a5f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 103",
+    "hex": "#626563",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 104",
+    "hex": "#6c5b64",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 105",
+    "hex": "#656163",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 106",
+    "hex": "#606561",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 107",
+    "hex": "#596b59",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 108",
+    "hex": "#6b6359",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 109",
+    "hex": "#6c6755",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 110",
+    "hex": "#6a555c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 111",
+    "hex": "#696a54",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 112",
+    "hex": "#5e6457",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 114",
+    "hex": "#5e5b5e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 113",
+    "hex": "#5c5c5d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 115",
+    "hex": "#5c5c5b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 117",
+    "hex": "#5f565c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 118",
+    "hex": "#5f5956",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 116",
+    "hex": "#5d585a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 119",
+    "hex": "#5e555c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 120",
+    "hex": "#56575b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 121",
+    "hex": "#605056",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 122",
+    "hex": "#56525c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 123",
+    "hex": "#534f5c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 124",
+    "hex": "#5b4d52",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 125",
+    "hex": "#5d564a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 126",
+    "hex": "#545353",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 127",
+    "hex": "#574f4f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 128",
+    "hex": "#4f564c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 129",
+    "hex": "#5a4f48",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 130",
+    "hex": "#485947",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 131",
+    "hex": "#4c4f52",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 132",
+    "hex": "#4c4c51",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 133",
+    "hex": "#4d4c4e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 134",
+    "hex": "#444455",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 135",
+    "hex": "#485050",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 136",
+    "hex": "#434c50",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 138",
+    "hex": "#484b48",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 137",
+    "hex": "#4a4a48",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 139",
+    "hex": "#48494a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 140",
+    "hex": "#484b47",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 141",
+    "hex": "#4c454b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 142",
+    "hex": "#47494a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 143",
+    "hex": "#424d46",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 144",
+    "hex": "#454641",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 145",
+    "hex": "#444342",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 146",
+    "hex": "#4b403b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 147",
+    "hex": "#3d4843",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 149",
+    "hex": "#3b4947",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 148",
+    "hex": "#443f42",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 150",
+    "hex": "#414839",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 151",
+    "hex": "#473a40",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 152",
+    "hex": "#3f3c41",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 153",
+    "hex": "#384438",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 155",
+    "hex": "#39423f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 154",
+    "hex": "#3f3c3b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 156",
+    "hex": "#3e3c3e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 157",
+    "hex": "#423741",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 158",
+    "hex": "#413640",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 160",
+    "hex": "#3f3837",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 161",
+    "hex": "#383c3e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 159",
+    "hex": "#3a3441",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 162",
+    "hex": "#333741",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 163",
+    "hex": "#3a3a3a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 164",
+    "hex": "#3d3638",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 165",
+    "hex": "#3a3a39",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 166",
+    "hex": "#3d3639",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 167",
+    "hex": "#393937",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 168",
+    "hex": "#36393a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 169",
+    "hex": "#373239",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 171",
+    "hex": "#30333a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 170",
+    "hex": "#363237",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 172",
+    "hex": "#313831",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 173",
+    "hex": "#303935",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 174",
+    "hex": "#3a2e33",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 175",
+    "hex": "#333333",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 176",
+    "hex": "#2c2d38",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 177",
+    "hex": "#35372c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 178",
+    "hex": "#2c3633",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 179",
+    "hex": "#332e33",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 180",
+    "hex": "#2b362b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 181",
+    "hex": "#2e2f33",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 182",
+    "hex": "#312b34",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 183",
+    "hex": "#2a3035",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 184",
+    "hex": "#2e2f2d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 185",
+    "hex": "#302a2b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 187",
+    "hex": "#2f2831",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 186",
+    "hex": "#2b292f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 188",
+    "hex": "#282b27",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 189",
+    "hex": "#27242c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 190",
+    "hex": "#242a25",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 191",
+    "hex": "#252828",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 192",
+    "hex": "#292425",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 193",
+    "hex": "#272527",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 194",
+    "hex": "#262526",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 195",
+    "hex": "#242625",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 196",
+    "hex": "#252224",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 197",
+    "hex": "#242126",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 198",
+    "hex": "#232122",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 199",
+    "hex": "#222221",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 200",
+    "hex": "#241f1e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 201",
+    "hex": "#202120",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 202",
+    "hex": "#24211c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 203",
+    "hex": "#202020",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 204",
+    "hex": "#21211e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 205",
+    "hex": "#1d221e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 206",
+    "hex": "#1d211d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 207",
+    "hex": "#1c1e20",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 209",
+    "hex": "#1d1e1d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 208",
+    "hex": "#1d1d1d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 210",
+    "hex": "#1a1d1c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 211",
+    "hex": "#1d191a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 212",
+    "hex": "#191c19",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 213",
+    "hex": "#171d1e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 214",
+    "hex": "#1b1c17",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 215",
+    "hex": "#15181a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 216",
+    "hex": "#151515",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 217",
+    "hex": "#161614",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 218",
+    "hex": "#131713",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 219",
+    "hex": "#141316",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutrals 220",
+    "hex": "#161314",
+    "category": "Neutrals"
+  }
+]

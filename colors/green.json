@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Wild Moss",
+    "hex": "#d6f5e0",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Forest",
+    "hex": "#ebf9d2",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Moss",
+    "hex": "#d6fbd0",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Mint",
+    "hex": "#ebf2d9",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Sage",
+    "hex": "#eef4d6",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Jade",
+    "hex": "#d6f4e6",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Fern",
+    "hex": "#cefcce",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Olive",
+    "hex": "#d1f8dc",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Olive",
+    "hex": "#d0f7e6",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Emerald",
+    "hex": "#d0f7e4",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Olive",
+    "hex": "#d6f6cc",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Olive",
+    "hex": "#ddf8ca",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Sage",
+    "hex": "#c7fbd6",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Olive",
+    "hex": "#caf7cc",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Sage",
+    "hex": "#e1f0d1",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Pine",
+    "hex": "#e2f4cb",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Fern",
+    "hex": "#d1eed8",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Leaf",
+    "hex": "#cdf2e5",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Pine",
+    "hex": "#cbf4d5",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Mint",
+    "hex": "#c5f8e4",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Pine",
+    "hex": "#c6f5ce",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Pine",
+    "hex": "#d2edcd",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Sage",
+    "hex": "#c0facb",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Emerald",
+    "hex": "#e7f2c7",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Leaf",
+    "hex": "#cafeba",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Jade",
+    "hex": "#c7f4c4",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Leaf",
+    "hex": "#baffb9",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Forest",
+    "hex": "#bdf9e5",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Forest",
+    "hex": "#e9f4c2",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Pine",
+    "hex": "#cef0c6",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Fern",
+    "hex": "#d2ebca",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Forest",
+    "hex": "#c0f2cd",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Moss",
+    "hex": "#e2f6b9",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Jade",
+    "hex": "#c5feb0",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Sage",
+    "hex": "#dde9c5",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Fern",
+    "hex": "#b5f8d0",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Emerald",
+    "hex": "#e0f1ba",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Emerald",
+    "hex": "#e3feab",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Jade",
+    "hex": "#cee8c0",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Sage",
+    "hex": "#abfcbd",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Forest",
+    "hex": "#caf7b0",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Pine",
+    "hex": "#b5f2dd",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Leaf",
+    "hex": "#abfcc9",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Moss",
+    "hex": "#e5f1b5",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Mint",
+    "hex": "#baebc6",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Mint",
+    "hex": "#b0f5c2",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Mint",
+    "hex": "#bee7bf",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Moss",
+    "hex": "#bbf5af",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Jade",
+    "hex": "#c4edb6",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Moss",
+    "hex": "#b6eac9",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Jade",
+    "hex": "#b9e6d4",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Leaf",
+    "hex": "#cef1ac",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Mint",
+    "hex": "#b2f1ab",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Olive",
+    "hex": "#d4e7b5",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Fern",
+    "hex": "#b2fc9f",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Emerald",
+    "hex": "#bdf3a8",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Forest",
+    "hex": "#aff3a7",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Fern",
+    "hex": "#9cfac7",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Emerald",
+    "hex": "#afe7b4",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Leaf",
+    "hex": "#9df8c2",
+    "category": "Green"
+  },
+  {
+    "name": "Green 1",
+    "hex": "#c3e5b0",
+    "category": "Green"
+  },
+  {
+    "name": "Green 2",
+    "hex": "#befa97",
+    "category": "Green"
+  },
+  {
+    "name": "Green 3",
+    "hex": "#d6f39e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 4",
+    "hex": "#c1e7a8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 5",
+    "hex": "#bbe1ae",
+    "category": "Green"
+  },
+  {
+    "name": "Green 6",
+    "hex": "#d0eda1",
+    "category": "Green"
+  },
+  {
+    "name": "Green 7",
+    "hex": "#a3e9af",
+    "category": "Green"
+  },
+  {
+    "name": "Green 8",
+    "hex": "#c2e5a6",
+    "category": "Green"
+  },
+  {
+    "name": "Green 9",
+    "hex": "#96f4c4",
+    "category": "Green"
+  },
+  {
+    "name": "Green 10",
+    "hex": "#9af0a3",
+    "category": "Green"
+  },
+  {
+    "name": "Green 11",
+    "hex": "#c8e1a8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 12",
+    "hex": "#90f9b8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 13",
+    "hex": "#9cecb7",
+    "category": "Green"
+  },
+  {
+    "name": "Green 15",
+    "hex": "#a6e0b8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 14",
+    "hex": "#91f4a1",
+    "category": "Green"
+  },
+  {
+    "name": "Green 16",
+    "hex": "#a5e0bc",
+    "category": "Green"
+  },
+  {
+    "name": "Green 17",
+    "hex": "#d4f590",
+    "category": "Green"
+  },
+  {
+    "name": "Green 19",
+    "hex": "#93f2cd",
+    "category": "Green"
+  },
+  {
+    "name": "Green 18",
+    "hex": "#a6e59f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 20",
+    "hex": "#b4f58f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 22",
+    "hex": "#d7fe85",
+    "category": "Green"
+  },
+  {
+    "name": "Green 21",
+    "hex": "#d1f68c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 23",
+    "hex": "#cff191",
+    "category": "Green"
+  },
+  {
+    "name": "Green 24",
+    "hex": "#94eec8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 25",
+    "hex": "#d0ec93",
+    "category": "Green"
+  },
+  {
+    "name": "Green 26",
+    "hex": "#ddef8f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 27",
+    "hex": "#89f3cf",
+    "category": "Green"
+  },
+  {
+    "name": "Green 28",
+    "hex": "#deee8e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 29",
+    "hex": "#9ae0ab",
+    "category": "Green"
+  },
+  {
+    "name": "Green 30",
+    "hex": "#b2ea8f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 31",
+    "hex": "#b7e88f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 32",
+    "hex": "#cade98",
+    "category": "Green"
+  },
+  {
+    "name": "Green 33",
+    "hex": "#85f1c3",
+    "category": "Green"
+  },
+  {
+    "name": "Green 34",
+    "hex": "#98df96",
+    "category": "Green"
+  },
+  {
+    "name": "Green 35",
+    "hex": "#91e4b3",
+    "category": "Green"
+  },
+  {
+    "name": "Green 36",
+    "hex": "#d9f481",
+    "category": "Green"
+  },
+  {
+    "name": "Green 37",
+    "hex": "#b5f87d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 38",
+    "hex": "#bdf480",
+    "category": "Green"
+  },
+  {
+    "name": "Green 39",
+    "hex": "#85ef87",
+    "category": "Green"
+  },
+  {
+    "name": "Green 40",
+    "hex": "#82f094",
+    "category": "Green"
+  },
+  {
+    "name": "Green 41",
+    "hex": "#a9fe74",
+    "category": "Green"
+  },
+  {
+    "name": "Green 42",
+    "hex": "#baf47b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 43",
+    "hex": "#87f877",
+    "category": "Green"
+  },
+  {
+    "name": "Green 44",
+    "hex": "#93ff70",
+    "category": "Green"
+  },
+  {
+    "name": "Green 45",
+    "hex": "#9ae985",
+    "category": "Green"
+  },
+  {
+    "name": "Green 46",
+    "hex": "#abe18c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 47",
+    "hex": "#80ec82",
+    "category": "Green"
+  },
+  {
+    "name": "Green 48",
+    "hex": "#8fee7d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 49",
+    "hex": "#a4dc8f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 52",
+    "hex": "#72f89f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 50",
+    "hex": "#b6e882",
+    "category": "Green"
+  },
+  {
+    "name": "Green 51",
+    "hex": "#71f9c0",
+    "category": "Green"
+  },
+  {
+    "name": "Green 53",
+    "hex": "#cffa6f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 55",
+    "hex": "#67fec0",
+    "category": "Green"
+  },
+  {
+    "name": "Green 54",
+    "hex": "#8ada9d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 56",
+    "hex": "#69fb87",
+    "category": "Green"
+  },
+  {
+    "name": "Green 57",
+    "hex": "#70f3b5",
+    "category": "Green"
+  },
+  {
+    "name": "Green 58",
+    "hex": "#74eea3",
+    "category": "Green"
+  },
+  {
+    "name": "Green 59",
+    "hex": "#a7f072",
+    "category": "Green"
+  },
+  {
+    "name": "Green 60",
+    "hex": "#75ecc2",
+    "category": "Green"
+  },
+  {
+    "name": "Green 61",
+    "hex": "#6ff296",
+    "category": "Green"
+  },
+  {
+    "name": "Green 62",
+    "hex": "#74f06f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 63",
+    "hex": "#dbf865",
+    "category": "Green"
+  },
+  {
+    "name": "Green 64",
+    "hex": "#bedb81",
+    "category": "Green"
+  },
+  {
+    "name": "Green 65",
+    "hex": "#78e48a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 66",
+    "hex": "#6fecb9",
+    "category": "Green"
+  },
+  {
+    "name": "Green 67",
+    "hex": "#cdf368",
+    "category": "Green"
+  },
+  {
+    "name": "Green 68",
+    "hex": "#60fba9",
+    "category": "Green"
+  },
+  {
+    "name": "Green 69",
+    "hex": "#83d887",
+    "category": "Green"
+  },
+  {
+    "name": "Green 70",
+    "hex": "#99d684",
+    "category": "Green"
+  },
+  {
+    "name": "Green 71",
+    "hex": "#6ded97",
+    "category": "Green"
+  },
+  {
+    "name": "Green 72",
+    "hex": "#5bfe78",
+    "category": "Green"
+  },
+  {
+    "name": "Green 73",
+    "hex": "#76e18d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 74",
+    "hex": "#66f1aa",
+    "category": "Green"
+  },
+  {
+    "name": "Green 75",
+    "hex": "#afe175",
+    "category": "Green"
+  },
+  {
+    "name": "Green 76",
+    "hex": "#74e1bb",
+    "category": "Green"
+  },
+  {
+    "name": "Green 77",
+    "hex": "#a4d183",
+    "category": "Green"
+  },
+  {
+    "name": "Green 78",
+    "hex": "#acf160",
+    "category": "Green"
+  },
+  {
+    "name": "Green 79",
+    "hex": "#76dab8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 80",
+    "hex": "#81f45b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 81",
+    "hex": "#a4e06c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 82",
+    "hex": "#7ddc70",
+    "category": "Green"
+  },
+  {
+    "name": "Green 83",
+    "hex": "#6be0a8",
+    "category": "Green"
+  },
+  {
+    "name": "Green 85",
+    "hex": "#6cdeaf",
+    "category": "Green"
+  },
+  {
+    "name": "Green 84",
+    "hex": "#5feb7e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 86",
+    "hex": "#5af851",
+    "category": "Green"
+  },
+  {
+    "name": "Green 88",
+    "hex": "#70e960",
+    "category": "Green"
+  },
+  {
+    "name": "Green 87",
+    "hex": "#64e48d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 89",
+    "hex": "#4afd62",
+    "category": "Green"
+  },
+  {
+    "name": "Green 90",
+    "hex": "#bfe661",
+    "category": "Green"
+  },
+  {
+    "name": "Green 91",
+    "hex": "#96f84f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 92",
+    "hex": "#9cfe44",
+    "category": "Green"
+  },
+  {
+    "name": "Green 93",
+    "hex": "#aedc66",
+    "category": "Green"
+  },
+  {
+    "name": "Green 94",
+    "hex": "#50f27a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 95",
+    "hex": "#74f84a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 96",
+    "hex": "#7bcc73",
+    "category": "Green"
+  },
+  {
+    "name": "Green 97",
+    "hex": "#52ec52",
+    "category": "Green"
+  },
+  {
+    "name": "Green 98",
+    "hex": "#3ffe76",
+    "category": "Green"
+  },
+  {
+    "name": "Green 99",
+    "hex": "#cbe459",
+    "category": "Green"
+  },
+  {
+    "name": "Green 100",
+    "hex": "#71eb52",
+    "category": "Green"
+  },
+  {
+    "name": "Green 101",
+    "hex": "#66d774",
+    "category": "Green"
+  },
+  {
+    "name": "Green 102",
+    "hex": "#56e68e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 103",
+    "hex": "#6ece7e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 104",
+    "hex": "#5ddf60",
+    "category": "Green"
+  },
+  {
+    "name": "Green 105",
+    "hex": "#b4e851",
+    "category": "Green"
+  },
+  {
+    "name": "Green 106",
+    "hex": "#acde5b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 107",
+    "hex": "#83cd6c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 108",
+    "hex": "#60d89b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 109",
+    "hex": "#6cc994",
+    "category": "Green"
+  },
+  {
+    "name": "Green 110",
+    "hex": "#4ee376",
+    "category": "Green"
+  },
+  {
+    "name": "Green 111",
+    "hex": "#66caa7",
+    "category": "Green"
+  },
+  {
+    "name": "Green 112",
+    "hex": "#65ca69",
+    "category": "Green"
+  },
+  {
+    "name": "Green 113",
+    "hex": "#4de288",
+    "category": "Green"
+  },
+  {
+    "name": "Green 114",
+    "hex": "#84e449",
+    "category": "Green"
+  },
+  {
+    "name": "Green 115",
+    "hex": "#60cc7c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 116",
+    "hex": "#6bce5e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 120",
+    "hex": "#52d991",
+    "category": "Green"
+  },
+  {
+    "name": "Green 117",
+    "hex": "#84e249",
+    "category": "Green"
+  },
+  {
+    "name": "Green 119",
+    "hex": "#9df338",
+    "category": "Green"
+  },
+  {
+    "name": "Green 118",
+    "hex": "#5dcda4",
+    "category": "Green"
+  },
+  {
+    "name": "Green 121",
+    "hex": "#43e774",
+    "category": "Green"
+  },
+  {
+    "name": "Green 123",
+    "hex": "#33f649",
+    "category": "Green"
+  },
+  {
+    "name": "Green 124",
+    "hex": "#2bfeb7",
+    "category": "Green"
+  },
+  {
+    "name": "Green 122",
+    "hex": "#79e247",
+    "category": "Green"
+  },
+  {
+    "name": "Green 125",
+    "hex": "#a1f237",
+    "category": "Green"
+  },
+  {
+    "name": "Green 126",
+    "hex": "#4edb81",
+    "category": "Green"
+  },
+  {
+    "name": "Green 128",
+    "hex": "#7bfd2b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 127",
+    "hex": "#38f137",
+    "category": "Green"
+  },
+  {
+    "name": "Green 129",
+    "hex": "#7dc461",
+    "category": "Green"
+  },
+  {
+    "name": "Green 131",
+    "hex": "#4ff332",
+    "category": "Green"
+  },
+  {
+    "name": "Green 130",
+    "hex": "#38ec95",
+    "category": "Green"
+  },
+  {
+    "name": "Green 132",
+    "hex": "#53ce65",
+    "category": "Green"
+  },
+  {
+    "name": "Green 133",
+    "hex": "#8dfc25",
+    "category": "Green"
+  },
+  {
+    "name": "Green 134",
+    "hex": "#47d9a0",
+    "category": "Green"
+  },
+  {
+    "name": "Green 135",
+    "hex": "#38e84b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 136",
+    "hex": "#86f728",
+    "category": "Green"
+  },
+  {
+    "name": "Green 137",
+    "hex": "#50ce96",
+    "category": "Green"
+  },
+  {
+    "name": "Green 138",
+    "hex": "#7af529",
+    "category": "Green"
+  },
+  {
+    "name": "Green 140",
+    "hex": "#c7e736",
+    "category": "Green"
+  },
+  {
+    "name": "Green 139",
+    "hex": "#82f725",
+    "category": "Green"
+  },
+  {
+    "name": "Green 141",
+    "hex": "#78c259",
+    "category": "Green"
+  },
+  {
+    "name": "Green 142",
+    "hex": "#a0d744",
+    "category": "Green"
+  },
+  {
+    "name": "Green 144",
+    "hex": "#1bffae",
+    "category": "Green"
+  },
+  {
+    "name": "Green 143",
+    "hex": "#8ceb2e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 145",
+    "hex": "#bbe433",
+    "category": "Green"
+  },
+  {
+    "name": "Green 146",
+    "hex": "#3ed97b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 147",
+    "hex": "#5ed442",
+    "category": "Green"
+  },
+  {
+    "name": "Green 148",
+    "hex": "#a4c155",
+    "category": "Green"
+  },
+  {
+    "name": "Green 149",
+    "hex": "#82cb4a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 150",
+    "hex": "#98dc38",
+    "category": "Green"
+  },
+  {
+    "name": "Green 151",
+    "hex": "#52c18e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 152",
+    "hex": "#bee52d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 153",
+    "hex": "#45cb7b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 154",
+    "hex": "#9dd43b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 155",
+    "hex": "#7de32b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 156",
+    "hex": "#6fc746",
+    "category": "Green"
+  },
+  {
+    "name": "Green 157",
+    "hex": "#0ffd57",
+    "category": "Green"
+  },
+  {
+    "name": "Green 158",
+    "hex": "#a7bd4e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 159",
+    "hex": "#17f46b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 160",
+    "hex": "#5fe920",
+    "category": "Green"
+  },
+  {
+    "name": "Green 161",
+    "hex": "#2dda62",
+    "category": "Green"
+  },
+  {
+    "name": "Green 162",
+    "hex": "#2dda79",
+    "category": "Green"
+  },
+  {
+    "name": "Green 164",
+    "hex": "#3adc2a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 165",
+    "hex": "#24e521",
+    "category": "Green"
+  },
+  {
+    "name": "Green 163",
+    "hex": "#41c560",
+    "category": "Green"
+  },
+  {
+    "name": "Green 166",
+    "hex": "#27df5d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 167",
+    "hex": "#36cf40",
+    "category": "Green"
+  },
+  {
+    "name": "Green 168",
+    "hex": "#11f377",
+    "category": "Green"
+  },
+  {
+    "name": "Green 169",
+    "hex": "#49dc27",
+    "category": "Green"
+  },
+  {
+    "name": "Green 170",
+    "hex": "#70c042",
+    "category": "Green"
+  },
+  {
+    "name": "Green 171",
+    "hex": "#1df110",
+    "category": "Green"
+  },
+  {
+    "name": "Green 172",
+    "hex": "#8eff02",
+    "category": "Green"
+  },
+  {
+    "name": "Green 173",
+    "hex": "#9ac839",
+    "category": "Green"
+  },
+  {
+    "name": "Green 174",
+    "hex": "#2bd54a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 175",
+    "hex": "#2ad430",
+    "category": "Green"
+  },
+  {
+    "name": "Green 176",
+    "hex": "#52de1f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 177",
+    "hex": "#3cd22b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 178",
+    "hex": "#29ed0e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 179",
+    "hex": "#3dbe3f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 181",
+    "hex": "#48ba41",
+    "category": "Green"
+  },
+  {
+    "name": "Green 182",
+    "hex": "#86c535",
+    "category": "Green"
+  },
+  {
+    "name": "Green 184",
+    "hex": "#0eec4b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 180",
+    "hex": "#afcb2f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 185",
+    "hex": "#9db643",
+    "category": "Green"
+  },
+  {
+    "name": "Green 183",
+    "hex": "#97f108",
+    "category": "Green"
+  },
+  {
+    "name": "Green 186",
+    "hex": "#07f033",
+    "category": "Green"
+  },
+  {
+    "name": "Green 187",
+    "hex": "#6ab641",
+    "category": "Green"
+  },
+  {
+    "name": "Green 189",
+    "hex": "#48de15",
+    "category": "Green"
+  },
+  {
+    "name": "Green 188",
+    "hex": "#4dd81b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 190",
+    "hex": "#82d51c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 191",
+    "hex": "#4eef01",
+    "category": "Green"
+  },
+  {
+    "name": "Green 192",
+    "hex": "#07e882",
+    "category": "Green"
+  },
+  {
+    "name": "Green 194",
+    "hex": "#35b95c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 193",
+    "hex": "#35e508",
+    "category": "Green"
+  },
+  {
+    "name": "Green 195",
+    "hex": "#7fad40",
+    "category": "Green"
+  },
+  {
+    "name": "Green 196",
+    "hex": "#25c47c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 197",
+    "hex": "#34b579",
+    "category": "Green"
+  },
+  {
+    "name": "Green 198",
+    "hex": "#38af67",
+    "category": "Green"
+  },
+  {
+    "name": "Green 199",
+    "hex": "#28d80f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 200",
+    "hex": "#4fd017",
+    "category": "Green"
+  },
+  {
+    "name": "Green 201",
+    "hex": "#acce18",
+    "category": "Green"
+  },
+  {
+    "name": "Green 203",
+    "hex": "#14d277",
+    "category": "Green"
+  },
+  {
+    "name": "Green 202",
+    "hex": "#81c322",
+    "category": "Green"
+  },
+  {
+    "name": "Green 205",
+    "hex": "#37ad71",
+    "category": "Green"
+  },
+  {
+    "name": "Green 206",
+    "hex": "#71cc18",
+    "category": "Green"
+  },
+  {
+    "name": "Green 204",
+    "hex": "#36db09",
+    "category": "Green"
+  },
+  {
+    "name": "Green 207",
+    "hex": "#1cd80c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 208",
+    "hex": "#26ca19",
+    "category": "Green"
+  },
+  {
+    "name": "Green 209",
+    "hex": "#85b130",
+    "category": "Green"
+  },
+  {
+    "name": "Green 210",
+    "hex": "#1bc679",
+    "category": "Green"
+  },
+  {
+    "name": "Green 211",
+    "hex": "#89ba25",
+    "category": "Green"
+  },
+  {
+    "name": "Green 212",
+    "hex": "#51b52a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 213",
+    "hex": "#48c41a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 214",
+    "hex": "#1cc27b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 215",
+    "hex": "#55bd21",
+    "category": "Green"
+  },
+  {
+    "name": "Green 216",
+    "hex": "#82bd20",
+    "category": "Green"
+  },
+  {
+    "name": "Green 217",
+    "hex": "#6bb32a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 218",
+    "hex": "#1dbc60",
+    "category": "Green"
+  },
+  {
+    "name": "Green 219",
+    "hex": "#3b9e45",
+    "category": "Green"
+  },
+  {
+    "name": "Green 220",
+    "hex": "#31a87b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 221",
+    "hex": "#7ea434",
+    "category": "Green"
+  },
+  {
+    "name": "Green 222",
+    "hex": "#4ea632",
+    "category": "Green"
+  },
+  {
+    "name": "Green 223",
+    "hex": "#19bd50",
+    "category": "Green"
+  },
+  {
+    "name": "Green 224",
+    "hex": "#1eb856",
+    "category": "Green"
+  },
+  {
+    "name": "Green 226",
+    "hex": "#16bf2f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 225",
+    "hex": "#03d216",
+    "category": "Green"
+  },
+  {
+    "name": "Green 227",
+    "hex": "#8fce06",
+    "category": "Green"
+  },
+  {
+    "name": "Green 228",
+    "hex": "#719939",
+    "category": "Green"
+  },
+  {
+    "name": "Green 229",
+    "hex": "#2dc40c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 230",
+    "hex": "#19b665",
+    "category": "Green"
+  },
+  {
+    "name": "Green 231",
+    "hex": "#1cb36f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 232",
+    "hex": "#63cd01",
+    "category": "Green"
+  },
+  {
+    "name": "Green 233",
+    "hex": "#2db11d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 234",
+    "hex": "#5fb418",
+    "category": "Green"
+  },
+  {
+    "name": "Green 235",
+    "hex": "#15b738",
+    "category": "Green"
+  },
+  {
+    "name": "Green 236",
+    "hex": "#07c479",
+    "category": "Green"
+  },
+  {
+    "name": "Green 238",
+    "hex": "#8db219",
+    "category": "Green"
+  },
+  {
+    "name": "Green 239",
+    "hex": "#60ad1d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 241",
+    "hex": "#669c2e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 237",
+    "hex": "#77a02a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 240",
+    "hex": "#15b713",
+    "category": "Green"
+  },
+  {
+    "name": "Green 242",
+    "hex": "#76ab1f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 243",
+    "hex": "#82aa20",
+    "category": "Green"
+  },
+  {
+    "name": "Green 244",
+    "hex": "#08c253",
+    "category": "Green"
+  },
+  {
+    "name": "Green 245",
+    "hex": "#11b747",
+    "category": "Green"
+  },
+  {
+    "name": "Green 246",
+    "hex": "#98b216",
+    "category": "Green"
+  },
+  {
+    "name": "Green 247",
+    "hex": "#1bac78",
+    "category": "Green"
+  },
+  {
+    "name": "Green 248",
+    "hex": "#08bf6a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 249",
+    "hex": "#40c400",
+    "category": "Green"
+  },
+  {
+    "name": "Green 251",
+    "hex": "#15af7a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 250",
+    "hex": "#0cb832",
+    "category": "Green"
+  },
+  {
+    "name": "Green 252",
+    "hex": "#299b74",
+    "category": "Green"
+  },
+  {
+    "name": "Green 253",
+    "hex": "#30933d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 254",
+    "hex": "#10b261",
+    "category": "Green"
+  },
+  {
+    "name": "Green 255",
+    "hex": "#7d8e33",
+    "category": "Green"
+  },
+  {
+    "name": "Green 256",
+    "hex": "#52a818",
+    "category": "Green"
+  },
+  {
+    "name": "Green 257",
+    "hex": "#2e912e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 258",
+    "hex": "#0bb416",
+    "category": "Green"
+  },
+  {
+    "name": "Green 259",
+    "hex": "#259729",
+    "category": "Green"
+  },
+  {
+    "name": "Green 260",
+    "hex": "#26ad0c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 261",
+    "hex": "#57a415",
+    "category": "Green"
+  },
+  {
+    "name": "Green 262",
+    "hex": "#2c8a4b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 263",
+    "hex": "#609121",
+    "category": "Green"
+  },
+  {
+    "name": "Green 264",
+    "hex": "#1da70b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 265",
+    "hex": "#179a2d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 266",
+    "hex": "#77ac04",
+    "category": "Green"
+  },
+  {
+    "name": "Green 267",
+    "hex": "#56852b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 268",
+    "hex": "#778b25",
+    "category": "Green"
+  },
+  {
+    "name": "Green 269",
+    "hex": "#2c845e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 270",
+    "hex": "#03ac07",
+    "category": "Green"
+  },
+  {
+    "name": "Green 271",
+    "hex": "#0da254",
+    "category": "Green"
+  },
+  {
+    "name": "Green 274",
+    "hex": "#66822d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 272",
+    "hex": "#149a31",
+    "category": "Green"
+  },
+  {
+    "name": "Green 275",
+    "hex": "#27875e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 273",
+    "hex": "#7bab03",
+    "category": "Green"
+  },
+  {
+    "name": "Green 276",
+    "hex": "#458627",
+    "category": "Green"
+  },
+  {
+    "name": "Green 277",
+    "hex": "#159748",
+    "category": "Green"
+  },
+  {
+    "name": "Green 278",
+    "hex": "#199224",
+    "category": "Green"
+  },
+  {
+    "name": "Green 280",
+    "hex": "#04a62a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 279",
+    "hex": "#2e8129",
+    "category": "Green"
+  },
+  {
+    "name": "Green 281",
+    "hex": "#0da901",
+    "category": "Green"
+  },
+  {
+    "name": "Green 282",
+    "hex": "#0b9f2b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 283",
+    "hex": "#17a306",
+    "category": "Green"
+  },
+  {
+    "name": "Green 284",
+    "hex": "#398e1b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 286",
+    "hex": "#317a2b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 285",
+    "hex": "#69792c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 287",
+    "hex": "#2a7835",
+    "category": "Green"
+  },
+  {
+    "name": "Green 288",
+    "hex": "#6a7e23",
+    "category": "Green"
+  },
+  {
+    "name": "Green 289",
+    "hex": "#339808",
+    "category": "Green"
+  },
+  {
+    "name": "Green 290",
+    "hex": "#7a940b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 291",
+    "hex": "#039960",
+    "category": "Green"
+  },
+  {
+    "name": "Green 292",
+    "hex": "#237835",
+    "category": "Green"
+  },
+  {
+    "name": "Green 293",
+    "hex": "#1c9b00",
+    "category": "Green"
+  },
+  {
+    "name": "Green 294",
+    "hex": "#6f9603",
+    "category": "Green"
+  },
+  {
+    "name": "Green 295",
+    "hex": "#558810",
+    "category": "Green"
+  },
+  {
+    "name": "Green 296",
+    "hex": "#566f27",
+    "category": "Green"
+  },
+  {
+    "name": "Green 298",
+    "hex": "#01943b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 297",
+    "hex": "#0a8b25",
+    "category": "Green"
+  },
+  {
+    "name": "Green 299",
+    "hex": "#177d1c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 300",
+    "hex": "#11823e",
+    "category": "Green"
+  },
+  {
+    "name": "Green 301",
+    "hex": "#1c772f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 302",
+    "hex": "#2e7e12",
+    "category": "Green"
+  },
+  {
+    "name": "Green 303",
+    "hex": "#4e741c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 304",
+    "hex": "#0e8c03",
+    "category": "Green"
+  },
+  {
+    "name": "Green 305",
+    "hex": "#216e31",
+    "category": "Green"
+  },
+  {
+    "name": "Green 306",
+    "hex": "#187724",
+    "category": "Green"
+  },
+  {
+    "name": "Green 307",
+    "hex": "#1c7225",
+    "category": "Green"
+  },
+  {
+    "name": "Green 308",
+    "hex": "#5b6e1c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 309",
+    "hex": "#526f19",
+    "category": "Green"
+  },
+  {
+    "name": "Green 311",
+    "hex": "#15731d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 310",
+    "hex": "#206a1d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 312",
+    "hex": "#177e08",
+    "category": "Green"
+  },
+  {
+    "name": "Green 313",
+    "hex": "#0b7b28",
+    "category": "Green"
+  },
+  {
+    "name": "Green 314",
+    "hex": "#018308",
+    "category": "Green"
+  },
+  {
+    "name": "Green 315",
+    "hex": "#1a6932",
+    "category": "Green"
+  },
+  {
+    "name": "Green 316",
+    "hex": "#2a641f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 317",
+    "hex": "#325e21",
+    "category": "Green"
+  },
+  {
+    "name": "Green 318",
+    "hex": "#525e21",
+    "category": "Green"
+  },
+  {
+    "name": "Green 319",
+    "hex": "#1d631c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 320",
+    "hex": "#0f7608",
+    "category": "Green"
+  },
+  {
+    "name": "Green 321",
+    "hex": "#586d11",
+    "category": "Green"
+  },
+  {
+    "name": "Green 322",
+    "hex": "#0c714f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 323",
+    "hex": "#39710b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 324",
+    "hex": "#265f19",
+    "category": "Green"
+  },
+  {
+    "name": "Green 325",
+    "hex": "#04732a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 327",
+    "hex": "#527204",
+    "category": "Green"
+  },
+  {
+    "name": "Green 326",
+    "hex": "#33690d",
+    "category": "Green"
+  },
+  {
+    "name": "Green 328",
+    "hex": "#0a6b14",
+    "category": "Green"
+  },
+  {
+    "name": "Green 329",
+    "hex": "#32660f",
+    "category": "Green"
+  },
+  {
+    "name": "Green 330",
+    "hex": "#096b24",
+    "category": "Green"
+  },
+  {
+    "name": "Green 331",
+    "hex": "#346311",
+    "category": "Green"
+  },
+  {
+    "name": "Green 332",
+    "hex": "#046e2b",
+    "category": "Green"
+  },
+  {
+    "name": "Green 333",
+    "hex": "#0d652c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 334",
+    "hex": "#475a16",
+    "category": "Green"
+  },
+  {
+    "name": "Green 335",
+    "hex": "#0b642a",
+    "category": "Green"
+  },
+  {
+    "name": "Green 336",
+    "hex": "#4b5617",
+    "category": "Green"
+  },
+  {
+    "name": "Green 337",
+    "hex": "#4d5f0c",
+    "category": "Green"
+  },
+  {
+    "name": "Green 338",
+    "hex": "#2a5a11",
+    "category": "Green"
+  },
+  {
+    "name": "Green 339",
+    "hex": "#2a5019",
+    "category": "Green"
+  },
+  {
+    "name": "Green 340",
+    "hex": "#0b5c1f",
+    "category": "Green"
+  }
+]

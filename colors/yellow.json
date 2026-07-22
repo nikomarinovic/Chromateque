@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Fresh Lemon",
+    "hex": "#f8f9eb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Honey",
+    "hex": "#faf8ea",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Sun",
+    "hex": "#fef9e6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Gold",
+    "hex": "#fefde6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Amber",
+    "hex": "#f9f9e8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Canary",
+    "hex": "#faf5e7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Canary",
+    "hex": "#fbfae5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Canary",
+    "hex": "#faf7e6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Lemon",
+    "hex": "#fffbe1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Citrine",
+    "hex": "#fcf9e3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Citrine",
+    "hex": "#fcfce3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Gold",
+    "hex": "#fcf5e2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Sun",
+    "hex": "#fcfbe2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Sun",
+    "hex": "#f8f2e6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Lemon",
+    "hex": "#fef9df",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Citrine",
+    "hex": "#fcf9e1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Butter",
+    "hex": "#f6f7e5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Honey",
+    "hex": "#fdf3de",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Citrine",
+    "hex": "#f8f1e3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Gold",
+    "hex": "#f7f4e4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Canary",
+    "hex": "#f5f4e4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Honey",
+    "hex": "#fbfcdd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Gold",
+    "hex": "#fdfbdc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Gold",
+    "hex": "#fdfcdb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Citrine",
+    "hex": "#fcf6dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Sun",
+    "hex": "#fcffd9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Butter",
+    "hex": "#f8f0df",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Butter",
+    "hex": "#faf7dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Butter",
+    "hex": "#fafdd7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Lemon",
+    "hex": "#fcf8d8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Sun",
+    "hex": "#f8f6dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Canary",
+    "hex": "#fbf0d9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Honey",
+    "hex": "#f6f8d9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Honey",
+    "hex": "#fef0d0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Lemon",
+    "hex": "#f3edda",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Sun",
+    "hex": "#f6f4d6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Honey",
+    "hex": "#fbfcd0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Gold",
+    "hex": "#f2f1d7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Butter",
+    "hex": "#f6f7d2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Citrine",
+    "hex": "#f4f3d4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Lemon",
+    "hex": "#f8f7d0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Butter",
+    "hex": "#f9f0cf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Canary",
+    "hex": "#f2ecd5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 1",
+    "hex": "#fafacb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 2",
+    "hex": "#f3ead2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 3",
+    "hex": "#fcf4c9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 4",
+    "hex": "#f0e8d5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 5",
+    "hex": "#f3f0d1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 6",
+    "hex": "#f9f0ca",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 7",
+    "hex": "#f1ebd2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 8",
+    "hex": "#fbfec4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 9",
+    "hex": "#f8fbc7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 10",
+    "hex": "#faecc7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 11",
+    "hex": "#f1eccf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 12",
+    "hex": "#f0ebd0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 13",
+    "hex": "#f0eecf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 15",
+    "hex": "#f4eaca",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 14",
+    "hex": "#fdeec0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 16",
+    "hex": "#faecc2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 17",
+    "hex": "#fbf2c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 18",
+    "hex": "#fdf4be",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 19",
+    "hex": "#f0f1c9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 20",
+    "hex": "#efefca",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 21",
+    "hex": "#f7f8c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 22",
+    "hex": "#f5f8c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 25",
+    "hex": "#fdfeb8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 23",
+    "hex": "#fdecb8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 24",
+    "hex": "#fdf4b8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 26",
+    "hex": "#ebe1c9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 27",
+    "hex": "#f4f5be",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 28",
+    "hex": "#fbe8b7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 29",
+    "hex": "#f4ecbd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 30",
+    "hex": "#fdfdb4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 31",
+    "hex": "#fbf8b5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 32",
+    "hex": "#f2e5be",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 33",
+    "hex": "#f9ecb7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 34",
+    "hex": "#f4e5bb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 35",
+    "hex": "#efe5c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 36",
+    "hex": "#efe6bd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 37",
+    "hex": "#ebecc0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 38",
+    "hex": "#f6e4b6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 39",
+    "hex": "#eef2b9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 40",
+    "hex": "#ebdec0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 41",
+    "hex": "#fdfdad",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 42",
+    "hex": "#f6eab3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 43",
+    "hex": "#f0deb9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 44",
+    "hex": "#e8e1c1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 45",
+    "hex": "#f1e6b7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 46",
+    "hex": "#e7dcbf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 47",
+    "hex": "#fbffa7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 48",
+    "hex": "#f5faac",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 49",
+    "hex": "#f9e3ac",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 50",
+    "hex": "#f3f8aa",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 51",
+    "hex": "#fceaa5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 52",
+    "hex": "#e8e7b7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 53",
+    "hex": "#fceda1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 54",
+    "hex": "#e8dab4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 55",
+    "hex": "#f0e8ac",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 56",
+    "hex": "#f8e9a1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 57",
+    "hex": "#fef29a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 58",
+    "hex": "#f9f09f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 59",
+    "hex": "#f2eda5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 60",
+    "hex": "#f6e8a0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 61",
+    "hex": "#e4e7af",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 62",
+    "hex": "#f6e89d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 63",
+    "hex": "#efeaa4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 64",
+    "hex": "#e4e2af",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 65",
+    "hex": "#ecd5a5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 66",
+    "hex": "#f2fb96",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 67",
+    "hex": "#eadba5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 68",
+    "hex": "#fef391",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 69",
+    "hex": "#e8eca2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 71",
+    "hex": "#e6d6a8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 72",
+    "hex": "#f4df9a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 70",
+    "hex": "#f3e19b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 73",
+    "hex": "#e5d8a7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 74",
+    "hex": "#ffe58d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 75",
+    "hex": "#e8d8a3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 76",
+    "hex": "#ecde9e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 77",
+    "hex": "#eddc9c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 78",
+    "hex": "#f8fa8e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 79",
+    "hex": "#e2e0a5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 80",
+    "hex": "#e9ea9c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 81",
+    "hex": "#ead39c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 82",
+    "hex": "#f4d68e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 83",
+    "hex": "#dfe2a0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 84",
+    "hex": "#f4f988",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 85",
+    "hex": "#f5d78b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 86",
+    "hex": "#f6f288",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 87",
+    "hex": "#e3d99a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 88",
+    "hex": "#e4d798",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 89",
+    "hex": "#f1d58b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 90",
+    "hex": "#f2e989",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 91",
+    "hex": "#e2cf97",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 92",
+    "hex": "#e6dc93",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 93",
+    "hex": "#f6ea83",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 96",
+    "hex": "#eae68d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 94",
+    "hex": "#d8da9c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 95",
+    "hex": "#f7e07f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 98",
+    "hex": "#ded897",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 99",
+    "hex": "#e7e88c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 97",
+    "hex": "#e1cb93",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 100",
+    "hex": "#dddd94",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 101",
+    "hex": "#ddcf92",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 102",
+    "hex": "#f2ce7d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 103",
+    "hex": "#e4da8b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 104",
+    "hex": "#ffe56f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 105",
+    "hex": "#efd67f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 107",
+    "hex": "#e3cf8b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 108",
+    "hex": "#edd880",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 109",
+    "hex": "#e4d089",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 106",
+    "hex": "#dac393",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 110",
+    "hex": "#ddd28f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 112",
+    "hex": "#fcf670",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 111",
+    "hex": "#dbc591",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 115",
+    "hex": "#f1de7a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 113",
+    "hex": "#dfe388",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 114",
+    "hex": "#fbea6f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 116",
+    "hex": "#eee27b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 117",
+    "hex": "#dfcf8a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 120",
+    "hex": "#e4c684",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 118",
+    "hex": "#d9d38f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 119",
+    "hex": "#f4f96f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 121",
+    "hex": "#ede77a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 122",
+    "hex": "#d5db8c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 123",
+    "hex": "#e0c887",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 124",
+    "hex": "#fad66c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 126",
+    "hex": "#dbd98a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 125",
+    "hex": "#d9d98b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 127",
+    "hex": "#dbc189",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 128",
+    "hex": "#f6fc68",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 129",
+    "hex": "#d5d38d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 130",
+    "hex": "#d2d68b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 131",
+    "hex": "#dad687",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 132",
+    "hex": "#d5bd8a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 133",
+    "hex": "#d4d788",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 134",
+    "hex": "#f9e665",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 136",
+    "hex": "#ead274",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 135",
+    "hex": "#ded67f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 137",
+    "hex": "#f8f465",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 138",
+    "hex": "#fedc5e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 139",
+    "hex": "#d7c981",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 141",
+    "hex": "#e5d672",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 142",
+    "hex": "#f1e166",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 140",
+    "hex": "#e2c375",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 146",
+    "hex": "#d3d57f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 143",
+    "hex": "#e0c574",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 144",
+    "hex": "#eed265",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 145",
+    "hex": "#dace79",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 147",
+    "hex": "#f1c862",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 148",
+    "hex": "#e7d56b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 149",
+    "hex": "#f5c55c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 150",
+    "hex": "#f9cb57",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 151",
+    "hex": "#fecc51",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 152",
+    "hex": "#edd961",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 153",
+    "hex": "#e2d76c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 154",
+    "hex": "#fbee52",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 155",
+    "hex": "#dde16c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 156",
+    "hex": "#dec26e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 157",
+    "hex": "#e4bd68",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 158",
+    "hex": "#fcf94f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 159",
+    "hex": "#fbf04f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 160",
+    "hex": "#d8d071",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 161",
+    "hex": "#dcb86c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 162",
+    "hex": "#dad26c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 163",
+    "hex": "#f2e353",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 164",
+    "hex": "#dfe065",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 165",
+    "hex": "#eeda56",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 166",
+    "hex": "#fcda47",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 167",
+    "hex": "#dfb864",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 168",
+    "hex": "#cbc875",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 169",
+    "hex": "#e7ed52",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 170",
+    "hex": "#dcc363",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 171",
+    "hex": "#d3ca6b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 172",
+    "hex": "#e2ba5c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 173",
+    "hex": "#ecdf51",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 175",
+    "hex": "#f7c046",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 174",
+    "hex": "#e2e359",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 176",
+    "hex": "#e5d757",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 177",
+    "hex": "#e9e153",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 178",
+    "hex": "#f8ff3d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 179",
+    "hex": "#d8c861",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 180",
+    "hex": "#e7e351",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 181",
+    "hex": "#f0c648",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 183",
+    "hex": "#cfcb69",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 182",
+    "hex": "#cbc96d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 184",
+    "hex": "#f3f442",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 185",
+    "hex": "#f4c042",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 186",
+    "hex": "#deb157",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 187",
+    "hex": "#d4af61",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 188",
+    "hex": "#d9c55c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 189",
+    "hex": "#e8e24d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 190",
+    "hex": "#dcb458",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 191",
+    "hex": "#fcdf38",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 192",
+    "hex": "#dfdc53",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 193",
+    "hex": "#e8b547",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 194",
+    "hex": "#e0c34f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 195",
+    "hex": "#f2db3b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 196",
+    "hex": "#e3f13b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 197",
+    "hex": "#c8c962",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 198",
+    "hex": "#ddc64d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 199",
+    "hex": "#dcc14d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 200",
+    "hex": "#c8b460",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 201",
+    "hex": "#dbad4d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 202",
+    "hex": "#e5eb3b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 203",
+    "hex": "#f6bf2f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 204",
+    "hex": "#d2d451",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 205",
+    "hex": "#c7ca5a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 207",
+    "hex": "#ecdf38",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 206",
+    "hex": "#edb736",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 208",
+    "hex": "#fefb25",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 209",
+    "hex": "#edb834",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 210",
+    "hex": "#c9af58",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 211",
+    "hex": "#efdc31",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 212",
+    "hex": "#ecbc33",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 213",
+    "hex": "#d9da44",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 214",
+    "hex": "#c4b25a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 215",
+    "hex": "#f1de2d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 216",
+    "hex": "#dcbc41",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 217",
+    "hex": "#f5bc26",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 218",
+    "hex": "#deb83c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 219",
+    "hex": "#c9be51",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 220",
+    "hex": "#e0b838",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 221",
+    "hex": "#ceac4a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 222",
+    "hex": "#c2cb4b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 223",
+    "hex": "#e6d62d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 224",
+    "hex": "#fccd17",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 225",
+    "hex": "#dfb234",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 226",
+    "hex": "#c0a153",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 227",
+    "hex": "#c8b54a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 228",
+    "hex": "#dcde33",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 229",
+    "hex": "#e7ad29",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 230",
+    "hex": "#e4cf2b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 232",
+    "hex": "#ccb343",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 231",
+    "hex": "#cfa23f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 233",
+    "hex": "#c0a84e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 234",
+    "hex": "#cca942",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 235",
+    "hex": "#edd520",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 236",
+    "hex": "#ebb922",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 238",
+    "hex": "#f0b31a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 237",
+    "hex": "#dad530",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 239",
+    "hex": "#c0b049",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 240",
+    "hex": "#f6d912",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 241",
+    "hex": "#ceca3a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 242",
+    "hex": "#cdaf3a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 243",
+    "hex": "#cdbc3a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 244",
+    "hex": "#c2ce39",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 245",
+    "hex": "#fed608",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 246",
+    "hex": "#dfbd25",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 248",
+    "hex": "#dccb28",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 247",
+    "hex": "#b8be45",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 249",
+    "hex": "#fdf406",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 250",
+    "hex": "#cfb534",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 251",
+    "hex": "#bfba42",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 252",
+    "hex": "#cbbf34",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 253",
+    "hex": "#c69e37",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 254",
+    "hex": "#e3d819",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 256",
+    "hex": "#eaf605",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 255",
+    "hex": "#c3b738",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 257",
+    "hex": "#e3a318",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 258",
+    "hex": "#e0b01a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 259",
+    "hex": "#e3a515",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 260",
+    "hex": "#e1b716",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 261",
+    "hex": "#bbae3b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 262",
+    "hex": "#b8983d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 263",
+    "hex": "#b79f3e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 264",
+    "hex": "#c0a035",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 265",
+    "hex": "#b5983f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 267",
+    "hex": "#cdcc25",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 269",
+    "hex": "#c4b12e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 266",
+    "hex": "#e3c80f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 268",
+    "hex": "#e1a010",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 270",
+    "hex": "#e0e40c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 271",
+    "hex": "#cfa11f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 272",
+    "hex": "#c5a829",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 273",
+    "hex": "#e6a406",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 275",
+    "hex": "#cdb71f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 274",
+    "hex": "#d1c71b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 276",
+    "hex": "#b09a3b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 277",
+    "hex": "#c7bd22",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 278",
+    "hex": "#e7da02",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 279",
+    "hex": "#bd932b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 280",
+    "hex": "#afb335",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 281",
+    "hex": "#debc0a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 283",
+    "hex": "#afa839",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 282",
+    "hex": "#acaf38",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 284",
+    "hex": "#cfc318",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 285",
+    "hex": "#d2c515",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 286",
+    "hex": "#e5be02",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 289",
+    "hex": "#d6e600",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 287",
+    "hex": "#ca911c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 288",
+    "hex": "#ab8e3b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 291",
+    "hex": "#c5b720",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 292",
+    "hex": "#d7b20d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 290",
+    "hex": "#d1a213",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 293",
+    "hex": "#c9991b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 294",
+    "hex": "#c0ba22",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 295",
+    "hex": "#cec612",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 296",
+    "hex": "#bba524",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 297",
+    "hex": "#bd9222",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 298",
+    "hex": "#bebf1f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 299",
+    "hex": "#a68c38",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 301",
+    "hex": "#bdb220",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 300",
+    "hex": "#dbc402",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 302",
+    "hex": "#c68b16",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 303",
+    "hex": "#9d813a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 305",
+    "hex": "#c6d105",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 304",
+    "hex": "#baab1c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 306",
+    "hex": "#a48b31",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 307",
+    "hex": "#ae8e26",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 308",
+    "hex": "#c2a511",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 309",
+    "hex": "#b29921",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 310",
+    "hex": "#bdc40e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 313",
+    "hex": "#a1a42e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 311",
+    "hex": "#bab518",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 312",
+    "hex": "#afa323",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 314",
+    "hex": "#9a8336",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 315",
+    "hex": "#a3932c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 316",
+    "hex": "#b5a81a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 317",
+    "hex": "#bebe11",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 318",
+    "hex": "#c8ae07",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 319",
+    "hex": "#cbc203",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 320",
+    "hex": "#ae7e1f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 321",
+    "hex": "#c0bb0d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 322",
+    "hex": "#bea40e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 323",
+    "hex": "#b1a719",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 324",
+    "hex": "#919435",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 325",
+    "hex": "#968532",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 326",
+    "hex": "#b3ba0d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 327",
+    "hex": "#978630",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 328",
+    "hex": "#917f35",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 329",
+    "hex": "#9b9f25",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 330",
+    "hex": "#939a2a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 332",
+    "hex": "#96932d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 333",
+    "hex": "#9e9625",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 335",
+    "hex": "#ad8016",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 331",
+    "hex": "#c2bf01",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 334",
+    "hex": "#af8014",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 336",
+    "hex": "#bc9206",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 337",
+    "hex": "#a48d1e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 339",
+    "hex": "#9e9f22",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 338",
+    "hex": "#bfa201",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 340",
+    "hex": "#b88008",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 341",
+    "hex": "#979a25",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 342",
+    "hex": "#a39c1c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 343",
+    "hex": "#bd8f00",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 344",
+    "hex": "#8f722e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 346",
+    "hex": "#b97f03",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 347",
+    "hex": "#aba111",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 348",
+    "hex": "#8d702e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 345",
+    "hex": "#ba9901",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 349",
+    "hex": "#b3b405",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 350",
+    "hex": "#949524",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 351",
+    "hex": "#89812f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 353",
+    "hex": "#aea40a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 352",
+    "hex": "#88722f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 354",
+    "hex": "#aaa80d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 355",
+    "hex": "#ae9209",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 356",
+    "hex": "#9c9219",
+    "category": "Yellow"
+  },
+  {
+    "name": "Yellow 357",
+    "hex": "#96951f",
+    "category": "Yellow"
+  }
+]
