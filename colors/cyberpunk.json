@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Dark Digital",
+    "hex": "#e785f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Electric",
+    "hex": "#fc82e7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Neon",
+    "hex": "#d983fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Laser",
+    "hex": "#b980fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Laser",
+    "hex": "#dc80fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Plasma",
+    "hex": "#e882fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Synth",
+    "hex": "#ce80fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Pulse",
+    "hex": "#f57efe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Pulse",
+    "hex": "#d081fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Synth",
+    "hex": "#d97dfe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Neon",
+    "hex": "#fb7fef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Pulse",
+    "hex": "#e980fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Neon",
+    "hex": "#fd7de8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Cyber",
+    "hex": "#fe7baa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Neon",
+    "hex": "#d47cfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Electric",
+    "hex": "#ca80f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Neon",
+    "hex": "#ee80f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Synth",
+    "hex": "#fd7ba7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Digital",
+    "hex": "#ed7dfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Electric",
+    "hex": "#ee7bfc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Synth",
+    "hex": "#bd7cfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Plasma",
+    "hex": "#d57cf9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Cyber",
+    "hex": "#ee7cf9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Digital",
+    "hex": "#fb7af5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Cyber",
+    "hex": "#ab7afa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Electric",
+    "hex": "#fc77fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Plasma",
+    "hex": "#ad79fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Pulse",
+    "hex": "#fa79b6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Synth",
+    "hex": "#fd75c7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Plasma",
+    "hex": "#fd75ef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Laser",
+    "hex": "#fd75a9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Synth",
+    "hex": "#ff73c3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Laser",
+    "hex": "#e579f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Pulse",
+    "hex": "#b774fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Digital",
+    "hex": "#dd75fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Cyber",
+    "hex": "#fe72f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Laser",
+    "hex": "#f977e8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Cyber",
+    "hex": "#fc74c7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Digital",
+    "hex": "#f977cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Plasma",
+    "hex": "#ed74fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Electric",
+    "hex": "#fb74b0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Electric",
+    "hex": "#f975b7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Laser",
+    "hex": "#a672fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Cyber",
+    "hex": "#fe6fab",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Plasma",
+    "hex": "#ca75f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Future Neon",
+    "hex": "#fe6fa2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Digital",
+    "hex": "#ae6efe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Pulse",
+    "hex": "#b573f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 1",
+    "hex": "#b772f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 2",
+    "hex": "#e76dfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 3",
+    "hex": "#b670fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 4",
+    "hex": "#fc6db8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 5",
+    "hex": "#fa6fcd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 6",
+    "hex": "#fa6eb7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 7",
+    "hex": "#f96ec5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 8",
+    "hex": "#fc6adb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 10",
+    "hex": "#fc6abf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 9",
+    "hex": "#b46bfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 11",
+    "hex": "#ff66ed",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 12",
+    "hex": "#fb68b4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 13",
+    "hex": "#d167fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 16",
+    "hex": "#ab65fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 17",
+    "hex": "#f86aae",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 18",
+    "hex": "#e469f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 14",
+    "hex": "#bb66fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 15",
+    "hex": "#f968d8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 19",
+    "hex": "#fc64e4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 20",
+    "hex": "#9e63fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 21",
+    "hex": "#fd63ba",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 22",
+    "hex": "#fd63dc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 23",
+    "hex": "#ba68f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 25",
+    "hex": "#fc63ca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 24",
+    "hex": "#fc62b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 26",
+    "hex": "#e160fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 27",
+    "hex": "#bf64fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 28",
+    "hex": "#fb63ba",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 29",
+    "hex": "#fc629b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 30",
+    "hex": "#fb62b7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 31",
+    "hex": "#da65f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 32",
+    "hex": "#fd5f9f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 33",
+    "hex": "#b363f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 34",
+    "hex": "#e65bff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 35",
+    "hex": "#fe5ca6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 36",
+    "hex": "#d15ffb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 37",
+    "hex": "#fb5ece",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 38",
+    "hex": "#f76298",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 39",
+    "hex": "#ca5aff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 40",
+    "hex": "#ff5a9a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 41",
+    "hex": "#f95fb6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 42",
+    "hex": "#fd5af8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 44",
+    "hex": "#f15bfc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 43",
+    "hex": "#b95cfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 45",
+    "hex": "#fa5ca2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 46",
+    "hex": "#fe57bf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 47",
+    "hex": "#fa5bc9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 48",
+    "hex": "#af5bf8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 49",
+    "hex": "#b658fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 50",
+    "hex": "#f75ca2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 52",
+    "hex": "#fc56fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 51",
+    "hex": "#c35bf7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 53",
+    "hex": "#8e54fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 54",
+    "hex": "#fa58e6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 55",
+    "hex": "#f853fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 56",
+    "hex": "#f158f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 58",
+    "hex": "#9b58f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 59",
+    "hex": "#fd53fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 57",
+    "hex": "#f858b4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 60",
+    "hex": "#f552fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 61",
+    "hex": "#fa56b4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 63",
+    "hex": "#f957f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 62",
+    "hex": "#f956bf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 64",
+    "hex": "#fa54b7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 65",
+    "hex": "#9350fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 66",
+    "hex": "#fa5396",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 67",
+    "hex": "#ae55f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 68",
+    "hex": "#df4eff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 69",
+    "hex": "#dc4dff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 70",
+    "hex": "#dd53f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 71",
+    "hex": "#fc50aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 72",
+    "hex": "#eb4cff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 73",
+    "hex": "#fc4efa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 74",
+    "hex": "#8e4bff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 75",
+    "hex": "#ad52f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 76",
+    "hex": "#ea4bfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 77",
+    "hex": "#c251f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 78",
+    "hex": "#f7508f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 81",
+    "hex": "#fc4af2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 79",
+    "hex": "#b148fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 80",
+    "hex": "#f94d8a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 82",
+    "hex": "#e64afb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 84",
+    "hex": "#f94cec",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 83",
+    "hex": "#fd47a0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 85",
+    "hex": "#ee47fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 86",
+    "hex": "#fd47c4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 87",
+    "hex": "#f64dcc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 88",
+    "hex": "#f74cf0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 89",
+    "hex": "#b444fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 90",
+    "hex": "#fa48e7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 91",
+    "hex": "#fe44bc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 93",
+    "hex": "#b648fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 92",
+    "hex": "#fa47a3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 94",
+    "hex": "#f64bd0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 95",
+    "hex": "#fe4382",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 96",
+    "hex": "#9b42fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 97",
+    "hex": "#c844fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 98",
+    "hex": "#b347f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 99",
+    "hex": "#8646fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 100",
+    "hex": "#f64998",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 101",
+    "hex": "#fe40a5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 102",
+    "hex": "#ff3f96",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 103",
+    "hex": "#f647aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 104",
+    "hex": "#f84588",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 105",
+    "hex": "#fe3f80",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 106",
+    "hex": "#c147f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 107",
+    "hex": "#fc41d8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 108",
+    "hex": "#f744b8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 109",
+    "hex": "#f84381",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 110",
+    "hex": "#e33dfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 111",
+    "hex": "#8e3bff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 112",
+    "hex": "#f941dd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 113",
+    "hex": "#f644e2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 115",
+    "hex": "#fc3d8a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 114",
+    "hex": "#f93fe0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 116",
+    "hex": "#7e3cfc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 118",
+    "hex": "#fb3dc8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 117",
+    "hex": "#8d42f5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 119",
+    "hex": "#7e3afd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 121",
+    "hex": "#a939fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 123",
+    "hex": "#e639fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 124",
+    "hex": "#fc39b2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 120",
+    "hex": "#fb3a95",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 122",
+    "hex": "#f83dd0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 125",
+    "hex": "#f93aae",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 126",
+    "hex": "#833cf7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 127",
+    "hex": "#f83b83",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 128",
+    "hex": "#ed39fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 129",
+    "hex": "#9338fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 131",
+    "hex": "#fd36f1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 132",
+    "hex": "#c13df6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 130",
+    "hex": "#f53df4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 133",
+    "hex": "#df33fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 134",
+    "hex": "#ef38f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 135",
+    "hex": "#c638f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 136",
+    "hex": "#f53b9f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 137",
+    "hex": "#fd32db",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 138",
+    "hex": "#f837c8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 139",
+    "hex": "#c537f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 140",
+    "hex": "#fa347b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 141",
+    "hex": "#d930fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 142",
+    "hex": "#8133fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 143",
+    "hex": "#9d35f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 144",
+    "hex": "#d538f5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 145",
+    "hex": "#fa32d7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 147",
+    "hex": "#d72efe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 146",
+    "hex": "#db35f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 148",
+    "hex": "#e22ffc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 150",
+    "hex": "#f536df",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 149",
+    "hex": "#cf32f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 154",
+    "hex": "#c72cfe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 153",
+    "hex": "#f831d8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 151",
+    "hex": "#fa2fad",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 152",
+    "hex": "#fa2fd2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 155",
+    "hex": "#d62bfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 156",
+    "hex": "#fd2bc8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 157",
+    "hex": "#fd2ba6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 158",
+    "hex": "#bf2cfc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 159",
+    "hex": "#852cfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 160",
+    "hex": "#fa2de5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 161",
+    "hex": "#ba2cfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 162",
+    "hex": "#e328fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 163",
+    "hex": "#f431ca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 166",
+    "hex": "#c929fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 164",
+    "hex": "#f92cb9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 165",
+    "hex": "#f92c81",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 167",
+    "hex": "#fa2ab1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 168",
+    "hex": "#da2ff5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 169",
+    "hex": "#b725fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 170",
+    "hex": "#f72c7b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 171",
+    "hex": "#fe23ed",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 172",
+    "hex": "#6e28f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 173",
+    "hex": "#f92874",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 174",
+    "hex": "#f62a7d",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 175",
+    "hex": "#7726f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 177",
+    "hex": "#c227f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 176",
+    "hex": "#7529f5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 178",
+    "hex": "#fb23a4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 179",
+    "hex": "#e221fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 180",
+    "hex": "#f92391",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 181",
+    "hex": "#7f21fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 183",
+    "hex": "#fe1ecf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 182",
+    "hex": "#9024f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 184",
+    "hex": "#ff1ca7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 185",
+    "hex": "#ff1bc2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 186",
+    "hex": "#a51cfe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 187",
+    "hex": "#f623a9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 188",
+    "hex": "#fc1b95",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 189",
+    "hex": "#dd21f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 190",
+    "hex": "#f81f78",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 191",
+    "hex": "#fa1c80",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 192",
+    "hex": "#f42174",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 193",
+    "hex": "#fa1b81",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 194",
+    "hex": "#751ff6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 195",
+    "hex": "#fb17fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 196",
+    "hex": "#9c16fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 197",
+    "hex": "#d21df7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 198",
+    "hex": "#e419fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 199",
+    "hex": "#e116fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 200",
+    "hex": "#7113fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 201",
+    "hex": "#8712fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 202",
+    "hex": "#de15fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 203",
+    "hex": "#f41c65",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 204",
+    "hex": "#6a1bf5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 205",
+    "hex": "#ae1cf3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 206",
+    "hex": "#e015fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 207",
+    "hex": "#c912fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 208",
+    "hex": "#f712fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 209",
+    "hex": "#fb12f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 210",
+    "hex": "#8615f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 211",
+    "hex": "#ee15f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 212",
+    "hex": "#fd0fd9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 214",
+    "hex": "#e410fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 213",
+    "hex": "#fe0def",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 215",
+    "hex": "#9f0afe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 217",
+    "hex": "#b411f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 218",
+    "hex": "#f612a6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 219",
+    "hex": "#f414a6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 216",
+    "hex": "#c10ff9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 221",
+    "hex": "#f61161",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 220",
+    "hex": "#fa0dda",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 222",
+    "hex": "#e808ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 224",
+    "hex": "#5f0ef9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 225",
+    "hex": "#fc0ad1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 226",
+    "hex": "#f412e9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 223",
+    "hex": "#f313b2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 227",
+    "hex": "#f610e3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 228",
+    "hex": "#790df8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 229",
+    "hex": "#fa0be0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 230",
+    "hex": "#f70e97",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 231",
+    "hex": "#f90cf6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 232",
+    "hex": "#6d07fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 233",
+    "hex": "#ce11f3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 234",
+    "hex": "#7e05ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 236",
+    "hex": "#8f10f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 235",
+    "hex": "#fc07ee",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 237",
+    "hex": "#fe05ea",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 238",
+    "hex": "#f90a95",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 239",
+    "hex": "#f909a0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 240",
+    "hex": "#fe04d4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 241",
+    "hex": "#d003ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 242",
+    "hex": "#fe0491",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 243",
+    "hex": "#bc09f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 244",
+    "hex": "#fc0575",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 245",
+    "hex": "#fd0373",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 246",
+    "hex": "#e702fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 247",
+    "hex": "#fa06a1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 248",
+    "hex": "#930cf4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 249",
+    "hex": "#f906b9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 250",
+    "hex": "#f10ccc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 251",
+    "hex": "#590cf0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 252",
+    "hex": "#e70cf0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 255",
+    "hex": "#b107f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 256",
+    "hex": "#b006f5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 253",
+    "hex": "#6f02f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 254",
+    "hex": "#f00be2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 257",
+    "hex": "#b806f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 259",
+    "hex": "#f204f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 258",
+    "hex": "#f307c0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 262",
+    "hex": "#8904f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 263",
+    "hex": "#f40482",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 260",
+    "hex": "#a209ef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 261",
+    "hex": "#e105f3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 264",
+    "hex": "#ed0b5e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 265",
+    "hex": "#d608ee",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 267",
+    "hex": "#e800f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 268",
+    "hex": "#f0068f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 266",
+    "hex": "#f2049b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 269",
+    "hex": "#5700f5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 271",
+    "hex": "#ee0789",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 272",
+    "hex": "#f00562",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 270",
+    "hex": "#eb0abf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 273",
+    "hex": "#f2008d",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 274",
+    "hex": "#e00ae8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 275",
+    "hex": "#ea078b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 276",
+    "hex": "#9e09e7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 277",
+    "hex": "#8103ec",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 278",
+    "hex": "#8e01ed",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 279",
+    "hex": "#e204e9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 280",
+    "hex": "#e60684",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 284",
+    "hex": "#e408c7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 281",
+    "hex": "#8909e3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 282",
+    "hex": "#b402ea",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 283",
+    "hex": "#d305e6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 285",
+    "hex": "#e902b0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 286",
+    "hex": "#9501e9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 287",
+    "hex": "#df09e1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 288",
+    "hex": "#e1095b",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 289",
+    "hex": "#5f01e8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 290",
+    "hex": "#9201e8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 291",
+    "hex": "#e404b0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 292",
+    "hex": "#e20581",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 294",
+    "hex": "#e106de",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 295",
+    "hex": "#dc0bcf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 296",
+    "hex": "#e700d5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 297",
+    "hex": "#e205b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 293",
+    "hex": "#e3048c",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 299",
+    "hex": "#ba06df",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 300",
+    "hex": "#c707de",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 301",
+    "hex": "#9e05e0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 298",
+    "hex": "#e302cc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 304",
+    "hex": "#8f07dc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 302",
+    "hex": "#db08b4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 303",
+    "hex": "#7001e2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 305",
+    "hex": "#da09bd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 308",
+    "hex": "#ce0ad7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 306",
+    "hex": "#c00ad6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 307",
+    "hex": "#c808d8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 309",
+    "hex": "#d90758",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 310",
+    "hex": "#6b0bd4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 311",
+    "hex": "#7509d6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 312",
+    "hex": "#d40b5e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 313",
+    "hex": "#9105d9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 314",
+    "hex": "#5808d5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 315",
+    "hex": "#db0289",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 316",
+    "hex": "#d009d2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 317",
+    "hex": "#c20ad1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 319",
+    "hex": "#d406aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 320",
+    "hex": "#d604aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 318",
+    "hex": "#b209d1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 321",
+    "hex": "#d2079e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 322",
+    "hex": "#d6035e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 323",
+    "hex": "#ce0a73",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 324",
+    "hex": "#4b00d7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 325",
+    "hex": "#ce0980",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 326",
+    "hex": "#d40273",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 327",
+    "hex": "#ce0865",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 328",
+    "hex": "#8b00d5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 329",
+    "hex": "#cc0978",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 330",
+    "hex": "#4c08cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 331",
+    "hex": "#cb0abd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 332",
+    "hex": "#980aca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 333",
+    "hex": "#d301a7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 334",
+    "hex": "#b103d1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 335",
+    "hex": "#c80aca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 336",
+    "hex": "#d30052",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 337",
+    "hex": "#6605cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 339",
+    "hex": "#cc067a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 338",
+    "hex": "#5008ca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 340",
+    "hex": "#ca08b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 341",
+    "hex": "#c70a98",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 342",
+    "hex": "#7e01d0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 343",
+    "hex": "#c7099a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 344",
+    "hex": "#cc0361",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 345",
+    "hex": "#7207c8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 346",
+    "hex": "#7a06c8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 347",
+    "hex": "#ca04b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 348",
+    "hex": "#8b02cc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 349",
+    "hex": "#4906c7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 350",
+    "hex": "#9a08c4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 351",
+    "hex": "#7f09c3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberpunk 352",
+    "hex": "#a50ac2",
+    "category": "Cyberpunk"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Electric Blaze",
+    "hex": "#fbd0cf",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Rose",
+    "hex": "#f7d7d2",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Crimson",
+    "hex": "#f8d6d1",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Scarlet",
+    "hex": "#fccecc",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Carmine",
+    "hex": "#fbd2cd",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Wine",
+    "hex": "#facfcd",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Ember",
+    "hex": "#f6d5d0",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Ember",
+    "hex": "#facdcc",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Wine",
+    "hex": "#f5d2d0",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Rose",
+    "hex": "#fdccc7",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Ember",
+    "hex": "#fad0c9",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Cherry",
+    "hex": "#f6d2cd",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Cherry",
+    "hex": "#fdccc6",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Flame",
+    "hex": "#facbc8",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Carmine",
+    "hex": "#facec8",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Garnet",
+    "hex": "#f4d3cd",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Ember",
+    "hex": "#f4cfcc",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Flame",
+    "hex": "#f8cbc7",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Cherry",
+    "hex": "#fec2bf",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Brick",
+    "hex": "#fbc3c1",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Blaze",
+    "hex": "#ffbfbd",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Brick",
+    "hex": "#fec6bd",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Crimson",
+    "hex": "#fcc3bf",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Ruby",
+    "hex": "#fbbebe",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Ember",
+    "hex": "#fbc0be",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Crimson",
+    "hex": "#f9c7be",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Wine",
+    "hex": "#fdbeba",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Ruby",
+    "hex": "#fbc1ba",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Blaze",
+    "hex": "#f8bfbc",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Berry",
+    "hex": "#f6c1be",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Brick",
+    "hex": "#febeb5",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Carmine",
+    "hex": "#fabfb9",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Cherry",
+    "hex": "#eecac4",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Flame",
+    "hex": "#fcb4b4",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Ember",
+    "hex": "#fdb6b3",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Blaze",
+    "hex": "#efc8c1",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Scarlet",
+    "hex": "#fdbab2",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Scarlet",
+    "hex": "#f0c3bf",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Carmine",
+    "hex": "#f0bebd",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Berry",
+    "hex": "#fabcb3",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Garnet",
+    "hex": "#fabdb3",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Berry",
+    "hex": "#f9b8b3",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Ruby",
+    "hex": "#fabab2",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Garnet",
+    "hex": "#fbbaae",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Cherry",
+    "hex": "#feb0ab",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Cherry",
+    "hex": "#edbbbb",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Berry",
+    "hex": "#fbb8ab",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Wine",
+    "hex": "#f0bfb6",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Flame",
+    "hex": "#fdb5a8",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Garnet",
+    "hex": "#f3b6b1",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Flame",
+    "hex": "#ffb3a5",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Berry",
+    "hex": "#faa8a7",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Wine",
+    "hex": "#edb3b2",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Ruby",
+    "hex": "#ebb9b3",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Ruby",
+    "hex": "#faafa3",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Brick",
+    "hex": "#fbafa2",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Berry",
+    "hex": "#f6a9a5",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Crimson",
+    "hex": "#f3b3a7",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Brick",
+    "hex": "#faab9e",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Blaze",
+    "hex": "#f7aca1",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Flame",
+    "hex": "#faa39d",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Crimson",
+    "hex": "#fc9f9b",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Carmine",
+    "hex": "#fda498",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Scarlet",
+    "hex": "#f6aa9e",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Scarlet",
+    "hex": "#efa5a5",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Carmine",
+    "hex": "#f8a499",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Ruby",
+    "hex": "#fc9e94",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Ruby",
+    "hex": "#f8a798",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Blaze",
+    "hex": "#fb9e95",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Ember",
+    "hex": "#f9a397",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Brick",
+    "hex": "#f8a597",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Wine",
+    "hex": "#fea191",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Brick",
+    "hex": "#fa9b8f",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Scarlet",
+    "hex": "#e7a2a1",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Scarlet",
+    "hex": "#efa096",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Blaze",
+    "hex": "#ea9f9b",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Cherry",
+    "hex": "#eaa79b",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Ruby",
+    "hex": "#f59990",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Rose",
+    "hex": "#f49f8e",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Carmine",
+    "hex": "#ec9a96",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Wine",
+    "hex": "#ef9892",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Garnet",
+    "hex": "#f58d8a",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Rose",
+    "hex": "#f99385",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Crimson",
+    "hex": "#e99392",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Scarlet",
+    "hex": "#e99892",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Wine",
+    "hex": "#eb9b90",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Brick",
+    "hex": "#e6938e",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Rose",
+    "hex": "#fd7b74",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Garnet",
+    "hex": "#e4928c",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Berry",
+    "hex": "#fa7f76",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Crimson",
+    "hex": "#ee8482",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Rose",
+    "hex": "#ff7d70",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Garnet",
+    "hex": "#e89286",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Ember",
+    "hex": "#ea8883",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Rose",
+    "hex": "#fd866f",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Flame",
+    "hex": "#f47978",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Brick",
+    "hex": "#f27e7a",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Garnet",
+    "hex": "#e49486",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Scarlet",
+    "hex": "#f28477",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Crimson",
+    "hex": "#fa796e",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Garnet",
+    "hex": "#e78380",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Ember",
+    "hex": "#df9286",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Carmine",
+    "hex": "#fa8069",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Wine",
+    "hex": "#e48d7f",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Cherry",
+    "hex": "#e78d7b",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Flame",
+    "hex": "#f6786a",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Rose",
+    "hex": "#f56f6b",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Crimson",
+    "hex": "#fa7d65",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Blaze",
+    "hex": "#e18a7b",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Rose",
+    "hex": "#e67e76",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Berry",
+    "hex": "#fb755f",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Carmine",
+    "hex": "#ed716c",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Flame",
+    "hex": "#de897a",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Berry",
+    "hex": "#ee7e6a",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Cherry",
+    "hex": "#f46f64",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Ruby",
+    "hex": "#de7c7a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 1",
+    "hex": "#df7f78",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Blaze",
+    "hex": "#f36e64",
+    "category": "Red"
+  },
+  {
+    "name": "Red 2",
+    "hex": "#fd5d56",
+    "category": "Red"
+  },
+  {
+    "name": "Red 3",
+    "hex": "#e4796e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 4",
+    "hex": "#f85f59",
+    "category": "Red"
+  },
+  {
+    "name": "Red 5",
+    "hex": "#fa6957",
+    "category": "Red"
+  },
+  {
+    "name": "Red 6",
+    "hex": "#ed6463",
+    "category": "Red"
+  },
+  {
+    "name": "Red 7",
+    "hex": "#e46c6b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 9",
+    "hex": "#dd8072",
+    "category": "Red"
+  },
+  {
+    "name": "Red 8",
+    "hex": "#f36f5b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 10",
+    "hex": "#da7674",
+    "category": "Red"
+  },
+  {
+    "name": "Red 11",
+    "hex": "#f75956",
+    "category": "Red"
+  },
+  {
+    "name": "Red 12",
+    "hex": "#ef635e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 14",
+    "hex": "#d97773",
+    "category": "Red"
+  },
+  {
+    "name": "Red 13",
+    "hex": "#eb6561",
+    "category": "Red"
+  },
+  {
+    "name": "Red 15",
+    "hex": "#ef695c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 16",
+    "hex": "#fb5c4e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 17",
+    "hex": "#ea745f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 19",
+    "hex": "#fc5d4a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 18",
+    "hex": "#d8786e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 20",
+    "hex": "#e16664",
+    "category": "Red"
+  },
+  {
+    "name": "Red 21",
+    "hex": "#f16653",
+    "category": "Red"
+  },
+  {
+    "name": "Red 22",
+    "hex": "#eb7059",
+    "category": "Red"
+  },
+  {
+    "name": "Red 23",
+    "hex": "#d7796b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 24",
+    "hex": "#df625e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 25",
+    "hex": "#f65046",
+    "category": "Red"
+  },
+  {
+    "name": "Red 26",
+    "hex": "#e95352",
+    "category": "Red"
+  },
+  {
+    "name": "Red 27",
+    "hex": "#f74c43",
+    "category": "Red"
+  },
+  {
+    "name": "Red 28",
+    "hex": "#d56e64",
+    "category": "Red"
+  },
+  {
+    "name": "Red 29",
+    "hex": "#d76761",
+    "category": "Red"
+  },
+  {
+    "name": "Red 31",
+    "hex": "#f44544",
+    "category": "Red"
+  },
+  {
+    "name": "Red 30",
+    "hex": "#f8453f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 32",
+    "hex": "#e65450",
+    "category": "Red"
+  },
+  {
+    "name": "Red 33",
+    "hex": "#dd6958",
+    "category": "Red"
+  },
+  {
+    "name": "Red 34",
+    "hex": "#d46b61",
+    "category": "Red"
+  },
+  {
+    "name": "Red 35",
+    "hex": "#ee5f46",
+    "category": "Red"
+  },
+  {
+    "name": "Red 36",
+    "hex": "#e35450",
+    "category": "Red"
+  },
+  {
+    "name": "Red 38",
+    "hex": "#d37060",
+    "category": "Red"
+  },
+  {
+    "name": "Red 37",
+    "hex": "#e25950",
+    "category": "Red"
+  },
+  {
+    "name": "Red 39",
+    "hex": "#e06752",
+    "category": "Red"
+  },
+  {
+    "name": "Red 40",
+    "hex": "#f5433d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 41",
+    "hex": "#f14841",
+    "category": "Red"
+  },
+  {
+    "name": "Red 42",
+    "hex": "#f93838",
+    "category": "Red"
+  },
+  {
+    "name": "Red 43",
+    "hex": "#d96058",
+    "category": "Red"
+  },
+  {
+    "name": "Red 44",
+    "hex": "#ec5e45",
+    "category": "Red"
+  },
+  {
+    "name": "Red 45",
+    "hex": "#fc4a35",
+    "category": "Red"
+  },
+  {
+    "name": "Red 46",
+    "hex": "#eb4f45",
+    "category": "Red"
+  },
+  {
+    "name": "Red 47",
+    "hex": "#e14e4e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 48",
+    "hex": "#d95b55",
+    "category": "Red"
+  },
+  {
+    "name": "Red 49",
+    "hex": "#e94a45",
+    "category": "Red"
+  },
+  {
+    "name": "Red 50",
+    "hex": "#fd4431",
+    "category": "Red"
+  },
+  {
+    "name": "Red 51",
+    "hex": "#da5351",
+    "category": "Red"
+  },
+  {
+    "name": "Red 52",
+    "hex": "#d0685a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 53",
+    "hex": "#f55235",
+    "category": "Red"
+  },
+  {
+    "name": "Red 54",
+    "hex": "#fa4d30",
+    "category": "Red"
+  },
+  {
+    "name": "Red 55",
+    "hex": "#da654f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 56",
+    "hex": "#fe3d2a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 57",
+    "hex": "#d16656",
+    "category": "Red"
+  },
+  {
+    "name": "Red 58",
+    "hex": "#eb433b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 59",
+    "hex": "#fa382c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 60",
+    "hex": "#fe2e28",
+    "category": "Red"
+  },
+  {
+    "name": "Red 61",
+    "hex": "#df4f46",
+    "category": "Red"
+  },
+  {
+    "name": "Red 62",
+    "hex": "#e24242",
+    "category": "Red"
+  },
+  {
+    "name": "Red 63",
+    "hex": "#e7413d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 64",
+    "hex": "#e44c3f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 65",
+    "hex": "#f03932",
+    "category": "Red"
+  },
+  {
+    "name": "Red 66",
+    "hex": "#ee4f33",
+    "category": "Red"
+  },
+  {
+    "name": "Red 67",
+    "hex": "#d94848",
+    "category": "Red"
+  },
+  {
+    "name": "Red 68",
+    "hex": "#e05640",
+    "category": "Red"
+  },
+  {
+    "name": "Red 69",
+    "hex": "#fa3926",
+    "category": "Red"
+  },
+  {
+    "name": "Red 70",
+    "hex": "#e3553c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 71",
+    "hex": "#dc5643",
+    "category": "Red"
+  },
+  {
+    "name": "Red 72",
+    "hex": "#f52d29",
+    "category": "Red"
+  },
+  {
+    "name": "Red 73",
+    "hex": "#eb4733",
+    "category": "Red"
+  },
+  {
+    "name": "Red 74",
+    "hex": "#dd4840",
+    "category": "Red"
+  },
+  {
+    "name": "Red 75",
+    "hex": "#d75d46",
+    "category": "Red"
+  },
+  {
+    "name": "Red 76",
+    "hex": "#fd3e1f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 77",
+    "hex": "#db443f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 78",
+    "hex": "#db4f3e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 79",
+    "hex": "#e44733",
+    "category": "Red"
+  },
+  {
+    "name": "Red 81",
+    "hex": "#d55942",
+    "category": "Red"
+  },
+  {
+    "name": "Red 82",
+    "hex": "#cc584b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 80",
+    "hex": "#eb2f2c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 84",
+    "hex": "#e6422e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 85",
+    "hex": "#cd4746",
+    "category": "Red"
+  },
+  {
+    "name": "Red 83",
+    "hex": "#cb4948",
+    "category": "Red"
+  },
+  {
+    "name": "Red 86",
+    "hex": "#d6433c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 87",
+    "hex": "#cb5a45",
+    "category": "Red"
+  },
+  {
+    "name": "Red 88",
+    "hex": "#ea4326",
+    "category": "Red"
+  },
+  {
+    "name": "Red 89",
+    "hex": "#d84f35",
+    "category": "Red"
+  },
+  {
+    "name": "Red 90",
+    "hex": "#ef311c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 91",
+    "hex": "#e0362a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 92",
+    "hex": "#fa3110",
+    "category": "Red"
+  },
+  {
+    "name": "Red 93",
+    "hex": "#f02219",
+    "category": "Red"
+  },
+  {
+    "name": "Red 95",
+    "hex": "#f51e14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 94",
+    "hex": "#fb1e0e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 96",
+    "hex": "#d64932",
+    "category": "Red"
+  },
+  {
+    "name": "Red 97",
+    "hex": "#d44334",
+    "category": "Red"
+  },
+  {
+    "name": "Red 99",
+    "hex": "#f41b13",
+    "category": "Red"
+  },
+  {
+    "name": "Red 98",
+    "hex": "#ca413d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 100",
+    "hex": "#ef3317",
+    "category": "Red"
+  },
+  {
+    "name": "Red 101",
+    "hex": "#f7230f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 102",
+    "hex": "#ee3718",
+    "category": "Red"
+  },
+  {
+    "name": "Red 103",
+    "hex": "#db382b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 104",
+    "hex": "#d63e2f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 105",
+    "hex": "#f81a0d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 106",
+    "hex": "#e2201f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 107",
+    "hex": "#e2241d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 108",
+    "hex": "#d23a2c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 109",
+    "hex": "#fc1f01",
+    "category": "Red"
+  },
+  {
+    "name": "Red 110",
+    "hex": "#fa1d02",
+    "category": "Red"
+  },
+  {
+    "name": "Red 111",
+    "hex": "#f02d0b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 112",
+    "hex": "#e52f15",
+    "category": "Red"
+  },
+  {
+    "name": "Red 113",
+    "hex": "#e22516",
+    "category": "Red"
+  },
+  {
+    "name": "Red 114",
+    "hex": "#d53f22",
+    "category": "Red"
+  },
+  {
+    "name": "Red 117",
+    "hex": "#f62901",
+    "category": "Red"
+  },
+  {
+    "name": "Red 115",
+    "hex": "#de3518",
+    "category": "Red"
+  },
+  {
+    "name": "Red 116",
+    "hex": "#e32d13",
+    "category": "Red"
+  },
+  {
+    "name": "Red 118",
+    "hex": "#e8220d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 119",
+    "hex": "#e52510",
+    "category": "Red"
+  },
+  {
+    "name": "Red 120",
+    "hex": "#cf3826",
+    "category": "Red"
+  },
+  {
+    "name": "Red 122",
+    "hex": "#e7160d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 121",
+    "hex": "#f11103",
+    "category": "Red"
+  },
+  {
+    "name": "Red 123",
+    "hex": "#e6310d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 124",
+    "hex": "#d8211a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 125",
+    "hex": "#c83a29",
+    "category": "Red"
+  },
+  {
+    "name": "Red 126",
+    "hex": "#dc3214",
+    "category": "Red"
+  },
+  {
+    "name": "Red 127",
+    "hex": "#c32c2b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 128",
+    "hex": "#bb3f33",
+    "category": "Red"
+  },
+  {
+    "name": "Red 129",
+    "hex": "#c43a2a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 130",
+    "hex": "#c03e2d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 131",
+    "hex": "#db2a11",
+    "category": "Red"
+  },
+  {
+    "name": "Red 132",
+    "hex": "#d91b13",
+    "category": "Red"
+  },
+  {
+    "name": "Red 133",
+    "hex": "#c63e25",
+    "category": "Red"
+  },
+  {
+    "name": "Red 134",
+    "hex": "#d21818",
+    "category": "Red"
+  },
+  {
+    "name": "Red 135",
+    "hex": "#c23e27",
+    "category": "Red"
+  },
+  {
+    "name": "Red 136",
+    "hex": "#d31c16",
+    "category": "Red"
+  },
+  {
+    "name": "Red 137",
+    "hex": "#be382a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 138",
+    "hex": "#b9422e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 139",
+    "hex": "#cb211c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 140",
+    "hex": "#c32521",
+    "category": "Red"
+  },
+  {
+    "name": "Red 141",
+    "hex": "#b33530",
+    "category": "Red"
+  },
+  {
+    "name": "Red 142",
+    "hex": "#dd1205",
+    "category": "Red"
+  },
+  {
+    "name": "Red 143",
+    "hex": "#bc3a24",
+    "category": "Red"
+  },
+  {
+    "name": "Red 144",
+    "hex": "#b53529",
+    "category": "Red"
+  },
+  {
+    "name": "Red 145",
+    "hex": "#ce1010",
+    "category": "Red"
+  },
+  {
+    "name": "Red 146",
+    "hex": "#d51808",
+    "category": "Red"
+  },
+  {
+    "name": "Red 147",
+    "hex": "#c81b12",
+    "category": "Red"
+  },
+  {
+    "name": "Red 149",
+    "hex": "#d20b08",
+    "category": "Red"
+  },
+  {
+    "name": "Red 150",
+    "hex": "#c52a14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 148",
+    "hex": "#d61903",
+    "category": "Red"
+  },
+  {
+    "name": "Red 151",
+    "hex": "#b9331e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 153",
+    "hex": "#b53421",
+    "category": "Red"
+  },
+  {
+    "name": "Red 152",
+    "hex": "#c21c14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 154",
+    "hex": "#bd1d18",
+    "category": "Red"
+  },
+  {
+    "name": "Red 156",
+    "hex": "#ce1907",
+    "category": "Red"
+  },
+  {
+    "name": "Red 155",
+    "hex": "#aa382b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 157",
+    "hex": "#c9100b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 158",
+    "hex": "#ca140a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 159",
+    "hex": "#c22e11",
+    "category": "Red"
+  },
+  {
+    "name": "Red 160",
+    "hex": "#b02f22",
+    "category": "Red"
+  },
+  {
+    "name": "Red 161",
+    "hex": "#aa3227",
+    "category": "Red"
+  },
+  {
+    "name": "Red 163",
+    "hex": "#c5110b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 162",
+    "hex": "#b82917",
+    "category": "Red"
+  },
+  {
+    "name": "Red 164",
+    "hex": "#a4312b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 165",
+    "hex": "#a93826",
+    "category": "Red"
+  },
+  {
+    "name": "Red 166",
+    "hex": "#ad2d20",
+    "category": "Red"
+  },
+  {
+    "name": "Red 168",
+    "hex": "#ac2a21",
+    "category": "Red"
+  },
+  {
+    "name": "Red 167",
+    "hex": "#bb2912",
+    "category": "Red"
+  },
+  {
+    "name": "Red 169",
+    "hex": "#9d372d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 172",
+    "hex": "#a53223",
+    "category": "Red"
+  },
+  {
+    "name": "Red 170",
+    "hex": "#b02b18",
+    "category": "Red"
+  },
+  {
+    "name": "Red 171",
+    "hex": "#a23526",
+    "category": "Red"
+  },
+  {
+    "name": "Red 173",
+    "hex": "#9e3029",
+    "category": "Red"
+  },
+  {
+    "name": "Red 174",
+    "hex": "#ab2f1b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 175",
+    "hex": "#af1c15",
+    "category": "Red"
+  },
+  {
+    "name": "Red 176",
+    "hex": "#b3260f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 177",
+    "hex": "#af2313",
+    "category": "Red"
+  },
+  {
+    "name": "Red 178",
+    "hex": "#96392b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 179",
+    "hex": "#a32f1d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 180",
+    "hex": "#95392a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 181",
+    "hex": "#b91706",
+    "category": "Red"
+  },
+  {
+    "name": "Red 182",
+    "hex": "#a92414",
+    "category": "Red"
+  },
+  {
+    "name": "Red 183",
+    "hex": "#ae290f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 184",
+    "hex": "#b62407",
+    "category": "Red"
+  },
+  {
+    "name": "Red 185",
+    "hex": "#af250d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 186",
+    "hex": "#963025",
+    "category": "Red"
+  },
+  {
+    "name": "Red 187",
+    "hex": "#b90b01",
+    "category": "Red"
+  },
+  {
+    "name": "Red 188",
+    "hex": "#992921",
+    "category": "Red"
+  },
+  {
+    "name": "Red 189",
+    "hex": "#972c22",
+    "category": "Red"
+  },
+  {
+    "name": "Red 190",
+    "hex": "#a9190f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 191",
+    "hex": "#903328",
+    "category": "Red"
+  },
+  {
+    "name": "Red 192",
+    "hex": "#9a301d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 193",
+    "hex": "#a61410",
+    "category": "Red"
+  },
+  {
+    "name": "Red 194",
+    "hex": "#af1c07",
+    "category": "Red"
+  },
+  {
+    "name": "Red 195",
+    "hex": "#981e1e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 197",
+    "hex": "#ac0d0a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 198",
+    "hex": "#a9150d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 196",
+    "hex": "#8f2e26",
+    "category": "Red"
+  },
+  {
+    "name": "Red 199",
+    "hex": "#a12414",
+    "category": "Red"
+  },
+  {
+    "name": "Red 200",
+    "hex": "#a7130b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 201",
+    "hex": "#9b2917",
+    "category": "Red"
+  },
+  {
+    "name": "Red 202",
+    "hex": "#a3190f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 203",
+    "hex": "#b00602",
+    "category": "Red"
+  },
+  {
+    "name": "Red 204",
+    "hex": "#b00501",
+    "category": "Red"
+  },
+  {
+    "name": "Red 205",
+    "hex": "#9f1d12",
+    "category": "Red"
+  },
+  {
+    "name": "Red 206",
+    "hex": "#ab1705",
+    "category": "Red"
+  },
+  {
+    "name": "Red 207",
+    "hex": "#90271c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 208",
+    "hex": "#8f241d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 209",
+    "hex": "#9e230d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 210",
+    "hex": "#a50c05",
+    "category": "Red"
+  },
+  {
+    "name": "Red 211",
+    "hex": "#9b110f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 212",
+    "hex": "#981610",
+    "category": "Red"
+  },
+  {
+    "name": "Red 213",
+    "hex": "#a60801",
+    "category": "Red"
+  },
+  {
+    "name": "Red 214",
+    "hex": "#a10b06",
+    "category": "Red"
+  },
+  {
+    "name": "Red 215",
+    "hex": "#962210",
+    "category": "Red"
+  },
+  {
+    "name": "Red 216",
+    "hex": "#832b1e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 217",
+    "hex": "#891c18",
+    "category": "Red"
+  },
+  {
+    "name": "Red 218",
+    "hex": "#9f0500",
+    "category": "Red"
+  },
+  {
+    "name": "Red 219",
+    "hex": "#7b2c22",
+    "category": "Red"
+  },
+  {
+    "name": "Red 222",
+    "hex": "#941c09",
+    "category": "Red"
+  },
+  {
+    "name": "Red 221",
+    "hex": "#831e1a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 220",
+    "hex": "#7a2622",
+    "category": "Red"
+  },
+  {
+    "name": "Red 223",
+    "hex": "#941d07",
+    "category": "Red"
+  },
+  {
+    "name": "Red 225",
+    "hex": "#931907",
+    "category": "Red"
+  },
+  {
+    "name": "Red 226",
+    "hex": "#8a1f10",
+    "category": "Red"
+  },
+  {
+    "name": "Red 224",
+    "hex": "#881411",
+    "category": "Red"
+  },
+  {
+    "name": "Red 227",
+    "hex": "#7e231b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 228",
+    "hex": "#882310",
+    "category": "Red"
+  },
+  {
+    "name": "Red 229",
+    "hex": "#782020",
+    "category": "Red"
+  },
+  {
+    "name": "Red 230",
+    "hex": "#961001",
+    "category": "Red"
+  },
+  {
+    "name": "Red 231",
+    "hex": "#8f0a08",
+    "category": "Red"
+  },
+  {
+    "name": "Red 232",
+    "hex": "#8a1a0d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 233",
+    "hex": "#77211e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 235",
+    "hex": "#85120e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 234",
+    "hex": "#900a03",
+    "category": "Red"
+  },
+  {
+    "name": "Red 236",
+    "hex": "#7f1c14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 237",
+    "hex": "#752b1d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 238",
+    "hex": "#900301",
+    "category": "Red"
+  },
+  {
+    "name": "Red 239",
+    "hex": "#820e0b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 240",
+    "hex": "#7d1b0e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 241",
+    "hex": "#781713",
+    "category": "Red"
+  },
+  {
+    "name": "Red 242",
+    "hex": "#761c14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 243",
+    "hex": "#840605",
+    "category": "Red"
+  },
+  {
+    "name": "Red 244",
+    "hex": "#840d05",
+    "category": "Red"
+  },
+  {
+    "name": "Red 245",
+    "hex": "#800a07",
+    "category": "Red"
+  },
+  {
+    "name": "Red 246",
+    "hex": "#6e1a18",
+    "category": "Red"
+  },
+  {
+    "name": "Red 247",
+    "hex": "#74110e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 248",
+    "hex": "#6c1915",
+    "category": "Red"
+  },
+  {
+    "name": "Red 249",
+    "hex": "#75150c",
+    "category": "Red"
+  },
+  {
+    "name": "Red 250",
+    "hex": "#64261d",
+    "category": "Red"
+  },
+  {
+    "name": "Red 251",
+    "hex": "#7b0403",
+    "category": "Red"
+  },
+  {
+    "name": "Red 252",
+    "hex": "#7c1102",
+    "category": "Red"
+  },
+  {
+    "name": "Red 254",
+    "hex": "#7a0604",
+    "category": "Red"
+  },
+  {
+    "name": "Red 255",
+    "hex": "#682016",
+    "category": "Red"
+  },
+  {
+    "name": "Red 256",
+    "hex": "#6b1412",
+    "category": "Red"
+  },
+  {
+    "name": "Red 253",
+    "hex": "#791804",
+    "category": "Red"
+  },
+  {
+    "name": "Red 257",
+    "hex": "#691512",
+    "category": "Red"
+  },
+  {
+    "name": "Red 259",
+    "hex": "#761403",
+    "category": "Red"
+  },
+  {
+    "name": "Red 258",
+    "hex": "#700f09",
+    "category": "Red"
+  },
+  {
+    "name": "Red 260",
+    "hex": "#6d1b0b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 261",
+    "hex": "#5c1c1b",
+    "category": "Red"
+  },
+  {
+    "name": "Red 262",
+    "hex": "#751302",
+    "category": "Red"
+  },
+  {
+    "name": "Red 263",
+    "hex": "#5e1b19",
+    "category": "Red"
+  },
+  {
+    "name": "Red 264",
+    "hex": "#611a15",
+    "category": "Red"
+  },
+  {
+    "name": "Red 265",
+    "hex": "#67150e",
+    "category": "Red"
+  },
+  {
+    "name": "Red 266",
+    "hex": "#621413",
+    "category": "Red"
+  },
+  {
+    "name": "Red 267",
+    "hex": "#5d1e17",
+    "category": "Red"
+  },
+  {
+    "name": "Red 269",
+    "hex": "#62100f",
+    "category": "Red"
+  },
+  {
+    "name": "Red 268",
+    "hex": "#710500",
+    "category": "Red"
+  },
+  {
+    "name": "Red 270",
+    "hex": "#670c0a",
+    "category": "Red"
+  },
+  {
+    "name": "Red 271",
+    "hex": "#5c1614",
+    "category": "Red"
+  },
+  {
+    "name": "Red 272",
+    "hex": "#561c19",
+    "category": "Red"
+  },
+  {
+    "name": "Red 273",
+    "hex": "#691606",
+    "category": "Red"
+  },
+  {
+    "name": "Red 275",
+    "hex": "#572117",
+    "category": "Red"
+  },
+  {
+    "name": "Red 274",
+    "hex": "#591c15",
+    "category": "Red"
+  },
+  {
+    "name": "Red 276",
+    "hex": "#5a1313",
+    "category": "Red"
+  },
+  {
+    "name": "Red 278",
+    "hex": "#561f14",
+    "category": "Red"
+  },
+  {
+    "name": "Red 277",
+    "hex": "#680502",
+    "category": "Red"
+  },
+  {
+    "name": "Red 281",
+    "hex": "#621207",
+    "category": "Red"
+  },
+  {
+    "name": "Red 279",
+    "hex": "#591210",
+    "category": "Red"
+  },
+  {
+    "name": "Red 282",
+    "hex": "#600c09",
+    "category": "Red"
+  },
+  {
+    "name": "Red 280",
+    "hex": "#531e15",
+    "category": "Red"
+  },
+  {
+    "name": "Red 283",
+    "hex": "#5c0f0c",
+    "category": "Red"
+  }
+]

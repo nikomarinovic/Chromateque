@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Deep Lavender",
+    "hex": "#ded2f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Orchid",
+    "hex": "#e0d4f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Violet",
+    "hex": "#d7cdfc",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Plum",
+    "hex": "#ded5f4",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Lavender",
+    "hex": "#e5cff9",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Mystic",
+    "hex": "#d9d0f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Grape",
+    "hex": "#e9d1f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Grape",
+    "hex": "#cec8fc",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Violet",
+    "hex": "#ead0f4",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Orchid",
+    "hex": "#dbc9fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Amethyst",
+    "hex": "#e6c8fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Violet",
+    "hex": "#d8d0f1",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Lavender",
+    "hex": "#dac9f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Amethyst",
+    "hex": "#e8c1ff",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Grape",
+    "hex": "#ddc9f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Royal",
+    "hex": "#dfc6f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Violet",
+    "hex": "#decdf0",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Mystic",
+    "hex": "#dfc6f7",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Royal",
+    "hex": "#d8c6f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Plum",
+    "hex": "#e7c0f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Plum",
+    "hex": "#c7bffa",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Lavender",
+    "hex": "#e7c3f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Amethyst",
+    "hex": "#c6c1f7",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Mystic",
+    "hex": "#c5bff8",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Mystic",
+    "hex": "#d0bcf8",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Plum",
+    "hex": "#e1c3f1",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Plum",
+    "hex": "#c6bcf7",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Violet",
+    "hex": "#c1b3fc",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Royal",
+    "hex": "#d9bdf2",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Mystic",
+    "hex": "#d5bcf2",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Grape",
+    "hex": "#d9c2ec",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Orchid",
+    "hex": "#e8b0fd",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Amethyst",
+    "hex": "#dfb2fb",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Amethyst",
+    "hex": "#e1b1f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Orchid",
+    "hex": "#e3aff9",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Lavender",
+    "hex": "#ddb1f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Mystic",
+    "hex": "#bcaafc",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Lavender",
+    "hex": "#d3b8ee",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Plum",
+    "hex": "#cbb6ef",
+    "category": "Purple"
+  },
+  {
+    "name": "Deep Orchid",
+    "hex": "#debaea",
+    "category": "Purple"
+  },
+  {
+    "name": "Soft Royal",
+    "hex": "#d1aafa",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Royal",
+    "hex": "#e4abf8",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Grape",
+    "hex": "#e1abf7",
+    "category": "Purple"
+  },
+  {
+    "name": "Velvet Orchid",
+    "hex": "#d5aff3",
+    "category": "Purple"
+  },
+  {
+    "name": "Dark Grape",
+    "hex": "#c8a6fc",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Violet",
+    "hex": "#b8adf4",
+    "category": "Purple"
+  },
+  {
+    "name": "Electric Amethyst",
+    "hex": "#c5b5ea",
+    "category": "Purple"
+  },
+  {
+    "name": "Dream Royal",
+    "hex": "#c4a4fb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 1",
+    "hex": "#a99ffe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 2",
+    "hex": "#b3a7f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 3",
+    "hex": "#d9abf1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 4",
+    "hex": "#d0a3f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 5",
+    "hex": "#cab3e6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 6",
+    "hex": "#aba2f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 7",
+    "hex": "#c0a7ef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 8",
+    "hex": "#cbabe9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 9",
+    "hex": "#b8ace7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 10",
+    "hex": "#c59df5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 11",
+    "hex": "#b8a3ee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 12",
+    "hex": "#bf99f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 13",
+    "hex": "#bd91fc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 14",
+    "hex": "#9f8dff",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 15",
+    "hex": "#cc8cff",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 16",
+    "hex": "#bea7e4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 17",
+    "hex": "#9d8dfd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 18",
+    "hex": "#b9a7e3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 19",
+    "hex": "#9a8aff",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 20",
+    "hex": "#a692f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 21",
+    "hex": "#bb86ff",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 22",
+    "hex": "#c589fb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 23",
+    "hex": "#9c93f1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 24",
+    "hex": "#9f94ef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 25",
+    "hex": "#d88cf7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 27",
+    "hex": "#d394ee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 26",
+    "hex": "#c69fe2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 28",
+    "hex": "#b690f1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 29",
+    "hex": "#cd9ae7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 30",
+    "hex": "#c09ae6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 31",
+    "hex": "#978af5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 32",
+    "hex": "#c281fe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 33",
+    "hex": "#bf84fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 34",
+    "hex": "#c78cf1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 35",
+    "hex": "#c284f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 36",
+    "hex": "#cd8aed",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 37",
+    "hex": "#b394e3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 38",
+    "hex": "#a287f0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 39",
+    "hex": "#ae90e6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 40",
+    "hex": "#a388ee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 41",
+    "hex": "#b393e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 42",
+    "hex": "#9b89eb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 43",
+    "hex": "#c68aea",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 45",
+    "hex": "#978fe4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 44",
+    "hex": "#9289ea",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 46",
+    "hex": "#c891e0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 47",
+    "hex": "#a47ef2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 48",
+    "hex": "#bd91dd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 49",
+    "hex": "#af83eb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 50",
+    "hex": "#c573f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 52",
+    "hex": "#997bef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 53",
+    "hex": "#c575f5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 51",
+    "hex": "#a48fdb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 54",
+    "hex": "#b18ddc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 55",
+    "hex": "#a78fda",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 57",
+    "hex": "#a287e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 56",
+    "hex": "#ae6cfc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 58",
+    "hex": "#be7bed",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 59",
+    "hex": "#9776f2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 60",
+    "hex": "#bd85e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 61",
+    "hex": "#ad71f6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 62",
+    "hex": "#aa68fe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 63",
+    "hex": "#9e78ed",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 64",
+    "hex": "#9375ef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 65",
+    "hex": "#a46df7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 66",
+    "hex": "#856ff4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 67",
+    "hex": "#a573f0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 68",
+    "hex": "#9c6cf6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 69",
+    "hex": "#9a80e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 71",
+    "hex": "#ae7fe1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 70",
+    "hex": "#b57ce3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 72",
+    "hex": "#ae6ef1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 73",
+    "hex": "#9271ee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 74",
+    "hex": "#b47fdf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 75",
+    "hex": "#876ef0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 76",
+    "hex": "#ad63fb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 77",
+    "hex": "#8162fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 78",
+    "hex": "#af64f7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 79",
+    "hex": "#b370eb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 80",
+    "hex": "#b962f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 81",
+    "hex": "#867cdf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 82",
+    "hex": "#9161f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 83",
+    "hex": "#8981d8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 84",
+    "hex": "#c178e1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 85",
+    "hex": "#cf5bfe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 86",
+    "hex": "#be82d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 87",
+    "hex": "#ad5bfd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 88",
+    "hex": "#9f82d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 89",
+    "hex": "#b262f3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 90",
+    "hex": "#b875df",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 91",
+    "hex": "#925bf9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 92",
+    "hex": "#aa7dd6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 93",
+    "hex": "#c85ef2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 94",
+    "hex": "#be74dc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 95",
+    "hex": "#8575db",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 96",
+    "hex": "#a46ee1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 97",
+    "hex": "#8a52fd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 98",
+    "hex": "#8a69e5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 99",
+    "hex": "#c85eee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 100",
+    "hex": "#c662ea",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 101",
+    "hex": "#ba6ae1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 102",
+    "hex": "#745eec",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 103",
+    "hex": "#a06adf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 104",
+    "hex": "#895cec",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 105",
+    "hex": "#7757f0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 106",
+    "hex": "#6049fe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 107",
+    "hex": "#a867de",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 109",
+    "hex": "#a34ef6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 108",
+    "hex": "#b567dc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 110",
+    "hex": "#9868db",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 111",
+    "hex": "#6a49fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 112",
+    "hex": "#896ed2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 113",
+    "hex": "#9c6cd3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 114",
+    "hex": "#846ed1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 115",
+    "hex": "#9b50ef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 116",
+    "hex": "#b968d5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 117",
+    "hex": "#9f3dfe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 119",
+    "hex": "#9a4af0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 120",
+    "hex": "#933cfe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 118",
+    "hex": "#5c47f2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 121",
+    "hex": "#8163d2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 122",
+    "hex": "#a235fc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 123",
+    "hex": "#9258d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 124",
+    "hex": "#bf3df1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 125",
+    "hex": "#7a3ef0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 126",
+    "hex": "#6139f4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 128",
+    "hex": "#8f60cd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 127",
+    "hex": "#9f34f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 130",
+    "hex": "#af53d9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 129",
+    "hex": "#5f3eed",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 131",
+    "hex": "#a55fcc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 132",
+    "hex": "#6948e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 133",
+    "hex": "#9755d3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 134",
+    "hex": "#8b5ccb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 135",
+    "hex": "#a640e6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 136",
+    "hex": "#ab44e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 137",
+    "hex": "#5849dc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 138",
+    "hex": "#6e42e0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 139",
+    "hex": "#ad32f0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 140",
+    "hex": "#6040e2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 142",
+    "hex": "#6e4cd6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 141",
+    "hex": "#523ee3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 143",
+    "hex": "#b42bf6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 144",
+    "hex": "#9a40e1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 145",
+    "hex": "#3b21ff",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 146",
+    "hex": "#5339e6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 147",
+    "hex": "#7753c9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 148",
+    "hex": "#a142da",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 149",
+    "hex": "#8b3ae1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 150",
+    "hex": "#7042d7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 151",
+    "hex": "#923fda",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 152",
+    "hex": "#c31cfc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 153",
+    "hex": "#614fc9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 154",
+    "hex": "#7548cf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 156",
+    "hex": "#8829ec",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 155",
+    "hex": "#ad3cd9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 159",
+    "hex": "#9d35e0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 157",
+    "hex": "#644fc5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 158",
+    "hex": "#9548cc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 160",
+    "hex": "#b117fa",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 161",
+    "hex": "#903ed2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 162",
+    "hex": "#5417f8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 163",
+    "hex": "#5f2ce1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 164",
+    "hex": "#9021ec",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 165",
+    "hex": "#6137d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 166",
+    "hex": "#943ad2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 167",
+    "hex": "#6246c6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 168",
+    "hex": "#6928e3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 169",
+    "hex": "#7d1bef",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 170",
+    "hex": "#602fdb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 171",
+    "hex": "#5920e8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 172",
+    "hex": "#6222e5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 174",
+    "hex": "#5431d5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 173",
+    "hex": "#6113f3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 175",
+    "hex": "#671de6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 176",
+    "hex": "#3d0bf7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 177",
+    "hex": "#a82fd2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 178",
+    "hex": "#7435cc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 179",
+    "hex": "#7222dd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 180",
+    "hex": "#9c1ee1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 181",
+    "hex": "#661ce2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 182",
+    "hex": "#3f26d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 184",
+    "hex": "#2c0dee",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 183",
+    "hex": "#a802f9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 185",
+    "hex": "#560fea",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 186",
+    "hex": "#6c27d2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 187",
+    "hex": "#6012e6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 188",
+    "hex": "#9235c2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 189",
+    "hex": "#7f1add",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 190",
+    "hex": "#552dc8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 191",
+    "hex": "#9824d0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 192",
+    "hex": "#9322d0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 193",
+    "hex": "#6d14de",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 195",
+    "hex": "#4f35bc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 194",
+    "hex": "#5f0be6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 196",
+    "hex": "#5839b8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 197",
+    "hex": "#742cc5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 198",
+    "hex": "#301dcf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 199",
+    "hex": "#4329c3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 200",
+    "hex": "#4d22c6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 201",
+    "hex": "#850eda",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 202",
+    "hex": "#6438ab",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 203",
+    "hex": "#2e06dc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 204",
+    "hex": "#5d2eb4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 205",
+    "hex": "#4829b8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 206",
+    "hex": "#5a0fd2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 207",
+    "hex": "#7b0fd2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 208",
+    "hex": "#9611d0",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 209",
+    "hex": "#4f0cd4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 210",
+    "hex": "#7a17c9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 211",
+    "hex": "#310ad4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 212",
+    "hex": "#891ebf",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 213",
+    "hex": "#8b34a8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 214",
+    "hex": "#6b23b9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 215",
+    "hex": "#5a21ba",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 216",
+    "hex": "#7c1ebc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 219",
+    "hex": "#7a04d6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 218",
+    "hex": "#4927b3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 217",
+    "hex": "#8322b7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 220",
+    "hex": "#671abe",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 221",
+    "hex": "#2e22b6",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 222",
+    "hex": "#2813c4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 223",
+    "hex": "#6929ae",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 225",
+    "hex": "#5417bd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 224",
+    "hex": "#220aca",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 226",
+    "hex": "#5c359e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 227",
+    "hex": "#5b23ae",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 228",
+    "hex": "#6515ba",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 229",
+    "hex": "#5c11be",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 230",
+    "hex": "#5102cd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 231",
+    "hex": "#4c2ea1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 232",
+    "hex": "#8512bc",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 233",
+    "hex": "#4501cd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 236",
+    "hex": "#76309c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 234",
+    "hex": "#5f22aa",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 235",
+    "hex": "#8221ab",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 238",
+    "hex": "#6c2d9e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 237",
+    "hex": "#6c00cb",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 239",
+    "hex": "#812b9f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 240",
+    "hex": "#7f2e9c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 241",
+    "hex": "#4427a1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 242",
+    "hex": "#8716b2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 243",
+    "hex": "#5d06c2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 244",
+    "hex": "#4f03c5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 246",
+    "hex": "#7a3296",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 245",
+    "hex": "#7c02c5",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 247",
+    "hex": "#4d2e99",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 248",
+    "hex": "#3824a2",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 249",
+    "hex": "#4f19a9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 250",
+    "hex": "#5918a9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 251",
+    "hex": "#6f04bd",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 252",
+    "hex": "#360ab7",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 253",
+    "hex": "#74209e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 254",
+    "hex": "#1f0fae",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 255",
+    "hex": "#531e9f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 256",
+    "hex": "#2614a9",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 257",
+    "hex": "#4b2a92",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 259",
+    "hex": "#740ead",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 258",
+    "hex": "#6d209b",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 260",
+    "hex": "#6c08b3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 261",
+    "hex": "#7202b8",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 262",
+    "hex": "#4116a3",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 263",
+    "hex": "#6f08b1",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 264",
+    "hex": "#6004b4",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 265",
+    "hex": "#412493",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 266",
+    "hex": "#712c8a",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 267",
+    "hex": "#552292",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 269",
+    "hex": "#541f94",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 268",
+    "hex": "#2d2390",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 270",
+    "hex": "#1a04ac",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 271",
+    "hex": "#551b95",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 272",
+    "hex": "#61129d",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 273",
+    "hex": "#541b94",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 274",
+    "hex": "#3f2b82",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 275",
+    "hex": "#6c109d",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 276",
+    "hex": "#2a1697",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 278",
+    "hex": "#2200ac",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 277",
+    "hex": "#5201ab",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 279",
+    "hex": "#611497",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 280",
+    "hex": "#532288",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 281",
+    "hex": "#1d0b9f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 283",
+    "hex": "#550c9c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 282",
+    "hex": "#651a8e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 284",
+    "hex": "#512781",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 285",
+    "hex": "#421f86",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 286",
+    "hex": "#33099c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 287",
+    "hex": "#581f85",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 288",
+    "hex": "#2d1a8a",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 291",
+    "hex": "#4c2879",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 289",
+    "hex": "#610b95",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 290",
+    "hex": "#19069a",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 292",
+    "hex": "#571987",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 293",
+    "hex": "#5f2678",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 294",
+    "hex": "#30118c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 295",
+    "hex": "#1b0697",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 296",
+    "hex": "#600e8e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 297",
+    "hex": "#431189",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 298",
+    "hex": "#180b8f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 299",
+    "hex": "#350692",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 300",
+    "hex": "#380294",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 301",
+    "hex": "#511084",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 302",
+    "hex": "#47157f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 303",
+    "hex": "#4a1d75",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 304",
+    "hex": "#261181",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 305",
+    "hex": "#260d84",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 306",
+    "hex": "#10048d",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 307",
+    "hex": "#31206e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 308",
+    "hex": "#3d1b73",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 309",
+    "hex": "#490886",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 310",
+    "hex": "#4f1776",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 311",
+    "hex": "#391177",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 312",
+    "hex": "#290a7e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 313",
+    "hex": "#291b6b",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 314",
+    "hex": "#5a0680",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 315",
+    "hex": "#3d176f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 316",
+    "hex": "#440a7c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 317",
+    "hex": "#361e66",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 318",
+    "hex": "#32067d",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 319",
+    "hex": "#501f64",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 320",
+    "hex": "#471071",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 321",
+    "hex": "#4b0c75",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 322",
+    "hex": "#401b64",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 323",
+    "hex": "#450b74",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 324",
+    "hex": "#3d0677",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 325",
+    "hex": "#32116b",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 326",
+    "hex": "#231467",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 329",
+    "hex": "#560772",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 327",
+    "hex": "#271564",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 328",
+    "hex": "#150078",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 330",
+    "hex": "#44175e",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 331",
+    "hex": "#431164",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 332",
+    "hex": "#2d1b59",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 333",
+    "hex": "#3e1460",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 336",
+    "hex": "#3c046f",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 334",
+    "hex": "#451a59",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 335",
+    "hex": "#431959",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 337",
+    "hex": "#2a1859",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 338",
+    "hex": "#1a0868",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 339",
+    "hex": "#36145c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 340",
+    "hex": "#1b0d62",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 342",
+    "hex": "#260866",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 344",
+    "hex": "#14026c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 341",
+    "hex": "#3a0569",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 343",
+    "hex": "#40115d",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 345",
+    "hex": "#26036a",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 347",
+    "hex": "#40115c",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 346",
+    "hex": "#3e1854",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 348",
+    "hex": "#290a60",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 349",
+    "hex": "#4c0167",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 351",
+    "hex": "#280365",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 350",
+    "hex": "#2b0265",
+    "category": "Purple"
+  },
+  {
+    "name": "Purple 352",
+    "hex": "#490364",
+    "category": "Purple"
+  }
+]

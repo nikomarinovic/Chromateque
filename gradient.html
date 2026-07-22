@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Chromateque — All Colors</title>
+    <title>Chromateque — Gradient Generator</title>
     <meta
       name="description"
-      content="Explore every curated color in the Chromateque archive."
+      content="Build linear or radial CSS gradients from any number of color stops and copy the code instantly."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -17,7 +17,7 @@
     <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style_index.css" />
   </head>
-  <body data-mode="archive">
+  <body data-mode="tool">
     <header class="nav">
       <div class="container nav-inner">
         <a href="index.html" class="brand">
@@ -43,46 +43,54 @@
           </div>
         </nav>
         <div class="nav-cta">
-          <a href="index.html#generator" class="btn btn-ghost">Generator</a>
-          <a href="palettes.html" class="btn btn-primary">View Palettes</a>
+          <a href="converter.html" class="btn btn-ghost">Converter</a>
+          <a href="colors.html" class="btn btn-primary">Browse Colors</a>
         </div>
       </div>
     </header>
 
     <main>
-      <section class="section">
+      <section class="section tool-hero" style="padding-bottom: 32px;">
         <div class="container">
-          <div class="section-head">
-            <div>
-              <h2>All colors</h2>
-              <p>Every curated color in the archive, organized in order.</p>
+          <div class="docs-eyebrow">Tools</div>
+          <h1>Gradient generator</h1>
+          <p>
+            Add color stops and drag them directly on the bar to reposition
+            them. Switch between linear, radial and conic gradients, then
+            copy the CSS whenever you're happy with it.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" style="padding-top: 8px;">
+        <div class="container">
+          <div class="tool-card">
+            <div id="gradient-preview" class="gradient-preview"></div>
+            <div id="gradient-track" class="gradient-track" role="group" aria-label="Drag to reposition color stops"></div>
+
+            <div class="gradient-controls">
+              <select id="gradient-type" class="gen-select">
+                <option value="linear">Linear</option>
+                <option value="radial">Radial</option>
+                <option value="conic">Conic</option>
+              </select>
+              <div id="gradient-angle-wrap" style="display:flex; align-items:center; gap:10px;">
+                <input id="gradient-angle" type="range" min="0" max="360" value="90" style="accent-color: var(--ink);" />
+                <span id="gradient-angle-label" style="font-size: 12.5px; color:#71717a; font-family:'JetBrains Mono', monospace; min-width: 38px;">90°</span>
+              </div>
+              <button id="gradient-add-stop" class="btn btn-secondary" type="button">+ Add stop</button>
+              <button id="gradient-random" class="btn btn-primary" type="button">Randomize</button>
+            </div>
+
+            <div id="gradient-stops" class="gradient-stops"></div>
+
+            <div class="gradient-code">
+              <pre class="code-block"><code id="gradient-code-value">background: linear-gradient(90deg, #6366f1 0%, #ec4899 50%, #f59e0b 100%);</code></pre>
+              <button id="gradient-copy-code" class="format-copy" type="button" aria-label="Copy CSS">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+              </button>
             </div>
           </div>
-
-          <div class="colors-toolbar">
-            <p id="color-count" class="color-count">Loading colors…</p>
-            <div class="search-field">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
-              <input id="color-search" type="text" placeholder="Search by name or hex…" autocomplete="off" />
-            </div>
-          </div>
-
-          <div class="tabs" data-color-tabs>
-            <button class="tab is-active">All</button>
-            <button class="tab">Neutrals</button>
-            <button class="tab">Blue</button>
-            <button class="tab">Green</button>
-            <button class="tab">Red</button>
-            <button class="tab">Orange</button>
-            <button class="tab">Yellow</button>
-            <button class="tab">Pink</button>
-            <button class="tab">Purple</button>
-            <button class="tab">Cyan</button>
-            <button class="tab">Cyberpunk</button>
-            <button class="tab">Pastel</button>
-          </div>
-
-          <div class="color-grid" id="color-grid"></div>
         </div>
       </section>
     </main>
@@ -104,12 +112,7 @@
               who obsess over hex codes.
             </p>
             <div class="footer-social">
-              <a
-                href="https://github.com/nikomarinovic"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="GitHub"
-              >
+              <a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer" aria-label="GitHub">
                 <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
               </a>
             </div>
@@ -162,6 +165,6 @@
     </footer>
 
     <script src="js/nav.js" defer></script>
-    <script src="js/colors-archive.js" defer></script>
+    <script src="js/gradient.js" defer></script>
   </body>
 </html>

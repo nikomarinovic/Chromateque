@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Cold Ocean",
+    "hex": "#e6fefc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Aqua",
+    "hex": "#e4f9ff",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Aqua",
+    "hex": "#e8f6fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Ice",
+    "hex": "#e3fbff",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Lagoon",
+    "hex": "#e8f6f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Aqua",
+    "hex": "#e3fcfd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Lagoon",
+    "hex": "#e4fcf9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Arctic",
+    "hex": "#e4f8fc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Lagoon",
+    "hex": "#e5fafa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Ocean",
+    "hex": "#e3faf5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Ice",
+    "hex": "#e0fbfc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Lagoon",
+    "hex": "#e4f3f6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Aqua",
+    "hex": "#dbfdf9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Sky",
+    "hex": "#dafcfe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Glacier",
+    "hex": "#dbfdf7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Sky",
+    "hex": "#dcfbf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Wave",
+    "hex": "#ddfaf7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Glacier",
+    "hex": "#ddf3f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Wave",
+    "hex": "#d7fef7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Ice",
+    "hex": "#daf8fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Lagoon",
+    "hex": "#d9faf5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Sky",
+    "hex": "#d4f7fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Arctic",
+    "hex": "#dbf7f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Arctic",
+    "hex": "#d8faf3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Ice",
+    "hex": "#daf1f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Ocean",
+    "hex": "#d7f4fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Glacier",
+    "hex": "#d4f6fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Ice",
+    "hex": "#d3f6fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Sky",
+    "hex": "#d0fcf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Glacier",
+    "hex": "#d4f6f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Arctic",
+    "hex": "#cefdfd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Sky",
+    "hex": "#cdfdfe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Wave",
+    "hex": "#d1faf3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Ocean",
+    "hex": "#d0fbf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Ocean",
+    "hex": "#d9edf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Arctic",
+    "hex": "#d6f2f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Aqua",
+    "hex": "#d6f2eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Glacier",
+    "hex": "#d0f2f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Glacier",
+    "hex": "#d5f2f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Sky",
+    "hex": "#d2f5ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Ocean",
+    "hex": "#d2f3ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Wave",
+    "hex": "#cef5ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Arctic",
+    "hex": "#c9f8fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Aqua",
+    "hex": "#c3fff8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Wave",
+    "hex": "#cff1ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Lagoon",
+    "hex": "#c2fdf5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Wave",
+    "hex": "#c8f6f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Ice",
+    "hex": "#cbf1e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 1",
+    "hex": "#c8f2f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 3",
+    "hex": "#c4f5f6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 2",
+    "hex": "#cbeeee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 4",
+    "hex": "#c4eff5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 5",
+    "hex": "#bff7f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 6",
+    "hex": "#bcf7f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 7",
+    "hex": "#baf4fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 8",
+    "hex": "#c3f1e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 9",
+    "hex": "#bbf3f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 10",
+    "hex": "#c1e7f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 11",
+    "hex": "#bff0f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 12",
+    "hex": "#b7faea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 13",
+    "hex": "#b6fbfb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 14",
+    "hex": "#c0e7f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 15",
+    "hex": "#bef2ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 16",
+    "hex": "#bdf2e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 17",
+    "hex": "#b4ecfa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 18",
+    "hex": "#b3e9fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 19",
+    "hex": "#b7e8f6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 21",
+    "hex": "#c0ece8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 20",
+    "hex": "#b9f3e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 22",
+    "hex": "#b8f3f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 25",
+    "hex": "#b4eaf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 23",
+    "hex": "#beeae4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 24",
+    "hex": "#b9efe6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 26",
+    "hex": "#adedf9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 27",
+    "hex": "#b6f0e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 28",
+    "hex": "#b6efe6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 29",
+    "hex": "#bbeae8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 30",
+    "hex": "#b0f5f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 31",
+    "hex": "#b4e4f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 32",
+    "hex": "#adf7f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 33",
+    "hex": "#b8ece1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 34",
+    "hex": "#a2eeff",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 35",
+    "hex": "#b4e3ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 37",
+    "hex": "#b6eadf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 36",
+    "hex": "#abf4e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 38",
+    "hex": "#a4e8fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 39",
+    "hex": "#9ffdec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 40",
+    "hex": "#9afef6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 41",
+    "hex": "#a4f4ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 42",
+    "hex": "#abece1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 43",
+    "hex": "#a9ebe3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 44",
+    "hex": "#98f4f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 45",
+    "hex": "#a6d9e8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 46",
+    "hex": "#a1eaec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 49",
+    "hex": "#98e2f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 47",
+    "hex": "#99f3e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 48",
+    "hex": "#92ecfa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 51",
+    "hex": "#93f1f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 50",
+    "hex": "#9af1ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 52",
+    "hex": "#a5dde5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 53",
+    "hex": "#8dfcec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 54",
+    "hex": "#9beede",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 55",
+    "hex": "#91f7f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 56",
+    "hex": "#92e8f6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 57",
+    "hex": "#a1e7e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 58",
+    "hex": "#8ef9e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 59",
+    "hex": "#9ae6ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 60",
+    "hex": "#96eef1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 61",
+    "hex": "#9fdde8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 62",
+    "hex": "#87fee0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 63",
+    "hex": "#94f0eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 64",
+    "hex": "#92f2e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 65",
+    "hex": "#92f1e4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 67",
+    "hex": "#99e8df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 66",
+    "hex": "#8eedf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 68",
+    "hex": "#8bf4e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 69",
+    "hex": "#84e0f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 70",
+    "hex": "#8eedef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 71",
+    "hex": "#96d3e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 72",
+    "hex": "#96dae5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 73",
+    "hex": "#7efbfd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 74",
+    "hex": "#90ead8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 77",
+    "hex": "#9bdfcf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 75",
+    "hex": "#8ceddb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 76",
+    "hex": "#98d6e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 78",
+    "hex": "#79fee3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 79",
+    "hex": "#81dff5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 80",
+    "hex": "#98ddd3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 81",
+    "hex": "#7df7e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 85",
+    "hex": "#8ee4d0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 82",
+    "hex": "#87e9eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 83",
+    "hex": "#90e2de",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 84",
+    "hex": "#83efea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 86",
+    "hex": "#87e8ea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 87",
+    "hex": "#8ed4e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 89",
+    "hex": "#72fde0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 88",
+    "hex": "#80daee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 90",
+    "hex": "#70eefe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 91",
+    "hex": "#88d9e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 92",
+    "hex": "#86e6ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 94",
+    "hex": "#8dded9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 95",
+    "hex": "#75dbf6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 93",
+    "hex": "#70f7fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 96",
+    "hex": "#70fadf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 97",
+    "hex": "#6affec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 98",
+    "hex": "#7aede9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 99",
+    "hex": "#7becde",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 100",
+    "hex": "#78edd1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 101",
+    "hex": "#86ded4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 102",
+    "hex": "#65effd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 105",
+    "hex": "#6ff3e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 103",
+    "hex": "#76ebd2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 104",
+    "hex": "#87cada",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 106",
+    "hex": "#73d8ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 107",
+    "hex": "#67e3fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 108",
+    "hex": "#82dddb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 109",
+    "hex": "#79cce6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 110",
+    "hex": "#6bf2eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 111",
+    "hex": "#72ebe9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 112",
+    "hex": "#5bfee4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 113",
+    "hex": "#75e1e4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 114",
+    "hex": "#69e4ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 116",
+    "hex": "#80cfd6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 115",
+    "hex": "#7bd0db",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 118",
+    "hex": "#60f4d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 117",
+    "hex": "#7bcbd9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 120",
+    "hex": "#79dbce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 119",
+    "hex": "#73d7e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 122",
+    "hex": "#73e0e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 121",
+    "hex": "#78dad9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 123",
+    "hex": "#78c8da",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 124",
+    "hex": "#59f8e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 125",
+    "hex": "#59f6e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 126",
+    "hex": "#74c2da",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 127",
+    "hex": "#6de1d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 128",
+    "hex": "#6ed7de",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 129",
+    "hex": "#53f8e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 130",
+    "hex": "#58e9f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 131",
+    "hex": "#4ef9d7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 132",
+    "hex": "#5cebe4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 133",
+    "hex": "#4cf9da",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 134",
+    "hex": "#73cfd0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 135",
+    "hex": "#61e1d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 136",
+    "hex": "#4df4e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 137",
+    "hex": "#60e1ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 138",
+    "hex": "#5bd9e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 139",
+    "hex": "#51d7f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 140",
+    "hex": "#5dd6e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 141",
+    "hex": "#6ad4c6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 142",
+    "hex": "#5fdecb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 143",
+    "hex": "#4eeecd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 144",
+    "hex": "#6dcfb7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 145",
+    "hex": "#48f3d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 146",
+    "hex": "#5ad9e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 147",
+    "hex": "#53e0e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 148",
+    "hex": "#60d7c2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 149",
+    "hex": "#53cee4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 150",
+    "hex": "#61ced5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 151",
+    "hex": "#37eafd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 152",
+    "hex": "#49cceb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 153",
+    "hex": "#4ad2ea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 154",
+    "hex": "#53e0c5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 155",
+    "hex": "#40f1e6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 157",
+    "hex": "#63c7ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 156",
+    "hex": "#43edcc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 158",
+    "hex": "#33fccd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 159",
+    "hex": "#39dff6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 161",
+    "hex": "#63b2cb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 160",
+    "hex": "#5ecfb8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 162",
+    "hex": "#4ac6e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 163",
+    "hex": "#2ee5fd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 164",
+    "hex": "#44e5d6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 165",
+    "hex": "#38f1d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 167",
+    "hex": "#4bdddb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 166",
+    "hex": "#2ef0fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 168",
+    "hex": "#47b9de",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 169",
+    "hex": "#3aebd0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 170",
+    "hex": "#47dcd4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 171",
+    "hex": "#2af7e8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 172",
+    "hex": "#4fb1d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 173",
+    "hex": "#37cde9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 174",
+    "hex": "#43dccc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 175",
+    "hex": "#4cd3c4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 176",
+    "hex": "#30d6ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 177",
+    "hex": "#2edcf0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 178",
+    "hex": "#28f2e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 179",
+    "hex": "#45cfd5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 180",
+    "hex": "#2ee8e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 181",
+    "hex": "#1fdbf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 182",
+    "hex": "#32e0d7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 183",
+    "hex": "#19f9e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 184",
+    "hex": "#34dcb7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 185",
+    "hex": "#2cdee4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 186",
+    "hex": "#3ecbd2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 187",
+    "hex": "#45c9a9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 188",
+    "hex": "#2fdfd1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 189",
+    "hex": "#2ebfe0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 190",
+    "hex": "#43aec9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 191",
+    "hex": "#44c8af",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 192",
+    "hex": "#2cbbe0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 193",
+    "hex": "#2dc5df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 194",
+    "hex": "#3ad1cd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 196",
+    "hex": "#2eb2dd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 197",
+    "hex": "#11defa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 195",
+    "hex": "#41bfca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 198",
+    "hex": "#16f4d2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 201",
+    "hex": "#24e6b8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 199",
+    "hex": "#17e8f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 200",
+    "hex": "#1fd2eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 202",
+    "hex": "#3aaecd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 203",
+    "hex": "#3dc8c4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 204",
+    "hex": "#09fbe4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 205",
+    "hex": "#28b1dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 206",
+    "hex": "#0cf6cf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 207",
+    "hex": "#22e0b3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 208",
+    "hex": "#0bf5e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 209",
+    "hex": "#1ac9e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 210",
+    "hex": "#0af4d6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 211",
+    "hex": "#3cc1a0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 212",
+    "hex": "#02fbca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 213",
+    "hex": "#3cc0ad",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 214",
+    "hex": "#1cb9e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 215",
+    "hex": "#31c6a8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 216",
+    "hex": "#19dddd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 217",
+    "hex": "#05bef1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 218",
+    "hex": "#0fe4d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 219",
+    "hex": "#30c2a9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 220",
+    "hex": "#24cdc7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 221",
+    "hex": "#39b798",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 222",
+    "hex": "#09e6c4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 223",
+    "hex": "#2fbfb3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 224",
+    "hex": "#27b4c7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 226",
+    "hex": "#11b4dd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 225",
+    "hex": "#0ce1dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 228",
+    "hex": "#15d8d5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 227",
+    "hex": "#0acce3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 229",
+    "hex": "#21becb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 230",
+    "hex": "#349ab7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 231",
+    "hex": "#0fdac9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 234",
+    "hex": "#14afd4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 232",
+    "hex": "#18d0be",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 233",
+    "hex": "#27c1a5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 235",
+    "hex": "#11afd5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 236",
+    "hex": "#2cbab8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 237",
+    "hex": "#19ccca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 238",
+    "hex": "#2eaeb5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 239",
+    "hex": "#2db5ae",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 240",
+    "hex": "#36a4ac",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 242",
+    "hex": "#1dbac4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 241",
+    "hex": "#11c3d0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 243",
+    "hex": "#11bece",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 244",
+    "hex": "#21a0be",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 245",
+    "hex": "#15b0ca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 246",
+    "hex": "#21bda9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 247",
+    "hex": "#1cc1a4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 248",
+    "hex": "#10adcd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 249",
+    "hex": "#09c2d4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 250",
+    "hex": "#24b7b5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 251",
+    "hex": "#33a896",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 252",
+    "hex": "#35a69e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 253",
+    "hex": "#2fab96",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 255",
+    "hex": "#34a5a3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 254",
+    "hex": "#2e9dab",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 256",
+    "hex": "#33a590",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 257",
+    "hex": "#17c1ae",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 259",
+    "hex": "#10c3c7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 260",
+    "hex": "#07c1d0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 261",
+    "hex": "#27a8b0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 263",
+    "hex": "#2fa892",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 258",
+    "hex": "#04c8d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 262",
+    "hex": "#2a8cac",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 264",
+    "hex": "#28aea5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 265",
+    "hex": "#09aecd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 266",
+    "hex": "#2aaaa1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 268",
+    "hex": "#1fb496",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 269",
+    "hex": "#07cccc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 267",
+    "hex": "#239db0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 270",
+    "hex": "#14adbc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 271",
+    "hex": "#04cca0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 272",
+    "hex": "#1eb2b2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 273",
+    "hex": "#27a991",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 274",
+    "hex": "#05c8a3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 275",
+    "hex": "#2289ab",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 276",
+    "hex": "#0ebebe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 278",
+    "hex": "#05a7c6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 277",
+    "hex": "#01afca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 279",
+    "hex": "#04c5a0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 280",
+    "hex": "#0abfa5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 281",
+    "hex": "#04a9c4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 282",
+    "hex": "#2092a7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 283",
+    "hex": "#289d84",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 284",
+    "hex": "#0db3b8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 285",
+    "hex": "#1ea1a7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 287",
+    "hex": "#1e99a7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 286",
+    "hex": "#0fb5a6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 288",
+    "hex": "#06b995",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 289",
+    "hex": "#03bbaf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 290",
+    "hex": "#07b69d",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 291",
+    "hex": "#0c89b1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 292",
+    "hex": "#10ac87",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 293",
+    "hex": "#2b8f83",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 294",
+    "hex": "#2a907b",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 295",
+    "hex": "#2d8a82",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 296",
+    "hex": "#288f8e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 297",
+    "hex": "#16a196",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 298",
+    "hex": "#0d92a9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 299",
+    "hex": "#01b3b3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 300",
+    "hex": "#11a38e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 301",
+    "hex": "#2b8388",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 302",
+    "hex": "#228f8c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 303",
+    "hex": "#248b83",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 304",
+    "hex": "#0ca19e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 305",
+    "hex": "#11839c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 307",
+    "hex": "#0e7d9d",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 306",
+    "hex": "#0b7da0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 309",
+    "hex": "#1e7d8c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 311",
+    "hex": "#148e96",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 310",
+    "hex": "#03a788",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 308",
+    "hex": "#0383a6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 312",
+    "hex": "#1f878a",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 313",
+    "hex": "#226e87",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 314",
+    "hex": "#119887",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 315",
+    "hex": "#277e81",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 316",
+    "hex": "#25826c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 317",
+    "hex": "#0c9998",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 318",
+    "hex": "#228175",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 319",
+    "hex": "#0c8295",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 320",
+    "hex": "#148d8c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 321",
+    "hex": "#1a8576",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 322",
+    "hex": "#168189",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 323",
+    "hex": "#089784",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 324",
+    "hex": "#017a9d",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 325",
+    "hex": "#038a9a",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 326",
+    "hex": "#0b7791",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 327",
+    "hex": "#0f8189",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 328",
+    "hex": "#197a7e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 329",
+    "hex": "#206074",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 330",
+    "hex": "#23716e",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 331",
+    "hex": "#0f846f",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 332",
+    "hex": "#186b79",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 333",
+    "hex": "#0b857f",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 335",
+    "hex": "#1b7275",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 334",
+    "hex": "#137c64",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 336",
+    "hex": "#098675",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 337",
+    "hex": "#0b8284",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 338",
+    "hex": "#0e817a",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 339",
+    "hex": "#1b6b73",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 340",
+    "hex": "#1e6070",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 341",
+    "hex": "#0a7481",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 342",
+    "hex": "#12796d",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 343",
+    "hex": "#1f586b",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 344",
+    "hex": "#0f5f78",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 345",
+    "hex": "#1f6662",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 346",
+    "hex": "#0d7773",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 347",
+    "hex": "#036881",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 348",
+    "hex": "#057d6c",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 349",
+    "hex": "#07687a",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 350",
+    "hex": "#1c5264",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 351",
+    "hex": "#0e7260",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cyan 352",
+    "hex": "#1d5a63",
+    "category": "Cyan"
+  }
+]

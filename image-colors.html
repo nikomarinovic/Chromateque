@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Chromateque — All Colors</title>
+    <title>Chromateque — Colors from Image</title>
     <meta
       name="description"
-      content="Explore every curated color in the Chromateque archive."
+      content="Upload any image and extract its dominant colors as a ready-to-use palette."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -17,7 +17,7 @@
     <link rel="icon" href="favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="style_index.css" />
   </head>
-  <body data-mode="archive">
+  <body data-mode="tool">
     <header class="nav">
       <div class="container nav-inner">
         <a href="index.html" class="brand">
@@ -43,46 +43,77 @@
           </div>
         </nav>
         <div class="nav-cta">
-          <a href="index.html#generator" class="btn btn-ghost">Generator</a>
-          <a href="palettes.html" class="btn btn-primary">View Palettes</a>
+          <a href="gradient.html" class="btn btn-ghost">Gradient</a>
+          <a href="colors.html" class="btn btn-primary">Browse Colors</a>
         </div>
       </div>
     </header>
 
     <main>
-      <section class="section">
+      <section class="section tool-hero" style="padding-bottom: 32px;">
         <div class="container">
-          <div class="section-head">
-            <div>
-              <h2>All colors</h2>
-              <p>Every curated color in the archive, organized in order.</p>
+          <div class="docs-eyebrow">Tools</div>
+          <h1>Colors from image</h1>
+          <p>
+            Drop in a photo, screenshot or artwork to pull out its dominant
+            colors, or use the eyedropper to click any exact pixel. Everything
+            runs in your browser — nothing is uploaded anywhere.
+          </p>
+        </div>
+      </section>
+
+      <section class="section" style="padding-top: 8px;">
+        <div class="container">
+          <div class="tool-card">
+            <div id="dropzone" class="dropzone" role="button" tabindex="0" aria-label="Upload an image">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+              <p>Drag & drop an image, or click to browse</p>
+              <p class="dz-sub">JPG, PNG, WebP, GIF — processed locally in your browser</p>
+              <input id="image-input" type="file" accept="image/*" />
+            </div>
+
+            <div style="margin-top: 18px; display:flex; align-items:center; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
+              <p id="image-status" class="field-hint" style="margin:0;"></p>
+              <div style="display:flex; align-items:center; gap:8px;">
+                <label class="field-hint" for="swatch-count" style="margin:0;">Max colors (3–32)</label>
+                <input
+                  id="swatch-count"
+                  type="number"
+                  class="field-input"
+                  min="3"
+                  max="32"
+                  step="1"
+                  value="8"
+                  style="width: 72px; padding: 7px 10px;"
+                />
+              </div>
+            </div>
+
+            <div id="image-results" class="image-preview-wrap" style="display:none;">
+              <div style="position: relative;">
+                <canvas id="image-canvas" style="cursor: crosshair;"></canvas>
+                <div id="pixel-hover-label" class="pixel-hover-label" style="display:none;">
+                  <span class="hover-swatch"></span>
+                  <span class="hover-hex">#000000</span>
+                </div>
+                <p class="field-hint" style="margin-top: 8px;">
+                  Hover to preview a pixel's exact color, click to pin it below.
+                </p>
+              </div>
+              <div>
+                <div class="field-label">Extracted palette</div>
+                <div id="extracted-grid" class="extracted-grid"></div>
+              </div>
+            </div>
+
+            <div id="picked-section" style="margin-top: 28px;">
+              <div class="field-label">Picked colors (eyedropper)</div>
+              <p id="picked-empty" class="field-hint">
+                Click anywhere on the image above to pick that exact pixel's color.
+              </p>
+              <div id="picked-grid" class="extracted-grid"></div>
             </div>
           </div>
-
-          <div class="colors-toolbar">
-            <p id="color-count" class="color-count">Loading colors…</p>
-            <div class="search-field">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m21 21-4.3-4.3"></path></svg>
-              <input id="color-search" type="text" placeholder="Search by name or hex…" autocomplete="off" />
-            </div>
-          </div>
-
-          <div class="tabs" data-color-tabs>
-            <button class="tab is-active">All</button>
-            <button class="tab">Neutrals</button>
-            <button class="tab">Blue</button>
-            <button class="tab">Green</button>
-            <button class="tab">Red</button>
-            <button class="tab">Orange</button>
-            <button class="tab">Yellow</button>
-            <button class="tab">Pink</button>
-            <button class="tab">Purple</button>
-            <button class="tab">Cyan</button>
-            <button class="tab">Cyberpunk</button>
-            <button class="tab">Pastel</button>
-          </div>
-
-          <div class="color-grid" id="color-grid"></div>
         </div>
       </section>
     </main>
@@ -104,12 +135,7 @@
               who obsess over hex codes.
             </p>
             <div class="footer-social">
-              <a
-                href="https://github.com/nikomarinovic"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="GitHub"
-              >
+              <a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer" aria-label="GitHub">
                 <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
               </a>
             </div>
@@ -162,6 +188,6 @@
     </footer>
 
     <script src="js/nav.js" defer></script>
-    <script src="js/colors-archive.js" defer></script>
+    <script src="js/image-colors.js" defer></script>
   </body>
 </html>
