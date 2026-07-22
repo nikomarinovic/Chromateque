@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Chromateque — Colors from Image</title>
+    <title>Chromateque — Trending</title>
     <meta
       name="description"
-      content="Upload any image and extract its dominant colors as a ready-to-use palette."
+      content="Today's Color of the Day, Palette of the Day, and what's trending across the Chromateque archive."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,13 +14,13 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="style_index.css" />
+    <link rel="icon" href="..assets/images/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
   </head>
-  <body data-mode="tool">
+  <body data-mode="trending">
     <header class="nav">
       <div class="container nav-inner">
-        <a href="index.html" class="brand">
+        <a href="../index.html" class="brand">
           <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
             <circle cx="13" cy="12" r="9" fill="#06b6d4" />
             <circle cx="19" cy="12" r="9" fill="#ec4899" />
@@ -29,9 +29,9 @@
           <span class="brand-name">Chromateque</span>
         </a>
         <nav class="nav-links">
-          <a href="index.html#explore">Explore</a>
+          <a href="../index.html#explore">Explore</a>
           <a href="palettes.html">Palettes</a>
-          <a href="index.html#generator">Generator</a>
+          <a href="../index.html#generator">Generator</a>
           <a href="trending.html">Trending</a>
           <div class="nav-dropdown">
             <button class="nav-dropdown-trigger" type="button">Tools</button>
@@ -43,77 +43,78 @@
           </div>
         </nav>
         <div class="nav-cta">
-          <a href="gradient.html" class="btn btn-ghost">Gradient</a>
-          <a href="colors.html" class="btn btn-primary">Browse Colors</a>
+          <a href="../index.html#generator" class="btn btn-ghost">Generator</a>
+          <a href="palettes.html" class="btn btn-primary">View Palettes</a>
         </div>
       </div>
     </header>
 
     <main>
-      <section class="section tool-hero" style="padding-bottom: 32px;">
+      <section class="section tool-hero" style="padding-bottom: 8px;">
         <div class="container">
-          <div class="docs-eyebrow">Tools</div>
-          <h1>Colors from image</h1>
+          <div class="docs-eyebrow">Trending</div>
+          <h1>What's hot in the archive today</h1>
           <p>
-            Drop in a photo, screenshot or artwork to pull out its dominant
-            colors, or use the eyedropper to click any exact pixel. Everything
-            runs in your browser — nothing is uploaded anywhere.
+            A new featured color and palette every day, plus a rotating look
+            at what's trending across the archive.
           </p>
         </div>
       </section>
 
-      <section class="section" style="padding-top: 8px;">
+      <section class="section" style="padding-top: 24px;">
         <div class="container">
-          <div class="tool-card">
-            <div id="dropzone" class="dropzone" role="button" tabindex="0" aria-label="Upload an image">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-              <p>Drag & drop an image, or click to browse</p>
-              <p class="dz-sub">JPG, PNG, WebP, GIF — processed locally in your browser</p>
-              <input id="image-input" type="file" accept="image/*" />
-            </div>
-
-            <div style="margin-top: 18px; display:flex; align-items:center; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
-              <p id="image-status" class="field-hint" style="margin:0;"></p>
-              <div style="display:flex; align-items:center; gap:8px;">
-                <label class="field-hint" for="swatch-count" style="margin:0;">Max colors (3–32)</label>
-                <input
-                  id="swatch-count"
-                  type="number"
-                  class="field-input"
-                  min="3"
-                  max="32"
-                  step="1"
-                  value="8"
-                  style="width: 72px; padding: 7px 10px;"
-                />
-              </div>
-            </div>
-
-            <div id="image-results" class="image-preview-wrap" style="display:none;">
-              <div style="position: relative;">
-                <canvas id="image-canvas" style="cursor: crosshair;"></canvas>
-                <div id="pixel-hover-label" class="pixel-hover-label" style="display:none;">
-                  <span class="hover-swatch"></span>
-                  <span class="hover-hex">#000000</span>
+          <div class="trending-hero-grid">
+            <article class="cod-card">
+              <div id="cod-swatch" class="cod-swatch"></div>
+              <div class="cod-meta">
+                <p class="cod-eyebrow">Color of the day</p>
+                <h2 id="cod-name" class="cod-name">—</h2>
+                <p id="cod-hex" class="cod-hex">—</p>
+                <div class="cod-actions">
+                  <button id="cod-copy" class="btn btn-primary">Copy hex</button>
+                  <a href="colors.html" class="btn btn-secondary">Browse colors</a>
                 </div>
-                <p class="field-hint" style="margin-top: 8px;">
-                  Hover to preview a pixel's exact color, click to pin it below.
-                </p>
               </div>
-              <div>
-                <div class="field-label">Extracted palette</div>
-                <div id="extracted-grid" class="extracted-grid"></div>
-              </div>
-            </div>
+            </article>
 
-            <div id="picked-section" style="margin-top: 28px;">
-              <div class="field-label">Picked colors (eyedropper)</div>
-              <p id="picked-empty" class="field-hint">
-                Click anywhere on the image above to pick that exact pixel's color.
-              </p>
-              <div id="picked-grid" class="extracted-grid"></div>
-            </div>
+            <article class="cod-card">
+              <div id="pod-swatches" class="pod-swatches"></div>
+              <div class="cod-meta">
+                <p class="cod-eyebrow">Palette of the day</p>
+                <h2 id="pod-name" class="cod-name">—</h2>
+                <div class="cod-actions">
+                  <button id="pod-copy" class="btn btn-primary">Copy CSS</button>
+                  <a href="palettes.html" class="btn btn-secondary">Browse palettes</a>
+                </div>
+              </div>
+            </article>
           </div>
+        </div>
+      </section>
+
+      <section class="section section-alt">
+        <div class="container">
+          <div class="section-head">
+            <div>
+              <h2>Trending palettes</h2>
+              <p>A rotating pick from the curated archive, refreshed daily.</p>
+            </div>
+            <a href="palettes.html" class="link-arrow">View all palettes →</a>
+          </div>
+          <div id="trending-palette-grid" class="palette-grid"></div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-head">
+            <div>
+              <h2>Trending colors</h2>
+              <p>Popular hex values people are copying right now.</p>
+            </div>
+            <a href="colors.html" class="link-arrow">View all colors →</a>
+          </div>
+          <div id="trending-color-grid" class="color-grid"></div>
         </div>
       </section>
     </main>
@@ -122,7 +123,7 @@
       <div class="container">
         <div class="footer-top">
           <div class="footer-brand">
-            <a href="index.html" class="brand">
+            <a href="../index.html" class="brand">
               <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <circle cx="13" cy="12" r="9" fill="#06b6d4" />
                 <circle cx="19" cy="12" r="9" fill="#ec4899" />
@@ -135,7 +136,12 @@
               who obsess over hex codes.
             </p>
             <div class="footer-social">
-              <a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer" aria-label="GitHub">
+              <a
+                href="https://github.com/nikomarinovic"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="GitHub"
+              >
                 <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
               </a>
             </div>
@@ -144,9 +150,9 @@
           <div class="footer-col">
             <h4>Product</h4>
             <ul>
-              <li><a href="index.html#explore">Explore</a></li>
+              <li><a href="../index.html#explore">Explore</a></li>
               <li><a href="palettes.html">Palettes</a></li>
-              <li><a href="index.html#generator">Generator</a></li>
+              <li><a href="../index.html#generator">Generator</a></li>
               <li><a href="trending.html">Trending</a></li>
               <li><a href="docs.html">Docs</a></li>
             </ul>
@@ -166,7 +172,7 @@
             <ul>
               <li><a href="colors.html">All colors</a></li>
               <li><a href="palettes.html">All palettes</a></li>
-              <li><a href="docs.html#api">API reference</a></li>
+              <li><a href="docs.html">API reference</a></li>
             </ul>
           </div>
 
@@ -174,8 +180,8 @@
             <h4>Community</h4>
             <ul>
               <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">GitHub</a></li>
-              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Contribute a palette</a></li>
-              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Report an issue</a></li>
+              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">Contribute a palette</a></li>
+              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">Report an issue</a></li>
             </ul>
           </div>
         </div>
@@ -187,7 +193,9 @@
       </div>
     </footer>
 
-    <script src="js/nav.js" defer></script>
-    <script src="js/image-colors.js" defer></script>
+    <script src="../assets/js/nav.js" defer></script>
+    <script src="../assets/js/colors.js" defer></script>
+    <script src="../assets/js/palettes.js" defer></script>
+    <script src="../assets/js/trending.js" defer></script>
   </body>
 </html>

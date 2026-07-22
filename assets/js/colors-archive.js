@@ -16,7 +16,7 @@ const ARCHIVE_CATEGORIES = [
   "Pastel",
   "Cyberpunk",
 ];
-const DATA_DIR = "colors";
+const DATA_DIR = "../data/colors";
 const BATCH_SIZE = 60;
 
 const grid = document.getElementById("color-grid");

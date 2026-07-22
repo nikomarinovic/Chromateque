@@ -14,13 +14,13 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="style_index.css" />
+    <link rel="icon" href="..assets/images/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
   </head>
   <body data-mode="archive">
     <header class="nav">
       <div class="container nav-inner">
-        <a href="index.html" class="brand">
+        <a href="../index.html" class="brand">
           <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
             <circle cx="13" cy="12" r="9" fill="#06b6d4" />
             <circle cx="19" cy="12" r="9" fill="#ec4899" />
@@ -29,9 +29,9 @@
           <span class="brand-name">Chromateque</span>
         </a>
         <nav class="nav-links">
-          <a href="index.html#explore">Explore</a>
+          <a href="../index.html#explore">Explore</a>
           <a href="palettes.html">Palettes</a>
-          <a href="index.html#generator">Generator</a>
+          <a href="../index.html#generator">Generator</a>
           <a href="trending.html">Trending</a>
           <div class="nav-dropdown">
             <button class="nav-dropdown-trigger" type="button">Tools</button>
@@ -43,8 +43,8 @@
           </div>
         </nav>
         <div class="nav-cta">
-          <a href="index.html#generator" class="btn btn-ghost">Generator</a>
-          <a href="colors.html" class="btn btn-primary">Browse Colors</a>
+          <a href="../index.html#generator" class="btn btn-ghost">Generator</a>
+          <a href="palettes.html" class="btn btn-primary">View Palettes</a>
         </div>
       </div>
     </header>
@@ -79,7 +79,7 @@
       <div class="container">
         <div class="footer-top">
           <div class="footer-brand">
-            <a href="index.html" class="brand">
+            <a href="../index.html" class="brand">
               <svg class="brand-mark" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <circle cx="13" cy="12" r="9" fill="#06b6d4" />
                 <circle cx="19" cy="12" r="9" fill="#ec4899" />
@@ -106,9 +106,9 @@
           <div class="footer-col">
             <h4>Product</h4>
             <ul>
-              <li><a href="index.html#explore">Explore</a></li>
+              <li><a href="../index.html#explore">Explore</a></li>
               <li><a href="palettes.html">Palettes</a></li>
-              <li><a href="index.html#generator">Generator</a></li>
+              <li><a href="../index.html#generator">Generator</a></li>
               <li><a href="trending.html">Trending</a></li>
               <li><a href="docs.html">Docs</a></li>
             </ul>
@@ -128,7 +128,7 @@
             <ul>
               <li><a href="colors.html">All colors</a></li>
               <li><a href="palettes.html">All palettes</a></li>
-              <li><a href="docs.html#api">API reference</a></li>
+              <li><a href="docs.html">API reference</a></li>
             </ul>
           </div>
 
@@ -136,8 +136,8 @@
             <h4>Community</h4>
             <ul>
               <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">GitHub</a></li>
-              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Contribute a palette</a></li>
-              <li><a href="https://github.com/nikomarinovic" target="_blank" rel="noreferrer">Report an issue</a></li>
+              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">Contribute a palette</a></li>
+              <li><a href="https://github.com/nikomarinovic/Chromateque" target="_blank" rel="noreferrer">Report an issue</a></li>
             </ul>
           </div>
         </div>
@@ -149,8 +149,8 @@
       </div>
     </footer>
 
-    <script src="js/nav.js" defer></script>
-    <script src="js/palettes.js" defer></script>
+    <script src="../assets/js/nav.js" defer></script>
+    <script src="../assets/js/palettes.js" defer></script>
     <script defer>
       window.addEventListener("DOMContentLoaded", () => {
         const grid = document.getElementById("palette-grid");
