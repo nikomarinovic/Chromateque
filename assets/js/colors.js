@@ -202,7 +202,7 @@ let showAll = pageMode === "archive";
 // real total rather than this file's length. We fetch it once and re-render.
 let archiveCounts = null; // { "Red": 15400, "Blue": 400, ... } from colors/manifest.json
 
-fetch("colors/manifest.json")
+fetch("../data/colors/manifest.json")
   .then((res) => (res.ok ? res.json() : null))
   .then((data) => {
     if (data && typeof data === "object") {
