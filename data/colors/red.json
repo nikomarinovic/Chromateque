@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Electric Blaze",
-    "hex": "#fbd0cf",
+    "name": "Bright Sienna",
+    "hex": "#f6d7d4",
     "category": "Red"
   },
   {
-    "name": "Dark Rose",
-    "hex": "#f7d7d2",
+    "name": "Brick Ancient",
+    "hex": "#fbd5cf",
     "category": "Red"
   },
   {
-    "name": "Electric Crimson",
-    "hex": "#f8d6d1",
+    "name": "Golden Blaze",
+    "hex": "#ffd2cb",
     "category": "Red"
   },
   {
-    "name": "Electric Scarlet",
-    "hex": "#fccecc",
+    "name": "Crimson Sienna",
+    "hex": "#f9d4ce",
     "category": "Red"
   },
   {
-    "name": "Deep Carmine",
-    "hex": "#fbd2cd",
+    "name": "Dramatic Dragon",
+    "hex": "#f6d4d1",
     "category": "Red"
   },
   {
-    "name": "Deep Wine",
-    "hex": "#facfcd",
+    "name": "Chili Powerful",
+    "hex": "#f8d3ce",
     "category": "Red"
   },
   {
-    "name": "Velvet Ember",
-    "hex": "#f6d5d0",
+    "name": "Coral Bold",
+    "hex": "#f9d1cc",
     "category": "Red"
   },
   {
-    "name": "Warm Ember",
-    "hex": "#facdcc",
+    "name": "Cayenne Autumn",
+    "hex": "#f8d3cc",
     "category": "Red"
   },
   {
-    "name": "Burning Wine",
-    "hex": "#f5d2d0",
+    "name": "Rose Wild",
+    "hex": "#facbca",
     "category": "Red"
   },
   {
-    "name": "Velvet Rose",
-    "hex": "#fdccc7",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Ember",
-    "hex": "#fad0c9",
-    "category": "Red"
-  },
-  {
-    "name": "Dark Cherry",
-    "hex": "#f6d2cd",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Cherry",
-    "hex": "#fdccc6",
+    "name": "Strawberry Warm",
+    "hex": "#f8d0cc",
     "category": "Red"
   },
   {
     "name": "Dark Flame",
-    "hex": "#facbc8",
+    "hex": "#f6cfcd",
     "category": "Red"
   },
   {
-    "name": "Electric Carmine",
-    "hex": "#facec8",
+    "name": "Sienna Autumn",
+    "hex": "#f9cac9",
     "category": "Red"
   },
   {
-    "name": "Burning Garnet",
-    "hex": "#f4d3cd",
+    "name": "Poppy Scarlet",
+    "hex": "#fbcdc7",
     "category": "Red"
   },
   {
-    "name": "Wild Ember",
-    "hex": "#f4cfcc",
+    "name": "Bold Blaze",
+    "hex": "#fbc7c6",
     "category": "Red"
   },
   {
-    "name": "Bright Flame",
-    "hex": "#f8cbc7",
+    "name": "Maroon Soft",
+    "hex": "#f2d2cf",
     "category": "Red"
   },
   {
-    "name": "Warm Cherry",
-    "hex": "#fec2bf",
+    "name": "Tomato Molten",
+    "hex": "#fbcbc6",
     "category": "Red"
   },
   {
-    "name": "Soft Brick",
-    "hex": "#fbc3c1",
+    "name": "Smoky Rose",
+    "hex": "#f3cfce",
     "category": "Red"
   },
   {
-    "name": "Dark Blaze",
-    "hex": "#ffbfbd",
+    "name": "Radiant Cayenne",
+    "hex": "#f7c9c9",
     "category": "Red"
   },
   {
-    "name": "Electric Brick",
-    "hex": "#fec6bd",
+    "name": "Fire Fiery",
+    "hex": "#f3cecb",
     "category": "Red"
   },
   {
-    "name": "Bright Crimson",
-    "hex": "#fcc3bf",
+    "name": "Hot Copper",
+    "hex": "#f9c7c3",
     "category": "Red"
   },
   {
-    "name": "Burning Ruby",
-    "hex": "#fbbebe",
+    "name": "Warm Merlot",
+    "hex": "#f3cac9",
     "category": "Red"
   },
   {
-    "name": "Bright Ember",
-    "hex": "#fbc0be",
+    "name": "Volcano Ancient",
+    "hex": "#fcc3c0",
     "category": "Red"
   },
   {
-    "name": "Wild Crimson",
-    "hex": "#f9c7be",
+    "name": "Crimson Crimson",
+    "hex": "#fac7c0",
     "category": "Red"
   },
   {
-    "name": "Bright Wine",
-    "hex": "#fdbeba",
+    "name": "Raspberry Ancient",
+    "hex": "#f3cdc6",
     "category": "Red"
   },
   {
-    "name": "Bright Ruby",
-    "hex": "#fbc1ba",
+    "name": "Dark Apple",
+    "hex": "#f0ccc8",
     "category": "Red"
   },
   {
-    "name": "Velvet Blaze",
-    "hex": "#f8bfbc",
+    "name": "Deep Merlot",
+    "hex": "#fabebd",
     "category": "Red"
   },
   {
-    "name": "Warm Berry",
-    "hex": "#f6c1be",
+    "name": "Ruby Electric",
+    "hex": "#f9c5bc",
     "category": "Red"
   },
   {
-    "name": "Dark Brick",
-    "hex": "#febeb5",
+    "name": "Crimson Volcano",
+    "hex": "#fdb8b7",
     "category": "Red"
   },
   {
-    "name": "Bright Carmine",
-    "hex": "#fabfb9",
+    "name": "Dragon Warm",
+    "hex": "#f0c8c3",
     "category": "Red"
   },
   {
-    "name": "Electric Cherry",
-    "hex": "#eecac4",
+    "name": "Cranberry Rich",
+    "hex": "#f6c1bc",
     "category": "Red"
   },
   {
-    "name": "Burning Flame",
-    "hex": "#fcb4b4",
+    "name": "Cherry Deep",
+    "hex": "#f8bfba",
     "category": "Red"
   },
   {
-    "name": "Soft Ember",
-    "hex": "#fdb6b3",
+    "name": "Pepper Rich",
+    "hex": "#fbc1b6",
     "category": "Red"
   },
   {
-    "name": "Bright Blaze",
-    "hex": "#efc8c1",
+    "name": "Fiery Cranberry",
+    "hex": "#f2c0bf",
     "category": "Red"
   },
   {
-    "name": "Soft Scarlet",
-    "hex": "#fdbab2",
+    "name": "Phoenix Smoky",
+    "hex": "#ffb3b2",
     "category": "Red"
   },
   {
-    "name": "Velvet Scarlet",
-    "hex": "#f0c3bf",
+    "name": "Warm Blood",
+    "hex": "#eec8c2",
     "category": "Red"
   },
   {
-    "name": "Burning Carmine",
-    "hex": "#f0bebd",
+    "name": "Rose Elegant",
+    "hex": "#fbbeb4",
     "category": "Red"
   },
   {
-    "name": "Velvet Berry",
-    "hex": "#fabcb3",
+    "name": "Crimson Rose",
+    "hex": "#eec6c0",
     "category": "Red"
   },
   {
-    "name": "Bright Garnet",
-    "hex": "#fabdb3",
+    "name": "Burning Apple",
+    "hex": "#ffbaae",
     "category": "Red"
   },
   {
-    "name": "Wild Berry",
-    "hex": "#f9b8b3",
+    "name": "Ember Velvet",
+    "hex": "#fcb3b1",
     "category": "Red"
   },
   {
-    "name": "Warm Ruby",
-    "hex": "#fabab2",
+    "name": "Soft Inferno",
+    "hex": "#feb7ae",
     "category": "Red"
   },
   {
-    "name": "Dark Garnet",
-    "hex": "#fbbaae",
+    "name": "Wine Vivid",
+    "hex": "#f8b7b4",
     "category": "Red"
   },
   {
-    "name": "Wild Cherry",
-    "hex": "#feb0ab",
+    "name": "Burning Poppy",
+    "hex": "#f7b5b4",
     "category": "Red"
   },
   {
-    "name": "Soft Cherry",
-    "hex": "#edbbbb",
+    "name": "Lava Royal",
+    "hex": "#f1beba",
     "category": "Red"
   },
   {
-    "name": "Electric Berry",
-    "hex": "#fbb8ab",
+    "name": "Rubywood Burning",
+    "hex": "#fab6af",
     "category": "Red"
   },
   {
-    "name": "Wild Wine",
-    "hex": "#f0bfb6",
+    "name": "Tomato Dramatic",
+    "hex": "#f9b2af",
+    "category": "Red"
+  },
+  {
+    "name": "Elegant Volcano",
+    "hex": "#feadaa",
+    "category": "Red"
+  },
+  {
+    "name": "Powerful Crimson",
+    "hex": "#f7b4b1",
+    "category": "Red"
+  },
+  {
+    "name": "Blaze Fiery",
+    "hex": "#f9b9ae",
+    "category": "Red"
+  },
+  {
+    "name": "Scarlet Muted",
+    "hex": "#f2beb4",
+    "category": "Red"
+  },
+  {
+    "name": "Vermilion Dramatic",
+    "hex": "#f9b1ac",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Currant",
+    "hex": "#fab4aa",
+    "category": "Red"
+  },
+  {
+    "name": "Carmine Ancient",
+    "hex": "#f3bbb1",
+    "category": "Red"
+  },
+  {
+    "name": "Radiant Wine",
+    "hex": "#ecbeb8",
+    "category": "Red"
+  },
+  {
+    "name": "Apple Luxury",
+    "hex": "#f1b8b2",
+    "category": "Red"
+  },
+  {
+    "name": "Cayenne Electric",
+    "hex": "#fdaca6",
     "category": "Red"
   },
   {
     "name": "Electric Flame",
-    "hex": "#fdb5a8",
+    "hex": "#f8acaa",
     "category": "Red"
   },
   {
-    "name": "Wild Garnet",
-    "hex": "#f3b6b1",
+    "name": "Deep Cardinal",
+    "hex": "#f4b1ae",
     "category": "Red"
   },
   {
-    "name": "Warm Flame",
-    "hex": "#ffb3a5",
+    "name": "Soft Pepper",
+    "hex": "#f0b2b2",
     "category": "Red"
   },
   {
-    "name": "Bright Berry",
-    "hex": "#faa8a7",
+    "name": "Velvet Rubywood",
+    "hex": "#feada1",
     "category": "Red"
   },
   {
-    "name": "Electric Wine",
-    "hex": "#edb3b2",
+    "name": "Deep Poppy",
+    "hex": "#f5b3aa",
     "category": "Red"
   },
   {
-    "name": "Velvet Ruby",
-    "hex": "#ebb9b3",
+    "name": "Sienna Powerful",
+    "hex": "#f3afac",
     "category": "Red"
   },
   {
-    "name": "Dark Ruby",
-    "hex": "#faafa3",
+    "name": "Cayenne Smoky",
+    "hex": "#f1b4ac",
     "category": "Red"
   },
   {
-    "name": "Deep Brick",
-    "hex": "#fbafa2",
+    "name": "Currant Burning",
+    "hex": "#ebbab1",
     "category": "Red"
   },
   {
-    "name": "Deep Berry",
-    "hex": "#f6a9a5",
+    "name": "Dragon Fiery",
+    "hex": "#f0aeab",
     "category": "Red"
   },
   {
-    "name": "Warm Crimson",
-    "hex": "#f3b3a7",
+    "name": "Golden Maroon",
+    "hex": "#f1a9a8",
+    "category": "Red"
+  },
+  {
+    "name": "Rust Warm",
+    "hex": "#f4ada2",
+    "category": "Red"
+  },
+  {
+    "name": "Sienna Vivid",
+    "hex": "#f0aba5",
+    "category": "Red"
+  },
+  {
+    "name": "Currant Fiery",
+    "hex": "#f9ab9c",
+    "category": "Red"
+  },
+  {
+    "name": "Rust Intense",
+    "hex": "#faa09b",
+    "category": "Red"
+  },
+  {
+    "name": "Golden Cranberry",
+    "hex": "#f0a6a4",
+    "category": "Red"
+  },
+  {
+    "name": "Rust Ancient",
+    "hex": "#f69d9d",
+    "category": "Red"
+  },
+  {
+    "name": "Ember Ancient",
+    "hex": "#f2a2a0",
+    "category": "Red"
+  },
+  {
+    "name": "Rose Velvet",
+    "hex": "#f89e9a",
+    "category": "Red"
+  },
+  {
+    "name": "Lava Rich",
+    "hex": "#f2a7a0",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Tomato",
+    "hex": "#eca7a4",
+    "category": "Red"
+  },
+  {
+    "name": "Burgundy Rich",
+    "hex": "#f99897",
+    "category": "Red"
+  },
+  {
+    "name": "Rich Scarlet",
+    "hex": "#f1a09f",
+    "category": "Red"
+  },
+  {
+    "name": "Intense Carmine",
+    "hex": "#fa9896",
+    "category": "Red"
+  },
+  {
+    "name": "Cranberry Burning",
+    "hex": "#f8a797",
+    "category": "Red"
+  },
+  {
+    "name": "Ancient Cranberry",
+    "hex": "#f79d98",
+    "category": "Red"
+  },
+  {
+    "name": "Ember Elegant",
+    "hex": "#f89e96",
+    "category": "Red"
+  },
+  {
+    "name": "Glowing Poppy",
+    "hex": "#e6afa8",
+    "category": "Red"
+  },
+  {
+    "name": "Crimson Warm",
+    "hex": "#f1a19d",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Volcano",
+    "hex": "#e7aea6",
+    "category": "Red"
+  },
+  {
+    "name": "Smoky Pomegranate",
+    "hex": "#fe928f",
+    "category": "Red"
+  },
+  {
+    "name": "Passionate Flame",
+    "hex": "#e8aaa5",
+    "category": "Red"
+  },
+  {
+    "name": "Elegant Vermilion",
+    "hex": "#efa39d",
+    "category": "Red"
+  },
+  {
+    "name": "Salmon Powerful",
+    "hex": "#fa9c91",
+    "category": "Red"
+  },
+  {
+    "name": "Ancient Garnet",
+    "hex": "#f3a197",
+    "category": "Red"
+  },
+  {
+    "name": "Berry Vivid",
+    "hex": "#fd908c",
+    "category": "Red"
+  },
+  {
+    "name": "Tomato Fiery",
+    "hex": "#e8a4a1",
+    "category": "Red"
+  },
+  {
+    "name": "Burgundy Radiant",
+    "hex": "#f89f90",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Cardinal",
+    "hex": "#ee9c9a",
+    "category": "Red"
+  },
+  {
+    "name": "Coral Powerful",
+    "hex": "#ee9f98",
+    "category": "Red"
+  },
+  {
+    "name": "Pomegranate Rich",
+    "hex": "#fb918b",
+    "category": "Red"
+  },
+  {
+    "name": "Deep Raspberry",
+    "hex": "#e6a8a0",
+    "category": "Red"
+  },
+  {
+    "name": "Crimson Maroon",
+    "hex": "#eb9e9a",
+    "category": "Red"
+  },
+  {
+    "name": "Burning Mahogany",
+    "hex": "#fb8f8a",
+    "category": "Red"
+  },
+  {
+    "name": "Golden Merlot",
+    "hex": "#fc9a87",
+    "category": "Red"
+  },
+  {
+    "name": "Chili Deep",
+    "hex": "#ef9694",
+    "category": "Red"
+  },
+  {
+    "name": "Amaranth Electric",
+    "hex": "#eaa398",
+    "category": "Red"
+  },
+  {
+    "name": "Elegant Strawberry",
+    "hex": "#f2958e",
+    "category": "Red"
+  },
+  {
+    "name": "Velvet Currant",
+    "hex": "#f09a90",
+    "category": "Red"
+  },
+  {
+    "name": "Rich Burgundy",
+    "hex": "#f2918e",
+    "category": "Red"
+  },
+  {
+    "name": "Raspberry Elegant",
+    "hex": "#f19c8f",
+    "category": "Red"
+  },
+  {
+    "name": "Sienna Bold",
+    "hex": "#ea9b95",
+    "category": "Red"
+  },
+  {
+    "name": "Volcano Autumn",
+    "hex": "#fb8784",
+    "category": "Red"
+  },
+  {
+    "name": "Royal Terracotta",
+    "hex": "#f98986",
+    "category": "Red"
+  },
+  {
+    "name": "Copper Ancient",
+    "hex": "#e39f9a",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Volcano",
+    "hex": "#e99e93",
+    "category": "Red"
+  },
+  {
+    "name": "Luxury Apple",
+    "hex": "#ee948e",
+    "category": "Red"
+  },
+  {
+    "name": "Vivid Cranberry",
+    "hex": "#ec948f",
+    "category": "Red"
+  },
+  {
+    "name": "Copper Intense",
+    "hex": "#f79384",
+    "category": "Red"
+  },
+  {
+    "name": "Rubywood Molten",
+    "hex": "#ee988c",
     "category": "Red"
   },
   {
     "name": "Wild Brick",
-    "hex": "#faab9e",
+    "hex": "#fa8780",
     "category": "Red"
   },
   {
-    "name": "Deep Blaze",
-    "hex": "#f7aca1",
+    "name": "Chili Autumn",
+    "hex": "#eb988f",
     "category": "Red"
   },
   {
-    "name": "Deep Flame",
-    "hex": "#faa39d",
+    "name": "Muted Cherry",
+    "hex": "#eb958d",
     "category": "Red"
   },
   {
-    "name": "Velvet Crimson",
-    "hex": "#fc9f9b",
+    "name": "Maroon Dark",
+    "hex": "#e69292",
     "category": "Red"
   },
   {
-    "name": "Wild Carmine",
-    "hex": "#fda498",
+    "name": "Amaranth Deep",
+    "hex": "#f8907f",
     "category": "Red"
   },
   {
-    "name": "Wild Scarlet",
-    "hex": "#f6aa9e",
+    "name": "Bold Coral",
+    "hex": "#e8978f",
     "category": "Red"
   },
   {
-    "name": "Burning Scarlet",
-    "hex": "#efa5a5",
+    "name": "Intense Pomegranate",
+    "hex": "#e39694",
     "category": "Red"
   },
   {
-    "name": "Soft Carmine",
-    "hex": "#f8a499",
+    "name": "Intense Ruby",
+    "hex": "#e59e90",
     "category": "Red"
   },
   {
-    "name": "Soft Ruby",
-    "hex": "#fc9e94",
+    "name": "Bright Raspberry",
+    "hex": "#ec9688",
     "category": "Red"
   },
   {
-    "name": "Electric Ruby",
-    "hex": "#f8a798",
+    "name": "Rose Golden",
+    "hex": "#e49c8f",
     "category": "Red"
   },
   {
-    "name": "Wild Blaze",
-    "hex": "#fb9e95",
+    "name": "Rust Soft",
+    "hex": "#ea8a89",
     "category": "Red"
   },
   {
-    "name": "Burning Ember",
-    "hex": "#f9a397",
+    "name": "Soft Phoenix",
+    "hex": "#fd8175",
     "category": "Red"
   },
   {
-    "name": "Warm Brick",
-    "hex": "#f8a597",
+    "name": "Molten Carmine",
+    "hex": "#f18d80",
     "category": "Red"
   },
   {
-    "name": "Soft Wine",
-    "hex": "#fea191",
+    "name": "Mahogany Velvet",
+    "hex": "#f1867f",
     "category": "Red"
   },
   {
-    "name": "Bright Brick",
-    "hex": "#fa9b8f",
+    "name": "Poppy Rich",
+    "hex": "#f2857e",
     "category": "Red"
   },
   {
-    "name": "Bright Scarlet",
-    "hex": "#e7a2a1",
+    "name": "Carmine Radiant",
+    "hex": "#e2928c",
     "category": "Red"
   },
   {
-    "name": "Deep Scarlet",
-    "hex": "#efa096",
+    "name": "Vivid Phoenix",
+    "hex": "#e59289",
     "category": "Red"
   },
   {
-    "name": "Warm Blaze",
-    "hex": "#ea9f9b",
-    "category": "Red"
-  },
-  {
-    "name": "Burning Cherry",
-    "hex": "#eaa79b",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Ruby",
-    "hex": "#f59990",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Rose",
-    "hex": "#f49f8e",
-    "category": "Red"
-  },
-  {
-    "name": "Velvet Carmine",
-    "hex": "#ec9a96",
-    "category": "Red"
-  },
-  {
-    "name": "Warm Wine",
-    "hex": "#ef9892",
-    "category": "Red"
-  },
-  {
-    "name": "Velvet Garnet",
-    "hex": "#f58d8a",
-    "category": "Red"
-  },
-  {
-    "name": "Electric Rose",
-    "hex": "#f99385",
-    "category": "Red"
-  },
-  {
-    "name": "Burning Crimson",
-    "hex": "#e99392",
-    "category": "Red"
-  },
-  {
-    "name": "Dark Scarlet",
-    "hex": "#e99892",
-    "category": "Red"
-  },
-  {
-    "name": "Velvet Wine",
-    "hex": "#eb9b90",
-    "category": "Red"
-  },
-  {
-    "name": "Burning Brick",
-    "hex": "#e6938e",
-    "category": "Red"
-  },
-  {
-    "name": "Wild Rose",
-    "hex": "#fd7b74",
-    "category": "Red"
-  },
-  {
-    "name": "Soft Garnet",
-    "hex": "#e4928c",
-    "category": "Red"
-  },
-  {
-    "name": "Burning Berry",
-    "hex": "#fa7f76",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Crimson",
-    "hex": "#ee8482",
-    "category": "Red"
-  },
-  {
-    "name": "Bright Rose",
-    "hex": "#ff7d70",
-    "category": "Red"
-  },
-  {
-    "name": "Deep Garnet",
-    "hex": "#e89286",
-    "category": "Red"
-  },
-  {
-    "name": "Dark Ember",
-    "hex": "#ea8883",
-    "category": "Red"
-  },
-  {
-    "name": "Burning Rose",
-    "hex": "#fd866f",
-    "category": "Red"
-  },
-  {
-    "name": "Wild Flame",
-    "hex": "#f47978",
-    "category": "Red"
-  },
-  {
-    "name": "Velvet Brick",
-    "hex": "#f27e7a",
-    "category": "Red"
-  },
-  {
-    "name": "Electric Garnet",
-    "hex": "#e49486",
+    "name": "Glowing Rust",
+    "hex": "#e1968c",
     "category": "Red"
   },
   {
     "name": "Warm Scarlet",
-    "hex": "#f28477",
+    "hex": "#f77a76",
     "category": "Red"
   },
   {
-    "name": "Soft Crimson",
-    "hex": "#fa796e",
+    "name": "Powerful Coral",
+    "hex": "#f47a78",
     "category": "Red"
   },
   {
-    "name": "Warm Garnet",
-    "hex": "#e78380",
+    "name": "Pepper Wild",
+    "hex": "#f28079",
     "category": "Red"
   },
   {
-    "name": "Electric Ember",
-    "hex": "#df9286",
+    "name": "Crimson Flame",
+    "hex": "#e59185",
     "category": "Red"
   },
   {
-    "name": "Warm Carmine",
-    "hex": "#fa8069",
+    "name": "Powerful Rubywood",
+    "hex": "#e98b80",
     "category": "Red"
   },
   {
-    "name": "Dark Wine",
-    "hex": "#e48d7f",
+    "name": "Vivid Pepper",
+    "hex": "#e58d83",
     "category": "Red"
   },
   {
-    "name": "Bright Cherry",
-    "hex": "#e78d7b",
+    "name": "Scarlet Strawberry",
+    "hex": "#ff7c69",
     "category": "Red"
   },
   {
-    "name": "Velvet Flame",
-    "hex": "#f6786a",
+    "name": "Smoky Fire",
+    "hex": "#f37b74",
     "category": "Red"
   },
   {
-    "name": "Warm Rose",
-    "hex": "#f56f6b",
+    "name": "Golden Flame",
+    "hex": "#ee8c79",
     "category": "Red"
   },
   {
-    "name": "Dark Crimson",
-    "hex": "#fa7d65",
+    "name": "Molten Pomegranate",
+    "hex": "#f47b72",
     "category": "Red"
   },
   {
-    "name": "Burning Blaze",
-    "hex": "#e18a7b",
+    "name": "Deep Scarlet",
+    "hex": "#df9086",
     "category": "Red"
   },
   {
-    "name": "Soft Rose",
-    "hex": "#e67e76",
+    "name": "Rosewood Radiant",
+    "hex": "#dd9488",
     "category": "Red"
   },
   {
-    "name": "Dark Berry",
-    "hex": "#fb755f",
+    "name": "Elegant Chili",
+    "hex": "#e6827f",
     "category": "Red"
   },
   {
-    "name": "Dark Carmine",
-    "hex": "#ed716c",
+    "name": "Blood Radiant",
+    "hex": "#f9796b",
     "category": "Red"
   },
   {
-    "name": "Soft Flame",
-    "hex": "#de897a",
+    "name": "Dark Ruby",
+    "hex": "#e6887b",
     "category": "Red"
   },
   {
-    "name": "Soft Berry",
-    "hex": "#ee7e6a",
+    "name": "Brick Intense",
+    "hex": "#f46c6b",
     "category": "Red"
   },
   {
-    "name": "Velvet Cherry",
-    "hex": "#f46f64",
+    "name": "Berry Warm",
+    "hex": "#f07f6d",
     "category": "Red"
   },
   {
-    "name": "Wild Ruby",
-    "hex": "#de7c7a",
+    "name": "Autumn Merlot",
+    "hex": "#dc8881",
     "category": "Red"
   },
   {
-    "name": "Red 1",
-    "hex": "#df7f78",
+    "name": "Soft Cayenne",
+    "hex": "#fd675f",
     "category": "Red"
   },
   {
-    "name": "Soft Blaze",
-    "hex": "#f36e64",
+    "name": "Vermilion Fiery",
+    "hex": "#e47b77",
     "category": "Red"
   },
   {
-    "name": "Red 2",
-    "hex": "#fd5d56",
+    "name": "Golden Apple",
+    "hex": "#df8a7b",
     "category": "Red"
   },
   {
-    "name": "Red 3",
-    "hex": "#e4796e",
+    "name": "Powerful Volcano",
+    "hex": "#ec716d",
     "category": "Red"
   },
   {
-    "name": "Red 4",
-    "hex": "#f85f59",
+    "name": "Dramatic Amaranth",
+    "hex": "#df807a",
     "category": "Red"
   },
   {
-    "name": "Red 5",
-    "hex": "#fa6957",
+    "name": "Velvet Inferno",
+    "hex": "#e18478",
     "category": "Red"
   },
   {
-    "name": "Red 6",
-    "hex": "#ed6463",
+    "name": "Raspberry Bright",
+    "hex": "#f46c65",
     "category": "Red"
   },
   {
-    "name": "Red 7",
-    "hex": "#e46c6b",
+    "name": "Paprika Dark",
+    "hex": "#fc695c",
     "category": "Red"
   },
   {
-    "name": "Red 9",
-    "hex": "#dd8072",
+    "name": "Inferno Warm",
+    "hex": "#f46c63",
     "category": "Red"
   },
   {
-    "name": "Red 8",
-    "hex": "#f36f5b",
+    "name": "Wild Volcano",
+    "hex": "#f17166",
     "category": "Red"
   },
   {
-    "name": "Red 10",
-    "hex": "#da7674",
+    "name": "Vermilion Deep",
+    "hex": "#dd7f7a",
     "category": "Red"
   },
   {
-    "name": "Red 11",
-    "hex": "#f75956",
+    "name": "Ruby Warm",
+    "hex": "#e6716f",
     "category": "Red"
   },
   {
-    "name": "Red 12",
-    "hex": "#ef635e",
+    "name": "Deep Pomegranate",
+    "hex": "#f8765d",
     "category": "Red"
   },
   {
-    "name": "Red 14",
-    "hex": "#d97773",
+    "name": "Chili Dramatic",
+    "hex": "#ea7f6b",
     "category": "Red"
   },
   {
-    "name": "Red 13",
-    "hex": "#eb6561",
+    "name": "Radiant Lava",
+    "hex": "#e97c6b",
     "category": "Red"
   },
   {
-    "name": "Red 15",
-    "hex": "#ef695c",
+    "name": "Warm Coral",
+    "hex": "#df7e75",
     "category": "Red"
   },
   {
-    "name": "Red 16",
-    "hex": "#fb5c4e",
+    "name": "Glowing Merlot",
+    "hex": "#e18573",
     "category": "Red"
   },
   {
-    "name": "Red 17",
-    "hex": "#ea745f",
+    "name": "Dramatic Apple",
+    "hex": "#dd8676",
     "category": "Red"
   },
   {
-    "name": "Red 19",
-    "hex": "#fc5d4a",
+    "name": "Bold Maroon",
+    "hex": "#e86b6b",
     "category": "Red"
   },
   {
-    "name": "Red 18",
-    "hex": "#d8786e",
+    "name": "Sienna Elegant",
+    "hex": "#f26660",
     "category": "Red"
   },
   {
-    "name": "Red 20",
-    "hex": "#e16664",
+    "name": "Burgundy Dramatic",
+    "hex": "#ec6665",
     "category": "Red"
   },
   {
-    "name": "Red 21",
-    "hex": "#f16653",
+    "name": "Pomegranate Powerful",
+    "hex": "#fe5c52",
     "category": "Red"
   },
   {
-    "name": "Red 22",
-    "hex": "#eb7059",
+    "name": "Bright Cayenne",
+    "hex": "#ee7562",
     "category": "Red"
   },
   {
-    "name": "Red 23",
-    "hex": "#d7796b",
+    "name": "Molten Terracotta",
+    "hex": "#d97c76",
     "category": "Red"
   },
   {
-    "name": "Red 24",
-    "hex": "#df625e",
+    "name": "Velvet Cranberry",
+    "hex": "#e57469",
     "category": "Red"
   },
   {
-    "name": "Red 25",
-    "hex": "#f65046",
+    "name": "Bold Crimson",
+    "hex": "#f26c5a",
     "category": "Red"
   },
   {
-    "name": "Red 26",
-    "hex": "#e95352",
+    "name": "Dark Salmon",
+    "hex": "#f05e5b",
     "category": "Red"
   },
   {
-    "name": "Red 27",
-    "hex": "#f74c43",
+    "name": "Hot Rose",
+    "hex": "#fd6b4e",
     "category": "Red"
   },
   {
-    "name": "Red 28",
-    "hex": "#d56e64",
+    "name": "Wine Radiant",
+    "hex": "#e96362",
     "category": "Red"
   },
   {
-    "name": "Red 29",
-    "hex": "#d76761",
+    "name": "Flame Golden",
+    "hex": "#ee735c",
     "category": "Red"
   },
   {
-    "name": "Red 31",
-    "hex": "#f44544",
+    "name": "Burning Cherry",
+    "hex": "#ec6d5d",
     "category": "Red"
   },
   {
-    "name": "Red 30",
-    "hex": "#f8453f",
+    "name": "Soft Pomegranate",
+    "hex": "#e17b68",
     "category": "Red"
   },
   {
-    "name": "Red 32",
-    "hex": "#e65450",
+    "name": "Fire Scarlet",
+    "hex": "#ee675a",
     "category": "Red"
   },
   {
-    "name": "Red 33",
-    "hex": "#dd6958",
+    "name": "Rich Chili",
+    "hex": "#f76751",
     "category": "Red"
   },
   {
-    "name": "Red 34",
-    "hex": "#d46b61",
+    "name": "Paprika Muted",
+    "hex": "#e77161",
     "category": "Red"
   },
   {
-    "name": "Red 35",
-    "hex": "#ee5f46",
+    "name": "Intense Fire",
+    "hex": "#fd554a",
     "category": "Red"
   },
   {
-    "name": "Red 36",
-    "hex": "#e35450",
+    "name": "Amaranth Bright",
+    "hex": "#f35752",
     "category": "Red"
   },
   {
-    "name": "Red 38",
-    "hex": "#d37060",
+    "name": "Burning Volcano",
+    "hex": "#eb6b59",
     "category": "Red"
   },
   {
-    "name": "Red 37",
-    "hex": "#e25950",
+    "name": "Rich Rosewood",
+    "hex": "#e76d5d",
     "category": "Red"
   },
   {
-    "name": "Red 39",
-    "hex": "#e06752",
+    "name": "Burgundy Molten",
+    "hex": "#e16563",
     "category": "Red"
   },
   {
-    "name": "Red 40",
-    "hex": "#f5433d",
+    "name": "Molten Pepper",
+    "hex": "#f15552",
     "category": "Red"
   },
   {
-    "name": "Red 41",
-    "hex": "#f14841",
+    "name": "Velvet Copper",
+    "hex": "#e06362",
     "category": "Red"
   },
   {
-    "name": "Red 42",
-    "hex": "#f93838",
+    "name": "Crimson Glowing",
+    "hex": "#eb6a57",
     "category": "Red"
   },
   {
-    "name": "Red 43",
-    "hex": "#d96058",
+    "name": "Berry Dark",
+    "hex": "#db7666",
     "category": "Red"
   },
   {
-    "name": "Red 44",
-    "hex": "#ec5e45",
+    "name": "Velvet Rosewood",
+    "hex": "#f96347",
     "category": "Red"
   },
   {
-    "name": "Red 45",
-    "hex": "#fc4a35",
+    "name": "Blaze Powerful",
+    "hex": "#ea5b55",
     "category": "Red"
   },
   {
-    "name": "Red 46",
-    "hex": "#eb4f45",
+    "name": "Scarlet Flame",
+    "hex": "#f76248",
     "category": "Red"
   },
   {
-    "name": "Red 47",
-    "hex": "#e14e4e",
+    "name": "Ancient Rosewood",
+    "hex": "#fd4841",
     "category": "Red"
   },
   {
-    "name": "Red 48",
-    "hex": "#d95b55",
+    "name": "Maroon Radiant",
+    "hex": "#d47368",
     "category": "Red"
   },
   {
-    "name": "Red 49",
-    "hex": "#e94a45",
+    "name": "Cayenne Powerful",
+    "hex": "#ff533d",
     "category": "Red"
   },
   {
-    "name": "Red 50",
-    "hex": "#fd4431",
+    "name": "Autumn Crimson",
+    "hex": "#ff583c",
     "category": "Red"
   },
   {
-    "name": "Red 51",
-    "hex": "#da5351",
+    "name": "Golden Salmon",
+    "hex": "#ef564b",
     "category": "Red"
   },
   {
-    "name": "Red 52",
-    "hex": "#d0685a",
+    "name": "Rubywood Dramatic",
+    "hex": "#f54d45",
     "category": "Red"
   },
   {
-    "name": "Red 53",
-    "hex": "#f55235",
+    "name": "Burgundy Warm",
+    "hex": "#fa4840",
     "category": "Red"
   },
   {
-    "name": "Red 54",
-    "hex": "#fa4d30",
+    "name": "Strawberry Bright",
+    "hex": "#f16347",
     "category": "Red"
   },
   {
-    "name": "Red 55",
-    "hex": "#da654f",
+    "name": "Terracotta Fiery",
+    "hex": "#ea564d",
     "category": "Red"
   },
   {
-    "name": "Red 56",
-    "hex": "#fe3d2a",
+    "name": "Dramatic Garnet",
+    "hex": "#f35f43",
     "category": "Red"
   },
   {
-    "name": "Red 57",
-    "hex": "#d16656",
+    "name": "Velvet Phoenix",
+    "hex": "#e16755",
     "category": "Red"
   },
   {
-    "name": "Red 58",
-    "hex": "#eb433b",
+    "name": "Flame Dark",
+    "hex": "#d6665f",
     "category": "Red"
   },
   {
-    "name": "Red 59",
-    "hex": "#fa382c",
+    "name": "Sienna Smoky",
+    "hex": "#d8615c",
     "category": "Red"
   },
   {
-    "name": "Red 60",
-    "hex": "#fe2e28",
+    "name": "Cherry Muted",
+    "hex": "#f84d3c",
     "category": "Red"
   },
   {
-    "name": "Red 61",
-    "hex": "#df4f46",
+    "name": "Cherry Rich",
+    "hex": "#f6443d",
     "category": "Red"
   },
   {
-    "name": "Red 62",
-    "hex": "#e24242",
+    "name": "Passionate Tomato",
+    "hex": "#eb5f48",
     "category": "Red"
   },
   {
-    "name": "Red 63",
-    "hex": "#e7413d",
+    "name": "Fire Golden",
+    "hex": "#fa4f36",
     "category": "Red"
   },
   {
-    "name": "Red 64",
-    "hex": "#e44c3f",
+    "name": "Velvet Blaze",
+    "hex": "#df5b51",
     "category": "Red"
   },
   {
-    "name": "Red 65",
-    "hex": "#f03932",
+    "name": "Inferno Intense",
+    "hex": "#e35f4c",
     "category": "Red"
   },
   {
-    "name": "Red 66",
-    "hex": "#ee4f33",
+    "name": "Velvet Cardinal",
+    "hex": "#fa4c35",
     "category": "Red"
   },
   {
-    "name": "Red 67",
-    "hex": "#d94848",
+    "name": "Wild Dragon",
+    "hex": "#dc6952",
     "category": "Red"
   },
   {
-    "name": "Red 68",
-    "hex": "#e05640",
+    "name": "Copper Glowing",
+    "hex": "#dc6651",
     "category": "Red"
   },
   {
-    "name": "Red 69",
-    "hex": "#fa3926",
+    "name": "Vermilion Elegant",
+    "hex": "#d56458",
     "category": "Red"
   },
   {
-    "name": "Red 70",
-    "hex": "#e3553c",
+    "name": "Cranberry Elegant",
+    "hex": "#fe452e",
     "category": "Red"
   },
   {
-    "name": "Red 71",
-    "hex": "#dc5643",
+    "name": "Golden Copper",
+    "hex": "#d2605a",
     "category": "Red"
   },
   {
-    "name": "Red 72",
-    "hex": "#f52d29",
+    "name": "Wild Rosewood",
+    "hex": "#d85a54",
     "category": "Red"
   },
   {
-    "name": "Red 73",
-    "hex": "#eb4733",
+    "name": "Molten Mahogany",
+    "hex": "#fc4c2f",
     "category": "Red"
   },
   {
-    "name": "Red 74",
-    "hex": "#dd4840",
+    "name": "Crimson Mahogany",
+    "hex": "#eb5840",
     "category": "Red"
   },
   {
-    "name": "Red 75",
-    "hex": "#d75d46",
+    "name": "Autumn Volcano",
+    "hex": "#eb443f",
     "category": "Red"
   },
   {
-    "name": "Red 76",
-    "hex": "#fd3e1f",
+    "name": "Tomato Bright",
+    "hex": "#f45235",
     "category": "Red"
   },
   {
-    "name": "Red 77",
-    "hex": "#db443f",
+    "name": "Autumn Cardinal",
+    "hex": "#ec533b",
     "category": "Red"
   },
   {
-    "name": "Red 78",
-    "hex": "#db4f3e",
+    "name": "Vivid Fire",
+    "hex": "#f14236",
     "category": "Red"
   },
   {
-    "name": "Red 79",
-    "hex": "#e44733",
+    "name": "Passionate Paprika",
+    "hex": "#fa3b2c",
     "category": "Red"
   },
   {
-    "name": "Red 81",
-    "hex": "#d55942",
+    "name": "Ancient Flame",
+    "hex": "#d35753",
     "category": "Red"
   },
   {
-    "name": "Red 82",
-    "hex": "#cc584b",
+    "name": "Powerful Currant",
+    "hex": "#f04335",
     "category": "Red"
   },
   {
-    "name": "Red 80",
-    "hex": "#eb2f2c",
+    "name": "Sienna Burning",
+    "hex": "#da614b",
     "category": "Red"
   },
   {
-    "name": "Red 84",
-    "hex": "#e6422e",
+    "name": "Dragon Molten",
+    "hex": "#f5482f",
     "category": "Red"
   },
   {
-    "name": "Red 85",
-    "hex": "#cd4746",
+    "name": "Raspberry Soft",
+    "hex": "#f13331",
     "category": "Red"
   },
   {
-    "name": "Red 83",
-    "hex": "#cb4948",
+    "name": "Scarlet Autumn",
+    "hex": "#e93f39",
     "category": "Red"
   },
   {
-    "name": "Red 86",
-    "hex": "#d6433c",
+    "name": "Paprika Luxury",
+    "hex": "#e4473d",
     "category": "Red"
   },
   {
-    "name": "Red 87",
-    "hex": "#cb5a45",
+    "name": "Fire Wild",
+    "hex": "#fb3425",
     "category": "Red"
   },
   {
-    "name": "Red 88",
-    "hex": "#ea4326",
+    "name": "Crimson Cranberry",
+    "hex": "#fe2f21",
     "category": "Red"
   },
   {
-    "name": "Red 89",
-    "hex": "#d84f35",
+    "name": "Soft Burgundy",
+    "hex": "#e33d3c",
     "category": "Red"
   },
   {
-    "name": "Red 90",
-    "hex": "#ef311c",
+    "name": "Dark Mahogany",
+    "hex": "#ec5133",
     "category": "Red"
   },
   {
-    "name": "Red 91",
-    "hex": "#e0362a",
+    "name": "Bright Rose",
+    "hex": "#df4f3f",
     "category": "Red"
   },
   {
-    "name": "Red 92",
-    "hex": "#fa3110",
+    "name": "Fiery Fire",
+    "hex": "#cd6451",
     "category": "Red"
   },
   {
-    "name": "Red 93",
-    "hex": "#f02219",
+    "name": "Elegant Cardinal",
+    "hex": "#d75c46",
     "category": "Red"
   },
   {
-    "name": "Red 95",
-    "hex": "#f51e14",
+    "name": "Golden Ruby",
+    "hex": "#e53b38",
     "category": "Red"
   },
   {
-    "name": "Red 94",
-    "hex": "#fb1e0e",
+    "name": "Cranberry Radiant",
+    "hex": "#e0483b",
     "category": "Red"
   },
   {
-    "name": "Red 96",
-    "hex": "#d64932",
+    "name": "Rose Glowing",
+    "hex": "#ee462d",
     "category": "Red"
   },
   {
-    "name": "Red 97",
-    "hex": "#d44334",
+    "name": "Dramatic Cayenne",
+    "hex": "#d55d46",
     "category": "Red"
   },
   {
-    "name": "Red 99",
-    "hex": "#f41b13",
+    "name": "Coral Bright",
+    "hex": "#d25248",
     "category": "Red"
   },
   {
-    "name": "Red 98",
-    "hex": "#ca413d",
+    "name": "Smoky Ruby",
+    "hex": "#e35237",
     "category": "Red"
   },
   {
-    "name": "Red 100",
-    "hex": "#ef3317",
+    "name": "Luxury Amaranth",
+    "hex": "#e75033",
     "category": "Red"
   },
   {
-    "name": "Red 101",
-    "hex": "#f7230f",
+    "name": "Burning Paprika",
+    "hex": "#ef442a",
     "category": "Red"
   },
   {
-    "name": "Red 102",
-    "hex": "#ee3718",
+    "name": "Electric Blood",
+    "hex": "#f92420",
     "category": "Red"
   },
   {
-    "name": "Red 103",
-    "hex": "#db382b",
+    "name": "Amaranth Crimson",
+    "hex": "#eb402d",
     "category": "Red"
   },
   {
-    "name": "Red 104",
-    "hex": "#d63e2f",
+    "name": "Amaranth Luxury",
+    "hex": "#e04937",
     "category": "Red"
   },
   {
-    "name": "Red 105",
-    "hex": "#f81a0d",
+    "name": "Ancient Carmine",
+    "hex": "#eb312b",
     "category": "Red"
   },
   {
-    "name": "Red 106",
-    "hex": "#e2201f",
+    "name": "Fiery Maroon",
+    "hex": "#ff2a16",
     "category": "Red"
   },
   {
-    "name": "Red 107",
-    "hex": "#e2241d",
+    "name": "Blaze Crimson",
+    "hex": "#cb4a49",
     "category": "Red"
   },
   {
-    "name": "Red 108",
-    "hex": "#d23a2c",
+    "name": "Vivid Paprika",
+    "hex": "#e9482b",
     "category": "Red"
   },
   {
-    "name": "Red 109",
-    "hex": "#fc1f01",
+    "name": "Molten Apple",
+    "hex": "#cc4e47",
     "category": "Red"
   },
   {
-    "name": "Red 110",
-    "hex": "#fa1d02",
+    "name": "Royal Copper",
+    "hex": "#e23a31",
     "category": "Red"
   },
   {
-    "name": "Red 111",
-    "hex": "#f02d0b",
+    "name": "Paprika Deep",
+    "hex": "#cc4746",
     "category": "Red"
   },
   {
-    "name": "Red 112",
-    "hex": "#e52f15",
+    "name": "Garnet Glowing",
+    "hex": "#e03831",
     "category": "Red"
   },
   {
-    "name": "Red 113",
-    "hex": "#e22516",
+    "name": "Inferno Radiant",
+    "hex": "#ff1211",
     "category": "Red"
   },
   {
-    "name": "Red 114",
-    "hex": "#d53f22",
+    "name": "Ancient Inferno",
+    "hex": "#f93516",
     "category": "Red"
   },
   {
-    "name": "Red 117",
-    "hex": "#f62901",
+    "name": "Coral Autumn",
+    "hex": "#e2312d",
     "category": "Red"
   },
   {
-    "name": "Red 115",
-    "hex": "#de3518",
+    "name": "Currant Hot",
+    "hex": "#df482f",
     "category": "Red"
   },
   {
-    "name": "Red 116",
-    "hex": "#e32d13",
+    "name": "Dramatic Rosewood",
+    "hex": "#e04a2d",
     "category": "Red"
   },
   {
-    "name": "Red 118",
-    "hex": "#e8220d",
+    "name": "Burgundy Vivid",
+    "hex": "#f2261a",
     "category": "Red"
   },
   {
-    "name": "Red 119",
-    "hex": "#e52510",
+    "name": "Rose Fiery",
+    "hex": "#ef231d",
     "category": "Red"
   },
   {
-    "name": "Red 120",
-    "hex": "#cf3826",
+    "name": "Cranberry Electric",
+    "hex": "#d23b3a",
     "category": "Red"
   },
   {
-    "name": "Red 122",
-    "hex": "#e7160d",
+    "name": "Copper Velvet",
+    "hex": "#dd412e",
     "category": "Red"
   },
   {
-    "name": "Red 121",
-    "hex": "#f11103",
+    "name": "Wine Warm",
+    "hex": "#db4830",
     "category": "Red"
   },
   {
-    "name": "Red 123",
-    "hex": "#e6310d",
+    "name": "Bold Pomegranate",
+    "hex": "#d83532",
     "category": "Red"
   },
   {
-    "name": "Red 124",
-    "hex": "#d8211a",
+    "name": "Dramatic Chili",
+    "hex": "#f93711",
     "category": "Red"
   },
   {
-    "name": "Red 125",
-    "hex": "#c83a29",
+    "name": "Cherry Fiery",
+    "hex": "#d24e36",
     "category": "Red"
   },
   {
-    "name": "Red 126",
-    "hex": "#dc3214",
+    "name": "Sienna Golden",
+    "hex": "#d04537",
     "category": "Red"
   },
   {
-    "name": "Red 127",
-    "hex": "#c32c2b",
+    "name": "Flame Intense",
+    "hex": "#e12c25",
     "category": "Red"
   },
   {
-    "name": "Red 128",
-    "hex": "#bb3f33",
+    "name": "Passionate Berry",
+    "hex": "#d8452c",
     "category": "Red"
   },
   {
-    "name": "Red 129",
-    "hex": "#c43a2a",
+    "name": "Crimson Soft",
+    "hex": "#d14233",
     "category": "Red"
   },
   {
-    "name": "Red 130",
-    "hex": "#c03e2d",
+    "name": "Fiery Rust",
+    "hex": "#e4391e",
     "category": "Red"
   },
   {
-    "name": "Red 131",
-    "hex": "#db2a11",
+    "name": "Rich Blaze",
+    "hex": "#de2b24",
     "category": "Red"
   },
   {
-    "name": "Red 132",
-    "hex": "#d91b13",
+    "name": "Carmine Crimson",
+    "hex": "#de3f23",
     "category": "Red"
   },
   {
-    "name": "Red 133",
-    "hex": "#c63e25",
+    "name": "Golden Coral",
+    "hex": "#e02220",
     "category": "Red"
   },
   {
-    "name": "Red 134",
-    "hex": "#d21818",
+    "name": "Brick Muted",
+    "hex": "#e93217",
     "category": "Red"
   },
   {
-    "name": "Red 135",
-    "hex": "#c23e27",
+    "name": "Garnet Royal",
+    "hex": "#c74939",
     "category": "Red"
   },
   {
-    "name": "Red 136",
-    "hex": "#d31c16",
+    "name": "Wild Tomato",
+    "hex": "#e51f19",
     "category": "Red"
   },
   {
-    "name": "Red 137",
-    "hex": "#be382a",
+    "name": "Royal Blaze",
+    "hex": "#cf312e",
     "category": "Red"
   },
   {
-    "name": "Red 138",
-    "hex": "#b9422e",
+    "name": "Autumn Raspberry",
+    "hex": "#f1190c",
     "category": "Red"
   },
   {
-    "name": "Red 139",
-    "hex": "#cb211c",
+    "name": "Chili Smoky",
+    "hex": "#fd0e00",
     "category": "Red"
   },
   {
-    "name": "Red 140",
-    "hex": "#c32521",
+    "name": "Rust Burning",
+    "hex": "#e33819",
     "category": "Red"
   },
   {
-    "name": "Red 141",
-    "hex": "#b33530",
+    "name": "Ancient Paprika",
+    "hex": "#f71d04",
     "category": "Red"
   },
   {
-    "name": "Red 142",
-    "hex": "#dd1205",
+    "name": "Royal Burgundy",
+    "hex": "#c53c36",
     "category": "Red"
   },
   {
-    "name": "Red 143",
-    "hex": "#bc3a24",
+    "name": "Coral Deep",
+    "hex": "#c73e33",
     "category": "Red"
   },
   {
-    "name": "Red 144",
-    "hex": "#b53529",
+    "name": "Ruby Royal",
+    "hex": "#dc241e",
     "category": "Red"
   },
   {
-    "name": "Red 145",
-    "hex": "#ce1010",
+    "name": "Cardinal Burning",
+    "hex": "#e73012",
     "category": "Red"
   },
   {
-    "name": "Red 146",
-    "hex": "#d51808",
+    "name": "Autumn Berry",
+    "hex": "#e32814",
     "category": "Red"
   },
   {
-    "name": "Red 147",
-    "hex": "#c81b12",
+    "name": "Bold Fire",
+    "hex": "#e01e16",
     "category": "Red"
   },
   {
-    "name": "Red 149",
-    "hex": "#d20b08",
+    "name": "Passionate Rosewood",
+    "hex": "#c7312e",
     "category": "Red"
   },
   {
-    "name": "Red 150",
-    "hex": "#c52a14",
+    "name": "Crimson Golden",
+    "hex": "#e32312",
     "category": "Red"
   },
   {
-    "name": "Red 148",
-    "hex": "#d61903",
+    "name": "Bold Blood",
+    "hex": "#d5261d",
     "category": "Red"
   },
   {
-    "name": "Red 151",
-    "hex": "#b9331e",
+    "name": "Lava Molten",
+    "hex": "#e02e12",
     "category": "Red"
   },
   {
-    "name": "Red 153",
-    "hex": "#b53421",
+    "name": "Scarlet Fire",
+    "hex": "#e6170c",
     "category": "Red"
   },
   {
-    "name": "Red 152",
-    "hex": "#c21c14",
+    "name": "Cayenne Crimson",
+    "hex": "#d61f1a",
     "category": "Red"
   },
   {
-    "name": "Red 154",
-    "hex": "#bd1d18",
+    "name": "Wild Poppy",
+    "hex": "#ce2120",
     "category": "Red"
   },
   {
-    "name": "Red 156",
-    "hex": "#ce1907",
+    "name": "Strawberry Royal",
+    "hex": "#db1713",
     "category": "Red"
   },
   {
-    "name": "Red 155",
-    "hex": "#aa382b",
+    "name": "Autumn Blaze",
+    "hex": "#bf3e2e",
     "category": "Red"
   },
   {
-    "name": "Red 157",
-    "hex": "#c9100b",
+    "name": "Phoenix Powerful",
+    "hex": "#d52218",
     "category": "Red"
   },
   {
-    "name": "Red 158",
-    "hex": "#ca140a",
+    "name": "Electric Burgundy",
+    "hex": "#df270e",
     "category": "Red"
   },
   {
-    "name": "Red 159",
-    "hex": "#c22e11",
+    "name": "Smoky Cranberry",
+    "hex": "#d62f16",
     "category": "Red"
   },
   {
-    "name": "Red 160",
-    "hex": "#b02f22",
+    "name": "Muted Poppy",
+    "hex": "#cd301f",
     "category": "Red"
   },
   {
-    "name": "Red 161",
-    "hex": "#aa3227",
+    "name": "Intense Blood",
+    "hex": "#e80904",
     "category": "Red"
   },
   {
-    "name": "Red 163",
-    "hex": "#c5110b",
+    "name": "Burning Inferno",
+    "hex": "#e32009",
     "category": "Red"
   },
   {
-    "name": "Red 162",
-    "hex": "#b82917",
+    "name": "Maroon Scarlet",
+    "hex": "#de2b0c",
     "category": "Red"
   },
   {
-    "name": "Red 164",
-    "hex": "#a4312b",
+    "name": "Crimson Brick",
+    "hex": "#e92101",
     "category": "Red"
   },
   {
-    "name": "Red 165",
-    "hex": "#a93826",
+    "name": "Bright Blood",
+    "hex": "#c73222",
     "category": "Red"
   },
   {
-    "name": "Red 166",
-    "hex": "#ad2d20",
+    "name": "Wild Burgundy",
+    "hex": "#e11e08",
     "category": "Red"
   },
   {
-    "name": "Red 168",
-    "hex": "#ac2a21",
+    "name": "Maroon Luxury",
+    "hex": "#d02418",
     "category": "Red"
   },
   {
-    "name": "Red 167",
-    "hex": "#bb2912",
+    "name": "Rosewood Luxury",
+    "hex": "#e62001",
     "category": "Red"
   },
   {
-    "name": "Red 169",
-    "hex": "#9d372d",
+    "name": "Garnet Autumn",
+    "hex": "#ba322d",
     "category": "Red"
   },
   {
-    "name": "Red 172",
-    "hex": "#a53223",
+    "name": "Rubywood Smoky",
+    "hex": "#d12f15",
     "category": "Red"
   },
   {
-    "name": "Red 170",
-    "hex": "#b02b18",
+    "name": "Pepper Dark",
+    "hex": "#e30d03",
     "category": "Red"
   },
   {
-    "name": "Red 171",
-    "hex": "#a23526",
+    "name": "Hot Paprika",
+    "hex": "#c23123",
     "category": "Red"
   },
   {
-    "name": "Red 173",
-    "hex": "#9e3029",
+    "name": "Dragon Dramatic",
+    "hex": "#be3c25",
     "category": "Red"
   },
   {
-    "name": "Red 174",
-    "hex": "#ab2f1b",
+    "name": "Merlot Dark",
+    "hex": "#b33430",
     "category": "Red"
   },
   {
-    "name": "Red 175",
-    "hex": "#af1c15",
+    "name": "Cherry Scarlet",
+    "hex": "#bd2f25",
     "category": "Red"
   },
   {
-    "name": "Red 176",
-    "hex": "#b3260f",
+    "name": "Royal Phoenix",
+    "hex": "#c13021",
     "category": "Red"
   },
   {
-    "name": "Red 177",
-    "hex": "#af2313",
+    "name": "Glowing Inferno",
+    "hex": "#d02a12",
     "category": "Red"
   },
   {
-    "name": "Red 178",
-    "hex": "#96392b",
+    "name": "Ember Smoky",
+    "hex": "#ba3628",
     "category": "Red"
   },
   {
-    "name": "Red 179",
-    "hex": "#a32f1d",
+    "name": "Poppy Radiant",
+    "hex": "#cf2413",
     "category": "Red"
   },
   {
-    "name": "Red 180",
-    "hex": "#95392a",
+    "name": "Royal Lava",
+    "hex": "#ba3826",
     "category": "Red"
   },
   {
-    "name": "Red 181",
-    "hex": "#b91706",
+    "name": "Dark Brick",
+    "hex": "#d2230e",
     "category": "Red"
   },
   {
-    "name": "Red 182",
-    "hex": "#a92414",
+    "name": "Inferno Deep",
+    "hex": "#ce2c11",
     "category": "Red"
   },
   {
-    "name": "Red 183",
-    "hex": "#ae290f",
+    "name": "Electric Pepper",
+    "hex": "#c62a18",
     "category": "Red"
   },
   {
-    "name": "Red 184",
-    "hex": "#b62407",
+    "name": "Inferno Bold",
+    "hex": "#bf291e",
     "category": "Red"
   },
   {
-    "name": "Red 185",
-    "hex": "#af250d",
+    "name": "Intense Crimson",
+    "hex": "#d71206",
     "category": "Red"
   },
   {
-    "name": "Red 186",
-    "hex": "#963025",
+    "name": "Ruby Radiant",
+    "hex": "#d42809",
     "category": "Red"
   },
   {
-    "name": "Red 187",
-    "hex": "#b90b01",
+    "name": "Pomegranate Muted",
+    "hex": "#d72305",
     "category": "Red"
   },
   {
-    "name": "Red 188",
-    "hex": "#992921",
+    "name": "Muted Merlot",
+    "hex": "#ba3a22",
     "category": "Red"
   },
   {
-    "name": "Red 189",
-    "hex": "#972c22",
+    "name": "Cherry Crimson",
+    "hex": "#af412c",
     "category": "Red"
   },
   {
-    "name": "Red 190",
-    "hex": "#a9190f",
+    "name": "Raspberry Smoky",
+    "hex": "#b22d29",
     "category": "Red"
   },
   {
-    "name": "Red 191",
-    "hex": "#903328",
+    "name": "Soft Merlot",
+    "hex": "#aa332f",
     "category": "Red"
   },
   {
-    "name": "Red 192",
-    "hex": "#9a301d",
+    "name": "Maroon Hot",
+    "hex": "#c52b13",
     "category": "Red"
   },
   {
-    "name": "Red 193",
-    "hex": "#a61410",
+    "name": "Powerful Lava",
+    "hex": "#bf2d19",
     "category": "Red"
   },
   {
-    "name": "Red 194",
-    "hex": "#af1c07",
+    "name": "Molten Blood",
+    "hex": "#be2718",
     "category": "Red"
   },
   {
-    "name": "Red 195",
-    "hex": "#981e1e",
+    "name": "Dramatic Brick",
+    "hex": "#bb1e1a",
     "category": "Red"
   },
   {
-    "name": "Red 197",
-    "hex": "#ac0d0a",
+    "name": "Scarlet Lava",
+    "hex": "#ba201b",
     "category": "Red"
   },
   {
-    "name": "Red 198",
-    "hex": "#a9150d",
+    "name": "Berry Glowing",
+    "hex": "#ce1c06",
     "category": "Red"
   },
   {
-    "name": "Red 196",
-    "hex": "#8f2e26",
+    "name": "Royal Pomegranate",
+    "hex": "#c42c10",
     "category": "Red"
   },
   {
-    "name": "Red 199",
-    "hex": "#a12414",
+    "name": "Amaranth Royal",
+    "hex": "#a92d29",
     "category": "Red"
   },
   {
-    "name": "Red 200",
-    "hex": "#a7130b",
+    "name": "Maroon Royal",
+    "hex": "#af2b23",
     "category": "Red"
   },
   {
-    "name": "Red 201",
-    "hex": "#9b2917",
+    "name": "Hot Chili",
+    "hex": "#ac2d25",
     "category": "Red"
   },
   {
-    "name": "Red 202",
-    "hex": "#a3190f",
+    "name": "Hot Cranberry",
+    "hex": "#b4201d",
     "category": "Red"
   },
   {
-    "name": "Red 203",
-    "hex": "#b00602",
+    "name": "Elegant Burgundy",
+    "hex": "#ac3b25",
     "category": "Red"
   },
   {
-    "name": "Red 204",
-    "hex": "#b00501",
+    "name": "Muted Mahogany",
+    "hex": "#c4270b",
     "category": "Red"
   },
   {
-    "name": "Red 205",
-    "hex": "#9f1d12",
+    "name": "Poppy Elegant",
+    "hex": "#b91816",
     "category": "Red"
   },
   {
-    "name": "Red 206",
-    "hex": "#ab1705",
+    "name": "Ruby Dark",
+    "hex": "#ac2e23",
     "category": "Red"
   },
   {
-    "name": "Red 207",
-    "hex": "#90271c",
+    "name": "Sienna Bright",
+    "hex": "#b72016",
     "category": "Red"
   },
   {
-    "name": "Red 208",
-    "hex": "#8f241d",
+    "name": "Amaranth Velvet",
+    "hex": "#a52928",
     "category": "Red"
   },
   {
-    "name": "Red 209",
-    "hex": "#9e230d",
+    "name": "Fiery Paprika",
+    "hex": "#a82b24",
     "category": "Red"
   },
   {
-    "name": "Red 210",
-    "hex": "#a50c05",
+    "name": "Tomato Burning",
+    "hex": "#be290e",
     "category": "Red"
   },
   {
-    "name": "Red 211",
-    "hex": "#9b110f",
+    "name": "Rosewood Hot",
+    "hex": "#b1331b",
     "category": "Red"
   },
   {
-    "name": "Red 212",
-    "hex": "#981610",
+    "name": "Bright Poppy",
+    "hex": "#b1251b",
     "category": "Red"
   },
   {
-    "name": "Red 213",
-    "hex": "#a60801",
+    "name": "Rich Cherry",
+    "hex": "#ae2b1d",
     "category": "Red"
   },
   {
-    "name": "Red 214",
-    "hex": "#a10b06",
+    "name": "Deep Rubywood",
+    "hex": "#c60f04",
     "category": "Red"
   },
   {
-    "name": "Red 215",
-    "hex": "#962210",
+    "name": "Raspberry Golden",
+    "hex": "#a92c20",
     "category": "Red"
   },
   {
-    "name": "Red 216",
-    "hex": "#832b1e",
+    "name": "Golden Rosewood",
+    "hex": "#b51912",
     "category": "Red"
   },
   {
-    "name": "Red 217",
-    "hex": "#891c18",
+    "name": "Rose Rich",
+    "hex": "#a32a24",
     "category": "Red"
   },
   {
-    "name": "Red 218",
-    "hex": "#9f0500",
+    "name": "Merlot Radiant",
+    "hex": "#ae3017",
     "category": "Red"
   },
   {
-    "name": "Red 219",
-    "hex": "#7b2c22",
+    "name": "Luxury Brick",
+    "hex": "#b81d0b",
     "category": "Red"
   },
   {
-    "name": "Red 222",
-    "hex": "#941c09",
+    "name": "Smoky Blaze",
+    "hex": "#bf0301",
     "category": "Red"
   },
   {
-    "name": "Red 221",
-    "hex": "#831e1a",
+    "name": "Royal Merlot",
+    "hex": "#ba1206",
     "category": "Red"
   },
   {
-    "name": "Red 220",
-    "hex": "#7a2622",
+    "name": "Coral Velvet",
+    "hex": "#9d3122",
     "category": "Red"
   },
   {
-    "name": "Red 223",
-    "hex": "#941d07",
+    "name": "Royal Blood",
+    "hex": "#b4120b",
     "category": "Red"
   },
   {
-    "name": "Red 225",
-    "hex": "#931907",
+    "name": "Copper Powerful",
+    "hex": "#a0221f",
     "category": "Red"
   },
   {
-    "name": "Red 226",
-    "hex": "#8a1f10",
+    "name": "Blaze Bright",
+    "hex": "#a4211a",
     "category": "Red"
   },
   {
-    "name": "Red 224",
-    "hex": "#881411",
+    "name": "Autumn Carmine",
+    "hex": "#b10f0d",
     "category": "Red"
   },
   {
-    "name": "Red 227",
-    "hex": "#7e231b",
+    "name": "Dark Maroon",
+    "hex": "#a32a1b",
     "category": "Red"
   },
   {
-    "name": "Red 228",
-    "hex": "#882310",
+    "name": "Vivid Inferno",
+    "hex": "#a92513",
     "category": "Red"
   },
   {
-    "name": "Red 229",
-    "hex": "#782020",
+    "name": "Copper Burning",
+    "hex": "#a81513",
     "category": "Red"
   },
   {
-    "name": "Red 230",
-    "hex": "#961001",
+    "name": "Elegant Phoenix",
+    "hex": "#9c201c",
     "category": "Red"
   },
   {
-    "name": "Red 231",
-    "hex": "#8f0a08",
+    "name": "Glowing Currant",
+    "hex": "#b71b01",
     "category": "Red"
   },
   {
-    "name": "Red 232",
-    "hex": "#8a1a0d",
+    "name": "Wild Merlot",
+    "hex": "#962b22",
     "category": "Red"
   },
   {
-    "name": "Red 233",
-    "hex": "#77211e",
+    "name": "Autumn Blood",
+    "hex": "#ae2109",
     "category": "Red"
   },
   {
-    "name": "Red 235",
-    "hex": "#85120e",
+    "name": "Velvet Burgundy",
+    "hex": "#933024",
     "category": "Red"
   },
   {
-    "name": "Red 234",
-    "hex": "#900a03",
+    "name": "Rust Fiery",
+    "hex": "#a51510",
     "category": "Red"
   },
   {
-    "name": "Red 236",
-    "hex": "#7f1c14",
+    "name": "Vermilion Burning",
+    "hex": "#a12b14",
     "category": "Red"
   },
   {
-    "name": "Red 237",
-    "hex": "#752b1d",
+    "name": "Glowing Blood",
+    "hex": "#952d1f",
     "category": "Red"
   },
   {
-    "name": "Red 238",
-    "hex": "#900301",
+    "name": "Blaze Autumn",
+    "hex": "#a7210d",
     "category": "Red"
   },
   {
-    "name": "Red 239",
-    "hex": "#820e0b",
+    "name": "Powerful Cardinal",
+    "hex": "#a5100f",
     "category": "Red"
   },
   {
-    "name": "Red 240",
-    "hex": "#7d1b0e",
+    "name": "Mahogany Muted",
+    "hex": "#ad0b07",
     "category": "Red"
   },
   {
-    "name": "Red 241",
-    "hex": "#781713",
+    "name": "Cranberry Fiery",
+    "hex": "#b11403",
     "category": "Red"
   },
   {
-    "name": "Red 242",
-    "hex": "#761c14",
+    "name": "Warm Cardinal",
+    "hex": "#922721",
     "category": "Red"
   },
   {
-    "name": "Red 243",
-    "hex": "#840605",
+    "name": "Warm Pepper",
+    "hex": "#932620",
     "category": "Red"
   },
   {
-    "name": "Red 244",
-    "hex": "#840d05",
+    "name": "Intense Rubywood",
+    "hex": "#912322",
     "category": "Red"
   },
   {
-    "name": "Red 245",
-    "hex": "#800a07",
+    "name": "Smoky Rosewood",
+    "hex": "#8c3226",
     "category": "Red"
   },
   {
-    "name": "Red 246",
-    "hex": "#6e1a18",
+    "name": "Cherry Autumn",
+    "hex": "#aa1c08",
     "category": "Red"
   },
   {
-    "name": "Red 247",
-    "hex": "#74110e",
+    "name": "Hot Apple",
+    "hex": "#98281a",
     "category": "Red"
   },
   {
-    "name": "Red 248",
-    "hex": "#6c1915",
+    "name": "Paprika Powerful",
+    "hex": "#991d17",
     "category": "Red"
   },
   {
-    "name": "Red 249",
-    "hex": "#75150c",
+    "name": "Carmine Fiery",
+    "hex": "#af1201",
     "category": "Red"
   },
   {
-    "name": "Red 250",
-    "hex": "#64261d",
+    "name": "Crimson Hot",
+    "hex": "#981c18",
     "category": "Red"
   },
   {
-    "name": "Red 251",
-    "hex": "#7b0403",
+    "name": "Glowing Wine",
+    "hex": "#8f2c21",
     "category": "Red"
   },
   {
-    "name": "Red 252",
-    "hex": "#7c1102",
+    "name": "Cranberry Soft",
+    "hex": "#94271c",
     "category": "Red"
   },
   {
-    "name": "Red 254",
-    "hex": "#7a0604",
+    "name": "Dragon Soft",
+    "hex": "#a80b08",
     "category": "Red"
   },
   {
-    "name": "Red 255",
-    "hex": "#682016",
+    "name": "Rose Bright",
+    "hex": "#91221e",
     "category": "Red"
   },
   {
-    "name": "Red 256",
-    "hex": "#6b1412",
+    "name": "Bright Cardinal",
+    "hex": "#8a2a24",
     "category": "Red"
   },
   {
-    "name": "Red 253",
-    "hex": "#791804",
+    "name": "Merlot Hot",
+    "hex": "#872926",
     "category": "Red"
   },
   {
-    "name": "Red 257",
-    "hex": "#691512",
+    "name": "Elegant Inferno",
+    "hex": "#883225",
     "category": "Red"
   },
   {
-    "name": "Red 259",
-    "hex": "#761403",
+    "name": "Inferno Molten",
+    "hex": "#962c17",
     "category": "Red"
   },
   {
-    "name": "Red 258",
-    "hex": "#700f09",
+    "name": "Sienna Electric",
+    "hex": "#951917",
     "category": "Red"
   },
   {
-    "name": "Red 260",
-    "hex": "#6d1b0b",
+    "name": "Hot Rubywood",
+    "hex": "#972614",
     "category": "Red"
   },
   {
-    "name": "Red 261",
-    "hex": "#5c1c1b",
+    "name": "Crimson Tomato",
+    "hex": "#8e271d",
     "category": "Red"
   },
   {
-    "name": "Red 262",
-    "hex": "#751302",
+    "name": "Powerful Paprika",
+    "hex": "#863323",
     "category": "Red"
   },
   {
-    "name": "Red 263",
-    "hex": "#5e1b19",
+    "name": "Cardinal Powerful",
+    "hex": "#843024",
     "category": "Red"
   },
   {
-    "name": "Red 264",
-    "hex": "#611a15",
+    "name": "Passionate Cayenne",
+    "hex": "#912317",
     "category": "Red"
   },
   {
-    "name": "Red 265",
-    "hex": "#67150e",
+    "name": "Vermilion Electric",
+    "hex": "#8c1d1b",
     "category": "Red"
   },
   {
-    "name": "Red 266",
-    "hex": "#621413",
+    "name": "Golden Cardinal",
+    "hex": "#8d2819",
     "category": "Red"
   },
   {
-    "name": "Red 267",
-    "hex": "#5d1e17",
+    "name": "Rose Muted",
+    "hex": "#832723",
     "category": "Red"
   },
   {
-    "name": "Red 269",
-    "hex": "#62100f",
+    "name": "Ancient Volcano",
+    "hex": "#9d1907",
     "category": "Red"
   },
   {
-    "name": "Red 268",
-    "hex": "#710500",
+    "name": "Electric Cayenne",
+    "hex": "#802323",
     "category": "Red"
   },
   {
-    "name": "Red 270",
-    "hex": "#670c0a",
+    "name": "Apple Royal",
+    "hex": "#9c1506",
     "category": "Red"
   },
   {
-    "name": "Red 271",
-    "hex": "#5c1614",
+    "name": "Raspberry Dramatic",
+    "hex": "#922010",
     "category": "Red"
   },
   {
-    "name": "Red 272",
-    "hex": "#561c19",
+    "name": "Electric Inferno",
+    "hex": "#8b1e17",
     "category": "Red"
   },
   {
-    "name": "Red 273",
-    "hex": "#691606",
+    "name": "Dark Raspberry",
+    "hex": "#8a1d16",
     "category": "Red"
   },
   {
-    "name": "Red 275",
-    "hex": "#572117",
+    "name": "Fiery Coral",
+    "hex": "#951e0b",
     "category": "Red"
   },
   {
-    "name": "Red 274",
-    "hex": "#591c15",
+    "name": "Dragon Crimson",
+    "hex": "#9a1d06",
     "category": "Red"
   },
   {
-    "name": "Red 276",
-    "hex": "#5a1313",
+    "name": "Bright Pepper",
+    "hex": "#83231d",
     "category": "Red"
   },
   {
-    "name": "Red 278",
-    "hex": "#561f14",
+    "name": "Scarlet Currant",
+    "hex": "#9d1b02",
     "category": "Red"
   },
   {
-    "name": "Red 277",
-    "hex": "#680502",
+    "name": "Electric Rust",
+    "hex": "#8f1910",
     "category": "Red"
   },
   {
-    "name": "Red 281",
-    "hex": "#621207",
+    "name": "Scarlet Golden",
+    "hex": "#90210e",
     "category": "Red"
   },
   {
-    "name": "Red 279",
-    "hex": "#591210",
+    "name": "Copper Electric",
+    "hex": "#991705",
     "category": "Red"
   },
   {
-    "name": "Red 282",
-    "hex": "#600c09",
+    "name": "Elegant Lava",
+    "hex": "#862618",
     "category": "Red"
   },
   {
-    "name": "Red 280",
-    "hex": "#531e15",
+    "name": "Elegant Amaranth",
+    "hex": "#8b1512",
     "category": "Red"
   },
   {
-    "name": "Red 283",
-    "hex": "#5c0f0c",
+    "name": "Fiery Raspberry",
+    "hex": "#81271a",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Ember",
+    "hex": "#861d14",
+    "category": "Red"
+  },
+  {
+    "name": "Hot Salmon",
+    "hex": "#901d0a",
+    "category": "Red"
+  },
+  {
+    "name": "Phoenix Radiant",
+    "hex": "#8d140c",
+    "category": "Red"
+  },
+  {
+    "name": "Powerful Blaze",
+    "hex": "#900f06",
+    "category": "Red"
+  },
+  {
+    "name": "Vivid Tomato",
+    "hex": "#841b12",
+    "category": "Red"
+  },
+  {
+    "name": "Fiery Sienna",
+    "hex": "#78281d",
+    "category": "Red"
+  },
+  {
+    "name": "Dramatic Volcano",
+    "hex": "#8f0804",
+    "category": "Red"
+  },
+  {
+    "name": "Ancient Rust",
+    "hex": "#821811",
+    "category": "Red"
+  },
+  {
+    "name": "Terracotta Luxury",
+    "hex": "#801f13",
+    "category": "Red"
+  },
+  {
+    "name": "Bold Carmine",
+    "hex": "#7f1613",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Lava",
+    "hex": "#771d1b",
+    "category": "Red"
+  },
+  {
+    "name": "Amaranth Passionate",
+    "hex": "#7c1310",
+    "category": "Red"
+  },
+  {
+    "name": "Intense Poppy",
+    "hex": "#7a190f",
+    "category": "Red"
+  },
+  {
+    "name": "Dramatic Cranberry",
+    "hex": "#781d11",
+    "category": "Red"
+  },
+  {
+    "name": "Vermilion Wild",
+    "hex": "#6f2318",
+    "category": "Red"
+  },
+  {
+    "name": "Vivid Sienna",
+    "hex": "#6c251b",
+    "category": "Red"
+  },
+  {
+    "name": "Muted Rose",
+    "hex": "#7e0a07",
+    "category": "Red"
+  },
+  {
+    "name": "Poppy Electric",
+    "hex": "#7f0906",
+    "category": "Red"
+  },
+  {
+    "name": "Apple Burning",
+    "hex": "#850800",
+    "category": "Red"
+  },
+  {
+    "name": "Electric Salmon",
+    "hex": "#6e1b17",
+    "category": "Red"
+  },
+  {
+    "name": "Glowing Salmon",
+    "hex": "#830a02",
+    "category": "Red"
+  },
+  {
+    "name": "Raspberry Bold",
+    "hex": "#7b0f09",
+    "category": "Red"
+  },
+  {
+    "name": "Rich Pomegranate",
+    "hex": "#7e0f06",
+    "category": "Red"
+  },
+  {
+    "name": "Cardinal Royal",
+    "hex": "#78180c",
+    "category": "Red"
+  },
+  {
+    "name": "Bold Salmon",
+    "hex": "#780d0a",
+    "category": "Red"
+  },
+  {
+    "name": "Vivid Burgundy",
+    "hex": "#6d2015",
+    "category": "Red"
+  },
+  {
+    "name": "Scarlet Rich",
+    "hex": "#7d1304",
+    "category": "Red"
+  },
+  {
+    "name": "Mahogany Vivid",
+    "hex": "#681a19",
+    "category": "Red"
+  },
+  {
+    "name": "Radiant Coral",
+    "hex": "#692017",
+    "category": "Red"
+  },
+  {
+    "name": "Berry Molten",
+    "hex": "#75180a",
+    "category": "Red"
+  },
+  {
+    "name": "Carmine Hot",
+    "hex": "#7b0503",
+    "category": "Red"
+  },
+  {
+    "name": "Sienna Intense",
+    "hex": "#691a15",
+    "category": "Red"
+  },
+  {
+    "name": "Warm Maroon",
+    "hex": "#721809",
+    "category": "Red"
+  },
+  {
+    "name": "Garnet Radiant",
+    "hex": "#621a19",
+    "category": "Red"
+  },
+  {
+    "name": "Poppy Luxury",
+    "hex": "#611c18",
+    "category": "Red"
+  },
+  {
+    "name": "Dramatic Tomato",
+    "hex": "#730706",
+    "category": "Red"
+  },
+  {
+    "name": "Inferno Powerful",
+    "hex": "#780501",
+    "category": "Red"
+  },
+  {
+    "name": "Wild Vermilion",
+    "hex": "#5e231a",
+    "category": "Red"
+  },
+  {
+    "name": "Rosewood Burning",
+    "hex": "#740704",
+    "category": "Red"
+  },
+  {
+    "name": "Soft Vermilion",
+    "hex": "#6e1309",
+    "category": "Red"
+  },
+  {
+    "name": "Sienna Warm",
+    "hex": "#681d0f",
+    "category": "Red"
+  },
+  {
+    "name": "Powerful Inferno",
+    "hex": "#5a1a1a",
+    "category": "Red"
+  },
+  {
+    "name": "Bold Tomato",
+    "hex": "#6b1608",
+    "category": "Red"
+  },
+  {
+    "name": "Dark Currant",
+    "hex": "#64150e",
+    "category": "Red"
+  },
+  {
+    "name": "Glowing Cherry",
+    "hex": "#710601",
+    "category": "Red"
+  },
+  {
+    "name": "Inferno Golden",
+    "hex": "#611b10",
+    "category": "Red"
+  },
+  {
+    "name": "Chili Velvet",
+    "hex": "#63110d",
+    "category": "Red"
+  },
+  {
+    "name": "Scarlet Blaze",
+    "hex": "#571b18",
+    "category": "Red"
+  },
+  {
+    "name": "Apple Ancient",
+    "hex": "#5f1810",
+    "category": "Red"
+  },
+  {
+    "name": "Scarlet Rubywood",
+    "hex": "#60150f",
+    "category": "Red"
+  },
+  {
+    "name": "Hot Sienna",
+    "hex": "#611b0d",
+    "category": "Red"
+  },
+  {
+    "name": "Terracotta Molten",
+    "hex": "#5e190f",
+    "category": "Red"
+  },
+  {
+    "name": "Bright Coral",
+    "hex": "#690904",
+    "category": "Red"
+  },
+  {
+    "name": "Terracotta Deep",
+    "hex": "#581e15",
+    "category": "Red"
+  },
+  {
+    "name": "Bold Rose",
+    "hex": "#680e04",
+    "category": "Red"
+  },
+  {
+    "name": "Inferno Vivid",
+    "hex": "#551d17",
+    "category": "Red"
+  },
+  {
+    "name": "Strawberry Elegant",
+    "hex": "#5f1a0c",
+    "category": "Red"
+  },
+  {
+    "name": "Glowing Phoenix",
+    "hex": "#661105",
+    "category": "Red"
+  },
+  {
+    "name": "Salmon Bold",
+    "hex": "#5f180c",
+    "category": "Red"
+  },
+  {
+    "name": "Poppy Molten",
+    "hex": "#661505",
+    "category": "Red"
+  },
+  {
+    "name": "Merlot Rich",
+    "hex": "#561e14",
+    "category": "Red"
+  },
+  {
+    "name": "Vivid Cherry",
+    "hex": "#5a120f",
+    "category": "Red"
+  },
+  {
+    "name": "Pomegranate Intense",
+    "hex": "#581a10",
+    "category": "Red"
+  },
+  {
+    "name": "Paprika Radiant",
+    "hex": "#661202",
+    "category": "Red"
+  },
+  {
+    "name": "Merlot Golden",
+    "hex": "#660601",
+    "category": "Red"
+  },
+  {
+    "name": "Maroon Smoky",
+    "hex": "#531613",
     "category": "Red"
   }
 ]

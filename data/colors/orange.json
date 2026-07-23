@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Soft Sunset",
-    "hex": "#fce0ce",
+    "name": "Ginger Natural",
+    "hex": "#f7ddd4",
     "category": "Orange"
   },
   {
-    "name": "Deep Coral",
-    "hex": "#f7e5d2",
+    "name": "Sunny Turmeric",
+    "hex": "#f6dbd4",
     "category": "Orange"
   },
   {
-    "name": "Fresh Pumpkin",
-    "hex": "#f9d8cf",
+    "name": "Bold Paprika",
+    "hex": "#fbdecf",
     "category": "Orange"
   },
   {
-    "name": "Bright Amber",
-    "hex": "#fadece",
+    "name": "Molten Canyon",
+    "hex": "#fddbcc",
     "category": "Orange"
   },
   {
-    "name": "Golden Amber",
-    "hex": "#f5e5d3",
+    "name": "Rich Coral",
+    "hex": "#f6e0d3",
     "category": "Orange"
   },
   {
-    "name": "Warm Tangerine",
-    "hex": "#f8e3ce",
+    "name": "Orange Radiant",
+    "hex": "#f7decf",
     "category": "Orange"
   },
   {
-    "name": "Fresh Tangerine",
-    "hex": "#f8dbce",
+    "name": "Luminous Harvest",
+    "hex": "#f9d5cd",
     "category": "Orange"
   },
   {
-    "name": "Golden Citrus",
-    "hex": "#f5e0d1",
+    "name": "Desert Dark",
+    "hex": "#fcd3ca",
     "category": "Orange"
   },
   {
-    "name": "Burning Sunset",
-    "hex": "#fdd4c9",
+    "name": "Fresh Ginger",
+    "hex": "#fae5cc",
     "category": "Orange"
   },
   {
-    "name": "Deep Apricot",
-    "hex": "#f9dbcd",
+    "name": "Electric Apricot",
+    "hex": "#f8d8cd",
     "category": "Orange"
   },
   {
-    "name": "Deep Amber",
-    "hex": "#f7e0ce",
+    "name": "Glowing Carrot",
+    "hex": "#f8e3cb",
     "category": "Orange"
   },
   {
-    "name": "Burning Copper",
-    "hex": "#fbdfc7",
+    "name": "Maple Bold",
+    "hex": "#f7e0cc",
     "category": "Orange"
   },
   {
-    "name": "Bright Peach",
-    "hex": "#fae2c5",
+    "name": "Harvest Terracotta",
+    "hex": "#f7e1cc",
     "category": "Orange"
   },
   {
-    "name": "Warm Amber",
-    "hex": "#fbdfc3",
+    "name": "Natural Rust",
+    "hex": "#fdd8c5",
     "category": "Orange"
   },
   {
-    "name": "Bright Apricot",
-    "hex": "#fdcdc0",
+    "name": "Harvest Sweet",
+    "hex": "#f4decd",
     "category": "Orange"
   },
   {
-    "name": "Burning Pumpkin",
-    "hex": "#fad1c3",
+    "name": "Solar Tropical",
+    "hex": "#fbd2c6",
     "category": "Orange"
   },
   {
-    "name": "Warm Pumpkin",
-    "hex": "#f9d6c3",
+    "name": "Orange Golden",
+    "hex": "#f9dcc8",
     "category": "Orange"
   },
   {
-    "name": "Warm Coral",
-    "hex": "#f6dbc6",
+    "name": "Gold Warm",
+    "hex": "#fbddc6",
     "category": "Orange"
   },
   {
-    "name": "Fresh Coral",
-    "hex": "#f2dac9",
+    "name": "Clay Soft",
+    "hex": "#fdddc4",
     "category": "Orange"
   },
   {
-    "name": "Bright Sunset",
-    "hex": "#fcdabf",
+    "name": "Elegant Cinnamon",
+    "hex": "#f4d9cc",
     "category": "Orange"
   },
   {
-    "name": "Golden Copper",
-    "hex": "#fecfbb",
+    "name": "Burning Saffron",
+    "hex": "#f3d8cc",
     "category": "Orange"
   },
   {
-    "name": "Burning Apricot",
-    "hex": "#f2d8c7",
+    "name": "Orange Fiery",
+    "hex": "#f3dfcc",
     "category": "Orange"
   },
   {
-    "name": "Fresh Amber",
-    "hex": "#f9ddbd",
+    "name": "Peach Pure",
+    "hex": "#f4d9cb",
     "category": "Orange"
   },
   {
-    "name": "Warm Sunset",
-    "hex": "#f5d2be",
+    "name": "Luminous Cinnamon",
+    "hex": "#fcd0c3",
+    "category": "Orange"
+  },
+  {
+    "name": "Flare Golden",
+    "hex": "#f3e0cb",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Citrus",
+    "hex": "#feccc0",
+    "category": "Orange"
+  },
+  {
+    "name": "Volcano Soft",
+    "hex": "#f8e0c5",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Turmeric",
+    "hex": "#f9e1c4",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Flame",
+    "hex": "#f3dcc9",
+    "category": "Orange"
+  },
+  {
+    "name": "Terracotta Bold",
+    "hex": "#f7dcc4",
+    "category": "Orange"
+  },
+  {
+    "name": "Electric Copper",
+    "hex": "#facebe",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunrise Classic",
+    "hex": "#fdd7bb",
+    "category": "Orange"
+  },
+  {
+    "name": "Apricot Soft",
+    "hex": "#fbd2bc",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Natural",
+    "hex": "#f1dbc5",
+    "category": "Orange"
+  },
+  {
+    "name": "Smooth Orange",
+    "hex": "#f2d1c3",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Ember",
+    "hex": "#f2ddc2",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Amber",
+    "hex": "#fcddb5",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Papaya",
+    "hex": "#f2c9bf",
+    "category": "Orange"
+  },
+  {
+    "name": "Spiced Honey",
+    "hex": "#f4d4bb",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Spice",
+    "hex": "#fedab0",
+    "category": "Orange"
+  },
+  {
+    "name": "Electric Oak",
+    "hex": "#f6d6b8",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Golden",
+    "hex": "#f5c6b8",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Harvest",
+    "hex": "#fec2af",
+    "category": "Orange"
+  },
+  {
+    "name": "Turmeric Luminous",
+    "hex": "#f4cfb9",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Sandstone",
+    "hex": "#fbcbb2",
+    "category": "Orange"
+  },
+  {
+    "name": "Fire Deep",
+    "hex": "#f7c5b5",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Muted",
+    "hex": "#f1cdbb",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Deep",
+    "hex": "#f4c6b7",
+    "category": "Orange"
+  },
+  {
+    "name": "Brick Autumn",
+    "hex": "#fbc2af",
+    "category": "Orange"
+  },
+  {
+    "name": "Brick Elegant",
+    "hex": "#fed7ab",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Pure",
+    "hex": "#f0c6b7",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Rust",
+    "hex": "#f3d1b4",
+    "category": "Orange"
+  },
+  {
+    "name": "Persimmon Vibrant",
+    "hex": "#f8c4af",
+    "category": "Orange"
+  },
+  {
+    "name": "Cinnamon Fresh",
+    "hex": "#f8d5ae",
+    "category": "Orange"
+  },
+  {
+    "name": "Gold Electric",
+    "hex": "#eecfb7",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Mandarin",
+    "hex": "#f5c0af",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Electric",
+    "hex": "#f9c3aa",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Tropical",
+    "hex": "#f1ceb2",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Solar",
+    "hex": "#f4d3ae",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Bold",
+    "hex": "#febea4",
+    "category": "Orange"
+  },
+  {
+    "name": "Amber Glowing",
+    "hex": "#fdcba4",
+    "category": "Orange"
+  },
+  {
+    "name": "Terracotta Harvest",
+    "hex": "#f8c6a9",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunset Spiced",
+    "hex": "#fcbaa5",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunrise Elegant",
+    "hex": "#f6cfaa",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Canyon",
+    "hex": "#f0bfb0",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Radiant",
+    "hex": "#f8b8a8",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Harvest",
+    "hex": "#fdc6a3",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Ember",
+    "hex": "#f2d0ad",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Elegant",
+    "hex": "#ecc1b2",
+    "category": "Orange"
+  },
+  {
+    "name": "Honey Dark",
+    "hex": "#f8cea4",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Harvest",
+    "hex": "#f8d5a4",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Classic",
+    "hex": "#f2d0aa",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Fresh",
+    "hex": "#fec69d",
+    "category": "Orange"
+  },
+  {
+    "name": "Turmeric Dramatic",
+    "hex": "#f4b5a5",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Classic",
+    "hex": "#efbaaa",
+    "category": "Orange"
+  },
+  {
+    "name": "Papaya Warm",
+    "hex": "#efccaa",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Glowing",
+    "hex": "#f4c0a4",
+    "category": "Orange"
+  },
+  {
+    "name": "Mango Luminous",
+    "hex": "#f0c4a8",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Canyon",
+    "hex": "#eecca9",
+    "category": "Orange"
+  },
+  {
+    "name": "Paprika Elegant",
+    "hex": "#f0d0a7",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Solar",
+    "hex": "#f9c79e",
+    "category": "Orange"
+  },
+  {
+    "name": "Coral Warm",
+    "hex": "#fcb89b",
+    "category": "Orange"
+  },
+  {
+    "name": "Brick Burning",
+    "hex": "#edcca9",
+    "category": "Orange"
+  },
+  {
+    "name": "Rich Peach",
+    "hex": "#efc0a7",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Coral",
+    "hex": "#edc4a9",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Flare",
+    "hex": "#eab7aa",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Saffron",
+    "hex": "#eccba7",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Bright",
+    "hex": "#fcb997",
+    "category": "Orange"
+  },
+  {
+    "name": "Citrus Harvest",
+    "hex": "#eac9a8",
+    "category": "Orange"
+  },
+  {
+    "name": "Saffron Natural",
+    "hex": "#fbb597",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Pumpkin",
+    "hex": "#eccaa5",
+    "category": "Orange"
+  },
+  {
+    "name": "Sandstone Dramatic",
+    "hex": "#ffbe92",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Warm",
+    "hex": "#f0c7a0",
+    "category": "Orange"
+  },
+  {
+    "name": "Copper Sweet",
+    "hex": "#f8aa98",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Cantaloupe",
+    "hex": "#f8b397",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Volcano",
+    "hex": "#f9ca96",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Paprika",
+    "hex": "#fba892",
+    "category": "Orange"
+  },
+  {
+    "name": "Coral Radiant",
+    "hex": "#ebb9a0",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Bold",
+    "hex": "#f2c999",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Coral",
+    "hex": "#f0c09a",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Melon",
+    "hex": "#efb89b",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Luminous",
+    "hex": "#f9aa90",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Bright",
+    "hex": "#f9bb90",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Clay",
+    "hex": "#f1ad98",
+    "category": "Orange"
+  },
+  {
+    "name": "Fire Warm",
+    "hex": "#e8aea0",
+    "category": "Orange"
+  },
+  {
+    "name": "Smooth Tangerine",
+    "hex": "#f6bd91",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Persimmon",
+    "hex": "#f1a995",
+    "category": "Orange"
+  },
+  {
+    "name": "Copper Muted",
+    "hex": "#fc9d88",
+    "category": "Orange"
+  },
+  {
+    "name": "Peach Dramatic",
+    "hex": "#f3bf90",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Citrus",
+    "hex": "#efc094",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Rich",
+    "hex": "#f6a48c",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Coral",
+    "hex": "#fab788",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Honey",
+    "hex": "#edb295",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Dawn",
+    "hex": "#f2a68f",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Melon",
+    "hex": "#feb783",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Tropical",
+    "hex": "#eda693",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Solar",
+    "hex": "#f1b08f",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Sunrise",
+    "hex": "#f0b28f",
     "category": "Orange"
   },
   {
     "name": "Soft Citrus",
-    "hex": "#fdd9b5",
+    "hex": "#faa585",
     "category": "Orange"
   },
   {
-    "name": "Golden Apricot",
-    "hex": "#f7c8bb",
+    "name": "Persimmon Sweet",
+    "hex": "#f6a289",
     "category": "Orange"
   },
   {
-    "name": "Fresh Peach",
-    "hex": "#fbcab6",
+    "name": "Vibrant Pumpkin",
+    "hex": "#edc391",
     "category": "Orange"
   },
   {
-    "name": "Burning Citrus",
-    "hex": "#f0d6c0",
+    "name": "Autumn Fire",
+    "hex": "#edbc91",
     "category": "Orange"
   },
   {
-    "name": "Bright Coral",
-    "hex": "#f4d9bb",
+    "name": "Dramatic Canyon",
+    "hex": "#e8bb96",
     "category": "Orange"
   },
   {
-    "name": "Golden Flame",
-    "hex": "#f5caba",
+    "name": "Sunny Flare",
+    "hex": "#eaae93",
     "category": "Orange"
   },
   {
-    "name": "Burning Peach",
-    "hex": "#fec6b1",
+    "name": "Solar Sunny",
+    "hex": "#fab682",
     "category": "Orange"
   },
   {
-    "name": "Fresh Citrus",
-    "hex": "#f6cab8",
+    "name": "Muted Brick",
+    "hex": "#eeae8e",
     "category": "Orange"
   },
   {
-    "name": "Burning Amber",
-    "hex": "#f5d2b8",
+    "name": "Spice Pure",
+    "hex": "#e5b897",
     "category": "Orange"
   },
   {
-    "name": "Bright Pumpkin",
-    "hex": "#fbc5b2",
+    "name": "Fiery Turmeric",
+    "hex": "#e8c094",
+    "category": "Orange"
+  },
+  {
+    "name": "Electric Solar",
+    "hex": "#feb07d",
+    "category": "Orange"
+  },
+  {
+    "name": "Ember Electric",
+    "hex": "#f99f81",
+    "category": "Orange"
+  },
+  {
+    "name": "Oak Sunny",
+    "hex": "#feab79",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Deep",
+    "hex": "#feb579",
+    "category": "Orange"
+  },
+  {
+    "name": "Brick Pure",
+    "hex": "#fec378",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Warm",
+    "hex": "#f3b083",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Spice",
+    "hex": "#f3c082",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Honey",
+    "hex": "#f9967a",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Lava",
+    "hex": "#f1a282",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Pumpkin",
+    "hex": "#ecb685",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Dramatic",
+    "hex": "#f3af7e",
+    "category": "Orange"
+  },
+  {
+    "name": "Ginger Golden",
+    "hex": "#eaac87",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Mango",
+    "hex": "#e3af8e",
+    "category": "Orange"
+  },
+  {
+    "name": "Fire Muted",
+    "hex": "#f7a279",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Orange",
+    "hex": "#faa374",
     "category": "Orange"
   },
   {
     "name": "Fresh Apricot",
-    "hex": "#fcc2b0",
+    "hex": "#f9b675",
     "category": "Orange"
   },
   {
-    "name": "Bright Citrus",
-    "hex": "#fcc6af",
+    "name": "Fiery Amber",
+    "hex": "#e3b28b",
     "category": "Orange"
   },
   {
-    "name": "Warm Citrus",
-    "hex": "#f1d4ba",
+    "name": "Cantaloupe Soft",
+    "hex": "#e9a784",
     "category": "Orange"
   },
   {
-    "name": "Warm Peach",
-    "hex": "#fcd6ae",
+    "name": "Citrus Luminous",
+    "hex": "#feb46f",
     "category": "Orange"
   },
   {
-    "name": "Golden Coral",
-    "hex": "#f3cbb7",
+    "name": "Dawn Autumn",
+    "hex": "#ea9c82",
     "category": "Orange"
   },
   {
-    "name": "Golden Pumpkin",
-    "hex": "#f9caaf",
+    "name": "Pure Marigold",
+    "hex": "#ef987c",
     "category": "Orange"
   },
   {
-    "name": "Soft Copper",
-    "hex": "#f8d6b0",
+    "name": "Elegant Honey",
+    "hex": "#fa9971",
     "category": "Orange"
   },
   {
-    "name": "Soft Apricot",
-    "hex": "#fbcdac",
+    "name": "Warm Flare",
+    "hex": "#e49d84",
     "category": "Orange"
   },
   {
-    "name": "Deep Sunset",
-    "hex": "#f3ccb4",
+    "name": "Flame Bold",
+    "hex": "#f6a272",
     "category": "Orange"
   },
   {
-    "name": "Deep Peach",
-    "hex": "#facbac",
+    "name": "Terracotta Autumn",
+    "hex": "#e1aa87",
     "category": "Orange"
   },
   {
-    "name": "Soft Coral",
-    "hex": "#fed6a7",
+    "name": "Fiery Citrus",
+    "hex": "#eca37b",
     "category": "Orange"
   },
   {
-    "name": "Soft Pumpkin",
-    "hex": "#f3c4b2",
+    "name": "Autumn Coral",
+    "hex": "#f4ac73",
     "category": "Orange"
   },
   {
-    "name": "Fresh Copper",
-    "hex": "#ffcba6",
+    "name": "Sandstone Smooth",
+    "hex": "#e8bb7c",
     "category": "Orange"
   },
   {
-    "name": "Bright Tangerine",
-    "hex": "#f3d6b2",
+    "name": "Clay Dramatic",
+    "hex": "#efa075",
     "category": "Orange"
   },
   {
-    "name": "Deep Citrus",
-    "hex": "#fbbdaa",
+    "name": "Pure Desert",
+    "hex": "#e9ad7b",
     "category": "Orange"
   },
   {
-    "name": "Warm Copper",
-    "hex": "#f2ccb2",
+    "name": "Molten Saffron",
+    "hex": "#e6b07d",
     "category": "Orange"
   },
   {
-    "name": "Deep Tangerine",
-    "hex": "#efd6b5",
+    "name": "Ember Vibrant",
+    "hex": "#efb372",
     "category": "Orange"
   },
   {
-    "name": "Golden Sunset",
-    "hex": "#fac6aa",
-    "category": "Orange"
-  },
-  {
-    "name": "Burning Coral",
-    "hex": "#fdc5a5",
-    "category": "Orange"
-  },
-  {
-    "name": "Fresh Sunset",
-    "hex": "#fabba8",
-    "category": "Orange"
-  },
-  {
-    "name": "Soft Tangerine",
-    "hex": "#edc2b4",
-    "category": "Orange"
-  },
-  {
-    "name": "Soft Amber",
-    "hex": "#fecca3",
-    "category": "Orange"
-  },
-  {
-    "name": "Deep Copper",
-    "hex": "#f2d2af",
-    "category": "Orange"
-  },
-  {
-    "name": "Fresh Flame",
-    "hex": "#fdb7a3",
-    "category": "Orange"
-  },
-  {
-    "name": "Deep Pumpkin",
-    "hex": "#f0beb0",
+    "name": "Deep Persimmon",
+    "hex": "#f39f6e",
     "category": "Orange"
   },
   {
     "name": "Bright Copper",
-    "hex": "#f2c9ac",
+    "hex": "#e79277",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Harvest",
+    "hex": "#e69978",
+    "category": "Orange"
+  },
+  {
+    "name": "Ember Spiced",
+    "hex": "#e1b17d",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Tropical",
+    "hex": "#f6a168",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Dark",
+    "hex": "#e4a878",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Sweet",
+    "hex": "#fe955e",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Cinnamon",
+    "hex": "#fdb65f",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Honey",
+    "hex": "#e9a672",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Sunrise",
+    "hex": "#e79374",
+    "category": "Orange"
+  },
+  {
+    "name": "Peach Molten",
+    "hex": "#e9a572",
+    "category": "Orange"
+  },
+  {
+    "name": "Oak Harvest",
+    "hex": "#ee9d6d",
+    "category": "Orange"
+  },
+  {
+    "name": "Sandstone Harvest",
+    "hex": "#f58164",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunset Classic",
+    "hex": "#efa069",
+    "category": "Orange"
+  },
+  {
+    "name": "Volcano Sweet",
+    "hex": "#ee9a69",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunset Luminous",
+    "hex": "#e68871",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Turmeric",
+    "hex": "#ebaa6c",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Elegant",
+    "hex": "#f09d66",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Golden",
+    "hex": "#f19065",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Flame",
+    "hex": "#e59670",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Spiced",
+    "hex": "#f28863",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Electric",
+    "hex": "#fc8358",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Papaya",
+    "hex": "#e4ae70",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Amber",
+    "hex": "#e9996b",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Solar",
+    "hex": "#e78c6d",
+    "category": "Orange"
+  },
+  {
+    "name": "Terracotta Sweet",
+    "hex": "#e5ab6e",
+    "category": "Orange"
+  },
+  {
+    "name": "Persimmon Rich",
+    "hex": "#f5925e",
+    "category": "Orange"
+  },
+  {
+    "name": "Ginger Harvest",
+    "hex": "#f18262",
+    "category": "Orange"
+  },
+  {
+    "name": "Fire Sunny",
+    "hex": "#eba967",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Mandarin",
+    "hex": "#ec9763",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Tangerine",
+    "hex": "#dea171",
+    "category": "Orange"
+  },
+  {
+    "name": "Smooth Ginger",
+    "hex": "#e6ae68",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Peach",
+    "hex": "#f89255",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Clay",
+    "hex": "#e48768",
+    "category": "Orange"
+  },
+  {
+    "name": "Citrus Elegant",
+    "hex": "#e7a765",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Smooth",
+    "hex": "#e0836c",
+    "category": "Orange"
+  },
+  {
+    "name": "Melon Dark",
+    "hex": "#de896e",
+    "category": "Orange"
+  },
+  {
+    "name": "Rich Cantaloupe",
+    "hex": "#fd854d",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Citrus",
+    "hex": "#ff6d4b",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Ginger",
+    "hex": "#df816a",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Oak",
+    "hex": "#e2a767",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Radiant",
+    "hex": "#eda45b",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Bold",
+    "hex": "#ee905a",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Oak",
+    "hex": "#ec915c",
+    "category": "Orange"
+  },
+  {
+    "name": "Smooth Dawn",
+    "hex": "#e1a367",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Flare",
+    "hex": "#dc876b",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Pumpkin",
+    "hex": "#eea157",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Marigold",
+    "hex": "#db896a",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Desert",
+    "hex": "#faa44b",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Golden",
+    "hex": "#e78f5e",
+    "category": "Orange"
+  },
+  {
+    "name": "Pumpkin Sweet",
+    "hex": "#f4884f",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Muted",
+    "hex": "#dba168",
+    "category": "Orange"
+  },
+  {
+    "name": "Ginger Classic",
+    "hex": "#ef8254",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Coral",
+    "hex": "#fe9e45",
+    "category": "Orange"
+  },
+  {
+    "name": "Saffron Soft",
+    "hex": "#e38e5f",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Autumn",
+    "hex": "#ed8e54",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Orange",
+    "hex": "#f96d48",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Citrus",
+    "hex": "#fa7047",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Brick",
+    "hex": "#ea9e56",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Solar",
+    "hex": "#fcaa43",
+    "category": "Orange"
+  },
+  {
+    "name": "Citrus Pure",
+    "hex": "#f89a44",
+    "category": "Orange"
+  },
+  {
+    "name": "Solar Molten",
+    "hex": "#fb8940",
+    "category": "Orange"
+  },
+  {
+    "name": "Persimmon Soft",
+    "hex": "#e27258",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Radiant",
+    "hex": "#efa54b",
+    "category": "Orange"
+  },
+  {
+    "name": "Melon Deep",
+    "hex": "#e29856",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Terracotta",
+    "hex": "#e9764e",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Radiant",
+    "hex": "#f08d46",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Carrot",
+    "hex": "#fa843b",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Dawn",
+    "hex": "#f8873d",
+    "category": "Orange"
+  },
+  {
+    "name": "Amber Spiced",
+    "hex": "#f4a740",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Deep",
+    "hex": "#f29141",
+    "category": "Orange"
+  },
+  {
+    "name": "Radiant Apricot",
+    "hex": "#fc8e36",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Solar",
+    "hex": "#dfa153",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Orange",
+    "hex": "#e5a34c",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Warm",
+    "hex": "#fc7535",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Rust",
+    "hex": "#f6903a",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Paprika",
+    "hex": "#f86636",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Rust",
+    "hex": "#e57848",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Vibrant",
+    "hex": "#d88d55",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Rust",
+    "hex": "#f96b33",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Elegant",
+    "hex": "#fc7230",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Tangerine",
+    "hex": "#ef923d",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Mango",
+    "hex": "#ee913e",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunrise Fresh",
+    "hex": "#f57837",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Flame",
+    "hex": "#eda03e",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Classic",
+    "hex": "#e29349",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Classic",
+    "hex": "#de984c",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Saffron",
+    "hex": "#de704b",
+    "category": "Orange"
+  },
+  {
+    "name": "Mango Dark",
+    "hex": "#ec673d",
+    "category": "Orange"
+  },
+  {
+    "name": "Ginger Muted",
+    "hex": "#f07538",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Paprika",
+    "hex": "#f76330",
+    "category": "Orange"
+  },
+  {
+    "name": "Mango Elegant",
+    "hex": "#fe7528",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunrise Warm",
+    "hex": "#e28542",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Solar",
+    "hex": "#ed5e37",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Clay",
+    "hex": "#dc6b48",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Autumn",
+    "hex": "#ea6339",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Orange",
+    "hex": "#f28031",
+    "category": "Orange"
+  },
+  {
+    "name": "Clay Bold",
+    "hex": "#d7894b",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Marigold",
+    "hex": "#dd9145",
+    "category": "Orange"
+  },
+  {
+    "name": "Saffron Warm",
+    "hex": "#d7754b",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Dark",
+    "hex": "#f76b2b",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Sweet",
+    "hex": "#e8873a",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Peach",
+    "hex": "#ee6233",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Mandarin",
+    "hex": "#e06141",
+    "category": "Orange"
+  },
+  {
+    "name": "Mango Pure",
+    "hex": "#d89849",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Brick",
+    "hex": "#d96347",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Autumn",
+    "hex": "#db8e45",
+    "category": "Orange"
+  },
+  {
+    "name": "Gold Autumn",
+    "hex": "#d98e47",
     "category": "Orange"
   },
   {
     "name": "Soft Peach",
-    "hex": "#ecceb0",
+    "hex": "#f1962e",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Lava",
+    "hex": "#fe8521",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Ginger",
+    "hex": "#e55a3a",
+    "category": "Orange"
+  },
+  {
+    "name": "Sandstone Luminous",
+    "hex": "#df6a3e",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Lava",
+    "hex": "#e58236",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Canyon",
+    "hex": "#ed672d",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Rust",
+    "hex": "#d29044",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Orange",
+    "hex": "#d77e3e",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Amber",
+    "hex": "#f08024",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Bold",
+    "hex": "#e18b33",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Solar",
+    "hex": "#ea7d28",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Flame",
+    "hex": "#db5d37",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Maple",
+    "hex": "#e3722f",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Orange",
+    "hex": "#f6581b",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Spice",
+    "hex": "#ed8d24",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Copper",
+    "hex": "#e75d2a",
+    "category": "Orange"
+  },
+  {
+    "name": "Copper Golden",
+    "hex": "#e79629",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Ginger",
+    "hex": "#fb4714",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Gold",
+    "hex": "#eb8323",
+    "category": "Orange"
+  },
+  {
+    "name": "Tangerine Burning",
+    "hex": "#fe8210",
+    "category": "Orange"
+  },
+  {
+    "name": "Dawn Smooth",
+    "hex": "#d36339",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Glowing",
+    "hex": "#dc7130",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Sunrise",
+    "hex": "#fc6c0f",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunny Brick",
+    "hex": "#e28729",
+    "category": "Orange"
+  },
+  {
+    "name": "Rich Sunrise",
+    "hex": "#fc560f",
+    "category": "Orange"
+  },
+  {
+    "name": "Gold Burning",
+    "hex": "#fb540f",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Peach",
+    "hex": "#e79222",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Fire",
+    "hex": "#ed771c",
+    "category": "Orange"
+  },
+  {
+    "name": "Tangerine Fiery",
+    "hex": "#d18d37",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Elegant",
+    "hex": "#ea841c",
+    "category": "Orange"
+  },
+  {
+    "name": "Saffron Tropical",
+    "hex": "#eb941a",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Dramatic",
+    "hex": "#f26c13",
+    "category": "Orange"
+  },
+  {
+    "name": "Flare Elegant",
+    "hex": "#de6926",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Spiced",
+    "hex": "#f5540f",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Cinnamon",
+    "hex": "#dc8227",
+    "category": "Orange"
+  },
+  {
+    "name": "Coral Rich",
+    "hex": "#e57a1e",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Amber",
+    "hex": "#e88318",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Sunrise",
+    "hex": "#fa7706",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Lava",
+    "hex": "#da8f26",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Vibrant",
+    "hex": "#f94d06",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Flare",
+    "hex": "#f77307",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Maple",
+    "hex": "#cc7832",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Muted",
+    "hex": "#da4b23",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Tangerine",
+    "hex": "#cc7831",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Turmeric",
+    "hex": "#f49108",
+    "category": "Orange"
+  },
+  {
+    "name": "Coral Luminous",
+    "hex": "#db4b21",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Orange",
+    "hex": "#ee780d",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Luminous",
+    "hex": "#ce4d2d",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunset Tropical",
+    "hex": "#dd8b1e",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Harvest",
+    "hex": "#d54e24",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Smooth",
+    "hex": "#f25607",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Spiced",
+    "hex": "#d48224",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Rich",
+    "hex": "#d36024",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Rich",
+    "hex": "#d5601f",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Smooth",
+    "hex": "#de6816",
+    "category": "Orange"
+  },
+  {
+    "name": "Honey Bright",
+    "hex": "#d7551d",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Solar",
+    "hex": "#d17a23",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Bright",
+    "hex": "#d5761e",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Rust",
+    "hex": "#d37d20",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Gold",
+    "hex": "#d8821a",
+    "category": "Orange"
+  },
+  {
+    "name": "Oak Muted",
+    "hex": "#cf5e23",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Citrus",
+    "hex": "#ea7007",
+    "category": "Orange"
+  },
+  {
+    "name": "Deep Pumpkin",
+    "hex": "#e94708",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Spiced",
+    "hex": "#c45f2b",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Marigold",
+    "hex": "#c27d2d",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Amber",
+    "hex": "#c97426",
+    "category": "Orange"
+  },
+  {
+    "name": "Apricot Burning",
+    "hex": "#c54f29",
+    "category": "Orange"
+  },
+  {
+    "name": "Persimmon Electric",
+    "hex": "#c2612c",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Honey",
+    "hex": "#c45129",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Maple",
+    "hex": "#e94704",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Dawn",
+    "hex": "#eb6702",
+    "category": "Orange"
+  },
+  {
+    "name": "Ember Harvest",
+    "hex": "#ce501d",
+    "category": "Orange"
+  },
+  {
+    "name": "Pumpkin Spiced",
+    "hex": "#d54116",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Spiced",
+    "hex": "#da5711",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Sunrise",
+    "hex": "#c54d25",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Glowing",
+    "hex": "#d67d13",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Deep",
+    "hex": "#e04109",
+    "category": "Orange"
+  },
+  {
+    "name": "Tangerine Sunny",
+    "hex": "#c14c26",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Flare",
+    "hex": "#dc570b",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Cinnamon",
+    "hex": "#d24615",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Solar",
+    "hex": "#bc712a",
+    "category": "Orange"
+  },
+  {
+    "name": "Fresh Paprika",
+    "hex": "#cc6e19",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Marigold",
+    "hex": "#dd3808",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Fresh",
+    "hex": "#d45510",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Lava",
+    "hex": "#d06114",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Golden",
+    "hex": "#c26522",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Marigold",
+    "hex": "#b6452c",
+    "category": "Orange"
+  },
+  {
+    "name": "Bright Mango",
+    "hex": "#be7323",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Rust",
+    "hex": "#d5330b",
+    "category": "Orange"
+  },
+  {
+    "name": "Spice Dramatic",
+    "hex": "#c4751a",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Maple",
+    "hex": "#ba5924",
+    "category": "Orange"
+  },
+  {
+    "name": "Clay Fresh",
+    "hex": "#c2461b",
+    "category": "Orange"
+  },
+  {
+    "name": "Cinnamon Dramatic",
+    "hex": "#ce5f0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Autumn",
+    "hex": "#be731e",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Mango",
+    "hex": "#d17d0b",
+    "category": "Orange"
+  },
+  {
+    "name": "Amber Pure",
+    "hex": "#cb5b11",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Carrot",
+    "hex": "#bb6421",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Luminous",
+    "hex": "#cc630f",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Mandarin",
+    "hex": "#af5f2b",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Coral",
+    "hex": "#d56b04",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunny Autumn",
+    "hex": "#c57313",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunset Sunny",
+    "hex": "#d23f05",
+    "category": "Orange"
+  },
+  {
+    "name": "Oak Natural",
+    "hex": "#b66b20",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Paprika",
+    "hex": "#b66c1f",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Pumpkin",
+    "hex": "#b45a20",
+    "category": "Orange"
+  },
+  {
+    "name": "Persimmon Pure",
+    "hex": "#b25022",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Carrot",
+    "hex": "#ad6026",
+    "category": "Orange"
+  },
+  {
+    "name": "Fiery Tangerine",
+    "hex": "#cc4b06",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Carrot",
+    "hex": "#cf5e03",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Sunny",
+    "hex": "#ad4623",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Marigold",
+    "hex": "#c5550b",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Dramatic",
+    "hex": "#ca6c05",
+    "category": "Orange"
+  },
+  {
+    "name": "Natural Apricot",
+    "hex": "#ad4621",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Dramatic",
+    "hex": "#bf700e",
+    "category": "Orange"
+  },
+  {
+    "name": "Spiced Flame",
+    "hex": "#ac5521",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Rust",
+    "hex": "#c06c0d",
+    "category": "Orange"
+  },
+  {
+    "name": "Pumpkin Soft",
+    "hex": "#a65527",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Carrot",
+    "hex": "#bb5211",
+    "category": "Orange"
+  },
+  {
+    "name": "Saffron Rich",
+    "hex": "#a95f22",
+    "category": "Orange"
+  },
+  {
+    "name": "Luminous Cantaloupe",
+    "hex": "#b56c15",
+    "category": "Orange"
+  },
+  {
+    "name": "Amber Natural",
+    "hex": "#c76003",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Turmeric",
+    "hex": "#b37116",
+    "category": "Orange"
+  },
+  {
+    "name": "Desert Burning",
+    "hex": "#b14117",
+    "category": "Orange"
+  },
+  {
+    "name": "Apricot Smooth",
+    "hex": "#bd3109",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Cantaloupe",
+    "hex": "#bf3d06",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Dramatic",
+    "hex": "#ac6119",
+    "category": "Orange"
+  },
+  {
+    "name": "Canyon Natural",
+    "hex": "#b55d0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Persimmon",
+    "hex": "#aa6e19",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Classic",
+    "hex": "#af6b14",
+    "category": "Orange"
+  },
+  {
+    "name": "Mango Autumn",
+    "hex": "#9f4323",
+    "category": "Orange"
+  },
+  {
+    "name": "Turmeric Dark",
+    "hex": "#a4421d",
+    "category": "Orange"
+  },
+  {
+    "name": "Autumn Lava",
+    "hex": "#bc6905",
+    "category": "Orange"
+  },
+  {
+    "name": "Orange Pure",
+    "hex": "#c05100",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Lava",
+    "hex": "#ba6b05",
+    "category": "Orange"
+  },
+  {
+    "name": "Mandarin Harvest",
+    "hex": "#b93c05",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Tropical",
+    "hex": "#9e3f1e",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Canyon",
+    "hex": "#985e24",
+    "category": "Orange"
+  },
+  {
+    "name": "Rich Canyon",
+    "hex": "#a15c1b",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Sunset",
+    "hex": "#b93301",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Sunrise",
+    "hex": "#b45905",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Autumn",
+    "hex": "#964d23",
+    "category": "Orange"
+  },
+  {
+    "name": "Carrot Sunny",
+    "hex": "#ae310b",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Honey",
+    "hex": "#954422",
+    "category": "Orange"
+  },
+  {
+    "name": "Citrus Classic",
+    "hex": "#9d5519",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Amber",
+    "hex": "#954121",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunny Spice",
+    "hex": "#b14204",
+    "category": "Orange"
+  },
+  {
+    "name": "Sandstone Classic",
+    "hex": "#a15d14",
+    "category": "Orange"
+  },
+  {
+    "name": "Spiced Solar",
+    "hex": "#a62f0e",
+    "category": "Orange"
+  },
+  {
+    "name": "Sweet Carrot",
+    "hex": "#ad5207",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Elegant",
+    "hex": "#9c3918",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Ginger",
+    "hex": "#b22a00",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Sunrise",
+    "hex": "#af6503",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Cantaloupe",
+    "hex": "#9b5617",
+    "category": "Orange"
+  },
+  {
+    "name": "Pure Tangerine",
+    "hex": "#a4370d",
+    "category": "Orange"
+  },
+  {
+    "name": "Tangerine Bright",
+    "hex": "#9f5c12",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Flare",
+    "hex": "#92601f",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Deep",
+    "hex": "#aa3506",
+    "category": "Orange"
+  },
+  {
+    "name": "Brick Golden",
+    "hex": "#973f17",
+    "category": "Orange"
+  },
+  {
+    "name": "Vibrant Orange",
+    "hex": "#aa6003",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Pure",
+    "hex": "#944c17",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Vibrant",
+    "hex": "#a65e04",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Muted",
+    "hex": "#8a4a20",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Persimmon",
+    "hex": "#943f15",
+    "category": "Orange"
+  },
+  {
+    "name": "Oak Fiery",
+    "hex": "#894520",
+    "category": "Orange"
+  },
+  {
+    "name": "Bold Tangerine",
+    "hex": "#9c500c",
+    "category": "Orange"
+  },
+  {
+    "name": "Burning Orange",
+    "hex": "#973111",
+    "category": "Orange"
+  },
+  {
+    "name": "Spiced Copper",
+    "hex": "#9d360a",
+    "category": "Orange"
+  },
+  {
+    "name": "Solar Golden",
+    "hex": "#a34c03",
+    "category": "Orange"
+  },
+  {
+    "name": "Sunny Peach",
+    "hex": "#9e2707",
+    "category": "Orange"
+  },
+  {
+    "name": "Muted Melon",
+    "hex": "#8e4917",
+    "category": "Orange"
+  },
+  {
+    "name": "Maple Warm",
+    "hex": "#853f20",
+    "category": "Orange"
+  },
+  {
+    "name": "Marigold Elegant",
+    "hex": "#9f2905",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Radiant",
+    "hex": "#893c1b",
+    "category": "Orange"
+  },
+  {
+    "name": "Soft Gold",
+    "hex": "#99310b",
+    "category": "Orange"
+  },
+  {
+    "name": "Pumpkin Autumn",
+    "hex": "#a04004",
+    "category": "Orange"
+  },
+  {
+    "name": "Classic Peach",
+    "hex": "#993c0a",
+    "category": "Orange"
+  },
+  {
+    "name": "Glowing Maple",
+    "hex": "#9b4a07",
+    "category": "Orange"
+  },
+  {
+    "name": "Elegant Canyon",
+    "hex": "#915b10",
+    "category": "Orange"
+  },
+  {
+    "name": "Cantaloupe Sunny",
+    "hex": "#8a4817",
+    "category": "Orange"
+  },
+  {
+    "name": "Rich Saffron",
+    "hex": "#833b1e",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Fire",
+    "hex": "#975009",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Autumn",
+    "hex": "#8c4d14",
+    "category": "Orange"
+  },
+  {
+    "name": "Copper Sunny",
+    "hex": "#86341a",
+    "category": "Orange"
+  },
+  {
+    "name": "Fire Bright",
+    "hex": "#a02100",
+    "category": "Orange"
+  },
+  {
+    "name": "Apricot Sunny",
+    "hex": "#9f3f00",
+    "category": "Orange"
+  },
+  {
+    "name": "Turmeric Radiant",
+    "hex": "#864c19",
+    "category": "Orange"
+  },
+  {
+    "name": "Lava Bright",
+    "hex": "#984e05",
+    "category": "Orange"
+  },
+  {
+    "name": "Peach Sunny",
+    "hex": "#962907",
+    "category": "Orange"
+  },
+  {
+    "name": "Smooth Honey",
+    "hex": "#862f16",
+    "category": "Orange"
+  },
+  {
+    "name": "Rust Vibrant",
+    "hex": "#973804",
+    "category": "Orange"
+  },
+  {
+    "name": "Ember Burning",
+    "hex": "#7f311c",
+    "category": "Orange"
+  },
+  {
+    "name": "Dark Maple",
+    "hex": "#995502",
+    "category": "Orange"
+  },
+  {
+    "name": "Golden Paprika",
+    "hex": "#8a4410",
+    "category": "Orange"
+  },
+  {
+    "name": "Turmeric Rich",
+    "hex": "#7d451c",
+    "category": "Orange"
+  },
+  {
+    "name": "Apricot Dramatic",
+    "hex": "#942803",
+    "category": "Orange"
+  },
+  {
+    "name": "Mandarin Bold",
+    "hex": "#7e3c18",
+    "category": "Orange"
+  },
+  {
+    "name": "Dramatic Pumpkin",
+    "hex": "#943d00",
+    "category": "Orange"
+  },
+  {
+    "name": "Amber Tropical",
+    "hex": "#76501d",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Ember",
+    "hex": "#893b0a",
+    "category": "Orange"
+  },
+  {
+    "name": "Molten Flame",
+    "hex": "#833510",
+    "category": "Orange"
+  },
+  {
+    "name": "Tropical Pure",
+    "hex": "#8d3905",
+    "category": "Orange"
+  },
+  {
+    "name": "Electric Honey",
+    "hex": "#8f3503",
+    "category": "Orange"
+  },
+  {
+    "name": "Harvest Dawn",
+    "hex": "#8d3702",
+    "category": "Orange"
+  },
+  {
+    "name": "Warm Flame",
+    "hex": "#863309",
     "category": "Orange"
   },
   {
     "name": "Golden Tangerine",
-    "hex": "#edc2ae",
+    "hex": "#8e4301",
     "category": "Orange"
   },
   {
-    "name": "Warm Apricot",
-    "hex": "#f2c5a8",
+    "name": "Dark Turmeric",
+    "hex": "#763418",
     "category": "Orange"
   },
   {
-    "name": "Golden Peach",
-    "hex": "#f6caa4",
+    "name": "Fresh Papaya",
+    "hex": "#763118",
     "category": "Orange"
   },
   {
-    "name": "Burning Tangerine",
-    "hex": "#f2c0a8",
+    "name": "Tangerine Rich",
+    "hex": "#744019",
     "category": "Orange"
   },
   {
-    "name": "Orange 1",
-    "hex": "#febb9b",
+    "name": "Solar Rich",
+    "hex": "#7b4b12",
     "category": "Orange"
   },
   {
-    "name": "Orange 2",
-    "hex": "#f6cea2",
+    "name": "Sweet Flare",
+    "hex": "#763815",
     "category": "Orange"
   },
   {
-    "name": "Orange 3",
-    "hex": "#face9e",
+    "name": "Rich Apricot",
+    "hex": "#81330a",
     "category": "Orange"
   },
   {
-    "name": "Orange 4",
-    "hex": "#fcd09b",
+    "name": "Electric Turmeric",
+    "hex": "#842605",
     "category": "Orange"
   },
   {
-    "name": "Orange 5",
-    "hex": "#f2b7a5",
+    "name": "Cantaloupe Autumn",
+    "hex": "#863303",
     "category": "Orange"
   },
   {
-    "name": "Orange 7",
-    "hex": "#efbca6",
+    "name": "Rich Lava",
+    "hex": "#713a18",
     "category": "Orange"
   },
   {
-    "name": "Orange 8",
-    "hex": "#f9b99c",
+    "name": "Rich Amber",
+    "hex": "#783d10",
     "category": "Orange"
   },
   {
-    "name": "Orange 9",
-    "hex": "#f4bfa1",
+    "name": "Papaya Sunny",
+    "hex": "#874a01",
     "category": "Orange"
   },
   {
-    "name": "Orange 6",
-    "hex": "#f3cba2",
+    "name": "Sunset Autumn",
+    "hex": "#802308",
     "category": "Orange"
   },
   {
-    "name": "Orange 10",
-    "hex": "#f5bc9e",
+    "name": "Muted Sunset",
+    "hex": "#844703",
     "category": "Orange"
   },
   {
-    "name": "Orange 11",
-    "hex": "#f3ce9f",
+    "name": "Warm Maple",
+    "hex": "#79410d",
     "category": "Orange"
   },
   {
-    "name": "Orange 12",
-    "hex": "#fba996",
+    "name": "Melon Warm",
+    "hex": "#6f2f17",
     "category": "Orange"
   },
   {
-    "name": "Orange 13",
-    "hex": "#f0c4a0",
+    "name": "Canyon Fiery",
+    "hex": "#7a4c0c",
     "category": "Orange"
   },
   {
-    "name": "Orange 14",
-    "hex": "#f0b2a0",
+    "name": "Electric Cinnamon",
+    "hex": "#754311",
     "category": "Orange"
   },
   {
-    "name": "Orange 15",
-    "hex": "#fecf91",
+    "name": "Deep Gold",
+    "hex": "#7b340a",
     "category": "Orange"
   },
   {
-    "name": "Orange 16",
-    "hex": "#f7bb96",
+    "name": "Warm Mango",
+    "hex": "#78250d",
     "category": "Orange"
   },
   {
-    "name": "Orange 17",
-    "hex": "#fdc88e",
+    "name": "Dark Dawn",
+    "hex": "#7f4405",
     "category": "Orange"
   },
   {
-    "name": "Orange 18",
-    "hex": "#eeb39c",
+    "name": "Cantaloupe Rich",
+    "hex": "#6a3219",
     "category": "Orange"
   },
   {
-    "name": "Orange 19",
-    "hex": "#eeb69c",
+    "name": "Pure Turmeric",
+    "hex": "#7a3709",
     "category": "Orange"
   },
   {
-    "name": "Orange 20",
-    "hex": "#f8ae90",
+    "name": "Papaya Harvest",
+    "hex": "#7e2705",
     "category": "Orange"
   },
   {
-    "name": "Orange 21",
-    "hex": "#f5b592",
+    "name": "Fire Fresh",
+    "hex": "#733310",
     "category": "Orange"
   },
   {
-    "name": "Orange 22",
-    "hex": "#fca189",
+    "name": "Fire Burning",
+    "hex": "#742c0c",
     "category": "Orange"
   },
   {
-    "name": "Orange 23",
-    "hex": "#fdc688",
+    "name": "Peach Tropical",
+    "hex": "#792e07",
     "category": "Orange"
   },
   {
-    "name": "Orange 24",
-    "hex": "#f5a890",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 25",
-    "hex": "#f0b094",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 26",
-    "hex": "#e8bc9a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 27",
-    "hex": "#edba94",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 28",
-    "hex": "#f4af8d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 29",
-    "hex": "#e7be9a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 30",
-    "hex": "#f4aa8c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 31",
-    "hex": "#f1bb8e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 32",
-    "hex": "#fac684",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 33",
-    "hex": "#edb591",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 34",
-    "hex": "#f5a386",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 35",
-    "hex": "#e6c294",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 36",
-    "hex": "#f2a388",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 37",
-    "hex": "#e6a694",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 38",
-    "hex": "#f1b088",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 39",
-    "hex": "#f0bc85",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 40",
-    "hex": "#eeb187",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 41",
-    "hex": "#e4b390",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 42",
-    "hex": "#f39d7d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 43",
-    "hex": "#e59c88",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 44",
-    "hex": "#f1997c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 45",
-    "hex": "#edbf7f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 46",
-    "hex": "#e9bb82",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 47",
-    "hex": "#efaa7b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 48",
-    "hex": "#e7aa82",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 50",
-    "hex": "#f19e78",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 49",
-    "hex": "#f6b172",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 51",
-    "hex": "#ef9679",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 52",
-    "hex": "#f3a674",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 54",
-    "hex": "#fcab6a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 53",
-    "hex": "#f7a46f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 55",
-    "hex": "#f1ab73",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 56",
-    "hex": "#f4aa70",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 57",
-    "hex": "#f8af6b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 58",
-    "hex": "#e4a77e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 59",
-    "hex": "#eb9276",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 60",
-    "hex": "#f6a36b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 61",
-    "hex": "#f3b16d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 62",
-    "hex": "#f2b46d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 63",
-    "hex": "#fd8862",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 64",
-    "hex": "#fea461",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 65",
-    "hex": "#f4896a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 66",
-    "hex": "#e49179",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 67",
-    "hex": "#e0aa7d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 68",
-    "hex": "#e5ac78",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 69",
-    "hex": "#ea9972",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 70",
-    "hex": "#f0a06a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 71",
-    "hex": "#fbb65e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 72",
-    "hex": "#ef9b6a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 74",
-    "hex": "#e69471",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 73",
-    "hex": "#eb8d6c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 75",
-    "hex": "#faae5d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 76",
-    "hex": "#f39863",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 77",
-    "hex": "#f4a361",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 78",
-    "hex": "#ed8468",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 80",
-    "hex": "#f2ae62",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 79",
-    "hex": "#eab269",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 81",
-    "hex": "#e19471",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 82",
-    "hex": "#ed9965",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 83",
-    "hex": "#e69a6b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 84",
-    "hex": "#fbad55",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 85",
-    "hex": "#f5a85a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 86",
-    "hex": "#e89066",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 87",
-    "hex": "#e49169",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 88",
-    "hex": "#f1b05c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 89",
-    "hex": "#e8aa64",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 90",
-    "hex": "#e6a565",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 91",
-    "hex": "#e2ad69",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 93",
-    "hex": "#ff8a4b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 92",
-    "hex": "#e19669",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 94",
-    "hex": "#e48065",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 95",
-    "hex": "#f6b152",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 96",
-    "hex": "#e2aa65",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 97",
-    "hex": "#e97d5c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 98",
-    "hex": "#fc7949",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 99",
-    "hex": "#e0a463",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 100",
-    "hex": "#fb9c47",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 101",
-    "hex": "#fb9246",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 102",
-    "hex": "#ffa040",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 103",
-    "hex": "#de945f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 104",
-    "hex": "#f56b47",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 105",
-    "hex": "#da9662",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 106",
-    "hex": "#df955a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 108",
-    "hex": "#db985d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 107",
-    "hex": "#f96b3e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 109",
-    "hex": "#e58251",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 110",
-    "hex": "#f17e44",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 111",
-    "hex": "#e6714e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 112",
-    "hex": "#ed6b46",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 113",
-    "hex": "#d79b5c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 114",
-    "hex": "#f87239",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 115",
-    "hex": "#d77a5a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 116",
-    "hex": "#e87748",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 117",
-    "hex": "#f88737",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 118",
-    "hex": "#d68d59",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 120",
-    "hex": "#dca151",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 119",
-    "hex": "#e57547",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 121",
-    "hex": "#e19a49",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 122",
-    "hex": "#d58354",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 123",
-    "hex": "#de954a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 127",
-    "hex": "#fd752a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 124",
-    "hex": "#df8e48",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 125",
-    "hex": "#e07946",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 126",
-    "hex": "#d7794f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 128",
-    "hex": "#d8794c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 129",
-    "hex": "#d57e4e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 130",
-    "hex": "#e17341",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 131",
-    "hex": "#f7872a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 132",
-    "hex": "#fc7525",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 133",
-    "hex": "#dc7144",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 134",
-    "hex": "#f5592b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 135",
-    "hex": "#d77d48",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 136",
-    "hex": "#e97836",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 137",
-    "hex": "#f37a2c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 138",
-    "hex": "#fd9422",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 139",
-    "hex": "#fd6c21",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 140",
-    "hex": "#dd7e41",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 141",
-    "hex": "#f77926",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 143",
-    "hex": "#e97333",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 142",
-    "hex": "#fc981f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 144",
-    "hex": "#fd981e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 145",
-    "hex": "#e77233",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 146",
-    "hex": "#d79442",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 147",
-    "hex": "#d69142",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 148",
-    "hex": "#ec5e2b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 149",
-    "hex": "#d85b3d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 150",
-    "hex": "#d68d3d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 151",
-    "hex": "#ec6526",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 152",
-    "hex": "#fb8117",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 153",
-    "hex": "#d37b3e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 154",
-    "hex": "#df9431",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 155",
-    "hex": "#d68f3a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 156",
-    "hex": "#d86238",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 157",
-    "hex": "#fa9116",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 158",
-    "hex": "#d2823d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 159",
-    "hex": "#fa7f15",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 160",
-    "hex": "#f69919",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 161",
-    "hex": "#fb4c14",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 162",
-    "hex": "#dc7932",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 163",
-    "hex": "#f08b1d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 165",
-    "hex": "#fa6413",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 164",
-    "hex": "#d47338",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 166",
-    "hex": "#f16e1b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 167",
-    "hex": "#e78e24",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 168",
-    "hex": "#f86c13",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 169",
-    "hex": "#ef641c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 170",
-    "hex": "#f79114",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 172",
-    "hex": "#dd5b2d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 171",
-    "hex": "#db612e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 173",
-    "hex": "#ee871a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 176",
-    "hex": "#e76021",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 174",
-    "hex": "#e25f26",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 175",
-    "hex": "#e08a28",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 177",
-    "hex": "#e08f26",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 180",
-    "hex": "#fc9609",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 178",
-    "hex": "#ce6537",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 179",
-    "hex": "#f07e14",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 181",
-    "hex": "#de5726",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 182",
-    "hex": "#d38231",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 184",
-    "hex": "#e27422",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 183",
-    "hex": "#e36420",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 185",
-    "hex": "#d17e31",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 186",
-    "hex": "#d66d2c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 187",
-    "hex": "#d05e30",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 188",
-    "hex": "#e74119",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 189",
-    "hex": "#fa6d05",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 190",
-    "hex": "#f3490b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 191",
-    "hex": "#f2740a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 192",
-    "hex": "#ec370a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 193",
-    "hex": "#f24703",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 194",
-    "hex": "#f07401",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 195",
-    "hex": "#cc5123",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 196",
-    "hex": "#c1732c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 197",
-    "hex": "#bc702d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 198",
-    "hex": "#cf5b19",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 199",
-    "hex": "#cb5f1c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 200",
-    "hex": "#ce6e18",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 201",
-    "hex": "#bd4729",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 204",
-    "hex": "#dc760a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 202",
-    "hex": "#c24a24",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 203",
-    "hex": "#da6a0c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 205",
-    "hex": "#df6406",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 207",
-    "hex": "#c7651e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 208",
-    "hex": "#d45911",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 206",
-    "hex": "#d17014",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 209",
-    "hex": "#da360a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 210",
-    "hex": "#da3609",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 211",
-    "hex": "#cd5715",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 212",
-    "hex": "#d77f08",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 213",
-    "hex": "#c85316",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 214",
-    "hex": "#d0580e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 215",
-    "hex": "#be5f1f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 217",
-    "hex": "#b86225",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 218",
-    "hex": "#b55928",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 216",
-    "hex": "#c23b1b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 219",
-    "hex": "#b77625",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 220",
-    "hex": "#c27119",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 222",
-    "hex": "#d56404",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 221",
-    "hex": "#d15708",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 223",
-    "hex": "#d15207",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 224",
-    "hex": "#c9600f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 225",
-    "hex": "#ae6329",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 226",
-    "hex": "#c37111",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 227",
-    "hex": "#c16f12",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 228",
-    "hex": "#c35a0f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 229",
-    "hex": "#ab5e27",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 230",
-    "hex": "#b8481a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 231",
-    "hex": "#a85028",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 232",
-    "hex": "#b74718",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 233",
-    "hex": "#b0491f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 234",
-    "hex": "#c4530a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 235",
-    "hex": "#c74105",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 236",
-    "hex": "#a55e27",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 238",
-    "hex": "#bc680f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 237",
-    "hex": "#b1491a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 239",
-    "hex": "#b63b12",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 240",
-    "hex": "#c53103",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 241",
-    "hex": "#c54402",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 242",
-    "hex": "#bc600a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 243",
-    "hex": "#a65d20",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 244",
-    "hex": "#a63b20",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 245",
-    "hex": "#bd3908",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 246",
-    "hex": "#a35322",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 247",
-    "hex": "#a9471c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 248",
-    "hex": "#a16223",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 249",
-    "hex": "#ba440a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 251",
-    "hex": "#a66c1d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 250",
-    "hex": "#a05123",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 252",
-    "hex": "#ad6015",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 253",
-    "hex": "#bb4d06",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 254",
-    "hex": "#9f4221",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 255",
-    "hex": "#b04a10",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 256",
-    "hex": "#b06310",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 257",
-    "hex": "#b93206",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 258",
-    "hex": "#be5901",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 259",
-    "hex": "#9e4d21",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 260",
-    "hex": "#ac2d10",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 261",
-    "hex": "#a74d14",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 262",
-    "hex": "#976224",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 263",
-    "hex": "#a55215",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 264",
-    "hex": "#a86112",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 265",
-    "hex": "#af4108",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 267",
-    "hex": "#a72f0e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 266",
-    "hex": "#99341c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 268",
-    "hex": "#9e3e16",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 269",
-    "hex": "#99481b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 271",
-    "hex": "#ad2706",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 270",
-    "hex": "#b36500",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 272",
-    "hex": "#98601b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 274",
-    "hex": "#9c5715",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 273",
-    "hex": "#97371a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 275",
-    "hex": "#b02c01",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 276",
-    "hex": "#ad4303",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 277",
-    "hex": "#95371b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 278",
-    "hex": "#9f300f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 279",
-    "hex": "#993b14",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 281",
-    "hex": "#8d551e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 284",
-    "hex": "#8d451e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 285",
-    "hex": "#a75b04",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 280",
-    "hex": "#9b5d10",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 282",
-    "hex": "#9b5e10",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 283",
-    "hex": "#933117",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 286",
-    "hex": "#a43905",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 287",
-    "hex": "#884e20",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 288",
-    "hex": "#964511",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 289",
-    "hex": "#944f13",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 290",
-    "hex": "#88561e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 291",
-    "hex": "#8e5a16",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 292",
-    "hex": "#8c5818",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 293",
-    "hex": "#a15401",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 294",
-    "hex": "#83401f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 295",
-    "hex": "#87331b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 296",
-    "hex": "#953e0b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 297",
-    "hex": "#8c4414",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 298",
-    "hex": "#7f3d1f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 301",
-    "hex": "#853814",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 299",
-    "hex": "#935106",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 300",
-    "hex": "#873412",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 302",
-    "hex": "#7d401c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 303",
-    "hex": "#965202",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 304",
-    "hex": "#953603",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 305",
-    "hex": "#823816",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 307",
-    "hex": "#854112",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 308",
-    "hex": "#884a0e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 306",
-    "hex": "#8b2b0b",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 310",
-    "hex": "#7e3317",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 311",
-    "hex": "#874b0e",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 312",
-    "hex": "#8f2606",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 313",
-    "hex": "#8c4009",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 309",
-    "hex": "#794f1c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 314",
-    "hex": "#8d3a06",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 315",
-    "hex": "#7e5215",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 316",
-    "hex": "#904803",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 317",
-    "hex": "#83300f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 319",
-    "hex": "#842b0d",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 318",
-    "hex": "#8d4004",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 320",
-    "hex": "#813b0f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 321",
-    "hex": "#7f440f",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 322",
-    "hex": "#73361a",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 324",
-    "hex": "#803b0c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 323",
-    "hex": "#722e19",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 325",
-    "hex": "#734416",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 326",
-    "hex": "#752e11",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 327",
-    "hex": "#7c4b09",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 328",
-    "hex": "#814804",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 330",
-    "hex": "#6e3916",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 329",
-    "hex": "#734310",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 331",
-    "hex": "#77320c",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 332",
-    "hex": "#7c3206",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 333",
-    "hex": "#793008",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 334",
-    "hex": "#7c4505",
-    "category": "Orange"
-  },
-  {
-    "name": "Orange 335",
-    "hex": "#73340c",
+    "name": "Apricot Electric",
+    "hex": "#7a4406",
     "category": "Orange"
   }
 ]

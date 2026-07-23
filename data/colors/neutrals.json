@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Cold Snow",
-    "hex": "#f3f5f4",
+    "name": "Pale Graphite",
+    "hex": "#f3f5f3",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Fog",
-    "hex": "#f5f2f3",
+    "name": "Ancient Snow",
+    "hex": "#f3f3f3",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Snow",
-    "hex": "#f2f4f5",
+    "name": "Minimal Slate",
+    "hex": "#f3f2f4",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Steel",
-    "hex": "#f3f4f1",
+    "name": "Ancient Ash",
+    "hex": "#f3f2f3",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Pearl",
-    "hex": "#f3f1f2",
+    "name": "Platinum Subtle",
+    "hex": "#f2f2f2",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Snow",
-    "hex": "#eff2f2",
+    "name": "Porcelain Gentle",
+    "hex": "#f1f1f1",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Graphite",
+    "name": "Smoke Soft",
+    "hex": "#f0f2f2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Carbon Classic",
+    "hex": "#f2f1ef",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Ceramic",
+    "hex": "#efeff2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Crystal Natural",
     "hex": "#f0f0f0",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Graphite",
-    "hex": "#f1eff1",
+    "name": "Neutral Cloud",
+    "hex": "#efeff0",
     "category": "Neutrals"
   },
   {
-    "name": "Natural Slate",
-    "hex": "#eff0ef",
+    "name": "Dust Pure",
+    "hex": "#eff0f0",
     "category": "Neutrals"
   },
   {
-    "name": "Frozen Charcoal",
-    "hex": "#efefee",
+    "name": "Aluminum Pure",
+    "hex": "#eef0f1",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Pearl",
-    "hex": "#edf0ee",
+    "name": "Carbon Gentle",
+    "hex": "#edf0f1",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Charcoal",
-    "hex": "#eeeeee",
+    "name": "Luxury Canvas",
+    "hex": "#f0eeef",
     "category": "Neutrals"
   },
   {
-    "name": "Natural Mist",
-    "hex": "#eceeee",
+    "name": "Elegant Glass",
+    "hex": "#efefef",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Pearl",
-    "hex": "#edebee",
+    "name": "Neutral Chrome",
+    "hex": "#eeefee",
     "category": "Neutrals"
   },
   {
-    "name": "Natural Shadow",
-    "hex": "#ebecee",
+    "name": "Minimal Cinder",
+    "hex": "#eef0ec",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Pearl",
-    "hex": "#ebeeea",
+    "name": "Glass Minimal",
+    "hex": "#ecedee",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Carbon",
-    "hex": "#e9ede9",
+    "name": "Ivory Dark",
+    "hex": "#efebee",
     "category": "Neutrals"
   },
   {
-    "name": "Natural Ash",
-    "hex": "#eaeaeb",
+    "name": "Charcoal Quiet",
+    "hex": "#ebebee",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Bone",
-    "hex": "#e9e9ea",
+    "name": "Modern Sand",
+    "hex": "#eeeaea",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Silver",
-    "hex": "#e8e9e9",
+    "name": "Muted Clay",
+    "hex": "#ececec",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Pearl",
-    "hex": "#e7eae8",
+    "name": "Dust Deep",
+    "hex": "#eeece9",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Steel",
-    "hex": "#e8e8e8",
+    "name": "Classic Cinder",
+    "hex": "#eaedec",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Mist",
-    "hex": "#e5e4ea",
+    "name": "Natural Sand",
+    "hex": "#ebede9",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Obsidian",
-    "hex": "#e9e7e5",
+    "name": "Glass Natural",
+    "hex": "#ebebeb",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Ivory",
-    "hex": "#e6e6e6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Smoke",
-    "hex": "#e2e7e4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Mist",
-    "hex": "#e5e3e4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Stone",
-    "hex": "#e4e2e3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Shadow",
-    "hex": "#e2e5e0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Snow",
-    "hex": "#e4e0e4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Graphite",
-    "hex": "#e2e2e2",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Ash",
-    "hex": "#e1e3e0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Smoke",
-    "hex": "#e5dee3",
+    "name": "Mercury Luxury",
+    "hex": "#ebe9ec",
     "category": "Neutrals"
   },
   {
     "name": "Warm Obsidian",
-    "hex": "#dfe3e4",
+    "hex": "#ebe8ec",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Carbon",
-    "hex": "#e2e0e0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Cloud",
-    "hex": "#dfdfe2",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Stone",
-    "hex": "#dddee4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Mist",
-    "hex": "#e0e0df",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Steel",
-    "hex": "#dfdfe0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Slate",
-    "hex": "#e0dde1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Cloud",
-    "hex": "#dfdedf",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Mist",
-    "hex": "#e0dae2",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Graphite",
-    "hex": "#dfdedd",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Silver",
-    "hex": "#e0dbdb",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Fog",
-    "hex": "#e0dadd",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Silver",
-    "hex": "#dedade",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Stone",
-    "hex": "#dad9de",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Stone",
-    "hex": "#d7dade",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Ivory",
-    "hex": "#d5dcdc",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Ivory",
-    "hex": "#d8d9d9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Carbon",
-    "hex": "#d9d8d9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Carbon",
-    "hex": "#d5d9d7",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Fog",
-    "hex": "#d8dad4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Ivory",
-    "hex": "#d5d5d8",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Obsidian",
-    "hex": "#dad9d3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Silver",
-    "hex": "#d3d9d9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Pearl",
-    "hex": "#d6d4d4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Ash",
-    "hex": "#d5d3d6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Pearl",
-    "hex": "#d8d0d6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Graphite",
-    "hex": "#d2d1d6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Smoke",
-    "hex": "#cfd7d3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Cloud",
-    "hex": "#d2d3d1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Bone",
-    "hex": "#d6d2ce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Ivory",
-    "hex": "#d5cfd4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Stone",
-    "hex": "#d1d2d1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Silver",
-    "hex": "#cdced4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Graphite",
-    "hex": "#d0d1ce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Snow",
-    "hex": "#cfcfce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Obsidian",
-    "hex": "#cfd2cb",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Ash",
-    "hex": "#c8ced4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Bone",
-    "hex": "#cac9d2",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Stone",
-    "hex": "#d2cec8",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Ash",
-    "hex": "#d3c7d3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Shadow",
-    "hex": "#cfd0ca",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Obsidian",
-    "hex": "#cecccc",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Silver",
-    "hex": "#cdcccd",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Silver",
-    "hex": "#cbccce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Bone",
-    "hex": "#cccccc",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Bone",
-    "hex": "#c7d1cc",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Mist",
-    "hex": "#c8cfce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Carbon",
-    "hex": "#caccca",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Pearl",
-    "hex": "#c5d1ca",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Snow",
-    "hex": "#c8d0c6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Steel",
-    "hex": "#c6d0c7",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Steel",
-    "hex": "#c7ccce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Ivory",
-    "hex": "#ccc7ce",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Mist",
-    "hex": "#cacfc6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Snow",
-    "hex": "#cacacb",
+    "name": "Parchment Soft",
+    "hex": "#ebe9ea",
     "category": "Neutrals"
   },
   {
     "name": "Silent Pearl",
-    "hex": "#c7cdcd",
+    "hex": "#eaeaea",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Obsidian",
-    "hex": "#cbcec6",
+    "name": "Ash Deep",
+    "hex": "#ebece7",
     "category": "Neutrals"
   },
   {
-    "name": "Silent Ivory",
-    "hex": "#c8cec6",
+    "name": "Velvet Elegant",
+    "hex": "#eaeae9",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Fog",
-    "hex": "#ccc8c2",
+    "name": "Gentle Silver",
+    "hex": "#eae9ea",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Shadow",
-    "hex": "#c9c2cc",
+    "name": "Rock Natural",
+    "hex": "#ebe9e8",
     "category": "Neutrals"
   },
   {
-    "name": "Silent Fog",
-    "hex": "#c7c6c7",
+    "name": "Pure Crystal",
+    "hex": "#ebe9e7",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Silver",
-    "hex": "#c9c4c8",
+    "name": "Limestone Quiet",
+    "hex": "#ebe9e6",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Steel",
-    "hex": "#c9c7c4",
+    "name": "Slate Modern",
+    "hex": "#e8e7ea",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Cloud",
-    "hex": "#c3c6c9",
+    "name": "Calm Crystal",
+    "hex": "#eae8e7",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Slate",
-    "hex": "#c4c7c6",
+    "name": "Silvered Cloud",
+    "hex": "#e6e6ea",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Bone",
-    "hex": "#c8cbc0",
+    "name": "Ceramic Soft",
+    "hex": "#e7e8e8",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Pearl",
-    "hex": "#c8c8c2",
+    "name": "Silvered Shadow",
+    "hex": "#e5e6ea",
     "category": "Neutrals"
   },
   {
-    "name": "Frozen Ash",
-    "hex": "#c3bfc8",
+    "name": "Velvet Soft",
+    "hex": "#e9e5e9",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Shadow",
-    "hex": "#c7c0c4",
+    "name": "Marble Warm",
+    "hex": "#e4e7e9",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Stone",
-    "hex": "#c1c6c3",
+    "name": "Mercury Cold",
+    "hex": "#e6e7e6",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Ash",
-    "hex": "#c2bbc8",
+    "name": "Gentle Canvas",
+    "hex": "#e9e3e5",
     "category": "Neutrals"
   },
   {
-    "name": "Silent Snow",
-    "hex": "#c0c3bf",
+    "name": "Elegant Graphite",
+    "hex": "#e3e8e3",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Silver",
-    "hex": "#c6c3bc",
+    "name": "Iron Refined",
+    "hex": "#e6e6e4",
     "category": "Neutrals"
   },
   {
-    "name": "Natural Charcoal",
-    "hex": "#c4c6bb",
+    "name": "Marble Elegant",
+    "hex": "#e8e2e5",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Ash",
-    "hex": "#bebdbf",
+    "name": "Iron Timeless",
+    "hex": "#e3e6e6",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Carbon",
-    "hex": "#bbbec1",
+    "name": "Canvas Dark",
+    "hex": "#e6e2e3",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Fog",
-    "hex": "#bfbfbd",
+    "name": "Obsidian Ancient",
+    "hex": "#e3e5e5",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Shadow",
-    "hex": "#bdbcbf",
+    "name": "Velvet Luxury",
+    "hex": "#e2e2e4",
     "category": "Neutrals"
   },
   {
-    "name": "Warm Smoke",
-    "hex": "#c1bfb9",
+    "name": "Smooth Pebble",
+    "hex": "#e1e4e5",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Obsidian",
-    "hex": "#b6c3c4",
+    "name": "Pebble Muted",
+    "hex": "#e1e1e3",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Cloud",
-    "hex": "#c1c1b9",
+    "name": "Smoke Natural",
+    "hex": "#e0e4e2",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Smoke",
-    "hex": "#c3b7bf",
+    "name": "Natural Dust",
+    "hex": "#dfe4dd",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Fog",
-    "hex": "#b7c1b8",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Fog",
-    "hex": "#b9bebe",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Stone",
-    "hex": "#bbbbbb",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Slate",
-    "hex": "#b9bcbc",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Graphite",
-    "hex": "#b5c0b5",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Charcoal",
-    "hex": "#bab9b9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Slate",
-    "hex": "#b1c1c1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Smoke",
-    "hex": "#b2bec0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Cloud",
-    "hex": "#bcbbb4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Smoke",
-    "hex": "#bbbab5",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Shadow",
-    "hex": "#bfb7b1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Obsidian",
-    "hex": "#b8bbb4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Carbon",
-    "hex": "#bbbab1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Charcoal",
-    "hex": "#b6bcae",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Slate",
-    "hex": "#b5b9b1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Ash",
-    "hex": "#afb6ba",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Ash",
-    "hex": "#afb1b9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Smoke",
-    "hex": "#b0b6b5",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Slate",
-    "hex": "#acb8af",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Cloud",
-    "hex": "#baabaa",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Smoke",
-    "hex": "#aeb6b3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Carbon",
-    "hex": "#adb4ae",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Ivory",
-    "hex": "#b0b6aa",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Snow",
-    "hex": "#b9b8a7",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Steel",
-    "hex": "#a4aeb7",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Cold Graphite",
-    "hex": "#a4b4ae",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Silver",
-    "hex": "#a6aeb0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Mist",
-    "hex": "#aca8ad",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Steel",
-    "hex": "#a0b4ab",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Graphite",
-    "hex": "#acada7",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Obsidian",
-    "hex": "#a9aaab",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Cloud",
-    "hex": "#a1a0b3",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Cloud",
-    "hex": "#aeada4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Cloud",
-    "hex": "#a0b0b1",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Natural Obsidian",
-    "hex": "#a1aeb0",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Warm Fog",
-    "hex": "#aca3ad",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Smoke",
-    "hex": "#a8aaa4",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Deep Shadow",
-    "hex": "#a8a5a8",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Dark Ivory",
-    "hex": "#a3b09d",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Slate",
-    "hex": "#aaa3aa",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Silent Shadow",
-    "hex": "#a6a6a6",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Soft Bone",
-    "hex": "#a2a2aa",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Classic Stone",
-    "hex": "#a1a7ab",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Slate",
-    "hex": "#a1a5a9",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Frozen Bone",
-    "hex": "#a0aaa8",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Pale Shadow",
-    "hex": "#9dacab",
+    "name": "Subtle Platinum",
+    "hex": "#e1e0df",
     "category": "Neutrals"
   },
   {
     "name": "Silent Steel",
-    "hex": "#aa9fa5",
+    "hex": "#e1dfdf",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Bone",
-    "hex": "#a4a4a4",
+    "name": "Ancient Steel",
+    "hex": "#e0dfe0",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Steel",
-    "hex": "#9caca6",
+    "name": "Silk Warm",
+    "hex": "#dcdde2",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Carbon",
-    "hex": "#a6a4a1",
+    "name": "Ceramic Quiet",
+    "hex": "#dde0de",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Charcoal",
-    "hex": "#98acad",
+    "name": "Premium Stone",
+    "hex": "#e0dde0",
     "category": "Neutrals"
   },
   {
-    "name": "Frozen Snow",
-    "hex": "#989bad",
+    "name": "Warm Linen",
+    "hex": "#dcdce0",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Charcoal",
-    "hex": "#a1a3a3",
+    "name": "Dark Pearl",
+    "hex": "#dddedf",
     "category": "Neutrals"
   },
   {
-    "name": "Dark Charcoal",
-    "hex": "#99a0aa",
+    "name": "Aluminum Neutral",
+    "hex": "#dedede",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Mist",
-    "hex": "#a09ca7",
+    "name": "Frozen Canvas",
+    "hex": "#dce0e0",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Charcoal",
-    "hex": "#a9ac97",
+    "name": "Deep Dust",
+    "hex": "#dcdcdd",
     "category": "Neutrals"
   },
   {
-    "name": "Pale Stone",
-    "hex": "#a49e9e",
+    "name": "Dusty Silver",
+    "hex": "#e1dfd8",
     "category": "Neutrals"
   },
   {
-    "name": "Cold Slate",
-    "hex": "#9995aa",
+    "name": "Ashen Dark",
+    "hex": "#dedfda",
     "category": "Neutrals"
   },
   {
-    "name": "Deep Mist",
-    "hex": "#9e9ea0",
+    "name": "Hidden Carbon",
+    "hex": "#dbdcdb",
     "category": "Neutrals"
   },
   {
-    "name": "Silent Graphite",
-    "hex": "#a094a8",
+    "name": "Neutral Clay",
+    "hex": "#dcdcda",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Misty Parchment",
+    "hex": "#dad8dd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smoke Neutral",
+    "hex": "#dcd9db",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Linen Misty",
+    "hex": "#dadad9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Flint",
+    "hex": "#dcd5dd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Graphite Cold",
+    "hex": "#d9d9d9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Glass Hidden",
+    "hex": "#dad9d8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dusty Granite",
+    "hex": "#d8dbd4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Fog Smooth",
+    "hex": "#dbdad3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Timeless",
+    "hex": "#d8d4d7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Clean",
+    "hex": "#d1dad5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ancient Ceramic",
+    "hex": "#d5d6d4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dusty Glass",
+    "hex": "#d9d4d1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Driftwood Ancient",
+    "hex": "#d7d2d4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mist Pure",
+    "hex": "#d2d7d7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clean Parchment",
+    "hex": "#d2d5d7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Mercury",
+    "hex": "#d3d7d2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dust Smooth",
+    "hex": "#d4d4d4",
     "category": "Neutrals"
   },
   {
     "name": "Natural Carbon",
-    "hex": "#9f9e9d",
+    "hex": "#d1d7d2",
     "category": "Neutrals"
   },
   {
-    "name": "Soft Ivory",
-    "hex": "#9d9e9d",
+    "name": "Quiet Pebble",
+    "hex": "#d7d1d1",
     "category": "Neutrals"
   },
   {
-    "name": "Frozen Fog",
-    "hex": "#9997a3",
+    "name": "Pale Velvet",
+    "hex": "#d1d7d6",
     "category": "Neutrals"
   },
   {
-    "name": "Classic Charcoal",
-    "hex": "#93a5a6",
+    "name": "Refined Obsidian",
+    "hex": "#d2d4d4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Flint",
+    "hex": "#d6d0d5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clean Glass",
+    "hex": "#d5d6ce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Nickel Frozen",
+    "hex": "#cfcfd5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Graphite Silent",
+    "hex": "#d3d2d1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Platinum Smooth",
+    "hex": "#cdd4d6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutral Obsidian",
+    "hex": "#d2cfd4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Platinum Hidden",
+    "hex": "#d5cbd0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Elegant Linen",
+    "hex": "#d4cccf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Linen Pure",
+    "hex": "#d1cfce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Pearl",
+    "hex": "#cdced1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quiet Platinum",
+    "hex": "#cfccd1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cement Refined",
+    "hex": "#ccced0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutral Steel",
+    "hex": "#cbcdce",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cloud Modern",
+    "hex": "#cdc9cf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pebble Calm",
+    "hex": "#cec6d2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pure Nickel",
+    "hex": "#c7d0cd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Limestone Timeless",
+    "hex": "#cccbcc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Charcoal Frozen",
+    "hex": "#cacccd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silver Muted",
+    "hex": "#c9ccca",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Shadow Subtle",
+    "hex": "#c8cfc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Concrete Deep",
+    "hex": "#cecbc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Snow Neutral",
+    "hex": "#c6cacc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Slate Hidden",
+    "hex": "#cbccc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cement Subtle",
+    "hex": "#c7ccc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Hidden",
+    "hex": "#c9c9c9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Pearl",
+    "hex": "#cbcec2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Luxury Crystal",
+    "hex": "#cdc1c5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Carbon Natural",
+    "hex": "#c7c7c6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quartz Classic",
+    "hex": "#c3c5ca",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Slate Misty",
+    "hex": "#c8cbc0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Frozen Parchment",
+    "hex": "#c5c3c1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Calm Pebble",
+    "hex": "#c4bec7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cement Modern",
+    "hex": "#c7bdbe",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Premium Fog",
+    "hex": "#c5bfbf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pure Chrome",
+    "hex": "#bdc6c4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pearl Classic",
+    "hex": "#c7c3bc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Dusty",
+    "hex": "#c0c3bf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Glass Silent",
+    "hex": "#c0bec4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Snow",
+    "hex": "#c1c1c1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Obsidian",
+    "hex": "#c0c2bf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Silver",
+    "hex": "#c1c0c0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mist Deep",
+    "hex": "#babfc6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Smoke",
+    "hex": "#c1bdc3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Parchment",
+    "hex": "#bfc1be",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Glass Frozen",
+    "hex": "#bfc0c0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Premium Driftwood",
+    "hex": "#c0bfc0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Ivory",
+    "hex": "#bdc1bf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Sand Quiet",
+    "hex": "#c1c1bc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Slate",
+    "hex": "#bebebe",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Crystal",
+    "hex": "#b8b7c2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ceramic Hidden",
+    "hex": "#bfbcba",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Muted Ashen",
+    "hex": "#bcbcbc",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Porcelain",
+    "hex": "#b4c3bd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Flint Soft",
+    "hex": "#b7bdbf",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Aluminum Misty",
+    "hex": "#bab9ba",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quartz Ancient",
+    "hex": "#b2c1b9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutral Ashen",
+    "hex": "#b6bbb9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Parchment Ancient",
+    "hex": "#b8bab7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Shadow Pure",
+    "hex": "#bab6ba",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Canvas Calm",
+    "hex": "#b8bab4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smooth Glass",
+    "hex": "#b3b1bd",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Obsidian Deep",
+    "hex": "#bbb3b9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Charcoal",
+    "hex": "#b4b6b6",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Deep Graphite",
+    "hex": "#b6b7b3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Flint Minimal",
+    "hex": "#b5b2b4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Muted Glass",
+    "hex": "#afb5b0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ceramic Silvered",
+    "hex": "#b6adb1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Canvas Elegant",
+    "hex": "#adb3af",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Nickel",
+    "hex": "#ababb4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cloud Cold",
+    "hex": "#aeb1ae",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Stone",
+    "hex": "#b8b4a7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Rock Elegant",
+    "hex": "#abb3ab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silvered Sand",
+    "hex": "#b4a9ad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Platinum Luxury",
+    "hex": "#aeafad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Misty Charcoal",
+    "hex": "#afaeac",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Classic",
+    "hex": "#adadae",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quartz Luxury",
+    "hex": "#a5a4b3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Flint",
+    "hex": "#afb0a7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Titanium",
+    "hex": "#b2ada5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Mist",
+    "hex": "#a8aca8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Timeless Bone",
+    "hex": "#aaaaaa",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smooth Iron",
+    "hex": "#b0a1b0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mercury Classic",
+    "hex": "#a9a0b0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Warm Mist",
+    "hex": "#b0a0af",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smooth Titanium",
+    "hex": "#b29e9f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pale Mist",
+    "hex": "#a2a8ad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Chrome Classic",
+    "hex": "#aaa6a4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silvered Iron",
+    "hex": "#a8a6a8",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Charcoal",
+    "hex": "#a7a7a7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Muted Bone",
+    "hex": "#9da5af",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Iron Quiet",
+    "hex": "#9daead",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Subtle Ceramic",
+    "hex": "#aca49f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Carbon",
+    "hex": "#a3a5a4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Iron Classic",
+    "hex": "#a4a6a2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Neutral Titanium",
+    "hex": "#99adad",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ivory Cold",
+    "hex": "#a3a2a4",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Elegant Shadow",
+    "hex": "#a6ac9a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Bone",
+    "hex": "#a7a49e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Luxury Stone",
+    "hex": "#9ba4a9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Concrete",
+    "hex": "#9c99ab",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cement Soft",
+    "hex": "#a49fa2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silvered Flint",
+    "hex": "#a89b9d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Fog",
+    "hex": "#a0a39f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Clay",
+    "hex": "#9c97a9",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smooth Ashen",
+    "hex": "#a49b9e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Bone Hidden",
+    "hex": "#95aa99",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Charcoal Deep",
+    "hex": "#a09e9e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Refined Crystal",
+    "hex": "#9ea19b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ash Pale",
+    "hex": "#9aa29a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mist Calm",
+    "hex": "#9d9f9e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Platinum",
+    "hex": "#9f95a7",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ancient Bone",
+    "hex": "#99a29e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Calm Marble",
+    "hex": "#979ca2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Classic Crystal",
+    "hex": "#96a2a3",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Titanium Ancient",
+    "hex": "#9c9d9d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Driftwood Clean",
+    "hex": "#a39795",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Chrome",
+    "hex": "#a492a5",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Muted Aluminum",
+    "hex": "#9695a2",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clay Classic",
+    "hex": "#97a196",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silver Soft",
+    "hex": "#999a9b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Stone Gentle",
+    "hex": "#939ba1",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Iron",
+    "hex": "#989b99",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Concrete",
+    "hex": "#a19a92",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clay Luxury",
+    "hex": "#9fa38f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Smooth Driftwood",
+    "hex": "#9294a0",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pebble Soft",
+    "hex": "#93929f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Iron Misty",
+    "hex": "#969794",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clay Smooth",
+    "hex": "#a08b92",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Steel Cold",
+    "hex": "#959496",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Iron Dusty",
+    "hex": "#959495",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Sand Hidden",
+    "hex": "#8a959f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Soft Platinum",
+    "hex": "#879f87",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ashen Smooth",
+    "hex": "#959490",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Fog Frozen",
+    "hex": "#9d889a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Muted Fog",
+    "hex": "#879e98",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Platinum Ancient",
+    "hex": "#95938f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Granite Silvered",
+    "hex": "#909490",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Pure Limestone",
+    "hex": "#91958e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Silk",
+    "hex": "#8d9e84",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ancient Linen",
+    "hex": "#98849e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Snow Premium",
+    "hex": "#96948c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Luxury Graphite",
+    "hex": "#918e90",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Smoke",
+    "hex": "#889497",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Luxury Nickel",
+    "hex": "#91928c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Refined Marble",
+    "hex": "#8b9092",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Linen Dusty",
+    "hex": "#988588",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Sand Muted",
+    "hex": "#988493",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Nickel Dusty",
+    "hex": "#969084",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Sand Deep",
+    "hex": "#928496",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Glass Subtle",
+    "hex": "#968394",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Steel",
+    "hex": "#7f8599",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silvered Crystal",
+    "hex": "#90878f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Minimal Platinum",
+    "hex": "#8f8988",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Modern Stone",
+    "hex": "#839488",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Luxury Silver",
+    "hex": "#7d988d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dark Silver",
+    "hex": "#90848f",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Glass Cold",
+    "hex": "#839190",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Linen Clean",
+    "hex": "#8a868d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silent Quartz",
+    "hex": "#808f93",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dusty Steel",
+    "hex": "#858b85",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Fog Modern",
+    "hex": "#878689",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Flint Hidden",
+    "hex": "#918c7e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dusty Crystal",
+    "hex": "#90917c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Titanium Muted",
+    "hex": "#947893",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cold Charcoal",
+    "hex": "#837f8c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Dust Silvered",
+    "hex": "#8b8b7e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Canvas",
+    "hex": "#858287",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Snow Muted",
+    "hex": "#8e7a8d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Aluminum Dark",
+    "hex": "#8f7d79",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Rock Muted",
+    "hex": "#8a867d",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quiet Carbon",
+    "hex": "#848681",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Clean Concrete",
+    "hex": "#7f8388",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Subtle Silver",
+    "hex": "#87798b",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Cinder",
+    "hex": "#7a7889",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ivory Silvered",
+    "hex": "#8f7182",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quiet Glass",
+    "hex": "#7e8e70",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mist Minimal",
+    "hex": "#7c748a",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Hidden Silk",
+    "hex": "#767f87",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Porcelain Minimal",
+    "hex": "#777a85",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cinder Refined",
+    "hex": "#837982",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Ivory Warm",
+    "hex": "#7c7e7c",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Elegant Slate",
+    "hex": "#867387",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Stone Frozen",
+    "hex": "#7a876e",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Quartz Smooth",
+    "hex": "#807577",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Mercury Hidden",
+    "hex": "#768075",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Cloud Muted",
+    "hex": "#6f7a81",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Silvered Snow",
+    "hex": "#767677",
     "category": "Neutrals"
   },
   {
     "name": "Silent Bone",
-    "hex": "#95a398",
+    "hex": "#777974",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 1",
-    "hex": "#979ca1",
+    "name": "Stone Warm",
+    "hex": "#6c8072",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 2",
-    "hex": "#a59294",
+    "name": "Rock Classic",
+    "hex": "#757777",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 3",
-    "hex": "#9099a6",
+    "name": "Titanium Pale",
+    "hex": "#787377",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 4",
-    "hex": "#9e9796",
+    "name": "Muted Graphite",
+    "hex": "#767576",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 5",
-    "hex": "#989e96",
+    "name": "Subtle Marble",
+    "hex": "#767477",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 6",
-    "hex": "#9c989b",
+    "name": "Premium Parchment",
+    "hex": "#726f7b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 7",
-    "hex": "#999c97",
+    "name": "Neutral Pearl",
+    "hex": "#7d7f6b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 8",
-    "hex": "#969e94",
+    "name": "Ceramic Frozen",
+    "hex": "#6b6d7e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 9",
-    "hex": "#979b98",
+    "name": "Dusty Rock",
+    "hex": "#6f6e77",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 10",
-    "hex": "#96a190",
+    "name": "Calm Silver",
+    "hex": "#7f6a64",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 11",
-    "hex": "#919f93",
+    "name": "Muted Parchment",
+    "hex": "#727a68",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 12",
-    "hex": "#939e90",
+    "name": "Cinder Deep",
+    "hex": "#6d637b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 13",
-    "hex": "#918ba3",
+    "name": "Gentle Smoke",
+    "hex": "#6c716e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 14",
-    "hex": "#93999a",
+    "name": "Sand Smooth",
+    "hex": "#776966",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 15",
-    "hex": "#9d998f",
+    "name": "Cinder Neutral",
+    "hex": "#6f6a72",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 16",
-    "hex": "#988e9e",
+    "name": "Deep Pebble",
+    "hex": "#726a69",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 17",
-    "hex": "#8b9f8f",
+    "name": "Iron Gentle",
+    "hex": "#69716a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 18",
-    "hex": "#9b9a8d",
+    "name": "Velvet Subtle",
+    "hex": "#736966",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 19",
-    "hex": "#8c899f",
+    "name": "Driftwood Silent",
+    "hex": "#687071",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 20",
-    "hex": "#9e889e",
+    "name": "Silent Mercury",
+    "hex": "#6b7167",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 21",
-    "hex": "#988d8f",
+    "name": "Ancient Stone",
+    "hex": "#6a7563",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 22",
-    "hex": "#96908d",
+    "name": "Minimal Silver",
+    "hex": "#687563",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 23",
-    "hex": "#95988a",
+    "name": "Clean Porcelain",
+    "hex": "#78625f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 24",
-    "hex": "#8a8f98",
+    "name": "Misty Ivory",
+    "hex": "#6f6274",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 25",
-    "hex": "#948e90",
+    "name": "Limestone Luxury",
+    "hex": "#627365",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 26",
-    "hex": "#938d92",
+    "name": "Porcelain Timeless",
+    "hex": "#68775e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 27",
-    "hex": "#8e8e8e",
+    "name": "Calm Pearl",
+    "hex": "#6a6b6a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 28",
-    "hex": "#818d9b",
+    "name": "Dust Gentle",
+    "hex": "#686d6b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 29",
-    "hex": "#8f8d8f",
+    "name": "Misty Ceramic",
+    "hex": "#687262",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 30",
-    "hex": "#988884",
+    "name": "Modern Silver",
+    "hex": "#5f756f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 31",
-    "hex": "#859487",
+    "name": "Fog Classic",
+    "hex": "#66755f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 32",
-    "hex": "#988e80",
+    "name": "Rock Subtle",
+    "hex": "#65725f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 33",
-    "hex": "#98987f",
+    "name": "Driftwood Deep",
+    "hex": "#706163",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 34",
-    "hex": "#848e92",
+    "name": "Elegant Concrete",
+    "hex": "#6b745c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 35",
-    "hex": "#878c8b",
+    "name": "Warm Limestone",
+    "hex": "#686768",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 36",
-    "hex": "#86888c",
+    "name": "Stone Muted",
+    "hex": "#666869",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 37",
-    "hex": "#7e928e",
+    "name": "Refined Aluminum",
+    "hex": "#67626c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 38",
-    "hex": "#7f9186",
+    "name": "Minimal Rock",
+    "hex": "#5c6d66",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 39",
-    "hex": "#838c8b",
+    "name": "Smoke Elegant",
+    "hex": "#585b70",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 40",
-    "hex": "#808e8e",
+    "name": "Ceramic Timeless",
+    "hex": "#5b695e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 41",
-    "hex": "#878a84",
+    "name": "Mercury Misty",
+    "hex": "#5c675a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 42",
-    "hex": "#8c8b81",
+    "name": "Pure Aluminum",
+    "hex": "#665961",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 43",
-    "hex": "#7f838e",
+    "name": "Minimal Chrome",
+    "hex": "#695556",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 44",
-    "hex": "#8a828a",
+    "name": "Elegant Aluminum",
+    "hex": "#5e645a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 46",
-    "hex": "#7d8e87",
+    "name": "Gentle Chrome",
+    "hex": "#625b5d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 45",
-    "hex": "#80858b",
+    "name": "Quiet Snow",
+    "hex": "#5d5e5f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 47",
-    "hex": "#878188",
+    "name": "Subtle Obsidian",
+    "hex": "#5b5864",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 48",
-    "hex": "#8a8e7a",
+    "name": "Ash Subtle",
+    "hex": "#5d605b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 51",
-    "hex": "#8c7c83",
+    "name": "Deep Porcelain",
+    "hex": "#615a5e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 49",
-    "hex": "#918377",
+    "name": "Concrete Elegant",
+    "hex": "#5c6457",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 50",
-    "hex": "#91767e",
+    "name": "Stone Cold",
+    "hex": "#63575d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 52",
-    "hex": "#829275",
+    "name": "Cold Velvet",
+    "hex": "#5b595f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 53",
-    "hex": "#7d888a",
+    "name": "Smoke Gentle",
+    "hex": "#545262",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 54",
-    "hex": "#7d8780",
+    "name": "Dusty Stone",
+    "hex": "#586153",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 55",
-    "hex": "#838183",
+    "name": "Pure Parchment",
+    "hex": "#56575d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 56",
-    "hex": "#81817f",
+    "name": "Graphite Misty",
+    "hex": "#635063",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 57",
-    "hex": "#74718f",
+    "name": "Minimal Ashen",
+    "hex": "#5b5c57",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 58",
-    "hex": "#888c72",
+    "name": "Cold Iron",
+    "hex": "#5d545e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 59",
-    "hex": "#7f807e",
+    "name": "Obsidian Muted",
+    "hex": "#5b5756",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 60",
-    "hex": "#7c7e82",
+    "name": "Porcelain Deep",
+    "hex": "#594e62",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 61",
-    "hex": "#8b7283",
+    "name": "Calm Chrome",
+    "hex": "#4f6160",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 62",
-    "hex": "#798c70",
+    "name": "Mist Refined",
+    "hex": "#525d5d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 64",
-    "hex": "#7a8177",
+    "name": "Granite Frozen",
+    "hex": "#515d5b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 63",
-    "hex": "#837975",
+    "name": "Elegant Silk",
+    "hex": "#535855",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 65",
-    "hex": "#737383",
+    "name": "Deep Sand",
+    "hex": "#575354",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 66",
-    "hex": "#748470",
+    "name": "Silver Silvered",
+    "hex": "#575553",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 67",
-    "hex": "#866e70",
+    "name": "Silent Marble",
+    "hex": "#5e5c4b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 68",
-    "hex": "#816b88",
+    "name": "Timeless Ashen",
+    "hex": "#535652",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 69",
-    "hex": "#7e7370",
+    "name": "Frozen Dust",
+    "hex": "#585450",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 70",
-    "hex": "#767776",
+    "name": "Luxury Carbon",
+    "hex": "#5b5d4b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 71",
-    "hex": "#6f767e",
+    "name": "Smoke Minimal",
+    "hex": "#4c5b5c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 72",
-    "hex": "#787376",
+    "name": "Cloud Subtle",
+    "hex": "#4a5d4f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 73",
-    "hex": "#6f6d7d",
+    "name": "Modern Marble",
+    "hex": "#515151",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 74",
-    "hex": "#7a6f70",
+    "name": "Subtle Concrete",
+    "hex": "#575249",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 77",
-    "hex": "#766a7e",
+    "name": "Ashen Ancient",
+    "hex": "#544950",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 75",
-    "hex": "#737770",
+    "name": "Bone Natural",
+    "hex": "#56474e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 76",
-    "hex": "#717770",
+    "name": "Stone Calm",
+    "hex": "#4c514a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 78",
-    "hex": "#77687d",
+    "name": "Minimal Crystal",
+    "hex": "#475154",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 79",
-    "hex": "#716d78",
+    "name": "Minimal Pearl",
+    "hex": "#4b4e4f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 80",
-    "hex": "#766e74",
+    "name": "Driftwood Warm",
+    "hex": "#4c4a4f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 81",
-    "hex": "#6a7876",
+    "name": "Glass Quiet",
+    "hex": "#4b4d4e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 82",
-    "hex": "#697973",
+    "name": "Pearl Muted",
+    "hex": "#505345",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 83",
-    "hex": "#6c6f75",
+    "name": "Luxury Cinder",
+    "hex": "#4d4b4b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 84",
-    "hex": "#7d6376",
+    "name": "Dusty Shadow",
+    "hex": "#4e494b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 85",
-    "hex": "#746b75",
+    "name": "Neutral Crystal",
+    "hex": "#46504f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 86",
-    "hex": "#747a65",
+    "name": "Shadow Refined",
+    "hex": "#4c4a4b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 87",
-    "hex": "#756969",
+    "name": "Slate Minimal",
+    "hex": "#4a4b4b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 88",
-    "hex": "#656a79",
+    "name": "Misty Quartz",
+    "hex": "#4c4b49",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 90",
-    "hex": "#647976",
+    "name": "Ceramic Subtle",
+    "hex": "#4b5341",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 89",
-    "hex": "#736e69",
+    "name": "Porcelain Cold",
+    "hex": "#4f4644",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 91",
-    "hex": "#6e6e6e",
+    "name": "Slate Natural",
+    "hex": "#424750",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 92",
-    "hex": "#746e63",
+    "name": "Natural Ivory",
+    "hex": "#4b464a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 93",
-    "hex": "#636471",
+    "name": "Ash Silent",
+    "hex": "#475041",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 94",
-    "hex": "#5e7474",
+    "name": "Velvet Classic",
+    "hex": "#4d4c44",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 95",
-    "hex": "#6f6367",
+    "name": "Quartz Silent",
+    "hex": "#4c444c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 96",
-    "hex": "#6c6965",
+    "name": "Silver Timeless",
+    "hex": "#504140",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 97",
-    "hex": "#686868",
+    "name": "Dust Subtle",
+    "hex": "#484848",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 98",
-    "hex": "#5f5c72",
+    "name": "Silk Gentle",
+    "hex": "#4c4447",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 99",
-    "hex": "#666567",
+    "name": "Fog Gentle",
+    "hex": "#484747",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 100",
-    "hex": "#67606b",
+    "name": "Ceramic Luxury",
+    "hex": "#464847",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 101",
-    "hex": "#646566",
+    "name": "Graphite Refined",
+    "hex": "#454749",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 102",
-    "hex": "#696a5f",
+    "name": "Natural Canvas",
+    "hex": "#494344",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 103",
-    "hex": "#626563",
+    "name": "Pearl Quiet",
+    "hex": "#474745",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 104",
-    "hex": "#6c5b64",
+    "name": "Charcoal Timeless",
+    "hex": "#494c40",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 105",
-    "hex": "#656163",
+    "name": "Limestone Silent",
+    "hex": "#464545",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 106",
-    "hex": "#606561",
+    "name": "Canvas Minimal",
+    "hex": "#45414a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 107",
-    "hex": "#596b59",
+    "name": "Pure Pebble",
+    "hex": "#424249",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 108",
-    "hex": "#6b6359",
+    "name": "Ashen Cold",
+    "hex": "#454742",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 109",
-    "hex": "#6c6755",
+    "name": "Luxury Iron",
+    "hex": "#464641",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 110",
-    "hex": "#6a555c",
+    "name": "Ceramic Ancient",
+    "hex": "#3d4449",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 111",
-    "hex": "#696a54",
+    "name": "Flint Premium",
+    "hex": "#424541",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 112",
-    "hex": "#5e6457",
+    "name": "Ancient Porcelain",
+    "hex": "#493d3c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 114",
-    "hex": "#5e5b5e",
+    "name": "Aluminum Quiet",
+    "hex": "#3d3e47",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 113",
-    "hex": "#5c5c5d",
+    "name": "Dust Misty",
+    "hex": "#433d46",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 115",
-    "hex": "#5c5c5b",
+    "name": "Dark Bone",
+    "hex": "#46453d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 117",
-    "hex": "#5f565c",
+    "name": "Ceramic Deep",
+    "hex": "#483b45",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 118",
-    "hex": "#5f5956",
+    "name": "Mercury Natural",
+    "hex": "#3e4142",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 116",
-    "hex": "#5d585a",
+    "name": "Clay Ancient",
+    "hex": "#3b3a46",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 119",
-    "hex": "#5e555c",
+    "name": "Misty Steel",
+    "hex": "#40423e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 120",
-    "hex": "#56575b",
+    "name": "Mist Misty",
+    "hex": "#3c4344",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 121",
-    "hex": "#605056",
+    "name": "Carbon Minimal",
+    "hex": "#423e42",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 122",
-    "hex": "#56525c",
+    "name": "Nickel Premium",
+    "hex": "#383e47",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 123",
-    "hex": "#534f5c",
+    "name": "Aluminum Soft",
+    "hex": "#44453a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 124",
-    "hex": "#5b4d52",
+    "name": "Neutral Fog",
+    "hex": "#3b3d44",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 125",
-    "hex": "#5d564a",
+    "name": "Muted Granite",
+    "hex": "#3d3f41",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 126",
-    "hex": "#545353",
+    "name": "Ancient Rock",
+    "hex": "#44433a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 127",
-    "hex": "#574f4f",
+    "name": "Clay Warm",
+    "hex": "#3e3e3e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 128",
-    "hex": "#4f564c",
+    "name": "Silent Clay",
+    "hex": "#413b40",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 129",
-    "hex": "#5a4f48",
+    "name": "Silk Hidden",
+    "hex": "#393a3e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 130",
-    "hex": "#485947",
+    "name": "Hidden Cement",
+    "hex": "#3b3b3a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 131",
-    "hex": "#4c4f52",
+    "name": "Muted Chrome",
+    "hex": "#403935",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 132",
-    "hex": "#4c4c51",
+    "name": "Calm Ceramic",
+    "hex": "#3a3b3a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 133",
-    "hex": "#4d4c4e",
+    "name": "Refined Slate",
+    "hex": "#393f34",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 134",
-    "hex": "#444455",
+    "name": "Modern Porcelain",
+    "hex": "#39393a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 135",
-    "hex": "#485050",
+    "name": "Classic Ceramic",
+    "hex": "#3e323a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 136",
-    "hex": "#434c50",
+    "name": "Porcelain Natural",
+    "hex": "#323b3e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 138",
-    "hex": "#484b48",
+    "name": "Glass Dark",
+    "hex": "#323c38",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 137",
-    "hex": "#4a4a48",
+    "name": "Charcoal Minimal",
+    "hex": "#313d37",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 139",
-    "hex": "#48494a",
+    "name": "Dusty Smoke",
+    "hex": "#363636",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 140",
-    "hex": "#484b47",
+    "name": "Parchment Luxury",
+    "hex": "#393a32",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 141",
-    "hex": "#4c454b",
+    "name": "Calm Quartz",
+    "hex": "#383b30",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 142",
-    "hex": "#47494a",
+    "name": "Refined Glass",
+    "hex": "#323238",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 143",
-    "hex": "#424d46",
+    "name": "Silent Silver",
+    "hex": "#393032",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 144",
-    "hex": "#454641",
+    "name": "Cement Silvered",
+    "hex": "#353435",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 145",
-    "hex": "#444342",
+    "name": "Silent Platinum",
+    "hex": "#333137",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 146",
-    "hex": "#4b403b",
+    "name": "Porcelain Silvered",
+    "hex": "#343631",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 147",
-    "hex": "#3d4843",
+    "name": "Warm Mercury",
+    "hex": "#313636",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 149",
-    "hex": "#3b4947",
+    "name": "Slate Calm",
+    "hex": "#312f37",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 148",
-    "hex": "#443f42",
+    "name": "Soft Sand",
+    "hex": "#382f2c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 150",
-    "hex": "#414839",
+    "name": "Mercury Muted",
+    "hex": "#37312b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 151",
-    "hex": "#473a40",
+    "name": "Ivory Refined",
+    "hex": "#312d35",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 152",
-    "hex": "#3f3c41",
+    "name": "Smooth Quartz",
+    "hex": "#33362c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 153",
-    "hex": "#384438",
+    "name": "Chrome Warm",
+    "hex": "#332e34",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 155",
-    "hex": "#39423f",
+    "name": "Cloud Luxury",
+    "hex": "#2d3034",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 154",
-    "hex": "#3f3c3b",
+    "name": "Minimal Canvas",
+    "hex": "#2a2f33",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 156",
-    "hex": "#3e3c3e",
+    "name": "Iron Calm",
+    "hex": "#34292a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 157",
-    "hex": "#423741",
+    "name": "Hidden Pebble",
+    "hex": "#2d2d2f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 158",
-    "hex": "#413640",
+    "name": "Dark Parchment",
+    "hex": "#2c2a32",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 160",
-    "hex": "#3f3837",
+    "name": "Muted Shadow",
+    "hex": "#322f2a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 161",
-    "hex": "#383c3e",
+    "name": "Hidden Velvet",
+    "hex": "#2e302a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 159",
-    "hex": "#3a3441",
+    "name": "Cloud Silent",
+    "hex": "#302e2a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 162",
-    "hex": "#333741",
+    "name": "Iron Modern",
+    "hex": "#2e2d2c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 163",
-    "hex": "#3a3a3a",
+    "name": "Premium Flint",
+    "hex": "#31282a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 164",
-    "hex": "#3d3638",
+    "name": "Deep Carbon",
+    "hex": "#2f2a2c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 165",
-    "hex": "#3a3a39",
+    "name": "Deep Aluminum",
+    "hex": "#2b2c2e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 166",
-    "hex": "#3d3639",
+    "name": "Cinder Minimal",
+    "hex": "#2b2e2a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 167",
-    "hex": "#393937",
+    "name": "Premium Crystal",
+    "hex": "#28302a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 168",
-    "hex": "#36393a",
+    "name": "Dust Pale",
+    "hex": "#2c2a2c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 169",
-    "hex": "#373239",
+    "name": "Ancient Iron",
+    "hex": "#27282e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 171",
-    "hex": "#30333a",
+    "name": "Classic Steel",
+    "hex": "#2d2628",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 170",
-    "hex": "#363237",
+    "name": "Pebble Smooth",
+    "hex": "#232d2d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 172",
-    "hex": "#313831",
+    "name": "Subtle Velvet",
+    "hex": "#262a27",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 173",
-    "hex": "#303935",
+    "name": "Crystal Warm",
+    "hex": "#282827",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 174",
-    "hex": "#3a2e33",
+    "name": "Minimal Clay",
+    "hex": "#232c28",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 175",
-    "hex": "#333333",
+    "name": "Porcelain Dusty",
+    "hex": "#2b2924",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 176",
-    "hex": "#2c2d38",
+    "name": "Natural Silk",
+    "hex": "#27232b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 177",
-    "hex": "#35372c",
+    "name": "Refined Concrete",
+    "hex": "#272727",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 178",
-    "hex": "#2c3633",
+    "name": "Soft Marble",
+    "hex": "#27242a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 179",
-    "hex": "#332e33",
+    "name": "Fog Timeless",
+    "hex": "#282526",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 180",
-    "hex": "#2b362b",
+    "name": "Granite Neutral",
+    "hex": "#262727",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 181",
-    "hex": "#2e2f33",
+    "name": "Ash Premium",
+    "hex": "#26222a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 182",
-    "hex": "#312b34",
+    "name": "Soft Pearl",
+    "hex": "#28212a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 183",
-    "hex": "#2a3035",
+    "name": "Slate Silent",
+    "hex": "#252723",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 184",
-    "hex": "#2e2f2d",
+    "name": "Fog Clean",
+    "hex": "#212629",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 185",
-    "hex": "#302a2b",
+    "name": "Ivory Smooth",
+    "hex": "#242626",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 187",
-    "hex": "#2f2831",
+    "name": "Titanium Premium",
+    "hex": "#262425",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 186",
-    "hex": "#2b292f",
+    "name": "Clay Minimal",
+    "hex": "#252624",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 188",
-    "hex": "#282b27",
+    "name": "Clay Silvered",
+    "hex": "#222223",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 189",
-    "hex": "#27242c",
+    "name": "Minimal Shadow",
+    "hex": "#261e24",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 190",
-    "hex": "#242a25",
+    "name": "Porcelain Subtle",
+    "hex": "#212122",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 191",
-    "hex": "#252828",
+    "name": "Flint Smooth",
+    "hex": "#20231f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 192",
-    "hex": "#292425",
+    "name": "Clay Neutral",
+    "hex": "#212121",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 193",
-    "hex": "#272527",
+    "name": "Clean Driftwood",
+    "hex": "#231d1d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 194",
-    "hex": "#262526",
+    "name": "Deep Stone",
+    "hex": "#1d2223",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 195",
-    "hex": "#242625",
+    "name": "Cement Pure",
+    "hex": "#1e2020",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 196",
-    "hex": "#252224",
+    "name": "Warm Titanium",
+    "hex": "#201e1f",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 197",
-    "hex": "#242126",
+    "name": "Smoke Smooth",
+    "hex": "#201f1d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 198",
-    "hex": "#232122",
+    "name": "Modern Nickel",
+    "hex": "#1c1f1e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 199",
-    "hex": "#222221",
+    "name": "Slate Ancient",
+    "hex": "#1e1b20",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 200",
-    "hex": "#241f1e",
+    "name": "Silk Quiet",
+    "hex": "#1a201b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 201",
-    "hex": "#202120",
+    "name": "Carbon Pure",
+    "hex": "#201a1b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 202",
-    "hex": "#24211c",
+    "name": "Flint Pure",
+    "hex": "#1a201e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 203",
-    "hex": "#202020",
+    "name": "Chrome Timeless",
+    "hex": "#1b1e1e",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 204",
-    "hex": "#21211e",
+    "name": "Gentle Fog",
+    "hex": "#1e1b19",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 205",
-    "hex": "#1d221e",
+    "name": "Nickel Misty",
+    "hex": "#1e181a",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 206",
-    "hex": "#1d211d",
+    "name": "Ash Warm",
+    "hex": "#191d19",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 207",
-    "hex": "#1c1e20",
+    "name": "Natural Flint",
+    "hex": "#1a191d",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 209",
-    "hex": "#1d1e1d",
+    "name": "Premium Bone",
+    "hex": "#1c1c19",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 208",
-    "hex": "#1d1d1d",
+    "name": "Pure Driftwood",
+    "hex": "#1c1b18",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 210",
-    "hex": "#1a1d1c",
+    "name": "Smooth Linen",
+    "hex": "#1d1917",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 211",
-    "hex": "#1d191a",
+    "name": "Warm Bone",
+    "hex": "#1b171c",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 212",
-    "hex": "#191c19",
+    "name": "Iron Dark",
+    "hex": "#18161b",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 213",
-    "hex": "#171d1e",
+    "name": "Silvered Linen",
+    "hex": "#181a17",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 214",
-    "hex": "#1b1c17",
+    "name": "Crystal Silent",
+    "hex": "#191717",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 215",
-    "hex": "#15181a",
+    "name": "Graphite Timeless",
+    "hex": "#161519",
     "category": "Neutrals"
   },
   {
-    "name": "Neutrals 216",
+    "name": "Nickel Subtle",
+    "hex": "#151518",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Natural Chrome",
+    "hex": "#171516",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Gentle Shadow",
+    "hex": "#181514",
+    "category": "Neutrals"
+  },
+  {
+    "name": "Elegant Pebble",
     "hex": "#151515",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Neutrals 217",
-    "hex": "#161614",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Neutrals 218",
-    "hex": "#131713",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Neutrals 219",
-    "hex": "#141316",
-    "category": "Neutrals"
-  },
-  {
-    "name": "Neutrals 220",
-    "hex": "#161314",
     "category": "Neutrals"
   }
 ]

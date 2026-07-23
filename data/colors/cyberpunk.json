@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Dark Digital",
-    "hex": "#e785f9",
+    "name": "Fusion Cosmic",
+    "hex": "#d885f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Electric",
-    "hex": "#fc82e7",
+    "name": "Chrome Holo",
+    "hex": "#fc82e2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Neon",
-    "hex": "#d983fb",
+    "name": "Pixel Dark",
+    "hex": "#fc81ca",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Laser",
-    "hex": "#b980fd",
+    "name": "Ultra Matrix",
+    "hex": "#fa83f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Laser",
-    "hex": "#dc80fd",
+    "name": "Photon Holographic",
+    "hex": "#fe7fbf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Plasma",
-    "hex": "#e882fb",
+    "name": "Code Prime",
+    "hex": "#ba7ffe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Synth",
-    "hex": "#ce80fc",
+    "name": "Synthetic Protocol",
+    "hex": "#fb81af",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Pulse",
-    "hex": "#f57efe",
+    "name": "Terminal Bright",
+    "hex": "#db7ffd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Pulse",
-    "hex": "#d081fa",
+    "name": "Photon Cosmic",
+    "hex": "#fa82dc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Synth",
-    "hex": "#d97dfe",
+    "name": "Ultra Fusion",
+    "hex": "#fe7ef0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Neon",
-    "hex": "#fb7fef",
+    "name": "Experimental Ion",
+    "hex": "#fb80ca",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Pulse",
-    "hex": "#e980fa",
+    "name": "Synth Digital",
+    "hex": "#f982f2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synth Infinite",
+    "hex": "#f981ac",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ion Alien",
+    "hex": "#d880fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Photon Digital",
+    "hex": "#fb7fe7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Machine Powerful",
+    "hex": "#e280fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Plasma Dynamic",
+    "hex": "#d97efb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Radiation Hyper",
+    "hex": "#fd7cb5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Frequency Holographic",
+    "hex": "#fe7bef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synthetic Cyberwave",
+    "hex": "#fe7bb4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Prime Neon",
+    "hex": "#fa7eef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Neon Holographic",
+    "hex": "#f87ff5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Mechanical",
+    "hex": "#f97eab",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Byte Electric",
+    "hex": "#fa7cc9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "System Virtual",
+    "hex": "#fb7bee",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Orbit Artificial",
+    "hex": "#f979fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Glowing Photon",
+    "hex": "#fd78c0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Flux Infinite",
+    "hex": "#fb7ab5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Electric Chrome",
+    "hex": "#fb7ab3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Encrypted Cyberwave",
+    "hex": "#d679fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Electric Pixel",
+    "hex": "#f97beb",
     "category": "Cyberpunk"
   },
   {
     "name": "Quantum Neon",
-    "hex": "#fd7de8",
+    "hex": "#cd75ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Cyber",
-    "hex": "#fe7baa",
+    "name": "Energy Alien",
+    "hex": "#d576fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Neon",
-    "hex": "#d47cfd",
+    "name": "Byte Futuristic",
+    "hex": "#ee7af9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Electric",
-    "hex": "#ca80f9",
+    "name": "Futuristic Circuit",
+    "hex": "#fa78bf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Neon",
-    "hex": "#ee80f9",
+    "name": "Futuristic Cyberwave",
+    "hex": "#a273ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Synth",
-    "hex": "#fd7ba7",
+    "name": "Hidden Synthetic",
+    "hex": "#bb73fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Digital",
-    "hex": "#ed7dfb",
+    "name": "Code Quantum",
+    "hex": "#f578f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Electric",
-    "hex": "#ee7bfc",
+    "name": "Advanced Pulse",
+    "hex": "#e273fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Synth",
-    "hex": "#bd7cfb",
+    "name": "Cyber Bright",
+    "hex": "#fa77c1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Plasma",
-    "hex": "#d57cf9",
+    "name": "Plasma Powerful",
+    "hex": "#ff72fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Cyber",
-    "hex": "#ee7cf9",
+    "name": "Synthetic Atomic",
+    "hex": "#fa75fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Digital",
-    "hex": "#fb7af5",
+    "name": "Nova Reactive",
+    "hex": "#df76fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Cyber",
-    "hex": "#ab7afa",
+    "name": "Pixel Holographic",
+    "hex": "#f977c5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Electric Virtual",
+    "hex": "#fc74dd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Synthetic",
+    "hex": "#fb71ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Infinite Photon",
+    "hex": "#fa75e2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Digital Hidden",
+    "hex": "#fa75b2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Laser",
+    "hex": "#f976ad",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberwave Alien",
+    "hex": "#ff6fc2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cosmic Voltage",
+    "hex": "#f46fff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Advanced Radiation",
+    "hex": "#fb72da",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Spectrum Artificial",
+    "hex": "#c773fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Circuit Alien",
+    "hex": "#e772fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hidden System",
+    "hex": "#f973d5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Powerful Holo",
+    "hex": "#a66ffd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Pulse Dark",
+    "hex": "#fb71f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Protocol",
+    "hex": "#fc6ee5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "AI Powerful",
+    "hex": "#d46cfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Alien Cyber",
+    "hex": "#ff6ade",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Laser Reactive",
+    "hex": "#b16afe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Infinite",
+    "hex": "#f96ec7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Chrome",
+    "hex": "#fb6cc4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hologram Virtual",
+    "hex": "#d86dfa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Virtual Ion",
+    "hex": "#fa6df7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Atomic",
+    "hex": "#f86eb8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Extreme Flux",
+    "hex": "#db69fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Photon Glowing",
+    "hex": "#fd68c8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Void Alien",
+    "hex": "#fb69ab",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hidden Vector",
+    "hex": "#c267fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Powerful",
+    "hex": "#c16af9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "AI Quantum",
+    "hex": "#ff64df",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Network Dynamic",
+    "hex": "#fe65dd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cosmic Chrome",
+    "hex": "#b766fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synth Experimental",
+    "hex": "#fe63b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Flux Dark",
+    "hex": "#f968e4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Radiation Encrypted",
+    "hex": "#f968a3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Glowing Cosmos",
+    "hex": "#d463fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "AI Synthetic",
+    "hex": "#fa66eb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Prime Signal",
+    "hex": "#f868c3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Galaxy Prime",
+    "hex": "#fb64bf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Reactive Pixel",
+    "hex": "#d060ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Artificial Quantum",
+    "hex": "#d466f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "System Holographic",
+    "hex": "#f965a5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "System Ultra",
+    "hex": "#c763fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Hologram",
+    "hex": "#f964ba",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Bright",
+    "hex": "#ff5e94",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cosmic Quantum",
+    "hex": "#9e64f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Spectrum Chrome",
+    "hex": "#eb60fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Frequency",
+    "hex": "#dc62fa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synthetic Plasma",
+    "hex": "#fc60b1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Pulse Powerful",
+    "hex": "#ca60fb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Voltage",
+    "hex": "#e35ffb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hyper Firewall",
+    "hex": "#ff5bbc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Reactive Radiation",
+    "hex": "#f162f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "System Futuristic",
+    "hex": "#f25cfe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Holo Futuristic",
+    "hex": "#f95ffb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Spectrum Cyber",
+    "hex": "#b95ffa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental AI",
+    "hex": "#e860f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Glowing Network",
+    "hex": "#c35ff9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Circuit Bright",
+    "hex": "#cb5bfd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cosmic System",
+    "hex": "#f660f8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Orbit",
+    "hex": "#f95dfa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Circuit Dynamic",
+    "hex": "#d75afc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Alien Flux",
+    "hex": "#f85ed5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Matrix",
+    "hex": "#e65bfb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Code",
+    "hex": "#ff5690",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Digital Atomic",
+    "hex": "#fe57f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Laser Virtual",
+    "hex": "#fb5aef",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Voltage Glowing",
+    "hex": "#c257fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Binary Infinite",
+    "hex": "#fb59b9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Reactive Ion",
+    "hex": "#fc57c9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Digital",
+    "hex": "#e257fc",
     "category": "Cyberpunk"
   },
   {
     "name": "Future Electric",
-    "hex": "#fc77fb",
+    "hex": "#ca56fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Plasma",
-    "hex": "#ad79fa",
+    "name": "Cyber Ion",
+    "hex": "#ec5bf8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Pulse",
-    "hex": "#fa79b6",
+    "name": "Atomic Photon",
+    "hex": "#fa59ee",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Synth",
-    "hex": "#fd75c7",
+    "name": "Virtual Protocol",
+    "hex": "#fe55c8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Plasma",
-    "hex": "#fd75ef",
+    "name": "Dynamic Cyber",
+    "hex": "#fe5596",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Plasma Advanced",
+    "hex": "#fe55e8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Circuit",
+    "hex": "#ff53eb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Digital Photon",
+    "hex": "#fa57f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Holo",
+    "hex": "#d352ff",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Reactive Pulse",
+    "hex": "#de52fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Vector Advanced",
+    "hex": "#e852fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Quantum Holographic",
+    "hex": "#f759a2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Glowing System",
+    "hex": "#d952fe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Neon Signal",
+    "hex": "#a054fc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Neon",
+    "hex": "#fb55c7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Robot Bright",
+    "hex": "#dc58f7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Prime Core",
+    "hex": "#b452fd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Firewall",
+    "hex": "#9158f6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Energy",
+    "hex": "#f757de",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Alien Orbit",
+    "hex": "#fe5095",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Laser Electric",
+    "hex": "#fd50be",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Machine Mechanical",
+    "hex": "#fb52d7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Reactive",
+    "hex": "#fb529f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Alien Digital",
+    "hex": "#d74efe",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synthetic Machine",
+    "hex": "#fd4fab",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Digital Data",
+    "hex": "#fa52ca",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Vector Alien",
+    "hex": "#eb53f9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Extreme Core",
+    "hex": "#fa52e4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Neon Electric",
+    "hex": "#f754f4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Atomic Signal",
+    "hex": "#f44ffc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Infinite Nova",
+    "hex": "#e64dfd",
     "category": "Cyberpunk"
   },
   {
     "name": "Quantum Laser",
-    "hex": "#fd75a9",
+    "hex": "#d44cfe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Synth",
-    "hex": "#ff73c3",
+    "name": "Prime Ion",
+    "hex": "#fc4eb2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Laser",
-    "hex": "#e579f8",
+    "name": "Spectrum Encrypted",
+    "hex": "#fe4bbb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Bright Pulse",
-    "hex": "#b774fd",
+    "name": "Mechanical Core",
+    "hex": "#cf4cfd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Digital",
-    "hex": "#dd75fc",
+    "name": "Electric Synth",
+    "hex": "#fc4d90",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Cyber",
-    "hex": "#fe72f6",
+    "name": "Chrome Cyber",
+    "hex": "#ad53f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Laser",
-    "hex": "#f977e8",
+    "name": "Synthetic Binary",
+    "hex": "#9050f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Cyber",
-    "hex": "#fc74c7",
+    "name": "Bright Synthetic",
+    "hex": "#894ffa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Digital",
-    "hex": "#f977cd",
+    "name": "Chrome Spectrum",
+    "hex": "#c04cfc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Plasma",
-    "hex": "#ed74fc",
+    "name": "Code Encrypted",
+    "hex": "#ff49f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Electric",
-    "hex": "#fb74b0",
+    "name": "Mechanical Chrome",
+    "hex": "#a64ff8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Ultra Electric",
-    "hex": "#f975b7",
+    "name": "Firewall Electric",
+    "hex": "#fb4c95",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Laser",
-    "hex": "#a672fc",
+    "name": "AI Advanced",
+    "hex": "#ff48bf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Dark Cyber",
-    "hex": "#fe6fab",
+    "name": "Powerful System",
+    "hex": "#b74bfb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Plasma",
-    "hex": "#ca75f8",
+    "name": "Pixel Neon",
+    "hex": "#f84e9b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Future Neon",
-    "hex": "#fe6fa2",
+    "name": "Robot Glowing",
+    "hex": "#ff47e7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Quantum Digital",
-    "hex": "#ae6efe",
+    "name": "Photon Extreme",
+    "hex": "#fb4b8f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Chrome Pulse",
-    "hex": "#b573f8",
+    "name": "Cyber Cosmos",
+    "hex": "#b746ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 1",
-    "hex": "#b772f8",
+    "name": "Circuit Advanced",
+    "hex": "#f64ee9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 2",
-    "hex": "#e76dfd",
+    "name": "Holographic Circuit",
+    "hex": "#ce46fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 3",
-    "hex": "#b670fa",
+    "name": "Nova Neon",
+    "hex": "#fb4988",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 4",
-    "hex": "#fc6db8",
+    "name": "Binary Electric",
+    "hex": "#f248fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 5",
-    "hex": "#fa6fcd",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 6",
-    "hex": "#fa6eb7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 7",
-    "hex": "#f96ec5",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 8",
-    "hex": "#fc6adb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 10",
-    "hex": "#fc6abf",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 9",
-    "hex": "#b46bfb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 11",
-    "hex": "#ff66ed",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 12",
-    "hex": "#fb68b4",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 13",
-    "hex": "#d167fb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 16",
-    "hex": "#ab65fd",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 17",
-    "hex": "#f86aae",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 18",
-    "hex": "#e469f9",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 14",
-    "hex": "#bb66fb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 15",
-    "hex": "#f968d8",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 19",
-    "hex": "#fc64e4",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 20",
-    "hex": "#9e63fd",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 21",
-    "hex": "#fd63ba",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 22",
-    "hex": "#fd63dc",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 23",
-    "hex": "#ba68f7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 25",
-    "hex": "#fc63ca",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 24",
-    "hex": "#fc62b1",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 26",
-    "hex": "#e160fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 27",
-    "hex": "#bf64fa",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 28",
-    "hex": "#fb63ba",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 29",
-    "hex": "#fc629b",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 30",
-    "hex": "#fb62b7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 31",
-    "hex": "#da65f7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 32",
-    "hex": "#fd5f9f",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 33",
-    "hex": "#b363f8",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 34",
-    "hex": "#e65bff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 35",
-    "hex": "#fe5ca6",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 36",
-    "hex": "#d15ffb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 37",
-    "hex": "#fb5ece",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 38",
-    "hex": "#f76298",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 39",
-    "hex": "#ca5aff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 40",
-    "hex": "#ff5a9a",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 41",
-    "hex": "#f95fb6",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 42",
-    "hex": "#fd5af8",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 44",
-    "hex": "#f15bfc",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 43",
-    "hex": "#b95cfb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 45",
-    "hex": "#fa5ca2",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 46",
-    "hex": "#fe57bf",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 47",
-    "hex": "#fa5bc9",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 48",
-    "hex": "#af5bf8",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 49",
-    "hex": "#b658fb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 50",
-    "hex": "#f75ca2",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 52",
-    "hex": "#fc56fb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 51",
-    "hex": "#c35bf7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 53",
-    "hex": "#8e54fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 54",
-    "hex": "#fa58e6",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 55",
-    "hex": "#f853fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 56",
-    "hex": "#f158f9",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 58",
-    "hex": "#9b58f9",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 59",
-    "hex": "#fd53fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 57",
-    "hex": "#f858b4",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 60",
-    "hex": "#f552fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 61",
-    "hex": "#fa56b4",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 63",
-    "hex": "#f957f6",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 62",
-    "hex": "#f956bf",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 64",
-    "hex": "#fa54b7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 65",
-    "hex": "#9350fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 66",
-    "hex": "#fa5396",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 67",
-    "hex": "#ae55f8",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 68",
-    "hex": "#df4eff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 69",
-    "hex": "#dc4dff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 70",
-    "hex": "#dd53f9",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 71",
-    "hex": "#fc50aa",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 72",
-    "hex": "#eb4cff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 73",
-    "hex": "#fc4efa",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 74",
-    "hex": "#8e4bff",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 75",
-    "hex": "#ad52f7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 76",
-    "hex": "#ea4bfd",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 77",
-    "hex": "#c251f7",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 78",
-    "hex": "#f7508f",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 81",
-    "hex": "#fc4af2",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 79",
-    "hex": "#b148fe",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 80",
-    "hex": "#f94d8a",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 82",
-    "hex": "#e64afb",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 84",
-    "hex": "#f94cec",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 83",
-    "hex": "#fd47a0",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 85",
-    "hex": "#ee47fd",
-    "category": "Cyberpunk"
-  },
-  {
-    "name": "Cyberpunk 86",
+    "name": "Virtual Future",
     "hex": "#fd47c4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 87",
-    "hex": "#f64dcc",
+    "name": "Holo Hidden",
+    "hex": "#c84df6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 88",
-    "hex": "#f74cf0",
+    "name": "Virtual Cosmos",
+    "hex": "#934af9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 89",
-    "hex": "#b444fe",
+    "name": "Ion Chrome",
+    "hex": "#fd45b4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 90",
-    "hex": "#fa48e7",
+    "name": "Infinite Terminal",
+    "hex": "#fb47e8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 91",
-    "hex": "#fe44bc",
+    "name": "Holographic Data",
+    "hex": "#9a4cf6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 93",
-    "hex": "#b648fa",
+    "name": "Laser Hyper",
+    "hex": "#b543ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 92",
-    "hex": "#fa47a3",
+    "name": "Robot Futuristic",
+    "hex": "#f948e9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 94",
-    "hex": "#f64bd0",
+    "name": "Firewall Chrome",
+    "hex": "#b044fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 95",
-    "hex": "#fe4382",
+    "name": "Machine Future",
+    "hex": "#b547fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 96",
-    "hex": "#9b42fe",
+    "name": "Hyper Chrome",
+    "hex": "#fd44a9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 97",
-    "hex": "#c844fc",
+    "name": "Atomic Energy",
+    "hex": "#f244fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 98",
-    "hex": "#b347f9",
+    "name": "Advanced Flux",
+    "hex": "#ae44fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 99",
-    "hex": "#8646fa",
+    "name": "Dynamic Virtual",
+    "hex": "#b543fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 100",
-    "hex": "#f64998",
+    "name": "Electric System",
+    "hex": "#fb43dc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 101",
-    "hex": "#fe40a5",
+    "name": "Artificial Galaxy",
+    "hex": "#f648bd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 102",
-    "hex": "#ff3f96",
+    "name": "Ultra Spectrum",
+    "hex": "#a140fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 103",
-    "hex": "#f647aa",
+    "name": "Terminal Electric",
+    "hex": "#d847f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 104",
-    "hex": "#f84588",
+    "name": "Reactive Machine",
+    "hex": "#8745f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 105",
-    "hex": "#fe3f80",
+    "name": "Glowing Vector",
+    "hex": "#cc42fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 106",
-    "hex": "#c147f6",
+    "name": "Machine Glowing",
+    "hex": "#fa4294",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 107",
-    "hex": "#fc41d8",
+    "name": "Firewall Atomic",
+    "hex": "#fb40f0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 108",
-    "hex": "#f744b8",
+    "name": "Alien Byte",
+    "hex": "#ce44f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 109",
-    "hex": "#f84381",
+    "name": "Core Prime",
+    "hex": "#f64482",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 110",
-    "hex": "#e33dfd",
+    "name": "Orbit Extreme",
+    "hex": "#c23bff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 111",
-    "hex": "#8e3bff",
+    "name": "Encrypted Terminal",
+    "hex": "#fa409f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 112",
-    "hex": "#f941dd",
+    "name": "Ultra Flux",
+    "hex": "#dd41f8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 113",
-    "hex": "#f644e2",
+    "name": "Future Cosmos",
+    "hex": "#b93cfd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 115",
-    "hex": "#fc3d8a",
+    "name": "Atomic Cyberwave",
+    "hex": "#fb3ebe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 114",
-    "hex": "#f93fe0",
+    "name": "Byte Experimental",
+    "hex": "#973cfc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 116",
-    "hex": "#7e3cfc",
+    "name": "Firewall Future",
+    "hex": "#aa3afd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 118",
-    "hex": "#fb3dc8",
+    "name": "Flux Advanced",
+    "hex": "#ff38ee",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 117",
-    "hex": "#8d42f5",
+    "name": "Cosmic Cosmos",
+    "hex": "#f54186",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 119",
-    "hex": "#7e3afd",
+    "name": "Pulse Glowing",
+    "hex": "#f33cfa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 121",
-    "hex": "#a939fc",
+    "name": "Nova Prime",
+    "hex": "#ec3df9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 123",
-    "hex": "#e639fc",
+    "name": "Vector Synthetic",
+    "hex": "#f540d0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 124",
-    "hex": "#fc39b2",
+    "name": "Electric Cyber",
+    "hex": "#fe3796",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 120",
-    "hex": "#fb3a95",
+    "name": "Extreme Cyber",
+    "hex": "#fc399c",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 122",
-    "hex": "#f83dd0",
+    "name": "Chrome Terminal",
+    "hex": "#fb3afb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 125",
-    "hex": "#f93aae",
+    "name": "Prime Virtual",
+    "hex": "#9a38fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 126",
-    "hex": "#833cf7",
+    "name": "Hologram Glowing",
+    "hex": "#c137fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 127",
-    "hex": "#f83b83",
+    "name": "Nova Quantum",
+    "hex": "#f539fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 128",
-    "hex": "#ed39fa",
+    "name": "Quantum Chrome",
+    "hex": "#e03df6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 129",
-    "hex": "#9338fb",
+    "name": "Powerful Protocol",
+    "hex": "#c53cf7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 131",
-    "hex": "#fd36f1",
+    "name": "Glowing AI",
+    "hex": "#9335fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 132",
-    "hex": "#c13df6",
+    "name": "Cosmic Frequency",
+    "hex": "#f939f3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 130",
-    "hex": "#f53df4",
+    "name": "Protocol Electric",
+    "hex": "#d23af8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 133",
-    "hex": "#df33fe",
+    "name": "Galaxy Glowing",
+    "hex": "#f63c83",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 134",
-    "hex": "#ef38f8",
+    "name": "Powerful Cyber",
+    "hex": "#e637fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 135",
-    "hex": "#c638f8",
+    "name": "Powerful Pulse",
+    "hex": "#f53cf2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 136",
-    "hex": "#f53b9f",
+    "name": "Robot Electric",
+    "hex": "#8e39f8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 137",
-    "hex": "#fd32db",
+    "name": "Alien Code",
+    "hex": "#df3bf5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 138",
-    "hex": "#f837c8",
+    "name": "Chrome Experimental",
+    "hex": "#9335fb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 139",
-    "hex": "#c537f8",
+    "name": "Hyper Frequency",
+    "hex": "#9b34fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 140",
-    "hex": "#fa347b",
+    "name": "Synthetic Chrome",
+    "hex": "#932fff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 141",
-    "hex": "#d930fe",
+    "name": "Holo Encrypted",
+    "hex": "#a534fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 142",
-    "hex": "#8133fa",
+    "name": "Digital Future",
+    "hex": "#f8359e",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 143",
-    "hex": "#9d35f8",
+    "name": "System Experimental",
+    "hex": "#f63583",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 144",
-    "hex": "#d538f5",
+    "name": "Flux Virtual",
+    "hex": "#df2dfe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 145",
-    "hex": "#fa32d7",
+    "name": "Byte Encrypted",
+    "hex": "#fc2ff9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 147",
-    "hex": "#d72efe",
+    "name": "Chrome Pulse",
+    "hex": "#f63479",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 146",
-    "hex": "#db35f6",
+    "name": "Spectrum Atomic",
+    "hex": "#f52cfe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 148",
-    "hex": "#e22ffc",
+    "name": "System Reactive",
+    "hex": "#932efc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 150",
-    "hex": "#f536df",
+    "name": "Holographic AI",
+    "hex": "#fe2cd5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 149",
-    "hex": "#cf32f8",
+    "name": "Fusion Encrypted",
+    "hex": "#fe2ccf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 154",
-    "hex": "#c72cfe",
+    "name": "Artificial Photon",
+    "hex": "#8534f5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 153",
-    "hex": "#f831d8",
+    "name": "Signal Cosmic",
+    "hex": "#fa2fe4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 151",
-    "hex": "#fa2fad",
+    "name": "Synthetic Mechanical",
+    "hex": "#f731f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 152",
-    "hex": "#fa2fd2",
+    "name": "Holographic Cosmos",
+    "hex": "#ad31f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 155",
-    "hex": "#d62bfd",
+    "name": "Futuristic Vector",
+    "hex": "#f92f8b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 156",
-    "hex": "#fd2bc8",
+    "name": "Synthetic Dark",
+    "hex": "#fa2e95",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 157",
-    "hex": "#fd2ba6",
+    "name": "Alien Protocol",
+    "hex": "#cf33f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 158",
-    "hex": "#bf2cfc",
+    "name": "Cosmic Data",
+    "hex": "#fc2ba0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 159",
-    "hex": "#852cfb",
+    "name": "Powerful Voltage",
+    "hex": "#e731f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 160",
-    "hex": "#fa2de5",
+    "name": "Electric Machine",
+    "hex": "#b42afd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 161",
-    "hex": "#ba2cfb",
+    "name": "Digital Ion",
+    "hex": "#ea2ff8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 162",
-    "hex": "#e328fe",
+    "name": "Galaxy Bright",
+    "hex": "#f531de",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 163",
-    "hex": "#f431ca",
+    "name": "Hidden Holo",
+    "hex": "#f82ea5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 166",
-    "hex": "#c929fc",
+    "name": "Plasma Holographic",
+    "hex": "#fc2970",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 164",
-    "hex": "#f92cb9",
+    "name": "Signal Electric",
+    "hex": "#f82dda",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 165",
-    "hex": "#f92c81",
+    "name": "Futuristic Signal",
+    "hex": "#fa2bec",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 167",
-    "hex": "#fa2ab1",
+    "name": "Virtual AI",
+    "hex": "#f72e85",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 168",
-    "hex": "#da2ff5",
+    "name": "Machine Electric",
+    "hex": "#8826ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 169",
-    "hex": "#b725fe",
+    "name": "Hidden Energy",
+    "hex": "#f92cf6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 170",
-    "hex": "#f72c7b",
+    "name": "Synthetic Holographic",
+    "hex": "#fb2aae",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 171",
-    "hex": "#fe23ed",
+    "name": "Terminal Advanced",
+    "hex": "#752bf9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 172",
-    "hex": "#6e28f9",
+    "name": "Synth Hyper",
+    "hex": "#f62e94",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 173",
-    "hex": "#f92874",
+    "name": "Synthetic Ultra",
+    "hex": "#f72cdf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 174",
-    "hex": "#f62a7d",
+    "name": "Matrix Advanced",
+    "hex": "#f52e8e",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 175",
-    "hex": "#7726f9",
+    "name": "Bright Synth",
+    "hex": "#ff2494",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 177",
-    "hex": "#c227f8",
+    "name": "Futuristic Plasma",
+    "hex": "#8824ff",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 176",
-    "hex": "#7529f5",
+    "name": "Void Virtual",
+    "hex": "#fe24dc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 178",
-    "hex": "#fb23a4",
+    "name": "Dark Signal",
+    "hex": "#fc26af",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 179",
-    "hex": "#e221fd",
+    "name": "Ultra Frequency",
+    "hex": "#d52cf5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 180",
-    "hex": "#f92391",
+    "name": "Quantum System",
+    "hex": "#fc25a0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 181",
-    "hex": "#7f21fb",
+    "name": "Byte Artificial",
+    "hex": "#7d27fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 183",
-    "hex": "#fe1ecf",
+    "name": "Ion Holographic",
+    "hex": "#d727fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 182",
-    "hex": "#9024f7",
+    "name": "Plasma Virtual",
+    "hex": "#ae28f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 184",
-    "hex": "#ff1ca7",
+    "name": "Quantum Energy",
+    "hex": "#cd29f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 185",
-    "hex": "#ff1bc2",
+    "name": "Chrome Pixel",
+    "hex": "#f52bba",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 186",
-    "hex": "#a51cfe",
+    "name": "Frequency Extreme",
+    "hex": "#aa22fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 187",
-    "hex": "#f623a9",
+    "name": "Machine Alien",
+    "hex": "#a926f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 188",
-    "hex": "#fc1b95",
+    "name": "Prime Electric",
+    "hex": "#d12bf4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 189",
-    "hex": "#dd21f6",
+    "name": "Signal Alien",
+    "hex": "#8922fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 190",
-    "hex": "#f81f78",
+    "name": "Infinite Flux",
+    "hex": "#ec27f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 191",
-    "hex": "#fa1c80",
+    "name": "Cyber Vector",
+    "hex": "#df27f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 192",
-    "hex": "#f42174",
+    "name": "Extreme Cyberwave",
+    "hex": "#f5287b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 193",
-    "hex": "#fa1b81",
+    "name": "Artificial Machine",
+    "hex": "#df27f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 194",
-    "hex": "#751ff6",
+    "name": "Synth Electric",
+    "hex": "#f825d8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 195",
-    "hex": "#fb17fe",
+    "name": "Bright Electric",
+    "hex": "#8524f8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 196",
-    "hex": "#9c16fe",
+    "name": "Vector Reactive",
+    "hex": "#7324f8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 197",
-    "hex": "#d21df7",
+    "name": "Electric Photon",
+    "hex": "#801efe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 198",
-    "hex": "#e419fa",
+    "name": "Virtual Chrome",
+    "hex": "#ca20fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 199",
-    "hex": "#e116fb",
+    "name": "Photon Artificial",
+    "hex": "#f823d5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 200",
-    "hex": "#7113fd",
+    "name": "Pixel Powerful",
+    "hex": "#9b27f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 201",
-    "hex": "#8712fe",
+    "name": "Hologram Atomic",
+    "hex": "#fd1d72",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 202",
-    "hex": "#de15fb",
+    "name": "Neon Hologram",
+    "hex": "#ff1bba",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 203",
-    "hex": "#f41c65",
+    "name": "Synth Virtual",
+    "hex": "#b61dfd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 204",
-    "hex": "#6a1bf5",
+    "name": "Chrome Bright",
+    "hex": "#fe1cd6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 205",
-    "hex": "#ae1cf3",
+    "name": "Reactive Electric",
+    "hex": "#fe1ce9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 206",
-    "hex": "#e015fa",
+    "name": "Matrix Cyber",
+    "hex": "#fb1fea",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 207",
-    "hex": "#c912fc",
+    "name": "Synth Powerful",
+    "hex": "#f623bd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 208",
-    "hex": "#f712fb",
+    "name": "Cyber Laser",
+    "hex": "#f524c6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 209",
-    "hex": "#fb12f8",
+    "name": "Signal Experimental",
+    "hex": "#fe1b98",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 210",
-    "hex": "#8615f8",
+    "name": "Quantum Cyber",
+    "hex": "#9824f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 211",
-    "hex": "#ee15f8",
+    "name": "Experimental Cosmos",
+    "hex": "#fe1a76",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 212",
-    "hex": "#fd0fd9",
+    "name": "Hologram Infinite",
+    "hex": "#9322f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 214",
-    "hex": "#e410fc",
+    "name": "Neon Galaxy",
+    "hex": "#9821f7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 213",
-    "hex": "#fe0def",
+    "name": "Quantum Hyper",
+    "hex": "#f622b0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 215",
-    "hex": "#9f0afe",
+    "name": "Synth Encrypted",
+    "hex": "#d51dfb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 217",
-    "hex": "#b411f7",
+    "name": "Void Futuristic",
+    "hex": "#871bfc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 218",
-    "hex": "#f612a6",
+    "name": "Holo Atomic",
+    "hex": "#f521a5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 219",
-    "hex": "#f414a6",
+    "name": "Virtual Hyper",
+    "hex": "#fc1ade",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 216",
-    "hex": "#c10ff9",
+    "name": "Mechanical Photon",
+    "hex": "#fd197d",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 221",
-    "hex": "#f61161",
+    "name": "Futuristic Ion",
+    "hex": "#f81ea7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 220",
-    "hex": "#fa0dda",
+    "name": "Cosmos Prime",
+    "hex": "#bd1cfa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 222",
-    "hex": "#e808ff",
+    "name": "Hologram Cyber",
+    "hex": "#fd18cd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 224",
-    "hex": "#5f0ef9",
+    "name": "Orbit Chrome",
+    "hex": "#c120f5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 225",
-    "hex": "#fc0ad1",
+    "name": "Experimental Terminal",
+    "hex": "#dd1df8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 226",
-    "hex": "#f412e9",
+    "name": "Electric Data",
+    "hex": "#6b20f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 223",
-    "hex": "#f313b2",
+    "name": "Robot Hyper",
+    "hex": "#e216fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 227",
-    "hex": "#f610e3",
+    "name": "Glowing Ion",
+    "hex": "#8b1df7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 228",
-    "hex": "#790df8",
+    "name": "Extreme Vector",
+    "hex": "#f81c85",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 229",
-    "hex": "#fa0be0",
+    "name": "Cosmic Laser",
+    "hex": "#7d19fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 230",
-    "hex": "#f70e97",
+    "name": "Dark Vector",
+    "hex": "#f61d7f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 231",
-    "hex": "#f90cf6",
+    "name": "Cosmic Neon",
+    "hex": "#fe15b4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 232",
-    "hex": "#6d07fd",
+    "name": "Experimental Radiation",
+    "hex": "#931ff3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 233",
-    "hex": "#ce11f3",
+    "name": "Glowing Code",
+    "hex": "#941ef4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 234",
-    "hex": "#7e05ff",
+    "name": "Infinite Orbit",
+    "hex": "#f61caf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 236",
-    "hex": "#8f10f4",
+    "name": "Hyper Ion",
+    "hex": "#ff1387",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 235",
-    "hex": "#fc07ee",
+    "name": "Glowing Synthetic",
+    "hex": "#fb1785",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 237",
-    "hex": "#fe05ea",
+    "name": "Spectrum Quantum",
+    "hex": "#7d1cf5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 238",
-    "hex": "#f90a95",
+    "name": "Dynamic Code",
+    "hex": "#b41cf5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 239",
-    "hex": "#f909a0",
+    "name": "Binary Digital",
+    "hex": "#e51cf5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 240",
-    "hex": "#fe04d4",
+    "name": "System Quantum",
+    "hex": "#8216fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 241",
-    "hex": "#d003ff",
+    "name": "Byte Holographic",
+    "hex": "#a713fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 242",
-    "hex": "#fe0491",
+    "name": "Mechanical AI",
+    "hex": "#d816f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 243",
-    "hex": "#bc09f9",
+    "name": "Synth Artificial",
+    "hex": "#811af4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 244",
-    "hex": "#fc0575",
+    "name": "Encrypted Byte",
+    "hex": "#fa14b1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 245",
-    "hex": "#fd0373",
+    "name": "Encrypted Ion",
+    "hex": "#fc11fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 246",
-    "hex": "#e702fe",
+    "name": "Futuristic Flux",
+    "hex": "#9210fd",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 247",
-    "hex": "#fa06a1",
+    "name": "Plasma Digital",
+    "hex": "#c111fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 248",
-    "hex": "#930cf4",
+    "name": "Synth Cyber",
+    "hex": "#f913e9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 249",
-    "hex": "#f906b9",
+    "name": "Flux Atomic",
+    "hex": "#f616b9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 250",
-    "hex": "#f10ccc",
+    "name": "Laser Synthetic",
+    "hex": "#fa1277",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 251",
-    "hex": "#590cf0",
+    "name": "Extreme Voltage",
+    "hex": "#f41672",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 252",
-    "hex": "#e70cf0",
+    "name": "Electric Holo",
+    "hex": "#9d0cfe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 255",
-    "hex": "#b107f4",
+    "name": "Advanced Network",
+    "hex": "#ed0ffb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 256",
-    "hex": "#b006f5",
+    "name": "Dark Ion",
+    "hex": "#fb0ed5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 253",
-    "hex": "#6f02f9",
+    "name": "Terminal Quantum",
+    "hex": "#f90fa2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 254",
-    "hex": "#f00be2",
+    "name": "Spectrum Synthetic",
+    "hex": "#fb0cbe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 257",
-    "hex": "#b806f4",
+    "name": "Cosmic Holo",
+    "hex": "#fa0deb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 259",
-    "hex": "#f204f6",
+    "name": "Byte Mechanical",
+    "hex": "#910ff8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 258",
-    "hex": "#f307c0",
+    "name": "Plasma Alien",
+    "hex": "#f90d9f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 262",
-    "hex": "#8904f4",
+    "name": "Robot Encrypted",
+    "hex": "#f90d72",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 263",
-    "hex": "#f40482",
+    "name": "Advanced Voltage",
+    "hex": "#ba0ef8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 260",
-    "hex": "#a209ef",
+    "name": "Digital Alien",
+    "hex": "#fa0c6b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 261",
-    "hex": "#e105f3",
+    "name": "Advanced Pixel",
+    "hex": "#fb0a92",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 264",
-    "hex": "#ed0b5e",
+    "name": "Holo Synthetic",
+    "hex": "#f3119e",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 265",
-    "hex": "#d608ee",
+    "name": "Digital Signal",
+    "hex": "#f70db8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 267",
-    "hex": "#e800f6",
+    "name": "Reactive Terminal",
+    "hex": "#fc08a0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 268",
-    "hex": "#f0068f",
+    "name": "Virtual Holographic",
+    "hex": "#f90bcf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 266",
-    "hex": "#f2049b",
+    "name": "Virtual Reactive",
+    "hex": "#6a06fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 269",
-    "hex": "#5700f5",
+    "name": "Hyper Data",
+    "hex": "#a706fe",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 271",
-    "hex": "#ee0789",
+    "name": "Laser Chrome",
+    "hex": "#fa0984",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 272",
-    "hex": "#f00562",
+    "name": "System Mechanical",
+    "hex": "#f30fde",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 270",
-    "hex": "#eb0abf",
+    "name": "Cosmic Core",
+    "hex": "#9e0ef3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 273",
-    "hex": "#f2008d",
+    "name": "Spectrum Mechanical",
+    "hex": "#cc06fb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 274",
-    "hex": "#e00ae8",
+    "name": "Hyper Circuit",
+    "hex": "#fa069a",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 275",
-    "hex": "#ea078b",
+    "name": "Futuristic Byte",
+    "hex": "#f40af6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 276",
-    "hex": "#9e09e7",
+    "name": "Prime Firewall",
+    "hex": "#f30ca5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 277",
-    "hex": "#8103ec",
+    "name": "Reactive Plasma",
+    "hex": "#fd02c6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 278",
-    "hex": "#8e01ed",
+    "name": "Infinite Void",
+    "hex": "#fc0288",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 279",
-    "hex": "#e204e9",
+    "name": "Energy Virtual",
+    "hex": "#f905a7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 280",
-    "hex": "#e60684",
+    "name": "Future Photon",
+    "hex": "#d902fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 284",
-    "hex": "#e408c7",
+    "name": "Extreme Chrome",
+    "hex": "#6805f9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 281",
-    "hex": "#8909e3",
+    "name": "Advanced Electric",
+    "hex": "#f30b8d",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 282",
-    "hex": "#b402ea",
+    "name": "Atomic Frequency",
+    "hex": "#fb03d1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 283",
-    "hex": "#d305e6",
+    "name": "Photon Chrome",
+    "hex": "#d001fc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 285",
-    "hex": "#e902b0",
+    "name": "Cosmic Robot",
+    "hex": "#eb0af3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 286",
-    "hex": "#9501e9",
+    "name": "Neon Ion",
+    "hex": "#f30ace",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 287",
-    "hex": "#df09e1",
+    "name": "Advanced Laser",
+    "hex": "#6106f6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 288",
-    "hex": "#e1095b",
+    "name": "Bright Nova",
+    "hex": "#f309be",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 289",
-    "hex": "#5f01e8",
+    "name": "Reactive Neon",
+    "hex": "#e202fa",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 290",
-    "hex": "#9201e8",
+    "name": "Pulse Reactive",
+    "hex": "#b90af2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 291",
-    "hex": "#e404b0",
+    "name": "Powerful Virtual",
+    "hex": "#f704a4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 292",
-    "hex": "#e20581",
+    "name": "Matrix Powerful",
+    "hex": "#dd06f5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 294",
-    "hex": "#e106de",
+    "name": "Orbit Synthetic",
+    "hex": "#f308db",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 295",
-    "hex": "#dc0bcf",
+    "name": "Digital Electric",
+    "hex": "#f90299",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 296",
-    "hex": "#e700d5",
+    "name": "Neon Digital",
+    "hex": "#fb00b5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 297",
-    "hex": "#e205b1",
+    "name": "Futuristic Galaxy",
+    "hex": "#f109f1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 293",
-    "hex": "#e3048c",
+    "name": "Holo Experimental",
+    "hex": "#f105f4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 299",
-    "hex": "#ba06df",
+    "name": "Mechanical Pixel",
+    "hex": "#f504c9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 300",
-    "hex": "#c707de",
+    "name": "Nova Electric",
+    "hex": "#c708f1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 301",
-    "hex": "#9e05e0",
+    "name": "Machine Prime",
+    "hex": "#850aef",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 298",
-    "hex": "#e302cc",
+    "name": "Pixel Reactive",
+    "hex": "#7105f3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 304",
-    "hex": "#8f07dc",
+    "name": "Experimental Spectrum",
+    "hex": "#f206af",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 302",
-    "hex": "#db08b4",
+    "name": "Quantum Protocol",
+    "hex": "#f107c0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 303",
-    "hex": "#7001e2",
+    "name": "Ultra Network",
+    "hex": "#ed0aae",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 305",
-    "hex": "#da09bd",
+    "name": "Alien Vector",
+    "hex": "#ee096b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 308",
-    "hex": "#ce0ad7",
+    "name": "AI Futuristic",
+    "hex": "#ed099a",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 306",
-    "hex": "#c00ad6",
+    "name": "Powerful Nova",
+    "hex": "#7403f3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 307",
-    "hex": "#c808d8",
+    "name": "Bright Cyberwave",
+    "hex": "#a800f5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 309",
-    "hex": "#d90758",
+    "name": "Cosmos Extreme",
+    "hex": "#f400d5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 310",
-    "hex": "#6b0bd4",
+    "name": "Dark System",
+    "hex": "#f4007d",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 311",
-    "hex": "#7509d6",
+    "name": "Hologram Holographic",
+    "hex": "#ef055f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 312",
-    "hex": "#d40b5e",
+    "name": "Protocol Powerful",
+    "hex": "#e90abf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 313",
-    "hex": "#9105d9",
+    "name": "Neon Byte",
+    "hex": "#ea0968",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 314",
-    "hex": "#5808d5",
+    "name": "Galaxy Quantum",
+    "hex": "#ec0562",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 315",
-    "hex": "#db0289",
+    "name": "Future Machine",
+    "hex": "#a10be6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 316",
-    "hex": "#d009d2",
+    "name": "Virtual System",
+    "hex": "#e70a5e",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 317",
-    "hex": "#c20ad1",
+    "name": "Synthetic Core",
+    "hex": "#b907ea",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 319",
-    "hex": "#d406aa",
+    "name": "Code Cyber",
+    "hex": "#ae0ce5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 320",
-    "hex": "#d604aa",
+    "name": "Atomic Terminal",
+    "hex": "#b408e8",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 318",
-    "hex": "#b209d1",
+    "name": "Dark Holo",
+    "hex": "#e808a2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 321",
-    "hex": "#d2079e",
+    "name": "Hidden Circuit",
+    "hex": "#bb0ae6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 322",
-    "hex": "#d6035e",
+    "name": "Holo Dynamic",
+    "hex": "#ea056a",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 323",
-    "hex": "#ce0a73",
+    "name": "Alien Galaxy",
+    "hex": "#ec02b4",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 324",
-    "hex": "#4b00d7",
+    "name": "Chrome Binary",
+    "hex": "#e50973",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 325",
-    "hex": "#ce0980",
+    "name": "Robot Advanced",
+    "hex": "#e6087e",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 326",
-    "hex": "#d40273",
+    "name": "Extreme Byte",
+    "hex": "#ee009b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 327",
-    "hex": "#ce0865",
+    "name": "Bright Quantum",
+    "hex": "#9705e9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 328",
-    "hex": "#8b00d5",
+    "name": "Atomic Cosmos",
+    "hex": "#e805e9",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 329",
-    "hex": "#cc0978",
+    "name": "Pixel Advanced",
+    "hex": "#e40a8c",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 330",
-    "hex": "#4c08cd",
+    "name": "Electric AI",
+    "hex": "#e509ac",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 331",
-    "hex": "#cb0abd",
+    "name": "Holographic Fusion",
+    "hex": "#eb0373",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 332",
-    "hex": "#980aca",
+    "name": "Cyber AI",
+    "hex": "#9c03eb",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 333",
-    "hex": "#d301a7",
+    "name": "Infinite Binary",
+    "hex": "#e5089c",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 334",
-    "hex": "#b103d1",
+    "name": "Reactive Cyberwave",
+    "hex": "#db07e6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 335",
-    "hex": "#c80aca",
+    "name": "Plasma Mechanical",
+    "hex": "#e5085c",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 336",
-    "hex": "#d30052",
+    "name": "Robot Mechanical",
+    "hex": "#e508cc",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 337",
-    "hex": "#6605cd",
+    "name": "Hologram Encrypted",
+    "hex": "#e40995",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 339",
-    "hex": "#cc067a",
+    "name": "Experimental Core",
+    "hex": "#7c0be1",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 338",
-    "hex": "#5008ca",
+    "name": "Powerful Cyberwave",
+    "hex": "#ea027a",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 340",
-    "hex": "#ca08b1",
+    "name": "Atomic Robot",
+    "hex": "#6405e6",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 341",
-    "hex": "#c70a98",
+    "name": "Artificial Core",
+    "hex": "#9209e2",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 342",
-    "hex": "#7e01d0",
+    "name": "Synthetic Virtual",
+    "hex": "#e10aa3",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 343",
-    "hex": "#c7099a",
+    "name": "Cyber Encrypted",
+    "hex": "#df0bd0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 344",
-    "hex": "#cc0361",
+    "name": "Synthetic Prime",
+    "hex": "#e7034f",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 345",
-    "hex": "#7207c8",
+    "name": "Prime Radiation",
+    "hex": "#e109d5",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 346",
-    "hex": "#7a06c8",
+    "name": "Bright Digital",
+    "hex": "#940bdf",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 347",
-    "hex": "#ca04b1",
+    "name": "Chrome Encrypted",
+    "hex": "#c00ae0",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 348",
-    "hex": "#8b02cc",
+    "name": "Data Reactive",
+    "hex": "#e20866",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 349",
-    "hex": "#4906c7",
+    "name": "Chrome Network",
+    "hex": "#9502e7",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 350",
-    "hex": "#9a08c4",
+    "name": "Cosmic Cyber",
+    "hex": "#e8008b",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 351",
-    "hex": "#7f09c3",
+    "name": "Synthetic Byte",
+    "hex": "#e0088c",
     "category": "Cyberpunk"
   },
   {
-    "name": "Cyberpunk 352",
-    "hex": "#a50ac2",
+    "name": "Matrix Future",
+    "hex": "#dd02e6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Chrome",
+    "hex": "#e206d9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Electric Nova",
+    "hex": "#7609de",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Artificial Byte",
+    "hex": "#df066d",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ion Digital",
+    "hex": "#de0781",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Prime",
+    "hex": "#b702e3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Powerful Fusion",
+    "hex": "#ae0adb",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Encrypted Firewall",
+    "hex": "#de06cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Nova Dark",
+    "hex": "#b709db",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Infinite Galaxy",
+    "hex": "#c709da",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Futuristic Holo",
+    "hex": "#a40bd7",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "AI Chrome",
+    "hex": "#9e05dc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Neon Pulse",
+    "hex": "#e001aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Photon Prime",
+    "hex": "#5f02df",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Network Encrypted",
+    "hex": "#d90884",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Encrypted Hologram",
+    "hex": "#dd049c",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Photon Future",
+    "hex": "#a001e0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Matrix Extreme",
+    "hex": "#df0169",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Artificial Orbit",
+    "hex": "#9107d9",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Atomic Orbit",
+    "hex": "#d7096a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Protocol",
+    "hex": "#d90699",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Neon Code",
+    "hex": "#ac07d8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra Plasma",
+    "hex": "#d609bd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyberwave Dynamic",
+    "hex": "#dd024e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Encrypted Pixel",
+    "hex": "#d60955",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Machine Bright",
+    "hex": "#da04cf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Voltage Holographic",
+    "hex": "#7302dc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Dark",
+    "hex": "#d40abd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Glowing Binary",
+    "hex": "#da04be",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Core Experimental",
+    "hex": "#900bd3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Artificial",
+    "hex": "#dc019f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hyper Digital",
+    "hex": "#d6065c",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Neon",
+    "hex": "#d50791",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Spectrum Electric",
+    "hex": "#d902c3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Protocol Virtual",
+    "hex": "#d902aa",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Byte Reactive",
+    "hex": "#d802c5",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Robot Reactive",
+    "hex": "#d70386",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Bright Spectrum",
+    "hex": "#8f08d1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Dark Synth",
+    "hex": "#8503d6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Artificial Energy",
+    "hex": "#cf0a57",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Radiation Experimental",
+    "hex": "#a606d2",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Prime Robot",
+    "hex": "#ce0a9c",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Holographic Laser",
+    "hex": "#d007a3",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Synthetic Quantum",
+    "hex": "#9606d1",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Code Bright",
+    "hex": "#cf087f",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Cosmic",
+    "hex": "#9a09ce",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Extreme Terminal",
+    "hex": "#ce095e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Laser Encrypted",
+    "hex": "#d10689",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Signal Dark",
+    "hex": "#d10559",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Chrome Infinite",
+    "hex": "#d00666",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Holographic Electric",
+    "hex": "#d30388",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Firewall",
+    "hex": "#d0054d",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Radiation Bright",
+    "hex": "#cf05a0",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hologram Reactive",
+    "hex": "#5907cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Void Encrypted",
+    "hex": "#5908cc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Galaxy Holographic",
+    "hex": "#b706cd",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Experimental Cyber",
+    "hex": "#cf04a4",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Void Artificial",
+    "hex": "#4a03cf",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Ultra AI",
+    "hex": "#ce0448",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Frequency Prime",
+    "hex": "#c90967",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hyper Orbit",
+    "hex": "#5405cc",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "System Atomic",
+    "hex": "#ce024e",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Data Holographic",
+    "hex": "#5607c8",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Cyber Hologram",
+    "hex": "#4e01ce",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Hidden Quantum",
+    "hex": "#cd0266",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Atomic Galaxy",
+    "hex": "#c4095a",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Holographic Terminal",
+    "hex": "#bc07c6",
+    "category": "Cyberpunk"
+  },
+  {
+    "name": "Holo Extreme",
+    "hex": "#b401cb",
     "category": "Cyberpunk"
   }
 ]

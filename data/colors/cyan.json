@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Cold Ocean",
-    "hex": "#e6fefc",
+    "name": "Breeze Shimmering",
+    "hex": "#e2f9ff",
     "category": "Cyan"
   },
   {
-    "name": "Bright Aqua",
-    "hex": "#e4f9ff",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Aqua",
-    "hex": "#e8f6fa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Deep Ice",
-    "hex": "#e3fbff",
-    "category": "Cyan"
-  },
-  {
-    "name": "Clear Lagoon",
+    "name": "Tide Bright",
     "hex": "#e8f6f9",
     "category": "Cyan"
   },
   {
-    "name": "Pure Aqua",
-    "hex": "#e3fcfd",
+    "name": "Breezy Ice",
+    "hex": "#e3fdfa",
     "category": "Cyan"
   },
   {
-    "name": "Bright Lagoon",
-    "hex": "#e4fcf9",
+    "name": "Marine Glacial",
+    "hex": "#e4f8fb",
     "category": "Cyan"
   },
   {
-    "name": "Clear Arctic",
-    "hex": "#e4f8fc",
+    "name": "Calm Waterfall",
+    "hex": "#e3f8fb",
     "category": "Cyan"
   },
   {
-    "name": "Deep Lagoon",
-    "hex": "#e5fafa",
+    "name": "Electric Pearl",
+    "hex": "#e0f7fc",
     "category": "Cyan"
   },
   {
-    "name": "Bright Ocean",
-    "hex": "#e3faf5",
+    "name": "Ice Crystal",
+    "hex": "#defef8",
     "category": "Cyan"
   },
   {
-    "name": "Clear Ice",
-    "hex": "#e0fbfc",
+    "name": "Clean Dew",
+    "hex": "#e5f5f7",
     "category": "Cyan"
   },
   {
-    "name": "Cold Lagoon",
-    "hex": "#e4f3f6",
+    "name": "Breezy AquaMarine",
+    "hex": "#dcfcff",
     "category": "Cyan"
   },
   {
-    "name": "Cold Aqua",
-    "hex": "#dbfdf9",
+    "name": "Radiant Aqua",
+    "hex": "#e2f3f7",
     "category": "Cyan"
   },
   {
-    "name": "Clear Sky",
-    "hex": "#dafcfe",
+    "name": "Fresh Crystal",
+    "hex": "#dff5fa",
     "category": "Cyan"
   },
   {
-    "name": "Cold Glacier",
-    "hex": "#dbfdf7",
+    "name": "Ocean Pure",
+    "hex": "#daf9fe",
     "category": "Cyan"
   },
   {
-    "name": "Bright Sky",
-    "hex": "#dcfbf4",
+    "name": "Serene Breeze",
+    "hex": "#e1f6f3",
     "category": "Cyan"
   },
   {
-    "name": "Clear Wave",
-    "hex": "#ddfaf7",
+    "name": "Teal Pure",
+    "hex": "#e1f4f6",
     "category": "Cyan"
   },
   {
-    "name": "Pure Glacier",
-    "hex": "#ddf3f8",
+    "name": "Arctic Celestial",
+    "hex": "#d7fffe",
     "category": "Cyan"
   },
   {
-    "name": "Pure Wave",
-    "hex": "#d7fef7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Ice",
-    "hex": "#daf8fa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Lagoon",
-    "hex": "#d9faf5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Deep Sky",
-    "hex": "#d4f7fe",
-    "category": "Cyan"
-  },
-  {
-    "name": "Deep Arctic",
-    "hex": "#dbf7f2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cold Arctic",
-    "hex": "#d8faf3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Pure Ice",
-    "hex": "#daf1f8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Ocean",
-    "hex": "#d7f4fa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Deep Glacier",
-    "hex": "#d4f6fb",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cold Ice",
-    "hex": "#d3f6fa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cold Sky",
-    "hex": "#d0fcf2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Clear Glacier",
-    "hex": "#d4f6f8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Bright Arctic",
-    "hex": "#cefdfd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Sky",
-    "hex": "#cdfdfe",
-    "category": "Cyan"
-  },
-  {
-    "name": "Bright Wave",
-    "hex": "#d1faf3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Deep Ocean",
-    "hex": "#d0fbf2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Clear Ocean",
-    "hex": "#d9edf2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Frozen Arctic",
-    "hex": "#d6f2f2",
+    "name": "Cool Arctic",
+    "hex": "#dbf2fa",
     "category": "Cyan"
   },
   {
     "name": "Clear Aqua",
-    "hex": "#d6f2eb",
+    "hex": "#def6f5",
     "category": "Cyan"
   },
   {
-    "name": "Bright Glacier",
-    "hex": "#d0f2f8",
+    "name": "Radiant Tide",
+    "hex": "#d8f8fa",
     "category": "Cyan"
   },
   {
-    "name": "Frozen Glacier",
-    "hex": "#d5f2f0",
+    "name": "Ocean Polar",
+    "hex": "#d3fef7",
     "category": "Cyan"
   },
   {
-    "name": "Pure Sky",
-    "hex": "#d2f5ef",
+    "name": "Radiant Crystaline",
+    "hex": "#daf3f7",
     "category": "Cyan"
   },
   {
-    "name": "Pure Ocean",
-    "hex": "#d2f3ef",
+    "name": "Celestial Pearl",
+    "hex": "#d7f6fa",
     "category": "Cyan"
   },
   {
-    "name": "Cold Wave",
-    "hex": "#cef5ec",
+    "name": "Aurora Luminous",
+    "hex": "#dceff4",
     "category": "Cyan"
   },
   {
-    "name": "Pure Arctic",
-    "hex": "#c9f8fa",
+    "name": "Sky Polar",
+    "hex": "#d1feff",
     "category": "Cyan"
   },
   {
-    "name": "Deep Aqua",
-    "hex": "#c3fff8",
+    "name": "Calm Ice",
+    "hex": "#dbf5f0",
     "category": "Cyan"
   },
   {
-    "name": "Frozen Wave",
-    "hex": "#cff1ed",
+    "name": "Pure Glacier",
+    "hex": "#d2fef5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Wave Luminous",
+    "hex": "#d5fbf9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Polar",
+    "hex": "#daf5ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool Wave",
+    "hex": "#daf5f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Arctic",
+    "hex": "#d6f9f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Bluebird",
+    "hex": "#d2f9fc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breezy Foam",
+    "hex": "#cffefc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Tide",
+    "hex": "#d1fcf8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Crystaline",
+    "hex": "#d6f7f5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Foam Oceanic",
+    "hex": "#d3f0f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Boreal Pure",
+    "hex": "#d6f4f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Foam Liquid",
+    "hex": "#d6f4ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Liquid",
+    "hex": "#d0faf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Boreal",
+    "hex": "#cdf5fc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Neptune",
+    "hex": "#d2f3f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Stream",
+    "hex": "#d6f2ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Ocean",
+    "hex": "#d1f6f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Wave Arctic",
+    "hex": "#d5f2eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ocean Serene",
+    "hex": "#d3f4ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "AquaMarine Shimmering",
+    "hex": "#caf7fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Comet",
+    "hex": "#c8f0fc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Marine Soft",
+    "hex": "#d1ecf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cloud Liquid",
+    "hex": "#d1ebf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Moonlight Glacial",
+    "hex": "#cff4eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Crystal",
+    "hex": "#cdf6ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breezy Aqua",
+    "hex": "#caf8f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Moonlight Deep",
+    "hex": "#d2eaf1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bubble Ancient",
+    "hex": "#ceeaf1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Frost",
+    "hex": "#ccf0f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mystic Lagoon",
+    "hex": "#cbecf3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mystic Bubble",
+    "hex": "#c7f6f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cloud Bright",
+    "hex": "#bef3ff",
+    "category": "Cyan"
+  },
+  {
+    "name": "Moonlight Polar",
+    "hex": "#cce9f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Nebula",
+    "hex": "#c3f3f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Cloud",
+    "hex": "#c1f8f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Cloud",
+    "hex": "#c4ecf5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Moonlight Calm",
+    "hex": "#bcf8fd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Electric",
+    "hex": "#c6eef2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Marine",
+    "hex": "#bdeefb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Dew",
+    "hex": "#bff3f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Stream",
+    "hex": "#baf2fd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frost Silent",
+    "hex": "#bafcf8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Electric",
+    "hex": "#c5e8f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breezy Oceanic",
+    "hex": "#c4f2f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Rain",
+    "hex": "#b9fced",
+    "category": "Cyan"
+  },
+  {
+    "name": "Stream Celestial",
+    "hex": "#b9effb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Boreal",
+    "hex": "#b8fbf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Sky Shimmering",
+    "hex": "#c2f0e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Moonlight",
+    "hex": "#b3fff0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Spectrum Pure",
+    "hex": "#c3ede6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric Sky",
+    "hex": "#bff1f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacial Bubble",
+    "hex": "#b5edfb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Fresh Comet",
+    "hex": "#c3ece8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mystic Neptune",
+    "hex": "#bfe6ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool AquaMarine",
+    "hex": "#aeffeb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pearl Shimmering",
+    "hex": "#b6eef7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Seafoam Oceanic",
+    "hex": "#b7f5e8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Iceberg Glacial",
+    "hex": "#b1f6fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Iceberg",
+    "hex": "#b7f2f4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Polar",
+    "hex": "#aefbfd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Nebula Shimmering",
+    "hex": "#abfafe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cloud Celestial",
+    "hex": "#aafdf1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Bluebird",
+    "hex": "#bdeae9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Atlantis Cool",
+    "hex": "#a9fdf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Bubble",
+    "hex": "#bce9e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Foam",
+    "hex": "#adf8eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Silent Aurora",
+    "hex": "#adf8f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Lake",
+    "hex": "#aef7e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Waterfall",
+    "hex": "#b3e2f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dew Infinite",
+    "hex": "#b2f2ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Oceanic",
+    "hex": "#a8eafb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Sky Liquid",
+    "hex": "#b1e4f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Shimmering",
+    "hex": "#aee5f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Glacial",
+    "hex": "#adf2ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lake Bright",
+    "hex": "#aaf5e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Horizon",
+    "hex": "#a1f9fd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool Marine",
+    "hex": "#b1edec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Glacial",
+    "hex": "#aee5ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ocean Glacial",
+    "hex": "#a9f4ea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Foam Ancient",
+    "hex": "#a2faf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Wave",
+    "hex": "#afe2ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Seafoam",
+    "hex": "#acefe7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bluebird Fresh",
+    "hex": "#a3f6e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter River",
+    "hex": "#a8eef0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clean Teal",
+    "hex": "#a5f3e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Frost",
+    "hex": "#b0e8e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mist Dreamy",
+    "hex": "#acece6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cloud Luminous",
+    "hex": "#98fef5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Nebula",
+    "hex": "#a7eee7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Waterfall Calm",
+    "hex": "#a5efec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Calm",
+    "hex": "#ace5e8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Neptune",
+    "hex": "#99fbf4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Crystaline",
+    "hex": "#a9ebe5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Nebula",
+    "hex": "#a2f1ea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Seafoam",
+    "hex": "#98f9e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Moonlight",
+    "hex": "#9ee1f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Teal Fresh",
+    "hex": "#a9e0e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Comet",
+    "hex": "#a6e9df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clean Seafoam",
+    "hex": "#96f8ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Moonlight Transparent",
+    "hex": "#9fefec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Snowfall Cold",
+    "hex": "#98f5e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Neptune Serene",
+    "hex": "#91fce1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Serene",
+    "hex": "#a5e4e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bluebird Shimmering",
+    "hex": "#8efeea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Bright",
+    "hex": "#8cf8fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Deep",
+    "hex": "#99ddf1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Dew",
+    "hex": "#8ee0f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacier Crystal",
+    "hex": "#95f0df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lagoon Radiant",
+    "hex": "#99e1eb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Rain Polar",
+    "hex": "#88e7fc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Breezy",
+    "hex": "#a2e0dd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Bright",
+    "hex": "#9dd9e4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frost Dreamy",
+    "hex": "#83effe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Serene",
+    "hex": "#9ae7d5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lagoon Oceanic",
+    "hex": "#86e5fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Crystaline",
+    "hex": "#9de2d9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Turquoise",
+    "hex": "#84faf9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Rain",
+    "hex": "#8fe8ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Turquoise",
+    "hex": "#8cf2e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mystic Cascade",
+    "hex": "#90eeda",
+    "category": "Cyan"
+  },
+  {
+    "name": "Stream Polar",
+    "hex": "#84f0f9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Aqua",
+    "hex": "#98e5e4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Soft",
+    "hex": "#7dfef4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Stream Infinite",
+    "hex": "#8fece8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Comet Serene",
+    "hex": "#94e2e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Coral Electric",
+    "hex": "#8cebee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Serene Snowfall",
+    "hex": "#97dee2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Teal",
+    "hex": "#7ffafa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Frozen",
+    "hex": "#98e1e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Frozen",
+    "hex": "#90d3e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "AquaMarine Liquid",
+    "hex": "#83e1f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Seafoam Celestial",
+    "hex": "#89d6ea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Silent Winter",
+    "hex": "#92e1d4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Sky",
+    "hex": "#76fbdb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Marine",
+    "hex": "#7ff2e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Coral",
+    "hex": "#83daed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Infinite Ice",
+    "hex": "#8fe0d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Dreamy",
+    "hex": "#7fe0ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Nebula Luminous",
+    "hex": "#85e6de",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Dreamy",
+    "hex": "#7aeff0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Arctic",
+    "hex": "#7beee0",
+    "category": "Cyan"
+  },
+  {
+    "name": "River Clean",
+    "hex": "#7eeae4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Fresh Dew",
+    "hex": "#8bc9dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Nebula Winter",
+    "hex": "#8ddace",
+    "category": "Cyan"
+  },
+  {
+    "name": "Stream Calm",
+    "hex": "#78eee8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Aurora",
+    "hex": "#7ee0e5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Pearl",
+    "hex": "#74edef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Aqua",
+    "hex": "#75eed7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Ice",
+    "hex": "#7fe2d6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Liquid",
+    "hex": "#70f0f1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Radiant",
+    "hex": "#7be5d8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric River",
+    "hex": "#7de3d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacial Teal",
+    "hex": "#7be5df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Foam Electric",
+    "hex": "#61fefa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Foam Dreamy",
+    "hex": "#73ece4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Horizon",
+    "hex": "#80c9df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Infinite",
+    "hex": "#65f9e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Horizon Oceanic",
+    "hex": "#70e6ee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Ocean",
+    "hex": "#7eded5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Horizon Crystal",
+    "hex": "#7ae2d2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bluebird Breezy",
+    "hex": "#6eecea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Tide",
+    "hex": "#74e5e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Serene Polar",
+    "hex": "#6eeae0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Cool",
+    "hex": "#5ef9f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Coral Clean",
+    "hex": "#77dfdf",
+    "category": "Cyan"
+  },
+  {
+    "name": "AquaMarine Cool",
+    "hex": "#63f3f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pearl Radiant",
+    "hex": "#6cd2e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Infinite Snowfall",
+    "hex": "#66eed7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacial Ocean",
+    "hex": "#6de6ca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep River",
+    "hex": "#5cf6e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Rain Shimmering",
+    "hex": "#67ebd4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Fresh Winter",
+    "hex": "#69e9d6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Boreal",
+    "hex": "#5ef3d5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Tide",
+    "hex": "#7dd4c8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Crystal",
+    "hex": "#5be0f5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mystic Dew",
+    "hex": "#54f0fa",
+    "category": "Cyan"
+  },
+  {
+    "name": "Serene Seafoam",
+    "hex": "#77d7cb",
+    "category": "Cyan"
+  },
+  {
+    "name": "River Frozen",
+    "hex": "#73d1db",
+    "category": "Cyan"
+  },
+  {
+    "name": "Marine Fresh",
+    "hex": "#72c2dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Neptune",
+    "hex": "#69cde4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Rain",
+    "hex": "#4fe9fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Cloud",
+    "hex": "#60e9ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Shimmering",
+    "hex": "#5bf2dd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Horizon",
+    "hex": "#6ce0c8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Tide Luminous",
+    "hex": "#5cefee",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric Cloud",
+    "hex": "#68cde3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Nebula Radiant",
+    "hex": "#58f3d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Neptune Soft",
+    "hex": "#6cddce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Teal",
+    "hex": "#67e1c6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Clear",
+    "hex": "#57f1db",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Crystal",
+    "hex": "#73d4cd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Sky",
+    "hex": "#5fdde8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Tide Shimmering",
+    "hex": "#48f3fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacial Lake",
+    "hex": "#60e6c8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacial Rain",
+    "hex": "#4edaf6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Iceberg",
+    "hex": "#4eecf5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Waterfall Crystal",
+    "hex": "#71d1cc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Arctic Arctic",
+    "hex": "#55cbea",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Snowfall",
+    "hex": "#4df2cf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Turquoise",
+    "hex": "#5edce1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Bubble",
+    "hex": "#41fbfc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Crystal",
+    "hex": "#61c9dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Pearl",
+    "hex": "#59c7e4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Oceanic",
+    "hex": "#3ffee2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystaline Oceanic",
+    "hex": "#4eeece",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Aqua",
+    "hex": "#60dcc9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ocean Arctic",
+    "hex": "#5fbedc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Bright",
+    "hex": "#57e3ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Ice",
+    "hex": "#4dcced",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Tide",
+    "hex": "#6ccebf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Ice",
+    "hex": "#58e2e0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient AquaMarine",
+    "hex": "#69b9ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Coral",
+    "hex": "#67cad0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frost Bright",
+    "hex": "#3bf0fb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cascade Infinite",
+    "hex": "#47eecd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Lagoon",
+    "hex": "#62d3c0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Serene Pearl",
+    "hex": "#51e3e1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Serene Comet",
+    "hex": "#60b8d2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Tide Crystal",
+    "hex": "#50e1c5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Comet Transparent",
+    "hex": "#3bf5ef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Electric",
+    "hex": "#58d8d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool Stream",
+    "hex": "#3cd0f3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ice Serene",
+    "hex": "#4bcfe2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Glacier",
+    "hex": "#42ebe3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Radiant Bubble",
+    "hex": "#32f9e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bluebird Soft",
+    "hex": "#37f4ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Rain",
+    "hex": "#4ae1dc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Seafoam Calm",
+    "hex": "#30ccfb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric Tide",
+    "hex": "#53c3d7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Atlantis Glacial",
+    "hex": "#41c2e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Bubble",
+    "hex": "#58d2bb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Luminous",
+    "hex": "#57d1d3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Nebula",
+    "hex": "#5ecbc1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure AquaMarine",
+    "hex": "#57d2ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool Breeze",
+    "hex": "#30f6f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "AquaMarine Celestial",
+    "hex": "#48c0df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Liquid",
+    "hex": "#37eed0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lake Infinite",
+    "hex": "#49dbcb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Sky Arctic",
+    "hex": "#50c7d4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacier Electric",
+    "hex": "#25f9fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Frozen",
+    "hex": "#56c2cd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bluebird Crystal",
+    "hex": "#57b5cb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Snowfall",
+    "hex": "#34d1ec",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Serene",
+    "hex": "#21e4ff",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric Polar",
+    "hex": "#4fcdae",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Arctic",
+    "hex": "#2cdfef",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breezy Mist",
+    "hex": "#24c6f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Teal Calm",
+    "hex": "#1cddfd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Soft Foam",
+    "hex": "#38c9df",
+    "category": "Cyan"
+  },
+  {
+    "name": "Calm Coral",
+    "hex": "#48ceb6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Wave Electric",
+    "hex": "#20c4f6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ocean Frozen",
+    "hex": "#45b4d1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Silent Neptune",
+    "hex": "#1ee1f8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mist Bright",
+    "hex": "#1cfaf2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Moonlight",
+    "hex": "#50b7c5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Polar Radiant",
+    "hex": "#33cae0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial AquaMarine",
+    "hex": "#2ec0e3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Cool",
+    "hex": "#13fee7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Winter",
+    "hex": "#24c8ed",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Fresh",
+    "hex": "#1ad4f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Frozen",
+    "hex": "#15fcf8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Radiant Ocean",
+    "hex": "#45c1ca",
+    "category": "Cyan"
+  },
+  {
+    "name": "Shimmering Neptune",
+    "hex": "#2edfe0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aqua Infinite",
+    "hex": "#3dd0d0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Sky Soft",
+    "hex": "#26e7c2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Waterfall Pure",
+    "hex": "#3fb3ce",
+    "category": "Cyan"
+  },
+  {
+    "name": "Glacier Winter",
+    "hex": "#2adce2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cold Cascade",
+    "hex": "#1cd5f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Clear Foam",
+    "hex": "#14dbf7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Fresh Rain",
+    "hex": "#0bc9fe",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Ocean",
+    "hex": "#2cdcc4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Liquid Moonlight",
+    "hex": "#0cfbe2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Aurora Dreamy",
+    "hex": "#45c1a8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Tide Silent",
+    "hex": "#0ee2f5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Winter",
+    "hex": "#36c2cb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Waterfall Polar",
+    "hex": "#0bddf6",
+    "category": "Cyan"
+  },
+  {
+    "name": "Deep Glacier",
+    "hex": "#31c6d0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mist Crystal",
+    "hex": "#09d6f7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystaline Deep",
+    "hex": "#27d8c5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cascade Mystic",
+    "hex": "#33cbc1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Tide Fresh",
+    "hex": "#15d1e9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ice Polar",
+    "hex": "#30accd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Bright Horizon",
+    "hex": "#27d6bb",
+    "category": "Cyan"
+  },
+  {
+    "name": "Mist Winter",
+    "hex": "#3ea2be",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Neptune",
+    "hex": "#0cb9f0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ice Glacial",
+    "hex": "#1be0be",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breeze Clean",
+    "hex": "#09e3f2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Silent",
+    "hex": "#20d3db",
+    "category": "Cyan"
+  },
+  {
+    "name": "Ancient Marine",
+    "hex": "#34c6ab",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Tide",
+    "hex": "#24bad5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Seafoam",
+    "hex": "#17e2db",
+    "category": "Cyan"
+  },
+  {
+    "name": "Seafoam Fresh",
+    "hex": "#16e2d7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lake Cold",
+    "hex": "#2acdad",
+    "category": "Cyan"
+  },
+  {
+    "name": "Transparent Stream",
+    "hex": "#06edf0",
+    "category": "Cyan"
+  },
+  {
+    "name": "Winter Spectrum",
+    "hex": "#12c8e2",
+    "category": "Cyan"
+  },
+  {
+    "name": "Wave Crystal",
+    "hex": "#2bc8a3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pearl Soft",
+    "hex": "#3bb8b4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Aqua",
+    "hex": "#25b0cd",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystal Comet",
+    "hex": "#01bcf1",
+    "category": "Cyan"
+  },
+  {
+    "name": "Oceanic Bubble",
+    "hex": "#02efdc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lagoon Breezy",
+    "hex": "#18d8b6",
+    "category": "Cyan"
+  },
+  {
+    "name": "River Celestial",
+    "hex": "#01efb5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dreamy Bluebird",
+    "hex": "#0fdfaf",
+    "category": "Cyan"
+  },
+  {
+    "name": "Crystaline Radiant",
+    "hex": "#15bfd8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Luminous Spectrum",
+    "hex": "#32bbb3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen AquaMarine",
+    "hex": "#12daab",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Polar",
+    "hex": "#369eb5",
+    "category": "Cyan"
+  },
+  {
+    "name": "Stream Oceanic",
+    "hex": "#13d8c4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Lake Clear",
+    "hex": "#26c4c3",
+    "category": "Cyan"
+  },
+  {
+    "name": "Celestial Moonlight",
+    "hex": "#05bbe4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Cool Neptune",
+    "hex": "#12d7bc",
+    "category": "Cyan"
+  },
+  {
+    "name": "Pure Marine",
+    "hex": "#01d9e7",
+    "category": "Cyan"
+  },
+  {
+    "name": "Frozen Lake",
+    "hex": "#0acbde",
+    "category": "Cyan"
+  },
+  {
+    "name": "Breezy Rain",
+    "hex": "#09deb4",
+    "category": "Cyan"
+  },
+  {
+    "name": "Dew Mystic",
+    "hex": "#0dd3d9",
+    "category": "Cyan"
+  },
+  {
+    "name": "Turquoise Radiant",
+    "hex": "#18ceb8",
+    "category": "Cyan"
+  },
+  {
+    "name": "Electric Crystaline",
+    "hex": "#07dfb2",
     "category": "Cyan"
   },
   {
     "name": "Pure Lagoon",
-    "hex": "#c2fdf5",
+    "hex": "#36a0af",
     "category": "Cyan"
   },
   {
-    "name": "Deep Wave",
-    "hex": "#c8f6f4",
+    "name": "Frost Cold",
+    "hex": "#01dbe4",
     "category": "Cyan"
   },
   {
-    "name": "Bright Ice",
-    "hex": "#cbf1e9",
+    "name": "Waterfall Glacial",
+    "hex": "#27be9a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 1",
-    "hex": "#c8f2f3",
+    "name": "Silent Sky",
+    "hex": "#1acbbf",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 3",
-    "hex": "#c4f5f6",
+    "name": "Calm Bluebird",
+    "hex": "#2da0b7",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 2",
-    "hex": "#cbeeee",
+    "name": "Boreal Serene",
+    "hex": "#24a6c0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 4",
-    "hex": "#c4eff5",
+    "name": "Cool Frozen",
+    "hex": "#2eb59a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 5",
-    "hex": "#bff7f0",
+    "name": "Bubble Dreamy",
+    "hex": "#16a2cd",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 6",
-    "hex": "#bcf7f9",
+    "name": "Oceanic Moonlight",
+    "hex": "#1ac9c9",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 7",
-    "hex": "#baf4fb",
+    "name": "Cool Lagoon",
+    "hex": "#02bbe0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 8",
-    "hex": "#c3f1e6",
+    "name": "Silent Dew",
+    "hex": "#3193b1",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 9",
-    "hex": "#bbf3f9",
+    "name": "Infinite Nebula",
+    "hex": "#05dccd",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 10",
-    "hex": "#c1e7f1",
+    "name": "Neptune Oceanic",
+    "hex": "#2aa4b7",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 11",
-    "hex": "#bff0f3",
+    "name": "Wave Transparent",
+    "hex": "#26bbb3",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 12",
-    "hex": "#b7faea",
+    "name": "Waterfall Deep",
+    "hex": "#1ac7b6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 13",
-    "hex": "#b6fbfb",
+    "name": "Lagoon Frozen",
+    "hex": "#25bb9d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 14",
-    "hex": "#c0e7f1",
+    "name": "Winter Frost",
+    "hex": "#0ad5cd",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 15",
-    "hex": "#bef2ec",
+    "name": "Crystal Ocean",
+    "hex": "#26b2b8",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 16",
-    "hex": "#bdf2e6",
+    "name": "Mist Fresh",
+    "hex": "#06c3d6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 17",
-    "hex": "#b4ecfa",
+    "name": "Radiant Breeze",
+    "hex": "#17a8c4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 18",
-    "hex": "#b3e9fb",
+    "name": "Breezy Comet",
+    "hex": "#379ba4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 19",
-    "hex": "#b7e8f6",
+    "name": "Neptune Cold",
+    "hex": "#2b9bb0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 21",
-    "hex": "#c0ece8",
+    "name": "Breezy Frost",
+    "hex": "#24b7b1",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 20",
-    "hex": "#b9f3e6",
+    "name": "Ice Ancient",
+    "hex": "#25b496",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 22",
-    "hex": "#b8f3f1",
+    "name": "Electric Cascade",
+    "hex": "#04d2d5",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 25",
-    "hex": "#b4eaf4",
+    "name": "AquaMarine Transparent",
+    "hex": "#27b291",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 23",
-    "hex": "#beeae4",
+    "name": "Crystal Pure",
+    "hex": "#2ea990",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 24",
-    "hex": "#b9efe6",
+    "name": "Breezy Cloud",
+    "hex": "#19bea6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 26",
-    "hex": "#adedf9",
+    "name": "Sky Luminous",
+    "hex": "#0acda5",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 27",
-    "hex": "#b6f0e5",
+    "name": "Aurora Clean",
+    "hex": "#24a1b3",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 28",
-    "hex": "#b6efe6",
+    "name": "Crystaline Luminous",
+    "hex": "#09cda1",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 29",
-    "hex": "#bbeae8",
+    "name": "Frost Frozen",
+    "hex": "#24afa6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 30",
-    "hex": "#b0f5f2",
+    "name": "Cloud Crystal",
+    "hex": "#0b9ec7",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 31",
-    "hex": "#b4e4f0",
+    "name": "Bright Crystaline",
+    "hex": "#2fa2a0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 32",
-    "hex": "#adf7f4",
+    "name": "Ocean Soft",
+    "hex": "#05cba4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 33",
-    "hex": "#b8ece1",
+    "name": "Cool Glacier",
+    "hex": "#18a7b8",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 34",
-    "hex": "#a2eeff",
+    "name": "Cold Ice",
+    "hex": "#1baab4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 35",
-    "hex": "#b4e3ed",
+    "name": "Shimmering Coral",
+    "hex": "#04cac6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 37",
-    "hex": "#b6eadf",
+    "name": "Arctic Bright",
+    "hex": "#298fa5",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 36",
-    "hex": "#abf4e7",
+    "name": "Boreal Luminous",
+    "hex": "#23aba4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 38",
-    "hex": "#a4e8fb",
+    "name": "Cool Seafoam",
+    "hex": "#29a48a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 39",
-    "hex": "#9ffdec",
+    "name": "Glacial AquaMarine",
+    "hex": "#319a9c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 40",
-    "hex": "#9afef6",
+    "name": "Arctic Radiant",
+    "hex": "#159eb7",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 41",
-    "hex": "#a4f4ed",
+    "name": "Infinite Tide",
+    "hex": "#17a6b5",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 42",
-    "hex": "#abece1",
+    "name": "Dreamy Dew",
+    "hex": "#0dbf9c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 43",
-    "hex": "#a9ebe3",
+    "name": "Polar Breezy",
+    "hex": "#2488a6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 44",
-    "hex": "#98f4f9",
+    "name": "Frozen Aqua",
+    "hex": "#09b1c0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 45",
-    "hex": "#a6d9e8",
+    "name": "Frost Fresh",
+    "hex": "#00c99d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 46",
-    "hex": "#a1eaec",
+    "name": "Foam Fresh",
+    "hex": "#00a7c9",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 49",
-    "hex": "#98e2f4",
+    "name": "Ice Silent",
+    "hex": "#0a94bf",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 47",
-    "hex": "#99f3e0",
+    "name": "Frost Infinite",
+    "hex": "#1f89a9",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 48",
-    "hex": "#92ecfa",
+    "name": "AquaMarine Luminous",
+    "hex": "#2f9890",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 51",
-    "hex": "#93f1f9",
+    "name": "Silent Breeze",
+    "hex": "#14acb3",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 50",
-    "hex": "#9af1ed",
+    "name": "Crystaline Fresh",
+    "hex": "#06c0a7",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 52",
-    "hex": "#a5dde5",
+    "name": "Radiant Aurora",
+    "hex": "#2f9297",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 53",
-    "hex": "#8dfcec",
+    "name": "Neptune Celestial",
+    "hex": "#14b297",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 54",
-    "hex": "#9beede",
+    "name": "Glacier Infinite",
+    "hex": "#0db8b0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 55",
-    "hex": "#91f7f8",
+    "name": "Cold Arctic",
+    "hex": "#0bba91",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 56",
-    "hex": "#92e8f6",
+    "name": "Bright Iceberg",
+    "hex": "#0eabb2",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 57",
-    "hex": "#a1e7e1",
+    "name": "Arctic Oceanic",
+    "hex": "#219e84",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 58",
-    "hex": "#8ef9e0",
+    "name": "Crystaline Silent",
+    "hex": "#19a69d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 59",
-    "hex": "#9ae6ed",
+    "name": "Aqua Pure",
+    "hex": "#01adbd",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 60",
-    "hex": "#96eef1",
+    "name": "Crystal Lagoon",
+    "hex": "#249999",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 61",
-    "hex": "#9fdde8",
+    "name": "Aurora Serene",
+    "hex": "#20849c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 62",
-    "hex": "#87fee0",
+    "name": "Clean Iceberg",
+    "hex": "#289482",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 63",
-    "hex": "#94f0eb",
+    "name": "Winter Cool",
+    "hex": "#17a399",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 64",
-    "hex": "#92f2e7",
+    "name": "Liquid Turquoise",
+    "hex": "#28917e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 65",
-    "hex": "#92f1e4",
+    "name": "Aurora Pure",
+    "hex": "#259383",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 67",
-    "hex": "#99e8df",
+    "name": "Calm Aqua",
+    "hex": "#2a8e79",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 66",
-    "hex": "#8eedf2",
+    "name": "Ancient Comet",
+    "hex": "#19879f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 68",
-    "hex": "#8bf4e5",
+    "name": "Crystaline Bright",
+    "hex": "#10a89e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 69",
-    "hex": "#84e0f9",
+    "name": "Clear Lagoon",
+    "hex": "#1d9984",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 70",
-    "hex": "#8eedef",
+    "name": "Tide Clear",
+    "hex": "#248092",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 71",
-    "hex": "#96d3e6",
+    "name": "Fresh Mist",
+    "hex": "#01b4b3",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 72",
-    "hex": "#96dae5",
+    "name": "Teal Infinite",
+    "hex": "#12a385",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 73",
-    "hex": "#7efbfd",
+    "name": "Boreal Mystic",
+    "hex": "#008eb4",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 74",
-    "hex": "#90ead8",
+    "name": "Winter Fresh",
+    "hex": "#0da785",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 77",
-    "hex": "#9bdfcf",
+    "name": "Luminous AquaMarine",
+    "hex": "#09ab85",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 75",
-    "hex": "#8ceddb",
+    "name": "Bubble Mystic",
+    "hex": "#15819e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 76",
-    "hex": "#98d6e1",
+    "name": "AquaMarine Oceanic",
+    "hex": "#1f8994",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 78",
-    "hex": "#79fee3",
+    "name": "Glacial Seafoam",
+    "hex": "#21928a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 79",
-    "hex": "#81dff5",
+    "name": "Pearl Breezy",
+    "hex": "#0ba7a5",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 80",
-    "hex": "#98ddd3",
+    "name": "Electric Wave",
+    "hex": "#2b8586",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 81",
-    "hex": "#7df7e2",
+    "name": "Frost Pure",
+    "hex": "#119ba0",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 85",
-    "hex": "#8ee4d0",
+    "name": "Polar Bright",
+    "hex": "#228e84",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 82",
-    "hex": "#87e9eb",
+    "name": "Glacial Wave",
+    "hex": "#0e82a2",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 83",
-    "hex": "#90e2de",
+    "name": "Crystaline Crystal",
+    "hex": "#188a95",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 84",
-    "hex": "#83efea",
+    "name": "Horizon Transparent",
+    "hex": "#218c80",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 86",
-    "hex": "#87e8ea",
+    "name": "Crystal Dew",
+    "hex": "#07a4a6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 87",
-    "hex": "#8ed4e1",
+    "name": "Soft Stream",
+    "hex": "#0aa383",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 89",
-    "hex": "#72fde0",
+    "name": "Silent Cascade",
+    "hex": "#02aa91",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 88",
-    "hex": "#80daee",
+    "name": "Radiant Turquoise",
+    "hex": "#157f96",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 90",
-    "hex": "#70eefe",
+    "name": "Radiant Stream",
+    "hex": "#1b7b8f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 91",
-    "hex": "#88d9e5",
+    "name": "Aurora Arctic",
+    "hex": "#1b7c8f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 92",
-    "hex": "#86e6ce",
+    "name": "Turquoise Cool",
+    "hex": "#238679",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 94",
-    "hex": "#8dded9",
+    "name": "Deep Aqua",
+    "hex": "#1e8979",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 95",
-    "hex": "#75dbf6",
+    "name": "Shimmering Stream",
+    "hex": "#009ba6",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 93",
-    "hex": "#70f7fb",
+    "name": "Boreal Clear",
+    "hex": "#0b9b82",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 96",
-    "hex": "#70fadf",
+    "name": "Winter Pearl",
+    "hex": "#24827e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 97",
-    "hex": "#6affec",
+    "name": "Silent Atlantis",
+    "hex": "#12918b",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 98",
-    "hex": "#7aede9",
+    "name": "Marine Cold",
+    "hex": "#07779a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 99",
-    "hex": "#7becde",
+    "name": "Electric Arctic",
+    "hex": "#039d96",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 100",
-    "hex": "#78edd1",
+    "name": "Lake Winter",
+    "hex": "#069a7a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 101",
-    "hex": "#86ded4",
+    "name": "Dew Deep",
+    "hex": "#1e7881",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 102",
-    "hex": "#65effd",
+    "name": "Glacial Bluebird",
+    "hex": "#1f7f76",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 105",
-    "hex": "#6ff3e1",
+    "name": "Cascade Cold",
+    "hex": "#26786f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 103",
-    "hex": "#76ebd2",
+    "name": "Glacial Glacier",
+    "hex": "#147f88",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 104",
-    "hex": "#87cada",
+    "name": "Shimmering Iceberg",
+    "hex": "#237678",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 106",
-    "hex": "#73d8ee",
+    "name": "Ancient Aurora",
+    "hex": "#217a75",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 107",
-    "hex": "#67e3fa",
+    "name": "Stream Winter",
+    "hex": "#1a7381",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 108",
-    "hex": "#82dddb",
+    "name": "Frost Soft",
+    "hex": "#1f7c73",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 109",
-    "hex": "#79cce6",
+    "name": "Infinite Foam",
+    "hex": "#0e8c78",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 110",
-    "hex": "#6bf2eb",
+    "name": "Cool Cloud",
+    "hex": "#108a7a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 111",
-    "hex": "#72ebe9",
+    "name": "AquaMarine Calm",
+    "hex": "#137587",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 112",
-    "hex": "#5bfee4",
+    "name": "Crystal Crystal",
+    "hex": "#0e8a8b",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 113",
-    "hex": "#75e1e4",
+    "name": "Glacial Oceanic",
+    "hex": "#1d797c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 114",
-    "hex": "#69e4ed",
+    "name": "Serene Bluebird",
+    "hex": "#10886e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 116",
-    "hex": "#80cfd6",
+    "name": "Nebula Ancient",
+    "hex": "#1e6a79",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 115",
-    "hex": "#7bd0db",
+    "name": "Celestial Breeze",
+    "hex": "#20776c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 118",
-    "hex": "#60f4d1",
+    "name": "Bubble Polar",
+    "hex": "#0a788c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 117",
-    "hex": "#7bcbd9",
+    "name": "Crystal Glacial",
+    "hex": "#247266",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 120",
-    "hex": "#79dbce",
+    "name": "Iceberg Deep",
+    "hex": "#068f6f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 119",
-    "hex": "#73d7e0",
+    "name": "Infinite Winter",
+    "hex": "#167f74",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 122",
-    "hex": "#73e0e0",
+    "name": "Shimmering Spectrum",
+    "hex": "#177e7d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 121",
-    "hex": "#78dad9",
+    "name": "Lake Ancient",
+    "hex": "#048a91",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 123",
-    "hex": "#78c8da",
+    "name": "Bluebird Silent",
+    "hex": "#006f94",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 124",
-    "hex": "#59f8e9",
+    "name": "Nebula Glacial",
+    "hex": "#196779",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 125",
-    "hex": "#59f6e2",
+    "name": "Shimmering Cloud",
+    "hex": "#226170",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 126",
-    "hex": "#74c2da",
+    "name": "Cool Coral",
+    "hex": "#0d847d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 127",
-    "hex": "#6de1d3",
+    "name": "Deep Iceberg",
+    "hex": "#246c61",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 128",
-    "hex": "#6ed7de",
+    "name": "Foam Radiant",
+    "hex": "#078885",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 129",
-    "hex": "#53f8e7",
+    "name": "Dreamy Neptune",
+    "hex": "#008e8b",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 130",
-    "hex": "#58e9f3",
+    "name": "Deep Teal",
+    "hex": "#07876d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 131",
-    "hex": "#4ef9d7",
+    "name": "Dreamy Lake",
+    "hex": "#156379",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 132",
-    "hex": "#5cebe4",
+    "name": "Lagoon Serene",
+    "hex": "#106d7d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 133",
-    "hex": "#4cf9da",
+    "name": "Turquoise Oceanic",
+    "hex": "#057887",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 134",
-    "hex": "#73cfd0",
+    "name": "Shimmering Bluebird",
+    "hex": "#1a716a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 135",
-    "hex": "#61e1d1",
+    "name": "Nebula Dreamy",
+    "hex": "#0a807f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 136",
-    "hex": "#4df4e1",
+    "name": "Lake Soft",
+    "hex": "#17726d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 137",
-    "hex": "#60e1ce",
+    "name": "Arctic Lagoon",
+    "hex": "#117178",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 138",
-    "hex": "#5bd9e6",
+    "name": "Celestial Bluebird",
+    "hex": "#096b7f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 139",
-    "hex": "#51d7f0",
+    "name": "Winter Clean",
+    "hex": "#0a7a7d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 140",
-    "hex": "#5dd6e3",
+    "name": "Oceanic Glacier",
+    "hex": "#04836f",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 141",
-    "hex": "#6ad4c6",
+    "name": "Dreamy Boreal",
+    "hex": "#137366",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 142",
-    "hex": "#5fdecb",
+    "name": "Cloud Clear",
+    "hex": "#017284",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 143",
-    "hex": "#4eeecd",
+    "name": "Winter Neptune",
+    "hex": "#186d66",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 144",
-    "hex": "#6dcfb7",
+    "name": "Dreamy Frozen",
+    "hex": "#008475",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 145",
-    "hex": "#48f3d3",
+    "name": "Infinite Coral",
+    "hex": "#1e655a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 146",
-    "hex": "#5ad9e0",
+    "name": "Moonlight Soft",
+    "hex": "#146f6e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 147",
-    "hex": "#53e0e6",
+    "name": "Frozen Arctic",
+    "hex": "#1c675e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 148",
-    "hex": "#60d7c2",
+    "name": "Breeze Silent",
+    "hex": "#0b7876",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 149",
-    "hex": "#53cee4",
+    "name": "Iceberg Radiant",
+    "hex": "#126b70",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 150",
-    "hex": "#61ced5",
+    "name": "Soft Cloud",
+    "hex": "#165d6c",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 151",
-    "hex": "#37eafd",
+    "name": "Spectrum Dreamy",
+    "hex": "#1d6456",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 152",
-    "hex": "#49cceb",
+    "name": "Boreal Fresh",
+    "hex": "#006581",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 153",
-    "hex": "#4ad2ea",
+    "name": "Sky Radiant",
+    "hex": "#027f6e",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 154",
-    "hex": "#53e0c5",
+    "name": "Soft Mist",
+    "hex": "#1c645d",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 155",
-    "hex": "#40f1e6",
+    "name": "Bubble Breezy",
+    "hex": "#10706a",
     "category": "Cyan"
   },
   {
-    "name": "Cyan 157",
-    "hex": "#63c7ce",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 156",
-    "hex": "#43edcc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 158",
-    "hex": "#33fccd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 159",
-    "hex": "#39dff6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 161",
-    "hex": "#63b2cb",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 160",
-    "hex": "#5ecfb8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 162",
-    "hex": "#4ac6e3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 163",
-    "hex": "#2ee5fd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 164",
-    "hex": "#44e5d6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 165",
-    "hex": "#38f1d3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 167",
-    "hex": "#4bdddb",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 166",
-    "hex": "#2ef0fa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 168",
-    "hex": "#47b9de",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 169",
-    "hex": "#3aebd0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 170",
-    "hex": "#47dcd4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 171",
-    "hex": "#2af7e8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 172",
-    "hex": "#4fb1d1",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 173",
-    "hex": "#37cde9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 174",
-    "hex": "#43dccc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 175",
-    "hex": "#4cd3c4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 176",
-    "hex": "#30d6ef",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 177",
-    "hex": "#2edcf0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 178",
-    "hex": "#28f2e3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 179",
-    "hex": "#45cfd5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 180",
-    "hex": "#2ee8e5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 181",
-    "hex": "#1fdbf4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 182",
-    "hex": "#32e0d7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 183",
-    "hex": "#19f9e2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 184",
-    "hex": "#34dcb7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 185",
-    "hex": "#2cdee4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 186",
-    "hex": "#3ecbd2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 187",
-    "hex": "#45c9a9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 188",
-    "hex": "#2fdfd1",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 189",
-    "hex": "#2ebfe0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 190",
-    "hex": "#43aec9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 191",
-    "hex": "#44c8af",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 192",
-    "hex": "#2cbbe0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 193",
-    "hex": "#2dc5df",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 194",
-    "hex": "#3ad1cd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 196",
-    "hex": "#2eb2dd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 197",
-    "hex": "#11defa",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 195",
-    "hex": "#41bfca",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 198",
-    "hex": "#16f4d2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 201",
-    "hex": "#24e6b8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 199",
-    "hex": "#17e8f3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 200",
-    "hex": "#1fd2eb",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 202",
-    "hex": "#3aaecd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 203",
-    "hex": "#3dc8c4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 204",
-    "hex": "#09fbe4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 205",
-    "hex": "#28b1dc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 206",
-    "hex": "#0cf6cf",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 207",
-    "hex": "#22e0b3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 208",
-    "hex": "#0bf5e2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 209",
-    "hex": "#1ac9e5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 210",
-    "hex": "#0af4d6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 211",
-    "hex": "#3cc1a0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 212",
-    "hex": "#02fbca",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 213",
-    "hex": "#3cc0ad",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 214",
-    "hex": "#1cb9e0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 215",
-    "hex": "#31c6a8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 216",
-    "hex": "#19dddd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 217",
-    "hex": "#05bef1",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 218",
-    "hex": "#0fe4d3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 219",
-    "hex": "#30c2a9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 220",
-    "hex": "#24cdc7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 221",
-    "hex": "#39b798",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 222",
-    "hex": "#09e6c4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 223",
-    "hex": "#2fbfb3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 224",
-    "hex": "#27b4c7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 226",
-    "hex": "#11b4dd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 225",
-    "hex": "#0ce1dc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 228",
-    "hex": "#15d8d5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 227",
-    "hex": "#0acce3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 229",
-    "hex": "#21becb",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 230",
-    "hex": "#349ab7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 231",
-    "hex": "#0fdac9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 234",
-    "hex": "#14afd4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 232",
-    "hex": "#18d0be",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 233",
-    "hex": "#27c1a5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 235",
-    "hex": "#11afd5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 236",
-    "hex": "#2cbab8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 237",
-    "hex": "#19ccca",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 238",
-    "hex": "#2eaeb5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 239",
-    "hex": "#2db5ae",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 240",
-    "hex": "#36a4ac",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 242",
-    "hex": "#1dbac4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 241",
-    "hex": "#11c3d0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 243",
-    "hex": "#11bece",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 244",
-    "hex": "#21a0be",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 245",
-    "hex": "#15b0ca",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 246",
-    "hex": "#21bda9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 247",
-    "hex": "#1cc1a4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 248",
-    "hex": "#10adcd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 249",
-    "hex": "#09c2d4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 250",
-    "hex": "#24b7b5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 251",
-    "hex": "#33a896",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 252",
-    "hex": "#35a69e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 253",
-    "hex": "#2fab96",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 255",
-    "hex": "#34a5a3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 254",
-    "hex": "#2e9dab",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 256",
-    "hex": "#33a590",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 257",
-    "hex": "#17c1ae",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 259",
-    "hex": "#10c3c7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 260",
-    "hex": "#07c1d0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 261",
-    "hex": "#27a8b0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 263",
-    "hex": "#2fa892",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 258",
-    "hex": "#04c8d3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 262",
-    "hex": "#2a8cac",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 264",
-    "hex": "#28aea5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 265",
-    "hex": "#09aecd",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 266",
-    "hex": "#2aaaa1",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 268",
-    "hex": "#1fb496",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 269",
-    "hex": "#07cccc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 267",
-    "hex": "#239db0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 270",
-    "hex": "#14adbc",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 271",
-    "hex": "#04cca0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 272",
-    "hex": "#1eb2b2",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 273",
-    "hex": "#27a991",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 274",
-    "hex": "#05c8a3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 275",
-    "hex": "#2289ab",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 276",
-    "hex": "#0ebebe",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 278",
-    "hex": "#05a7c6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 277",
-    "hex": "#01afca",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 279",
-    "hex": "#04c5a0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 280",
-    "hex": "#0abfa5",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 281",
-    "hex": "#04a9c4",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 282",
-    "hex": "#2092a7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 283",
-    "hex": "#289d84",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 284",
-    "hex": "#0db3b8",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 285",
-    "hex": "#1ea1a7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 287",
-    "hex": "#1e99a7",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 286",
-    "hex": "#0fb5a6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 288",
-    "hex": "#06b995",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 289",
-    "hex": "#03bbaf",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 290",
-    "hex": "#07b69d",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 291",
-    "hex": "#0c89b1",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 292",
-    "hex": "#10ac87",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 293",
-    "hex": "#2b8f83",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 294",
-    "hex": "#2a907b",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 295",
-    "hex": "#2d8a82",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 296",
-    "hex": "#288f8e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 297",
-    "hex": "#16a196",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 298",
-    "hex": "#0d92a9",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 299",
-    "hex": "#01b3b3",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 300",
-    "hex": "#11a38e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 301",
-    "hex": "#2b8388",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 302",
-    "hex": "#228f8c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 303",
-    "hex": "#248b83",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 304",
-    "hex": "#0ca19e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 305",
-    "hex": "#11839c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 307",
-    "hex": "#0e7d9d",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 306",
-    "hex": "#0b7da0",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 309",
-    "hex": "#1e7d8c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 311",
-    "hex": "#148e96",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 310",
-    "hex": "#03a788",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 308",
-    "hex": "#0383a6",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 312",
-    "hex": "#1f878a",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 313",
-    "hex": "#226e87",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 314",
-    "hex": "#119887",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 315",
-    "hex": "#277e81",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 316",
-    "hex": "#25826c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 317",
-    "hex": "#0c9998",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 318",
-    "hex": "#228175",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 319",
-    "hex": "#0c8295",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 320",
-    "hex": "#148d8c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 321",
-    "hex": "#1a8576",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 322",
-    "hex": "#168189",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 323",
-    "hex": "#089784",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 324",
-    "hex": "#017a9d",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 325",
-    "hex": "#038a9a",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 326",
-    "hex": "#0b7791",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 327",
-    "hex": "#0f8189",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 328",
-    "hex": "#197a7e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 329",
-    "hex": "#206074",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 330",
-    "hex": "#23716e",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 331",
-    "hex": "#0f846f",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 332",
-    "hex": "#186b79",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 333",
-    "hex": "#0b857f",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 335",
-    "hex": "#1b7275",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 334",
-    "hex": "#137c64",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 336",
-    "hex": "#098675",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 337",
-    "hex": "#0b8284",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 338",
-    "hex": "#0e817a",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 339",
-    "hex": "#1b6b73",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 340",
-    "hex": "#1e6070",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 341",
-    "hex": "#0a7481",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 342",
-    "hex": "#12796d",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 343",
-    "hex": "#1f586b",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 344",
-    "hex": "#0f5f78",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 345",
-    "hex": "#1f6662",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 346",
-    "hex": "#0d7773",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 347",
-    "hex": "#036881",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 348",
-    "hex": "#057d6c",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 349",
-    "hex": "#07687a",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 350",
-    "hex": "#1c5264",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 351",
-    "hex": "#0e7260",
-    "category": "Cyan"
-  },
-  {
-    "name": "Cyan 352",
-    "hex": "#1d5a63",
+    "name": "Polar Shimmering",
+    "hex": "#037d6f",
     "category": "Cyan"
   }
 ]

@@ -1,2002 +1,2502 @@
 [
   {
+    "name": "Twilight Infinite",
+    "hex": "#cee4fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Frost Velvet",
+    "hex": "#d4dff6",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Polar",
+    "hex": "#ced9fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Lapis",
+    "hex": "#ccd9fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Thunder Hidden",
+    "hex": "#cddcfb",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Cosmos",
+    "hex": "#d5d8f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Lapis",
+    "hex": "#d4d8f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Tide",
+    "hex": "#ced3f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Oceanic",
+    "hex": "#d3d5f2",
+    "category": "Blue"
+  },
+  {
+    "name": "River Deep",
+    "hex": "#d3e4f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Ice Velvet",
+    "hex": "#cedcf5",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Denim",
+    "hex": "#c5c7fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Cobalt",
+    "hex": "#cadef7",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Tide",
+    "hex": "#cad5f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Nebula",
+    "hex": "#ccd0f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Electric",
+    "hex": "#d0d6f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Topaz Luminous",
+    "hex": "#c2dbfb",
+    "category": "Blue"
+  },
+  {
+    "name": "Sapphire Crystal",
+    "hex": "#c3d8f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Bright",
+    "hex": "#cbd4f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Breeze",
+    "hex": "#bfc2fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Twilight Frozen",
+    "hex": "#bbd8ff",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Tempest",
+    "hex": "#c2caf7",
+    "category": "Blue"
+  },
+  {
+    "name": "Frost Hidden",
+    "hex": "#c8d1f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Cobalt",
+    "hex": "#c8dfed",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Cloud",
+    "hex": "#b7cafe",
+    "category": "Blue"
+  },
+  {
+    "name": "River Powerful",
+    "hex": "#b7dcfe",
+    "category": "Blue"
+  },
+  {
+    "name": "Horizon Royal",
+    "hex": "#c3e1f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Infinite Night",
+    "hex": "#bbd6fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Infinite",
+    "hex": "#bdd6f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Void",
+    "hex": "#c1d3f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Cold",
+    "hex": "#c1dcf0",
+    "category": "Blue"
+  },
+  {
+    "name": "Frozen Breeze",
+    "hex": "#c4cfec",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Galaxy",
+    "hex": "#b8bdf7",
+    "category": "Blue"
+  },
+  {
+    "name": "Ocean Elegant",
+    "hex": "#b1b9fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Arctic",
+    "hex": "#bfd3ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Void",
+    "hex": "#b3dffb",
+    "category": "Blue"
+  },
+  {
+    "name": "Moon Cold",
+    "hex": "#afdffd",
+    "category": "Blue"
+  },
+  {
+    "name": "Tempest Soft",
+    "hex": "#bbbdef",
+    "category": "Blue"
+  },
+  {
+    "name": "Navy Eternal",
+    "hex": "#bcc1ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Twilight Elegant",
+    "hex": "#afdcf8",
+    "category": "Blue"
+  },
+  {
+    "name": "Sea Powerful",
+    "hex": "#abc8fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Calm",
+    "hex": "#b7d3ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Tide",
+    "hex": "#a9a9fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Horizon Shadow",
+    "hex": "#b3c1f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Nebula",
+    "hex": "#aaabfa",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Mystic",
+    "hex": "#abc0f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Cerulean",
+    "hex": "#aebcf5",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Aquamarine",
+    "hex": "#b0dbf2",
+    "category": "Blue"
+  },
+  {
+    "name": "Tempest Glowing",
+    "hex": "#b4c2ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Lapis Bright",
+    "hex": "#adbef4",
+    "category": "Blue"
+  },
+  {
+    "name": "Lapis Vivid",
+    "hex": "#a4c2fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Frozen Glacier",
+    "hex": "#abb3f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Moon",
+    "hex": "#a0b6fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Topaz Hidden",
+    "hex": "#a8dbf5",
+    "category": "Blue"
+  },
+  {
+    "name": "Infinite Tempest",
+    "hex": "#b3bde9",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Bright",
+    "hex": "#9ebafe",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Tide",
+    "hex": "#a2caf9",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Ancient",
+    "hex": "#adb5ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Cloud",
+    "hex": "#a1aaf9",
+    "category": "Blue"
+  },
+  {
+    "name": "Cerulean Mystic",
+    "hex": "#a8c7f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Denim",
+    "hex": "#a0d2f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Void",
+    "hex": "#9a9ffe",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Wave",
+    "hex": "#a6abf2",
+    "category": "Blue"
+  },
+  {
+    "name": "Sea Frozen",
+    "hex": "#a2cbf4",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Sky",
+    "hex": "#a0a2f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Powerful",
+    "hex": "#99b2fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Moon Serene",
+    "hex": "#aacaeb",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Soft",
+    "hex": "#abcde9",
+    "category": "Blue"
+  },
+  {
+    "name": "Bright Indigo",
+    "hex": "#9bbef9",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Cosmic",
+    "hex": "#a4abef",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmos Deep",
+    "hex": "#98d2fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Void Velvet",
+    "hex": "#98dafb",
+    "category": "Blue"
+  },
+  {
+    "name": "River Luminous",
+    "hex": "#9dd5f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Breeze",
+    "hex": "#a1bdf1",
+    "category": "Blue"
+  },
+  {
+    "name": "Tide Glowing",
+    "hex": "#adb7e4",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Indigo",
+    "hex": "#abc4e6",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Silent",
+    "hex": "#96c3f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Twilight",
+    "hex": "#abbce4",
+    "category": "Blue"
+  },
+  {
+    "name": "Moon Soft",
+    "hex": "#a4cfea",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Dreamy",
+    "hex": "#a5b9e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Atlantis",
+    "hex": "#93d6fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Cosmos",
+    "hex": "#a4cce8",
+    "category": "Blue"
+  },
+  {
+    "name": "Deepwater Electric",
+    "hex": "#98a5f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Dusk",
+    "hex": "#8ab4fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Oceanic Breeze",
+    "hex": "#a3bee4",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Cosmos",
+    "hex": "#9fcbe8",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Azure",
+    "hex": "#8dbdfa",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Cosmos",
+    "hex": "#8892fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Ink Shadow",
+    "hex": "#a5ace1",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Royal",
+    "hex": "#97b5ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Steel Vivid",
+    "hex": "#9da6e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Ice Bright",
+    "hex": "#9bc7e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Steel",
+    "hex": "#a0cae4",
+    "category": "Blue"
+  },
+  {
+    "name": "Oceanic Denim",
+    "hex": "#94b9f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Royal",
+    "hex": "#89c3fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmos Shadow",
+    "hex": "#9aabe9",
+    "category": "Blue"
+  },
+  {
+    "name": "Atlantis Mystic",
+    "hex": "#9cc3e7",
+    "category": "Blue"
+  },
+  {
+    "name": "Sky Cold",
+    "hex": "#9ca4e7",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Azure",
+    "hex": "#9dc8e4",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Shadow",
+    "hex": "#8fc2f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Silent",
+    "hex": "#8bc6f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Twilight",
+    "hex": "#8eb4f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Sapphire",
+    "hex": "#96a0e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Tempest",
+    "hex": "#8892f5",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Sky",
+    "hex": "#848ef9",
+    "category": "Blue"
+  },
+  {
+    "name": "Hidden Sea",
+    "hex": "#85c2f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Moon Pure",
+    "hex": "#98b4e4",
+    "category": "Blue"
+  },
+  {
+    "name": "Cerulean Electric",
+    "hex": "#9ba5e0",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Ink",
+    "hex": "#8ecced",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Velvet",
+    "hex": "#87cdf3",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Rain",
+    "hex": "#7ba5fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Cold",
+    "hex": "#98b2e1",
+    "category": "Blue"
+  },
+  {
+    "name": "Mist Infinite",
+    "hex": "#7fbcf9",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Aquamarine",
+    "hex": "#7b98fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Hidden",
+    "hex": "#85bef2",
+    "category": "Blue"
+  },
+  {
+    "name": "Oceanic Horizon",
+    "hex": "#9394e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Serene",
+    "hex": "#7bbff9",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Indigo",
+    "hex": "#95b8de",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Deep",
+    "hex": "#8c9be6",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Rain",
+    "hex": "#95acdd",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Oceanic",
+    "hex": "#7fb6f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Tempest",
+    "hex": "#92ade0",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Deep",
+    "hex": "#818af0",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Glowing",
+    "hex": "#90a5e0",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Velvet",
+    "hex": "#878ae8",
+    "category": "Blue"
+  },
+  {
+    "name": "River Glowing",
+    "hex": "#7090fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Glowing",
+    "hex": "#909ade",
+    "category": "Blue"
+  },
+  {
+    "name": "Deepwater Crystal",
+    "hex": "#798bf4",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Sapphire",
+    "hex": "#7fc1ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Soft",
+    "hex": "#72c7fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Sky",
+    "hex": "#79a1f3",
+    "category": "Blue"
+  },
+  {
     "name": "Royal Azure",
-    "hex": "#d4d7f6",
+    "hex": "#7286f9",
     "category": "Blue"
   },
   {
-    "name": "Deep Storm",
-    "hex": "#d0d3f9",
-    "category": "Blue"
-  },
-  {
-    "name": "Silent Cobalt",
-    "hex": "#d1e6f8",
-    "category": "Blue"
-  },
-  {
-    "name": "Cold Indigo",
-    "hex": "#cae4fd",
-    "category": "Blue"
-  },
-  {
-    "name": "Cold Sapphire",
-    "hex": "#d0dbf6",
-    "category": "Blue"
-  },
-  {
-    "name": "Electric Sapphire",
-    "hex": "#c7dbff",
-    "category": "Blue"
-  },
-  {
-    "name": "Silent Indigo",
-    "hex": "#cddff8",
-    "category": "Blue"
-  },
-  {
-    "name": "Deep Midnight",
-    "hex": "#ccd7f9",
-    "category": "Blue"
-  },
-  {
-    "name": "Royal Indigo",
-    "hex": "#d1d3f4",
-    "category": "Blue"
-  },
-  {
-    "name": "Dark Sapphire",
-    "hex": "#d3e1f1",
-    "category": "Blue"
-  },
-  {
-    "name": "Electric Storm",
-    "hex": "#c9defa",
-    "category": "Blue"
-  },
-  {
-    "name": "Cold Navy",
-    "hex": "#cde2f6",
-    "category": "Blue"
-  },
-  {
-    "name": "Deep Cobalt",
-    "hex": "#ced5f2",
-    "category": "Blue"
-  },
-  {
-    "name": "Dark Storm",
-    "hex": "#c5e5fa",
-    "category": "Blue"
-  },
-  {
-    "name": "Cold Azure",
-    "hex": "#c1cdfc",
-    "category": "Blue"
-  },
-  {
-    "name": "Royal Midnight",
-    "hex": "#c1d7fc",
-    "category": "Blue"
-  },
-  {
-    "name": "Electric Indigo",
-    "hex": "#becdfd",
-    "category": "Blue"
-  },
-  {
-    "name": "Silent Ocean",
-    "hex": "#c8cbf3",
-    "category": "Blue"
-  },
-  {
-    "name": "Royal Sapphire",
-    "hex": "#bdcefc",
-    "category": "Blue"
-  },
-  {
-    "name": "Cold Cobalt",
-    "hex": "#bdd4fc",
-    "category": "Blue"
-  },
-  {
-    "name": "Silent Azure",
-    "hex": "#bad7fd",
-    "category": "Blue"
-  },
-  {
-    "name": "Royal Navy",
-    "hex": "#bdcef9",
+    "name": "Calm Marine",
+    "hex": "#8696e4",
     "category": "Blue"
   },
   {
     "name": "Deep Indigo",
-    "hex": "#bfc6f6",
+    "hex": "#7793f2",
     "category": "Blue"
   },
   {
-    "name": "Electric Azure",
-    "hex": "#bac9fa",
+    "name": "Slate Pure",
+    "hex": "#71c0f6",
     "category": "Blue"
   },
   {
-    "name": "Cold Storm",
-    "hex": "#c0d5f2",
+    "name": "Pure Ink",
+    "hex": "#85b4e2",
     "category": "Blue"
   },
   {
-    "name": "Silent Sapphire",
-    "hex": "#c2c5f0",
+    "name": "Horizon Infinite",
+    "hex": "#76b4f1",
     "category": "Blue"
   },
   {
-    "name": "Dark Cobalt",
-    "hex": "#b5d7fc",
+    "name": "Dark River",
+    "hex": "#6acafc",
     "category": "Blue"
   },
   {
-    "name": "Royal Ocean",
-    "hex": "#b6bbfb",
+    "name": "Thunder Stormy",
+    "hex": "#71baf4",
     "category": "Blue"
   },
   {
-    "name": "Electric Navy",
-    "hex": "#b9bcf7",
+    "name": "Deepwater Ancient",
+    "hex": "#72c4f2",
     "category": "Blue"
   },
   {
-    "name": "Dark Ocean",
-    "hex": "#b3c0fd",
+    "name": "Frozen Dusk",
+    "hex": "#676bfc",
     "category": "Blue"
   },
   {
-    "name": "Silent Navy",
-    "hex": "#b6bdfa",
+    "name": "Sapphire Velvet",
+    "hex": "#8997d8",
     "category": "Blue"
   },
   {
-    "name": "Deep Navy",
-    "hex": "#c1dbef",
+    "name": "Marine Eternal",
+    "hex": "#728bee",
     "category": "Blue"
   },
   {
-    "name": "Silent Midnight",
-    "hex": "#bbc8f3",
+    "name": "Twilight Silent",
+    "hex": "#74bbec",
+    "category": "Blue"
+  },
+  {
+    "name": "Infinite Arctic",
+    "hex": "#81abde",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Horizon",
+    "hex": "#8488da",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Thunder",
+    "hex": "#7e8fe0",
+    "category": "Blue"
+  },
+  {
+    "name": "Void Hidden",
+    "hex": "#84b7da",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Elegant",
+    "hex": "#809bdd",
+    "category": "Blue"
+  },
+  {
+    "name": "Horizon Ancient",
+    "hex": "#6e82ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Marine",
+    "hex": "#77b4e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Sea",
+    "hex": "#696ff3",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Deep",
+    "hex": "#70b9eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Midnight",
+    "hex": "#71ade8",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Azure",
+    "hex": "#59a6fd",
+    "category": "Blue"
+  },
+  {
+    "name": "Mist Midnight",
+    "hex": "#666bf0",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Luminous",
+    "hex": "#6e75e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Indigo",
+    "hex": "#728ce3",
+    "category": "Blue"
+  },
+  {
+    "name": "Thunder Midnight",
+    "hex": "#58bffb",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Polar",
+    "hex": "#73bae0",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Frost",
+    "hex": "#74a4de",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Tide",
+    "hex": "#6da1e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Bright Cobalt",
+    "hex": "#65a7ec",
+    "category": "Blue"
+  },
+  {
+    "name": "Sapphire Powerful",
+    "hex": "#657deb",
+    "category": "Blue"
+  },
+  {
+    "name": "Steel Silent",
+    "hex": "#6b99e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Night",
+    "hex": "#578bf9",
+    "category": "Blue"
+  },
+  {
+    "name": "Arctic Shadow",
+    "hex": "#5a61f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Cerulean",
+    "hex": "#789bd5",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Ancient",
+    "hex": "#4f8ffd",
+    "category": "Blue"
+  },
+  {
+    "name": "Nebula Vivid",
+    "hex": "#4e99fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Bright Eclipse",
+    "hex": "#64a8e7",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Dark",
+    "hex": "#4c8dff",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Storm",
+    "hex": "#6568e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Navy",
+    "hex": "#6a94e0",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Storm",
+    "hex": "#6f7ddb",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Cerulean",
+    "hex": "#6d83dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Tide",
+    "hex": "#5666f3",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Ice",
+    "hex": "#5996ef",
+    "category": "Blue"
+  },
+  {
+    "name": "Eclipse Hidden",
+    "hex": "#597dee",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Void",
+    "hex": "#6eaad7",
+    "category": "Blue"
+  },
+  {
+    "name": "Ink Silent",
+    "hex": "#4fa8f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Topaz Elegant",
+    "hex": "#559ef0",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Frozen",
+    "hex": "#6c7bd8",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Eternal",
+    "hex": "#6d74d7",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Thunder",
+    "hex": "#5297f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Sea Eternal",
+    "hex": "#5d80e6",
+    "category": "Blue"
+  },
+  {
+    "name": "Azure Ancient",
+    "hex": "#4756fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Horizon",
+    "hex": "#637bde",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Night",
+    "hex": "#6366de",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Ink",
+    "hex": "#56abeb",
+    "category": "Blue"
+  },
+  {
+    "name": "Nebula Frozen",
+    "hex": "#55abec",
+    "category": "Blue"
+  },
+  {
+    "name": "Cloud Dreamy",
+    "hex": "#519bf0",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Vivid",
+    "hex": "#6770d9",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Glowing",
+    "hex": "#4f72f1",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Luminous",
+    "hex": "#5473ec",
+    "category": "Blue"
+  },
+  {
+    "name": "Tide Deep",
+    "hex": "#4d9af3",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Vivid",
+    "hex": "#6897d7",
+    "category": "Blue"
+  },
+  {
+    "name": "Navy Ancient",
+    "hex": "#5f76dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Galaxy",
+    "hex": "#5f9fdc",
+    "category": "Blue"
+  },
+  {
+    "name": "Frost Mystic",
+    "hex": "#4c98ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Royal",
+    "hex": "#5287e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Topaz Mystic",
+    "hex": "#5f9cdb",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Ocean",
+    "hex": "#555be3",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Sapphire",
+    "hex": "#4262f4",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Midnight",
+    "hex": "#4461f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Serene Galaxy",
+    "hex": "#4d64e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Powerful",
+    "hex": "#4e95e7",
+    "category": "Blue"
+  },
+  {
+    "name": "Twilight Cold",
+    "hex": "#567add",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Denim",
+    "hex": "#565add",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Cold",
+    "hex": "#50ace3",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Eternal",
+    "hex": "#46adec",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Wave",
+    "hex": "#6496ce",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Polar",
+    "hex": "#3e7bf4",
+    "category": "Blue"
+  },
+  {
+    "name": "Steel Glowing",
+    "hex": "#4a8de7",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Dreamy",
+    "hex": "#5398de",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Twilight",
+    "hex": "#4881e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Hidden Slate",
+    "hex": "#61a5cf",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Ocean",
+    "hex": "#3376fc",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Rain",
+    "hex": "#5e6dd0",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Eclipse",
+    "hex": "#5e69cf",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Glacier",
+    "hex": "#3dacf0",
+    "category": "Blue"
+  },
+  {
+    "name": "Hidden Sky",
+    "hex": "#3284fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Lapis Glowing",
+    "hex": "#485ee4",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Ancient",
+    "hex": "#4fa3dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Oceanic Cloud",
+    "hex": "#5a64d1",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Electric",
+    "hex": "#527ad9",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Arctic",
+    "hex": "#335cf8",
+    "category": "Blue"
+  },
+  {
+    "name": "Ocean Glowing",
+    "hex": "#3554f6",
+    "category": "Blue"
+  },
+  {
+    "name": "Cloud Powerful",
+    "hex": "#408dea",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Nebula",
+    "hex": "#4fa1db",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Arctic",
+    "hex": "#2b75fe",
+    "category": "Blue"
+  },
+  {
+    "name": "Serene Dusk",
+    "hex": "#5f9aca",
+    "category": "Blue"
+  },
+  {
+    "name": "Deepwater Serene",
+    "hex": "#3f8fe9",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Indigo",
+    "hex": "#4fabd8",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Lapis",
+    "hex": "#3579f2",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#5474d3",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Dreamy",
+    "hex": "#5484d2",
+    "category": "Blue"
+  },
+  {
+    "name": "Atlantis Electric",
+    "hex": "#4371e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Serene",
+    "hex": "#425be3",
+    "category": "Blue"
+  },
+  {
+    "name": "Arctic Glowing",
+    "hex": "#42a2e3",
+    "category": "Blue"
+  },
+  {
+    "name": "Deepwater Soft",
+    "hex": "#253eff",
+    "category": "Blue"
+  },
+  {
+    "name": "Hidden Arctic",
+    "hex": "#3698ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Ancient Sapphire",
+    "hex": "#4aa8d9",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Dreamy",
+    "hex": "#268efc",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Breeze",
+    "hex": "#577cca",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Luminous",
+    "hex": "#4395de",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Silent",
+    "hex": "#4583db",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Azure",
+    "hex": "#43a0dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Hidden Midnight",
+    "hex": "#254ff9",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Glacier",
+    "hex": "#3da1e1",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Soft",
+    "hex": "#2297fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Soft",
+    "hex": "#21a3fa",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Frost",
+    "hex": "#415bda",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Celestial",
+    "hex": "#294cf2",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Rain",
+    "hex": "#1e75fb",
+    "category": "Blue"
+  },
+  {
+    "name": "Lapis Frozen",
+    "hex": "#4b7ecd",
+    "category": "Blue"
+  },
+  {
+    "name": "Thunder Silent",
+    "hex": "#2d88eb",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Breeze",
+    "hex": "#2ea6e9",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Mist",
+    "hex": "#237ef1",
+    "category": "Blue"
+  },
+  {
+    "name": "Frost Stormy",
+    "hex": "#2c81e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmos Celestial",
+    "hex": "#1b72f8",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Frozen",
+    "hex": "#18adf9",
+    "category": "Blue"
+  },
+  {
+    "name": "Ice Glowing",
+    "hex": "#222dee",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Cerulean",
+    "hex": "#2080f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmos Silent",
+    "hex": "#2a87e5",
+    "category": "Blue"
+  },
+  {
+    "name": "Moon Stormy",
+    "hex": "#345ada",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Serene",
+    "hex": "#3a47d4",
+    "category": "Blue"
+  },
+  {
+    "name": "Ancient Slate",
+    "hex": "#3c50d2",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Marine",
+    "hex": "#259ae8",
+    "category": "Blue"
+  },
+  {
+    "name": "Tide Pure",
+    "hex": "#16a8f7",
+    "category": "Blue"
+  },
+  {
+    "name": "Crystal Navy",
+    "hex": "#1f88ee",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Sea",
+    "hex": "#1c2af0",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Frost",
+    "hex": "#282ce4",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Sky",
+    "hex": "#2c5adf",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Polar",
+    "hex": "#2d75dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Atlantis",
+    "hex": "#2e4bd8",
+    "category": "Blue"
+  },
+  {
+    "name": "Sky Eternal",
+    "hex": "#2d33d9",
+    "category": "Blue"
+  },
+  {
+    "name": "Shadow Lapis",
+    "hex": "#0d98f9",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Arctic",
+    "hex": "#276cdb",
+    "category": "Blue"
+  },
+  {
+    "name": "Infinite Glacier",
+    "hex": "#3e58c4",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Celestial",
+    "hex": "#2b93d6",
+    "category": "Blue"
+  },
+  {
+    "name": "Sea Shadow",
+    "hex": "#3a52c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Horizon",
+    "hex": "#2984d7",
+    "category": "Blue"
+  },
+  {
+    "name": "Arctic Luminous",
+    "hex": "#2f76d0",
+    "category": "Blue"
+  },
+  {
+    "name": "Eclipse Glowing",
+    "hex": "#1520ea",
     "category": "Blue"
   },
   {
     "name": "Deep Azure",
-    "hex": "#b0d5fb",
+    "hex": "#0169fd",
     "category": "Blue"
   },
   {
-    "name": "Dark Midnight",
-    "hex": "#b6c3f4",
+    "name": "Tide Celestial",
+    "hex": "#2951d4",
     "category": "Blue"
   },
   {
-    "name": "Cold Midnight",
-    "hex": "#b0d9fa",
+    "name": "Shadow Dusk",
+    "hex": "#0a76f3",
     "category": "Blue"
   },
   {
-    "name": "Royal Cobalt",
-    "hex": "#b5c1f4",
+    "name": "Ocean Mystic",
+    "hex": "#1732e5",
     "category": "Blue"
   },
   {
-    "name": "Dark Navy",
-    "hex": "#afd5f9",
+    "name": "Eclipse Serene",
+    "hex": "#3e58bd",
     "category": "Blue"
   },
   {
-    "name": "Electric Midnight",
-    "hex": "#b5cef3",
+    "name": "Frost Powerful",
+    "hex": "#3690c5",
     "category": "Blue"
   },
   {
-    "name": "Deep Sapphire",
-    "hex": "#adc8fb",
+    "name": "Navy Celestial",
+    "hex": "#1827e3",
     "category": "Blue"
   },
   {
-    "name": "Dark Indigo",
-    "hex": "#b6d7f2",
+    "name": "Cloud Eternal",
+    "hex": "#0e80ec",
     "category": "Blue"
   },
   {
-    "name": "Silent Storm",
-    "hex": "#afb2f8",
+    "name": "Crystal Cerulean",
+    "hex": "#3646c4",
     "category": "Blue"
   },
   {
-    "name": "Royal Storm",
-    "hex": "#b7c5ef",
+    "name": "Royal Dreamy",
+    "hex": "#0256f8",
     "category": "Blue"
   },
   {
-    "name": "Dark Azure",
-    "hex": "#b9d4ed",
+    "name": "Frost Midnight",
+    "hex": "#2021d9",
     "category": "Blue"
   },
   {
-    "name": "Electric Cobalt",
-    "hex": "#adbef9",
+    "name": "Infinite Azure",
+    "hex": "#2728d1",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Ink",
+    "hex": "#3a49be",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Void",
+    "hex": "#3178c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet River",
+    "hex": "#2979ce",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Deepwater",
+    "hex": "#2657d1",
+    "category": "Blue"
+  },
+  {
+    "name": "Arctic Mystic",
+    "hex": "#1e39d8",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Cosmos",
+    "hex": "#119de5",
+    "category": "Blue"
+  },
+  {
+    "name": "Azure Hidden",
+    "hex": "#2429d2",
+    "category": "Blue"
+  },
+  {
+    "name": "Glacier Pure",
+    "hex": "#0888ed",
+    "category": "Blue"
+  },
+  {
+    "name": "Tempest Hidden",
+    "hex": "#108de4",
+    "category": "Blue"
+  },
+  {
+    "name": "Azure Dreamy",
+    "hex": "#0494f0",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Ice",
+    "hex": "#2f5dc4",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Tempest",
+    "hex": "#174cdc",
+    "category": "Blue"
+  },
+  {
+    "name": "Ice Calm",
+    "hex": "#355bbe",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Ocean",
+    "hex": "#019bf0",
+    "category": "Blue"
+  },
+  {
+    "name": "Ocean Celestial",
+    "hex": "#1b32d6",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Frozen",
+    "hex": "#3177bf",
+    "category": "Blue"
+  },
+  {
+    "name": "Frozen Storm",
+    "hex": "#337bbc",
+    "category": "Blue"
+  },
+  {
+    "name": "Frost Cosmic",
+    "hex": "#054ce9",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Storm",
+    "hex": "#336abb",
+    "category": "Blue"
+  },
+  {
+    "name": "Indigo Electric",
+    "hex": "#2533c8",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Sea",
+    "hex": "#273fc5",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Glacier",
+    "hex": "#0471e8",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Storm",
+    "hex": "#015cea",
+    "category": "Blue"
+  },
+  {
+    "name": "Serene Steel",
+    "hex": "#0899e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Twilight",
+    "hex": "#0c24dd",
+    "category": "Blue"
+  },
+  {
+    "name": "Ink Bright",
+    "hex": "#0765e2",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Cloud",
+    "hex": "#3987af",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Ancient",
+    "hex": "#217bc6",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Navy",
+    "hex": "#213fc6",
+    "category": "Blue"
+  },
+  {
+    "name": "Bright Storm",
+    "hex": "#1852cd",
+    "category": "Blue"
+  },
+  {
+    "name": "Night Midnight",
+    "hex": "#1e56c7",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Mist",
+    "hex": "#2159c4",
+    "category": "Blue"
+  },
+  {
+    "name": "Wave Eternal",
+    "hex": "#3645af",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Slate",
+    "hex": "#0f92d6",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Aquamarine",
+    "hex": "#2f5ab4",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Polar",
+    "hex": "#1923ca",
+    "category": "Blue"
+  },
+  {
+    "name": "Ancient Azure",
+    "hex": "#097bda",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Azure",
+    "hex": "#3075b3",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Eternal",
+    "hex": "#2959b8",
+    "category": "Blue"
+  },
+  {
+    "name": "Sapphire Mystic",
+    "hex": "#3240af",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy River",
+    "hex": "#050ddb",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Dreamy",
+    "hex": "#0a5ad6",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmos Hidden",
+    "hex": "#3133af",
+    "category": "Blue"
+  },
+  {
+    "name": "Tempest Celestial",
+    "hex": "#0432dc",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Ice",
+    "hex": "#1973c5",
+    "category": "Blue"
+  },
+  {
+    "name": "Void Calm",
+    "hex": "#2781b6",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Thunder",
+    "hex": "#0579d8",
+    "category": "Blue"
+  },
+  {
+    "name": "Wave Frozen",
+    "hex": "#334eaa",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft River",
+    "hex": "#1287cb",
+    "category": "Blue"
+  },
+  {
+    "name": "Steel Eternal",
+    "hex": "#3172ab",
+    "category": "Blue"
+  },
+  {
+    "name": "Twilight Ancient",
+    "hex": "#1740c4",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Indigo",
+    "hex": "#2c7aaf",
+    "category": "Blue"
+  },
+  {
+    "name": "Tide Midnight",
+    "hex": "#233fb8",
+    "category": "Blue"
+  },
+  {
+    "name": "Navy Deep",
+    "hex": "#306faa",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Indigo",
+    "hex": "#0f8bcb",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Soft",
+    "hex": "#0656d3",
+    "category": "Blue"
+  },
+  {
+    "name": "Cloud Soft",
+    "hex": "#347ea4",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Night",
+    "hex": "#1a54be",
+    "category": "Blue"
+  },
+  {
+    "name": "Pure Dusk",
+    "hex": "#031ad5",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Cold",
+    "hex": "#0d1dc6",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Electric",
+    "hex": "#3168a2",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Ink",
+    "hex": "#0353d0",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Azure",
+    "hex": "#0165d1",
+    "category": "Blue"
+  },
+  {
+    "name": "Silent Galaxy",
+    "hex": "#1233be",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Dark",
+    "hex": "#33539d",
+    "category": "Blue"
+  },
+  {
+    "name": "Ancient Indigo",
+    "hex": "#066cc9",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Serene",
+    "hex": "#196cb6",
+    "category": "Blue"
+  },
+  {
+    "name": "Pure Frost",
+    "hex": "#2169ad",
+    "category": "Blue"
+  },
+  {
+    "name": "Cerulean Midnight",
+    "hex": "#114ebc",
+    "category": "Blue"
+  },
+  {
+    "name": "Azure Stormy",
+    "hex": "#0b36c2",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Denim",
+    "hex": "#304c9c",
+    "category": "Blue"
+  },
+  {
+    "name": "Tempest Pure",
+    "hex": "#2b51a0",
+    "category": "Blue"
+  },
+  {
+    "name": "Eclipse Royal",
+    "hex": "#1a25b1",
+    "category": "Blue"
+  },
+  {
+    "name": "Storm Ancient",
+    "hex": "#306f9b",
+    "category": "Blue"
+  },
+  {
+    "name": "Electric Ice",
+    "hex": "#2a32a0",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Soft",
+    "hex": "#095ac1",
+    "category": "Blue"
+  },
+  {
+    "name": "Breeze Infinite",
+    "hex": "#1b7cac",
+    "category": "Blue"
+  },
+  {
+    "name": "Marine Silent",
+    "hex": "#28549e",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Lapis",
+    "hex": "#0e71b7",
+    "category": "Blue"
+  },
+  {
+    "name": "Infinite Storm",
+    "hex": "#2c5699",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Tempest",
+    "hex": "#2238a2",
+    "category": "Blue"
+  },
+  {
+    "name": "Deep Horizon",
+    "hex": "#0e2cb3",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Aquamarine",
+    "hex": "#2c4393",
+    "category": "Blue"
+  },
+  {
+    "name": "Vivid Cloud",
+    "hex": "#24259b",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Sapphire",
+    "hex": "#2f4f8f",
+    "category": "Blue"
+  },
+  {
+    "name": "Pure Polar",
+    "hex": "#285296",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Azure",
+    "hex": "#276e96",
+    "category": "Blue"
+  },
+  {
+    "name": "Oceanic Cobalt",
+    "hex": "#045db9",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Polar",
+    "hex": "#2c5b91",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Atlantis",
+    "hex": "#2b5992",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Indigo",
+    "hex": "#1561a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Polar",
+    "hex": "#21539b",
+    "category": "Blue"
+  },
+  {
+    "name": "Galaxy Ancient",
+    "hex": "#1322a8",
+    "category": "Blue"
+  },
+  {
+    "name": "Soft Lapis",
+    "hex": "#015eb9",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Stormy",
+    "hex": "#0a0caf",
+    "category": "Blue"
+  },
+  {
+    "name": "Celestial Dusk",
+    "hex": "#1441a4",
+    "category": "Blue"
+  },
+  {
+    "name": "Slate Deep",
+    "hex": "#0678b2",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Deep",
+    "hex": "#1d6f9a",
+    "category": "Blue"
+  },
+  {
+    "name": "Sapphire Silent",
+    "hex": "#0a1aad",
+    "category": "Blue"
+  },
+  {
+    "name": "Powerful Navy",
+    "hex": "#0f32a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Atlantis",
+    "hex": "#1a339c",
+    "category": "Blue"
+  },
+  {
+    "name": "Void Eternal",
+    "hex": "#243491",
+    "category": "Blue"
+  },
+  {
+    "name": "Atlantis Frozen",
+    "hex": "#2b3789",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Cerulean",
+    "hex": "#273f8c",
+    "category": "Blue"
+  },
+  {
+    "name": "Deepwater Celestial",
+    "hex": "#18239b",
+    "category": "Blue"
+  },
+  {
+    "name": "Denim Vivid",
+    "hex": "#24698f",
+    "category": "Blue"
+  },
+  {
+    "name": "Cold Cosmos",
+    "hex": "#205692",
+    "category": "Blue"
+  },
+  {
+    "name": "Bright Steel",
+    "hex": "#020daf",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Cosmic",
+    "hex": "#0213ae",
+    "category": "Blue"
+  },
+  {
+    "name": "Luminous Cobalt",
+    "hex": "#054aa9",
+    "category": "Blue"
+  },
+  {
+    "name": "Glowing Galaxy",
+    "hex": "#0543a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Eclipse Oceanic",
+    "hex": "#0f6b9c",
+    "category": "Blue"
+  },
+  {
+    "name": "Thunder Oceanic",
+    "hex": "#036ea8",
+    "category": "Blue"
+  },
+  {
+    "name": "Wave Mystic",
+    "hex": "#0335a7",
+    "category": "Blue"
+  },
+  {
+    "name": "Calm Void",
+    "hex": "#012ea8",
+    "category": "Blue"
+  },
+  {
+    "name": "Dark Sapphire",
+    "hex": "#29467f",
+    "category": "Blue"
+  },
+  {
+    "name": "Horizon Luminous",
+    "hex": "#0b0f9d",
+    "category": "Blue"
+  },
+  {
+    "name": "Twilight Powerful",
+    "hex": "#124c95",
+    "category": "Blue"
+  },
+  {
+    "name": "Ink Cosmic",
+    "hex": "#295c7c",
+    "category": "Blue"
+  },
+  {
+    "name": "Aquamarine Stormy",
+    "hex": "#151e8f",
+    "category": "Blue"
+  },
+  {
+    "name": "Arctic Serene",
+    "hex": "#0e3e96",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Steel",
+    "hex": "#1c3188",
+    "category": "Blue"
+  },
+  {
+    "name": "Midnight Dusk",
+    "hex": "#194b8b",
+    "category": "Blue"
+  },
+  {
+    "name": "Eternal Ice",
+    "hex": "#074c9b",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Azure",
+    "hex": "#244b7c",
+    "category": "Blue"
+  },
+  {
+    "name": "Frozen Indigo",
+    "hex": "#066099",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Moon",
+    "hex": "#094294",
+    "category": "Blue"
+  },
+  {
+    "name": "Elegant Dusk",
+    "hex": "#1d3a80",
+    "category": "Blue"
+  },
+  {
+    "name": "Stormy Polar",
+    "hex": "#01429c",
+    "category": "Blue"
+  },
+  {
+    "name": "Cosmic Marine",
+    "hex": "#154387",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Glacier",
+    "hex": "#182684",
+    "category": "Blue"
+  },
+  {
+    "name": "Sky Serene",
+    "hex": "#0b2190",
+    "category": "Blue"
+  },
+  {
+    "name": "Mystic Denim",
+    "hex": "#072891",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Powerful",
+    "hex": "#065792",
+    "category": "Blue"
+  },
+  {
+    "name": "Topaz Celestial",
+    "hex": "#061b8f",
+    "category": "Blue"
+  },
+  {
+    "name": "Velvet Navy",
+    "hex": "#0f2484",
+    "category": "Blue"
+  },
+  {
+    "name": "Rain Elegant",
+    "hex": "#15327e",
+    "category": "Blue"
+  },
+  {
+    "name": "Storm Hidden",
+    "hex": "#1c3177",
+    "category": "Blue"
+  },
+  {
+    "name": "Polar Oceanic",
+    "hex": "#102183",
+    "category": "Blue"
+  },
+  {
+    "name": "Wave Dreamy",
+    "hex": "#101183",
+    "category": "Blue"
+  },
+  {
+    "name": "Dusk Vivid",
+    "hex": "#0e5284",
+    "category": "Blue"
+  },
+  {
+    "name": "Royal Luminous",
+    "hex": "#063f8c",
+    "category": "Blue"
+  },
+  {
+    "name": "Cobalt Pure",
+    "hex": "#1d5375",
+    "category": "Blue"
+  },
+  {
+    "name": "Dreamy Breeze",
+    "hex": "#04208e",
     "category": "Blue"
   },
   {
     "name": "Electric Ocean",
-    "hex": "#a7cefe",
+    "hex": "#182f7a",
     "category": "Blue"
   },
   {
-    "name": "Blue 1",
-    "hex": "#a8dffd",
+    "name": "Wave Stormy",
+    "hex": "#05388c",
     "category": "Blue"
   },
   {
-    "name": "Blue 2",
-    "hex": "#b9c0e8",
+    "name": "Aquamarine Midnight",
+    "hex": "#121f7f",
     "category": "Blue"
   },
   {
-    "name": "Blue 3",
-    "hex": "#acb0f4",
+    "name": "Soft Sapphire",
+    "hex": "#03308e",
     "category": "Blue"
   },
   {
-    "name": "Blue 4",
-    "hex": "#b0d0ef",
+    "name": "Denim Deep",
+    "hex": "#02418e",
     "category": "Blue"
   },
   {
-    "name": "Blue 5",
-    "hex": "#acb3f2",
+    "name": "Silent Storm",
+    "hex": "#11397f",
     "category": "Blue"
   },
   {
-    "name": "Blue 6",
-    "hex": "#a8d3f5",
+    "name": "Calm Cerulean",
+    "hex": "#0d5182",
     "category": "Blue"
   },
   {
-    "name": "Blue 7",
-    "hex": "#a1d5fa",
+    "name": "Cold Wave",
+    "hex": "#175277",
     "category": "Blue"
   },
   {
-    "name": "Blue 8",
-    "hex": "#a8bef3",
+    "name": "Luminous Slate",
+    "hex": "#103a7d",
     "category": "Blue"
   },
   {
-    "name": "Blue 9",
-    "hex": "#a4bff6",
+    "name": "Deepwater Eternal",
+    "hex": "#12287a",
     "category": "Blue"
   },
   {
-    "name": "Blue 10",
-    "hex": "#b0d3e9",
+    "name": "Galaxy Pure",
+    "hex": "#20236b",
     "category": "Blue"
   },
   {
-    "name": "Blue 11",
-    "hex": "#aac1ed",
+    "name": "Indigo Royal",
+    "hex": "#10217b",
     "category": "Blue"
   },
   {
-    "name": "Blue 12",
-    "hex": "#adb0ea",
+    "name": "Sapphire Shadow",
+    "hex": "#123e79",
     "category": "Blue"
   },
   {
-    "name": "Blue 13",
-    "hex": "#a8aaef",
+    "name": "Serene River",
+    "hex": "#030984",
     "category": "Blue"
   },
   {
-    "name": "Blue 14",
-    "hex": "#a2ccf4",
+    "name": "Horizon Velvet",
+    "hex": "#214766",
     "category": "Blue"
   },
   {
-    "name": "Blue 15",
-    "hex": "#97c7fd",
+    "name": "Atlantis Stormy",
+    "hex": "#0c427b",
     "category": "Blue"
   },
   {
-    "name": "Blue 16",
-    "hex": "#a0a5f3",
+    "name": "Hidden Royal",
+    "hex": "#022b84",
     "category": "Blue"
   },
   {
-    "name": "Blue 18",
-    "hex": "#adcae5",
+    "name": "Cloud Hidden",
+    "hex": "#212965",
     "category": "Blue"
   },
   {
-    "name": "Blue 19",
-    "hex": "#accde6",
+    "name": "Electric Topaz",
+    "hex": "#0b1b79",
     "category": "Blue"
   },
   {
-    "name": "Blue 17",
-    "hex": "#a0d3f2",
+    "name": "Topaz Glowing",
+    "hex": "#172e6d",
     "category": "Blue"
   },
   {
-    "name": "Blue 20",
-    "hex": "#a2d2ef",
+    "name": "Oceanic Topaz",
+    "hex": "#0c1c78",
     "category": "Blue"
   },
   {
-    "name": "Blue 21",
-    "hex": "#aacde6",
+    "name": "Nebula Soft",
+    "hex": "#141b70",
     "category": "Blue"
   },
   {
-    "name": "Blue 23",
-    "hex": "#a0caee",
+    "name": "Silent Twilight",
+    "hex": "#1f2364",
     "category": "Blue"
   },
   {
-    "name": "Blue 22",
-    "hex": "#91c7fc",
+    "name": "Cloud Royal",
+    "hex": "#1b4368",
     "category": "Blue"
   },
   {
-    "name": "Blue 26",
-    "hex": "#96cbf6",
+    "name": "Deep Nebula",
+    "hex": "#132d6f",
     "category": "Blue"
   },
   {
-    "name": "Blue 24",
-    "hex": "#9aa8f2",
+    "name": "Sky Cosmic",
+    "hex": "#164c6c",
     "category": "Blue"
   },
   {
-    "name": "Blue 25",
-    "hex": "#98a9f3",
+    "name": "Ink Electric",
+    "hex": "#050b7c",
     "category": "Blue"
   },
   {
-    "name": "Blue 27",
-    "hex": "#9dbced",
+    "name": "Sapphire Vivid",
+    "hex": "#03427e",
     "category": "Blue"
   },
   {
-    "name": "Blue 29",
-    "hex": "#93aef7",
+    "name": "Serene Nebula",
+    "hex": "#1c3264",
     "category": "Blue"
   },
   {
-    "name": "Blue 31",
-    "hex": "#a0ccea",
+    "name": "Serene Ice",
+    "hex": "#1c2864",
     "category": "Blue"
   },
   {
-    "name": "Blue 28",
-    "hex": "#a6aee3",
+    "name": "Storm Elegant",
+    "hex": "#15466a",
     "category": "Blue"
   },
   {
-    "name": "Blue 30",
-    "hex": "#a3cfe6",
+    "name": "Frozen Twilight",
+    "hex": "#141e6b",
     "category": "Blue"
   },
   {
-    "name": "Blue 33",
-    "hex": "#a7cde2",
+    "name": "Twilight Shadow",
+    "hex": "#010d7d",
     "category": "Blue"
   },
   {
-    "name": "Blue 34",
-    "hex": "#94b9f4",
+    "name": "Elegant Sky",
+    "hex": "#13306a",
     "category": "Blue"
   },
   {
-    "name": "Blue 32",
-    "hex": "#8dcbfb",
+    "name": "Crystal Dusk",
+    "hex": "#144269",
     "category": "Blue"
   },
   {
-    "name": "Blue 35",
-    "hex": "#95c0f2",
+    "name": "Infinite Ocean",
+    "hex": "#1c2960",
     "category": "Blue"
   },
   {
-    "name": "Blue 36",
-    "hex": "#9faee7",
+    "name": "Electric Aquamarine",
+    "hex": "#143e66",
     "category": "Blue"
   },
   {
-    "name": "Blue 37",
-    "hex": "#9eb2e7",
+    "name": "Serene Cloud",
+    "hex": "#044b76",
     "category": "Blue"
   },
   {
-    "name": "Blue 38",
-    "hex": "#a0c7e5",
+    "name": "River Cosmic",
+    "hex": "#052375",
     "category": "Blue"
   },
   {
-    "name": "Blue 39",
-    "hex": "#96c8ee",
+    "name": "Tempest Infinite",
+    "hex": "#0a2c70",
     "category": "Blue"
   },
   {
-    "name": "Blue 40",
-    "hex": "#979ced",
+    "name": "Pure Night",
+    "hex": "#0a0d70",
     "category": "Blue"
   },
   {
-    "name": "Blue 41",
-    "hex": "#90bdf4",
+    "name": "Azure Infinite",
+    "hex": "#022d75",
     "category": "Blue"
   },
   {
-    "name": "Blue 42",
-    "hex": "#8db2f5",
+    "name": "Infinite Sapphire",
+    "hex": "#103e67",
     "category": "Blue"
   },
   {
-    "name": "Blue 43",
-    "hex": "#86bbfc",
+    "name": "Shadow Deepwater",
+    "hex": "#192c5e",
     "category": "Blue"
   },
   {
-    "name": "Blue 44",
-    "hex": "#959cec",
+    "name": "Silent Wave",
+    "hex": "#121463",
     "category": "Blue"
   },
   {
-    "name": "Blue 45",
-    "hex": "#99c0e8",
+    "name": "Hidden Ocean",
+    "hex": "#06216f",
     "category": "Blue"
   },
   {
-    "name": "Blue 46",
-    "hex": "#99aee6",
+    "name": "Cosmos Elegant",
+    "hex": "#08186d",
     "category": "Blue"
   },
   {
-    "name": "Blue 47",
-    "hex": "#85b8f8",
+    "name": "Cold Void",
+    "hex": "#07426d",
     "category": "Blue"
   },
   {
-    "name": "Blue 48",
-    "hex": "#858af6",
+    "name": "Ancient Deepwater",
+    "hex": "#143960",
     "category": "Blue"
   },
   {
-    "name": "Blue 49",
-    "hex": "#9095eb",
+    "name": "Pure Cloud",
+    "hex": "#0f3364",
     "category": "Blue"
   },
   {
-    "name": "Blue 50",
-    "hex": "#9abae0",
+    "name": "Breeze Dark",
+    "hex": "#0d2862",
     "category": "Blue"
   },
   {
-    "name": "Blue 51",
-    "hex": "#7cc1fa",
+    "name": "Marine Luminous",
+    "hex": "#111d5d",
     "category": "Blue"
   },
   {
-    "name": "Blue 52",
-    "hex": "#888ced",
+    "name": "Topaz Dark",
+    "hex": "#0c2060",
     "category": "Blue"
   },
   {
-    "name": "Blue 53",
-    "hex": "#8091f4",
+    "name": "Horizon Midnight",
+    "hex": "#0f355c",
     "category": "Blue"
   },
   {
-    "name": "Blue 54",
-    "hex": "#84acef",
+    "name": "Ink Crystal",
+    "hex": "#053466",
     "category": "Blue"
   },
   {
-    "name": "Blue 55",
-    "hex": "#8586ed",
+    "name": "Calm Ink",
+    "hex": "#092562",
     "category": "Blue"
   },
   {
-    "name": "Blue 56",
-    "hex": "#82a9ef",
+    "name": "Eclipse Bright",
+    "hex": "#123459",
     "category": "Blue"
   },
   {
-    "name": "Blue 57",
-    "hex": "#75b2fc",
+    "name": "Deepwater Cold",
+    "hex": "#122757",
     "category": "Blue"
   },
   {
-    "name": "Blue 58",
-    "hex": "#8c9be3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 59",
-    "hex": "#76b6f7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 60",
-    "hex": "#8bbae2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 61",
-    "hex": "#8ab5e3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 62",
-    "hex": "#8ba9e1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 63",
-    "hex": "#839ae8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 64",
-    "hex": "#8893e2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 66",
-    "hex": "#839de7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 65",
-    "hex": "#769cf3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 68",
-    "hex": "#7abcee",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 67",
-    "hex": "#7f80e9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 69",
-    "hex": "#737cf3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 70",
-    "hex": "#7aa2eb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 71",
-    "hex": "#787eec",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 72",
-    "hex": "#7e80e5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 73",
-    "hex": "#85b0dd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 74",
-    "hex": "#83bcde",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 75",
-    "hex": "#8397dd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 76",
-    "hex": "#676df8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 77",
-    "hex": "#74adeb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 78",
-    "hex": "#666ef9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 79",
-    "hex": "#67b6f7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 80",
-    "hex": "#627bfc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 81",
-    "hex": "#707bee",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 82",
-    "hex": "#79ace3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 83",
-    "hex": "#708ceb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 84",
-    "hex": "#7ba9dc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 88",
-    "hex": "#7fa3d7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 85",
-    "hex": "#5ca5fa",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 86",
-    "hex": "#5cc1fa",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 90",
-    "hex": "#5f7ef6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 87",
-    "hex": "#73a4e2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 89",
-    "hex": "#6bbae9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 92",
-    "hex": "#5e90f5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 91",
-    "hex": "#71b3e2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 93",
-    "hex": "#509afc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 94",
-    "hex": "#63a6e9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 95",
-    "hex": "#66aee4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 96",
-    "hex": "#6370e6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 97",
-    "hex": "#61a1e8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 98",
-    "hex": "#6278e6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 99",
-    "hex": "#6d96da",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 100",
-    "hex": "#497afd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 101",
-    "hex": "#53adf2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 102",
-    "hex": "#5da3e8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 103",
-    "hex": "#6b99da",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 104",
-    "hex": "#6f8fd6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 105",
-    "hex": "#53b7f2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 106",
-    "hex": "#579eed",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 107",
-    "hex": "#6fa8d5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 108",
-    "hex": "#5db0e5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 109",
-    "hex": "#4598fc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 110",
-    "hex": "#6574db",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 111",
-    "hex": "#4c66f3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 112",
-    "hex": "#6d6fcf",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 113",
-    "hex": "#4d68ef",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 114",
-    "hex": "#4674f5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 115",
-    "hex": "#438bf6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 116",
-    "hex": "#539ae6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 117",
-    "hex": "#5971df",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 118",
-    "hex": "#4192f7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 119",
-    "hex": "#577fdf",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 120",
-    "hex": "#5b83db",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 121",
-    "hex": "#5784de",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 123",
-    "hex": "#659ed0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 122",
-    "hex": "#64a5d0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 124",
-    "hex": "#4274f1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 125",
-    "hex": "#5182e0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 126",
-    "hex": "#46abe9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 127",
-    "hex": "#3c6bf3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 128",
-    "hex": "#3852f6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 129",
-    "hex": "#368ef8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 130",
-    "hex": "#527bd9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 132",
-    "hex": "#467ee5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 131",
-    "hex": "#58a4d3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 133",
-    "hex": "#538cd6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 137",
-    "hex": "#5a9ecc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 134",
-    "hex": "#41a7e5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 135",
-    "hex": "#307ef6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 136",
-    "hex": "#449ce2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 138",
-    "hex": "#419ee4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 140",
-    "hex": "#599dcc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 139",
-    "hex": "#3b40e9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 141",
-    "hex": "#4391e1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 142",
-    "hex": "#2544fe",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 143",
-    "hex": "#2a96f8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 144",
-    "hex": "#4596dc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 145",
-    "hex": "#2c8cf5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 147",
-    "hex": "#2f85f1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 146",
-    "hex": "#2336fc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 148",
-    "hex": "#2d56f2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 149",
-    "hex": "#3b70e4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 150",
-    "hex": "#3253ec",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 151",
-    "hex": "#2949f4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 152",
-    "hex": "#4f55cc",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 153",
-    "hex": "#2d45ee",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 154",
-    "hex": "#3d63de",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 155",
-    "hex": "#325ee8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 156",
-    "hex": "#3882e1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 157",
-    "hex": "#516fc8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 159",
-    "hex": "#4b75cd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 158",
-    "hex": "#2d70eb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 160",
-    "hex": "#3d70db",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 161",
-    "hex": "#4885cf",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 162",
-    "hex": "#4f76c8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 163",
-    "hex": "#2a69ed",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 164",
-    "hex": "#249cf3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 165",
-    "hex": "#3c9cd9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 166",
-    "hex": "#2643ef",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 167",
-    "hex": "#1a37f8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 168",
-    "hex": "#1472fe",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 169",
-    "hex": "#224cee",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 170",
-    "hex": "#4146ce",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 171",
-    "hex": "#2589ea",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 172",
-    "hex": "#2a75e5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 173",
-    "hex": "#171bf7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 174",
-    "hex": "#2071ed",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 175",
-    "hex": "#3966d4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 176",
-    "hex": "#1766f4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 177",
-    "hex": "#2b51df",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 179",
-    "hex": "#0ca3fd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 178",
-    "hex": "#177ef2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 180",
-    "hex": "#1386f5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 181",
-    "hex": "#098dfe",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 182",
-    "hex": "#1c56eb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 183",
-    "hex": "#4056c6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 184",
-    "hex": "#267ade",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 185",
-    "hex": "#1e8be4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 186",
-    "hex": "#0754fa",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 187",
-    "hex": "#2334dd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 188",
-    "hex": "#2022df",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 189",
-    "hex": "#0d6bf2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 190",
-    "hex": "#3b70c0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 191",
-    "hex": "#0430f5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 192",
-    "hex": "#346ac5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 193",
-    "hex": "#3055c7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 194",
-    "hex": "#1042e6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 195",
-    "hex": "#0348f2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 196",
-    "hex": "#1128e3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 197",
-    "hex": "#2f3dc3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 198",
-    "hex": "#3b54b6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 199",
-    "hex": "#1655db",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 200",
-    "hex": "#1b37d6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 201",
-    "hex": "#0f7fe0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 203",
-    "hex": "#2875c6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 202",
-    "hex": "#2a82c3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 204",
-    "hex": "#005fea",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 205",
-    "hex": "#2f6fbb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 206",
-    "hex": "#3887b1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 207",
-    "hex": "#1f76c9",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 208",
-    "hex": "#3234b5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 209",
-    "hex": "#1870cb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 210",
-    "hex": "#1371d0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 211",
-    "hex": "#2123c2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 212",
-    "hex": "#020ae0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 213",
-    "hex": "#1c43c5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 214",
-    "hex": "#2d7db3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 216",
-    "hex": "#0a0fd5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 217",
-    "hex": "#3875a7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 218",
-    "hex": "#0225dd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 215",
-    "hex": "#0b5fd3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 220",
-    "hex": "#0c72d1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 219",
-    "hex": "#0b10d2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 222",
-    "hex": "#1575c7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 221",
-    "hex": "#2774b4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 223",
-    "hex": "#2c7daf",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 224",
-    "hex": "#156dc5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 225",
-    "hex": "#1351c7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 226",
-    "hex": "#0b52ce",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 227",
-    "hex": "#2e72a7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 228",
-    "hex": "#0e55c7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 229",
-    "hex": "#1023c4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 230",
-    "hex": "#106ac4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 231",
-    "hex": "#1a5db8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 232",
-    "hex": "#1a3db6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 233",
-    "hex": "#1c6db3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 234",
-    "hex": "#1c57b3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 235",
-    "hex": "#1869b7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 236",
-    "hex": "#1120be",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 237",
-    "hex": "#0d36c0",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 238",
-    "hex": "#1436b7",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 239",
-    "hex": "#0f65bb",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 240",
-    "hex": "#1b36ae",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 241",
-    "hex": "#315c97",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 242",
-    "hex": "#1224b3",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 243",
-    "hex": "#1a21ab",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 244",
-    "hex": "#256d9a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 245",
-    "hex": "#0157bd",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 247",
-    "hex": "#0419ba",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 246",
-    "hex": "#205a9d",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 248",
-    "hex": "#284295",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 249",
-    "hex": "#0407b8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 250",
-    "hex": "#1646a5",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 251",
-    "hex": "#233698",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 252",
-    "hex": "#283692",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 253",
-    "hex": "#0e64aa",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 254",
-    "hex": "#0e32a8",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 255",
-    "hex": "#202c95",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 256",
-    "hex": "#275f8e",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 258",
-    "hex": "#0d56a6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 257",
-    "hex": "#24618f",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 259",
-    "hex": "#0c27a6",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 260",
-    "hex": "#17449b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 263",
-    "hex": "#154b9c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 261",
-    "hex": "#0f56a2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 262",
-    "hex": "#1c3694",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 264",
-    "hex": "#294f87",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 265",
-    "hex": "#1f4c90",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 266",
-    "hex": "#23648b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 267",
-    "hex": "#0c47a2",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 268",
-    "hex": "#0a2ca4",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 269",
-    "hex": "#1e3990",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 271",
-    "hex": "#172a96",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 272",
-    "hex": "#245189",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 270",
-    "hex": "#022bab",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 275",
-    "hex": "#0f339c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 273",
-    "hex": "#1b4a90",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 274",
-    "hex": "#122699",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 276",
-    "hex": "#0e5e9b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 277",
-    "hex": "#216388",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 278",
-    "hex": "#0f2e98",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 279",
-    "hex": "#053ca1",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 280",
-    "hex": "#29397c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 283",
-    "hex": "#15358f",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 284",
-    "hex": "#0f6694",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 281",
-    "hex": "#131990",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 282",
-    "hex": "#0c2f97",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 285",
-    "hex": "#064c9b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 286",
-    "hex": "#04229d",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 287",
-    "hex": "#104090",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 288",
-    "hex": "#172d89",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 289",
-    "hex": "#0b1e95",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 290",
-    "hex": "#074f98",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 291",
-    "hex": "#202f7e",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 292",
-    "hex": "#0a6494",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 293",
-    "hex": "#0b3f93",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 294",
-    "hex": "#03439b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 295",
-    "hex": "#0c4f8f",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 296",
-    "hex": "#135987",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 297",
-    "hex": "#0f578a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 298",
-    "hex": "#024096",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 299",
-    "hex": "#262972",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 300",
-    "hex": "#053593",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 301",
-    "hex": "#1b4d7d",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 302",
-    "hex": "#0b1e89",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 303",
-    "hex": "#203474",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 304",
-    "hex": "#123982",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 306",
-    "hex": "#0f5384",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 307",
-    "hex": "#0f4c84",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 305",
-    "hex": "#1c4a77",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 308",
-    "hex": "#0b2a87",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 309",
-    "hex": "#01328f",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 310",
-    "hex": "#14487c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 311",
-    "hex": "#020f8b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 312",
-    "hex": "#21476b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 313",
-    "hex": "#11467b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 314",
-    "hex": "#062c84",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 315",
-    "hex": "#1f4b6a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 316",
-    "hex": "#173d71",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 317",
-    "hex": "#1e4268",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 318",
-    "hex": "#104f76",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 319",
-    "hex": "#103b75",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 320",
-    "hex": "#040d80",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 321",
-    "hex": "#013882",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 323",
-    "hex": "#1f3663",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 322",
-    "hex": "#15356c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 324",
-    "hex": "#081d78",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 325",
-    "hex": "#1a1a66",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 326",
-    "hex": "#1d2162",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 327",
-    "hex": "#12406c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 328",
-    "hex": "#061577",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 329",
-    "hex": "#1c3a60",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 330",
-    "hex": "#092873",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 332",
-    "hex": "#111d6a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 331",
-    "hex": "#121b69",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 333",
-    "hex": "#171d63",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 334",
-    "hex": "#0c3e6e",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 335",
-    "hex": "#021276",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 336",
-    "hex": "#0f2168",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 337",
-    "hex": "#1c205b",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 338",
-    "hex": "#114166",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 340",
-    "hex": "#021572",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 339",
-    "hex": "#1b3b59",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 341",
-    "hex": "#19265a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 342",
-    "hex": "#073a6a",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 343",
-    "hex": "#121d5e",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 344",
-    "hex": "#0e3361",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 345",
-    "hex": "#1b2e54",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 346",
-    "hex": "#012f6e",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 348",
-    "hex": "#072766",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 347",
-    "hex": "#082465",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 349",
-    "hex": "#01186c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 350",
-    "hex": "#0e125c",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 351",
-    "hex": "#071562",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 353",
-    "hex": "#182450",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 352",
-    "hex": "#0a115d",
-    "category": "Blue"
-  },
-  {
-    "name": "Blue 354",
-    "hex": "#013466",
+    "name": "Dark Twilight",
+    "hex": "#132953",
     "category": "Blue"
   }
 ]

@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Warm Peony",
-    "hex": "#fce8ec",
+    "name": "Light Crystal",
+    "hex": "#fde5ef",
     "category": "Pink"
   },
   {
-    "name": "Sweet Cherry",
-    "hex": "#fee4fc",
+    "name": "Lovely Tulip",
+    "hex": "#f8e9ef",
     "category": "Pink"
   },
   {
-    "name": "Bright Flamingo",
-    "hex": "#fde4eb",
+    "name": "Magical Cherry Blossom",
+    "hex": "#fae7ef",
     "category": "Pink"
   },
   {
-    "name": "Pastel Blush",
-    "hex": "#f9e7f8",
+    "name": "Strawberry Tender",
+    "hex": "#fbe6ea",
+    "category": "Pink"
+  },
+  {
+    "name": "Romance Pastel",
+    "hex": "#f8e9ec",
+    "category": "Pink"
+  },
+  {
+    "name": "Light Cotton",
+    "hex": "#fee3ef",
+    "category": "Pink"
+  },
+  {
+    "name": "Cream Bright",
+    "hex": "#fce5f8",
+    "category": "Pink"
+  },
+  {
+    "name": "Ribbon Heavenly",
+    "hex": "#f9e8f5",
+    "category": "Pink"
+  },
+  {
+    "name": "Magical Crystal",
+    "hex": "#f8e8ed",
+    "category": "Pink"
+  },
+  {
+    "name": "Gentle Tulip",
+    "hex": "#fce3f8",
+    "category": "Pink"
+  },
+  {
+    "name": "Soft Cherry Blossom",
+    "hex": "#fde1ed",
+    "category": "Pink"
+  },
+  {
+    "name": "Sweet Flower",
+    "hex": "#f6e7f4",
+    "category": "Pink"
+  },
+  {
+    "name": "Marshmallow Delicate",
+    "hex": "#fedfe8",
+    "category": "Pink"
+  },
+  {
+    "name": "Rosewood Pastel",
+    "hex": "#fedef0",
+    "category": "Pink"
+  },
+  {
+    "name": "Cream Beautiful",
+    "hex": "#fbe1e9",
+    "category": "Pink"
+  },
+  {
+    "name": "Vivid Coral",
+    "hex": "#fedef1",
+    "category": "Pink"
+  },
+  {
+    "name": "Soft Flower",
+    "hex": "#fae1eb",
     "category": "Pink"
   },
   {
     "name": "Sweet Cotton",
-    "hex": "#fce3f0",
+    "hex": "#f6e5ee",
     "category": "Pink"
   },
   {
-    "name": "Sweet Blush",
-    "hex": "#fde1fa",
+    "name": "Magical Lace",
+    "hex": "#f9e1ee",
     "category": "Pink"
   },
   {
-    "name": "Dream Bubblegum",
-    "hex": "#fedfe5",
+    "name": "Gentle Rose",
+    "hex": "#f6e3f5",
     "category": "Pink"
   },
   {
-    "name": "Bright Bubblegum",
-    "hex": "#f8e3f4",
+    "name": "Elegant Cloud",
+    "hex": "#fddcf2",
     "category": "Pink"
   },
   {
-    "name": "Soft Flamingo",
-    "hex": "#f9e0ee",
+    "name": "Warm Dawn",
+    "hex": "#fbddf2",
     "category": "Pink"
   },
   {
-    "name": "Sweet Bubblegum",
-    "hex": "#f9e0ef",
+    "name": "Lovely Peach",
+    "hex": "#f5e3e8",
     "category": "Pink"
   },
   {
-    "name": "Warm Bubblegum",
-    "hex": "#fcdde4",
+    "name": "Classic Romance",
+    "hex": "#f8e0f8",
     "category": "Pink"
   },
   {
-    "name": "Soft Peony",
-    "hex": "#fbdcfa",
+    "name": "Silk Graceful",
+    "hex": "#f5e2eb",
     "category": "Pink"
   },
   {
-    "name": "Sweet Flamingo",
-    "hex": "#f6e0ef",
+    "name": "Salmon Tender",
+    "hex": "#fddae4",
     "category": "Pink"
   },
   {
-    "name": "Dream Rose",
-    "hex": "#f7dfeb",
+    "name": "Fairy Cupid",
+    "hex": "#fed8f9",
     "category": "Pink"
   },
   {
-    "name": "Dream Bloom",
-    "hex": "#f6dee5",
+    "name": "Azalea Light",
+    "hex": "#f9dce8",
     "category": "Pink"
   },
   {
-    "name": "Soft Bloom",
-    "hex": "#f6ddeb",
+    "name": "Candy Pure",
+    "hex": "#f7def4",
     "category": "Pink"
   },
   {
-    "name": "Pastel Cotton",
-    "hex": "#f5dee7",
+    "name": "Velvet Velvet",
+    "hex": "#fcd9e7",
     "category": "Pink"
   },
   {
-    "name": "Bright Bloom",
-    "hex": "#f8dbf0",
+    "name": "Light Flower",
+    "hex": "#fcd9f6",
     "category": "Pink"
   },
   {
-    "name": "Bright Blush",
-    "hex": "#fcd6ea",
+    "name": "Cute Ribbon",
+    "hex": "#fadae3",
     "category": "Pink"
   },
   {
-    "name": "Soft Bubblegum",
-    "hex": "#fbd7f0",
+    "name": "Cotton Magical",
+    "hex": "#ffd2fd",
     "category": "Pink"
   },
   {
-    "name": "Dream Peony",
-    "hex": "#f6daee",
+    "name": "Classic Love",
+    "hex": "#fbd6dc",
     "category": "Pink"
   },
   {
-    "name": "Soft Cotton",
-    "hex": "#fed2e5",
+    "name": "Marshmallow Dream",
+    "hex": "#f4dcef",
     "category": "Pink"
   },
   {
-    "name": "Warm Bloom",
-    "hex": "#f5dae6",
+    "name": "Bubblegum Soft",
+    "hex": "#fbd5fa",
     "category": "Pink"
   },
   {
-    "name": "Pastel Cherry",
-    "hex": "#fcd3fa",
+    "name": "Cherry Blossom Glowing",
+    "hex": "#f5daf3",
     "category": "Pink"
   },
   {
-    "name": "Bright Cotton",
-    "hex": "#ffd0e1",
+    "name": "Dawn Sweet",
+    "hex": "#fdd2e1",
+    "category": "Pink"
+  },
+  {
+    "name": "Sweet Cherry",
+    "hex": "#fbd4e5",
+    "category": "Pink"
+  },
+  {
+    "name": "Beautiful Watermelon",
+    "hex": "#f2dce9",
+    "category": "Pink"
+  },
+  {
+    "name": "Marshmallow Romantic",
+    "hex": "#fdd0e0",
+    "category": "Pink"
+  },
+  {
+    "name": "Glowing Pearl",
+    "hex": "#f3d9e6",
+    "category": "Pink"
+  },
+  {
+    "name": "Lotus Radiant",
+    "hex": "#f5d6dd",
+    "category": "Pink"
+  },
+  {
+    "name": "Lovely Raspberry",
+    "hex": "#f7d3f3",
+    "category": "Pink"
+  },
+  {
+    "name": "Marshmallow Lovely",
+    "hex": "#f2d7ea",
+    "category": "Pink"
+  },
+  {
+    "name": "Sakura Radiant",
+    "hex": "#facdd7",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Sunrise",
+    "hex": "#f5d1e0",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Crystal",
+    "hex": "#fccaeb",
+    "category": "Pink"
+  },
+  {
+    "name": "Delicate Sakura",
+    "hex": "#f6cfdb",
+    "category": "Pink"
+  },
+  {
+    "name": "Luminous Cupid",
+    "hex": "#fcc9df",
+    "category": "Pink"
+  },
+  {
+    "name": "Cloud Pastel",
+    "hex": "#fbc9e5",
+    "category": "Pink"
+  },
+  {
+    "name": "Graceful Watermelon",
+    "hex": "#fec5db",
+    "category": "Pink"
+  },
+  {
+    "name": "Blushing Sugar",
+    "hex": "#f3cff2",
+    "category": "Pink"
+  },
+  {
+    "name": "Soft Watermelon",
+    "hex": "#fdc4d0",
+    "category": "Pink"
+  },
+  {
+    "name": "Warm Sunrise",
+    "hex": "#f3cdda",
+    "category": "Pink"
+  },
+  {
+    "name": "Cute Milkshake",
+    "hex": "#f9c7eb",
+    "category": "Pink"
+  },
+  {
+    "name": "Elegant Lotus",
+    "hex": "#f5cbee",
+    "category": "Pink"
+  },
+  {
+    "name": "Tender Sakura",
+    "hex": "#efd0e9",
+    "category": "Pink"
+  },
+  {
+    "name": "Fairy Blush",
+    "hex": "#fbc4da",
+    "category": "Pink"
+  },
+  {
+    "name": "Blush Elegant",
+    "hex": "#fdc1cc",
+    "category": "Pink"
+  },
+  {
+    "name": "Gentle Candy",
+    "hex": "#fac4f5",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Sugar",
+    "hex": "#fac4e8",
+    "category": "Pink"
+  },
+  {
+    "name": "Charming Cherry",
+    "hex": "#fac3e5",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Azalea",
+    "hex": "#fbc2d4",
+    "category": "Pink"
+  },
+  {
+    "name": "Sweet Sugar",
+    "hex": "#fac2dc",
+    "category": "Pink"
+  },
+  {
+    "name": "Sugar Beautiful",
+    "hex": "#f3c9ee",
+    "category": "Pink"
+  },
+  {
+    "name": "Lovely Pearl",
+    "hex": "#f9c2df",
+    "category": "Pink"
+  },
+  {
+    "name": "Silky Rose",
+    "hex": "#febdcc",
+    "category": "Pink"
+  },
+  {
+    "name": "Magical Bloom",
+    "hex": "#f9c1e9",
+    "category": "Pink"
+  },
+  {
+    "name": "Magical Sakura",
+    "hex": "#f3c6dd",
+    "category": "Pink"
+  },
+  {
+    "name": "Charming Rosewood",
+    "hex": "#fdbbd3",
     "category": "Pink"
   },
   {
     "name": "Warm Flamingo",
-    "hex": "#f9d5e5",
+    "hex": "#f4c3ef",
     "category": "Pink"
   },
   {
-    "name": "Sweet Bloom",
-    "hex": "#f2dbe0",
+    "name": "Vivid Sunrise",
+    "hex": "#eccbdf",
     "category": "Pink"
   },
   {
-    "name": "Soft Blush",
-    "hex": "#f9d3ed",
+    "name": "Heavenly Cotton",
+    "hex": "#f1c3ee",
     "category": "Pink"
   },
   {
-    "name": "Warm Cotton",
-    "hex": "#f4d7e1",
+    "name": "Blossom Fresh",
+    "hex": "#f1c2e7",
     "category": "Pink"
   },
   {
-    "name": "Bright Peony",
-    "hex": "#f4d7ee",
+    "name": "Romance Silky",
+    "hex": "#ebc7e1",
     "category": "Pink"
   },
   {
-    "name": "Sweet Rose",
-    "hex": "#f7d4ec",
+    "name": "Tulip Fresh",
+    "hex": "#f6bbc7",
     "category": "Pink"
   },
   {
-    "name": "Pastel Peony",
-    "hex": "#fccdef",
+    "name": "Charming Ribbon",
+    "hex": "#fab7f6",
     "category": "Pink"
   },
   {
-    "name": "Pastel Bubblegum",
-    "hex": "#fdcbf2",
+    "name": "Rosewood Light",
+    "hex": "#f9b8d8",
     "category": "Pink"
   },
   {
-    "name": "Pastel Flamingo",
-    "hex": "#f3d5dc",
+    "name": "Romantic Crystal",
+    "hex": "#efc2d3",
     "category": "Pink"
   },
   {
-    "name": "Dream Flamingo",
-    "hex": "#f7d0e4",
+    "name": "Magical Marshmallow",
+    "hex": "#f1bfed",
     "category": "Pink"
   },
   {
-    "name": "Dream Blush",
-    "hex": "#f6d1d8",
+    "name": "Radiant Petal",
+    "hex": "#fab6d2",
     "category": "Pink"
   },
   {
-    "name": "Pastel Bloom",
-    "hex": "#faccf2",
+    "name": "Charming Dawn",
+    "hex": "#f6bae9",
     "category": "Pink"
   },
   {
-    "name": "Dream Cherry",
-    "hex": "#f9ccf5",
+    "name": "Blossom Pastel",
+    "hex": "#f8b7f5",
     "category": "Pink"
   },
   {
-    "name": "Dream Cotton",
-    "hex": "#f1d2e6",
+    "name": "Delicate Fairy",
+    "hex": "#f5b9e9",
     "category": "Pink"
   },
   {
-    "name": "Sweet Peony",
-    "hex": "#f9cadf",
+    "name": "Petal Cute",
+    "hex": "#fcb1c2",
     "category": "Pink"
   },
   {
-    "name": "Pastel Rose",
-    "hex": "#f5cef3",
+    "name": "Vivid Marshmallow",
+    "hex": "#feaed5",
     "category": "Pink"
   },
   {
-    "name": "Warm Blush",
-    "hex": "#f0d3e5",
+    "name": "Angel Luxury",
+    "hex": "#fdaef4",
     "category": "Pink"
   },
   {
-    "name": "Pink 1",
-    "hex": "#f4cef2",
+    "name": "Charming Angel",
+    "hex": "#feace8",
     "category": "Pink"
   },
   {
-    "name": "Pink 2",
-    "hex": "#f7cbe7",
+    "name": "Silky Guava",
+    "hex": "#eac0ca",
     "category": "Pink"
   },
   {
-    "name": "Pink 3",
-    "hex": "#f7cae9",
+    "name": "Heavenly Blush",
+    "hex": "#f4b5d4",
     "category": "Pink"
   },
   {
-    "name": "Pink 4",
-    "hex": "#fdc4cf",
+    "name": "Cherry Fresh",
+    "hex": "#ffaaeb",
     "category": "Pink"
   },
   {
-    "name": "Pink 5",
-    "hex": "#fac6de",
+    "name": "Vanilla Vivid",
+    "hex": "#f2b5ce",
     "category": "Pink"
   },
   {
-    "name": "Pink 6",
-    "hex": "#f3cae7",
+    "name": "Fairy Guava",
+    "hex": "#ffa8d1",
     "category": "Pink"
   },
   {
-    "name": "Pink 7",
-    "hex": "#f7c6f2",
+    "name": "Azalea Magical",
+    "hex": "#fda9fa",
     "category": "Pink"
   },
   {
-    "name": "Pink 8",
-    "hex": "#fcc1d9",
+    "name": "Strawberry Fresh",
+    "hex": "#efb6c1",
     "category": "Pink"
   },
   {
-    "name": "Pink 9",
-    "hex": "#fcc0ce",
+    "name": "Crystal Heavenly",
+    "hex": "#fbaaf4",
     "category": "Pink"
   },
   {
-    "name": "Pink 10",
-    "hex": "#f2cad3",
+    "name": "Heavenly Guava",
+    "hex": "#ebb9c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 11",
-    "hex": "#fdbee3",
+    "name": "Love Radiant",
+    "hex": "#e6bddb",
     "category": "Pink"
   },
   {
-    "name": "Pink 12",
-    "hex": "#f0cbda",
+    "name": "Lovely Salmon",
+    "hex": "#f5aed2",
     "category": "Pink"
   },
   {
-    "name": "Pink 13",
-    "hex": "#f0cad4",
+    "name": "Romance Bright",
+    "hex": "#e9bacc",
     "category": "Pink"
   },
   {
-    "name": "Pink 14",
-    "hex": "#edccd8",
+    "name": "Cloud Pure",
+    "hex": "#e8bae5",
     "category": "Pink"
   },
   {
-    "name": "Pink 15",
-    "hex": "#ffbaf2",
+    "name": "Vivid Milkshake",
+    "hex": "#ebb7d3",
     "category": "Pink"
   },
   {
-    "name": "Pink 16",
-    "hex": "#f5c1d1",
+    "name": "Velvet Coral",
+    "hex": "#f0b2c6",
     "category": "Pink"
   },
   {
-    "name": "Pink 17",
-    "hex": "#ffb7c4",
+    "name": "Sweet Bubblegum",
+    "hex": "#f2afd8",
     "category": "Pink"
   },
   {
-    "name": "Pink 18",
-    "hex": "#f6c0d4",
+    "name": "Cherry Blossom Dream",
+    "hex": "#f0b1e3",
     "category": "Pink"
   },
   {
-    "name": "Pink 19",
-    "hex": "#f3c1e8",
+    "name": "Silky Magnolia",
+    "hex": "#ecb4d8",
     "category": "Pink"
   },
   {
-    "name": "Pink 20",
-    "hex": "#f8bbc9",
+    "name": "Gentle Bubblegum",
+    "hex": "#f0b0e6",
     "category": "Pink"
   },
   {
-    "name": "Pink 21",
-    "hex": "#f0c3d0",
+    "name": "Guava Luxury",
+    "hex": "#f0b0f0",
     "category": "Pink"
   },
   {
-    "name": "Pink 22",
-    "hex": "#fab8cf",
+    "name": "Fairy Flower",
+    "hex": "#f9a6d6",
     "category": "Pink"
   },
   {
-    "name": "Pink 23",
-    "hex": "#f2c0d7",
+    "name": "Tender Cloud",
+    "hex": "#ecb3df",
     "category": "Pink"
   },
   {
-    "name": "Pink 24",
-    "hex": "#efbfe5",
+    "name": "Raspberry Gentle",
+    "hex": "#fba3f1",
     "category": "Pink"
   },
   {
-    "name": "Pink 26",
-    "hex": "#fdafc5",
+    "name": "Berry Graceful",
+    "hex": "#efafc4",
     "category": "Pink"
   },
   {
-    "name": "Pink 27",
-    "hex": "#ffadfd",
+    "name": "Salmon Gentle",
+    "hex": "#e7b7e2",
     "category": "Pink"
   },
   {
-    "name": "Pink 25",
-    "hex": "#e9c3e8",
+    "name": "Salmon Lovely",
+    "hex": "#fba2f7",
     "category": "Pink"
   },
   {
-    "name": "Pink 28",
-    "hex": "#f2b8e6",
+    "name": "Blushing Flower",
+    "hex": "#f8a3ca",
     "category": "Pink"
   },
   {
-    "name": "Pink 29",
-    "hex": "#eabdc7",
+    "name": "Cherry Elegant",
+    "hex": "#f5a6c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 30",
-    "hex": "#ecbbdf",
+    "name": "Marshmallow Luminous",
+    "hex": "#efaccb",
     "category": "Pink"
   },
   {
-    "name": "Pink 31",
-    "hex": "#f4b3d9",
+    "name": "Cute Sugar",
+    "hex": "#e7b4c9",
     "category": "Pink"
   },
   {
-    "name": "Pink 32",
-    "hex": "#eeb9d5",
+    "name": "Strawberry Romantic",
+    "hex": "#eeacea",
     "category": "Pink"
   },
   {
-    "name": "Pink 33",
-    "hex": "#f7aee0",
+    "name": "Vanilla Pure",
+    "hex": "#e8b1d3",
     "category": "Pink"
   },
   {
-    "name": "Pink 34",
-    "hex": "#f5ace6",
+    "name": "Pearl Light",
+    "hex": "#eeabdb",
     "category": "Pink"
   },
   {
-    "name": "Pink 35",
-    "hex": "#f1b0d3",
+    "name": "Coral Elegant",
+    "hex": "#eaafcc",
     "category": "Pink"
   },
   {
-    "name": "Pink 36",
-    "hex": "#e8b9e5",
+    "name": "Bloom Velvet",
+    "hex": "#fb9db6",
     "category": "Pink"
   },
   {
-    "name": "Pink 37",
-    "hex": "#f2aede",
+    "name": "Marshmallow Tender",
+    "hex": "#fa9dd7",
     "category": "Pink"
   },
   {
-    "name": "Pink 38",
-    "hex": "#f5aaeb",
+    "name": "Fairy Candy",
+    "hex": "#eca9da",
     "category": "Pink"
   },
   {
-    "name": "Pink 39",
-    "hex": "#f0aedd",
+    "name": "Glowing Silk",
+    "hex": "#f99cad",
     "category": "Pink"
   },
   {
-    "name": "Pink 40",
-    "hex": "#f5a9d8",
+    "name": "Salmon Pastel",
+    "hex": "#f5a0b5",
     "category": "Pink"
   },
   {
-    "name": "Pink 41",
-    "hex": "#fba2c2",
+    "name": "Dream Pearl",
+    "hex": "#f79bdc",
     "category": "Pink"
   },
   {
-    "name": "Pink 42",
-    "hex": "#e8b4c3",
+    "name": "Luminous Carnation",
+    "hex": "#ff92c0",
     "category": "Pink"
   },
   {
-    "name": "Pink 43",
-    "hex": "#ebb0d7",
+    "name": "Fairy Pure",
+    "hex": "#f49cc5",
     "category": "Pink"
   },
   {
-    "name": "Pink 44",
-    "hex": "#e4b7cc",
+    "name": "Dream Carnation",
+    "hex": "#f39dac",
     "category": "Pink"
   },
   {
-    "name": "Pink 45",
-    "hex": "#e4b6c3",
+    "name": "Pure Sakura",
+    "hex": "#e8a8cd",
     "category": "Pink"
   },
   {
-    "name": "Pink 46",
-    "hex": "#e6b3cb",
+    "name": "Fairy Dawn",
+    "hex": "#ee9fee",
     "category": "Pink"
   },
   {
-    "name": "Pink 47",
-    "hex": "#f3a5da",
+    "name": "Lotus Elegant",
+    "hex": "#e7a6c4",
     "category": "Pink"
   },
   {
-    "name": "Pink 48",
-    "hex": "#f6a1ba",
+    "name": "Raspberry Lovely",
+    "hex": "#eba2b5",
     "category": "Pink"
   },
   {
-    "name": "Pink 49",
-    "hex": "#eea8b7",
+    "name": "Luxury Dawn",
+    "hex": "#ee9eb0",
     "category": "Pink"
   },
   {
-    "name": "Pink 50",
-    "hex": "#eea7e0",
+    "name": "Velvet Flamingo",
+    "hex": "#f29ad2",
     "category": "Pink"
   },
   {
-    "name": "Pink 51",
-    "hex": "#e5aec4",
+    "name": "Romantic Cherry",
+    "hex": "#e0aab5",
     "category": "Pink"
   },
   {
-    "name": "Pink 52",
-    "hex": "#fc96fa",
+    "name": "Cute Flower",
+    "hex": "#ef9bdc",
     "category": "Pink"
   },
   {
-    "name": "Pink 53",
-    "hex": "#fb97ed",
+    "name": "Blushing Carnation",
+    "hex": "#ee9bcf",
     "category": "Pink"
   },
   {
-    "name": "Pink 54",
-    "hex": "#f798dc",
+    "name": "Dawn Charming",
+    "hex": "#f395ed",
     "category": "Pink"
   },
   {
-    "name": "Pink 55",
-    "hex": "#e2acbe",
+    "name": "Cherry Charming",
+    "hex": "#e0a8c3",
     "category": "Pink"
   },
   {
-    "name": "Pink 57",
-    "hex": "#ef9fc1",
+    "name": "Raspberry Glowing",
+    "hex": "#e99fc1",
     "category": "Pink"
   },
   {
-    "name": "Pink 56",
-    "hex": "#f697c8",
+    "name": "Angel Magical",
+    "hex": "#f68ed3",
     "category": "Pink"
   },
   {
-    "name": "Pink 58",
-    "hex": "#f795f0",
+    "name": "Lotus Luxury",
+    "hex": "#dfa5b1",
     "category": "Pink"
   },
   {
-    "name": "Pink 59",
-    "hex": "#e0abda",
+    "name": "Bright Bubblegum",
+    "hex": "#e69dd4",
     "category": "Pink"
   },
   {
-    "name": "Pink 60",
-    "hex": "#e1aab7",
+    "name": "Love Magical",
+    "hex": "#f092ed",
     "category": "Pink"
   },
   {
-    "name": "Pink 61",
-    "hex": "#e3a7b7",
+    "name": "Carnation Light",
+    "hex": "#e59cb8",
     "category": "Pink"
   },
   {
-    "name": "Pink 62",
-    "hex": "#e8a2c5",
+    "name": "Sakura Romantic",
+    "hex": "#f091e1",
     "category": "Pink"
   },
   {
-    "name": "Pink 63",
-    "hex": "#e8a1dd",
+    "name": "Magnolia Cute",
+    "hex": "#f58cdf",
     "category": "Pink"
   },
   {
-    "name": "Pink 64",
-    "hex": "#e1a7c3",
+    "name": "Luxury Carnation",
+    "hex": "#f190b1",
     "category": "Pink"
   },
   {
-    "name": "Pink 65",
-    "hex": "#fe8af5",
+    "name": "Lovely Lotus",
+    "hex": "#e39dd3",
     "category": "Pink"
   },
   {
-    "name": "Pink 66",
-    "hex": "#e79ec1",
+    "name": "Blush Cute",
+    "hex": "#f986b1",
     "category": "Pink"
   },
   {
-    "name": "Pink 67",
-    "hex": "#e0a3be",
+    "name": "Guava Gentle",
+    "hex": "#ef90bf",
     "category": "Pink"
   },
   {
-    "name": "Pink 68",
-    "hex": "#dda6c5",
+    "name": "Graceful Azalea",
+    "hex": "#dda0b6",
     "category": "Pink"
   },
   {
-    "name": "Pink 69",
-    "hex": "#eb96d9",
+    "name": "Dream Sweet",
+    "hex": "#e39abd",
     "category": "Pink"
   },
   {
-    "name": "Pink 70",
-    "hex": "#eb95a8",
+    "name": "Cherry Blossom Luxury",
+    "hex": "#f784b9",
     "category": "Pink"
   },
   {
-    "name": "Pink 71",
-    "hex": "#fc82c1",
+    "name": "Dawn Fairy",
+    "hex": "#ed8eaa",
     "category": "Pink"
   },
   {
-    "name": "Pink 72",
-    "hex": "#e19dab",
+    "name": "Lovely Strawberry",
+    "hex": "#f586cc",
     "category": "Pink"
   },
   {
-    "name": "Pink 73",
-    "hex": "#dea0ae",
+    "name": "Heavenly Tulip",
+    "hex": "#fa80d9",
     "category": "Pink"
   },
   {
-    "name": "Pink 74",
-    "hex": "#f588be",
+    "name": "Berry Cute",
+    "hex": "#f882ea",
     "category": "Pink"
   },
   {
-    "name": "Pink 75",
-    "hex": "#f189c2",
+    "name": "Cotton Fresh",
+    "hex": "#e199b1",
     "category": "Pink"
   },
   {
-    "name": "Pink 76",
-    "hex": "#e793db",
+    "name": "Glowing Velvet",
+    "hex": "#ed8cbc",
     "category": "Pink"
   },
   {
-    "name": "Pink 77",
-    "hex": "#e991df",
+    "name": "Silk Lovely",
+    "hex": "#f187e8",
     "category": "Pink"
   },
   {
-    "name": "Pink 78",
-    "hex": "#ed88c2",
+    "name": "Rosewood Soft",
+    "hex": "#db9dc4",
     "category": "Pink"
   },
   {
-    "name": "Pink 79",
-    "hex": "#e094df",
+    "name": "Heavenly Cloud",
+    "hex": "#fb7dba",
     "category": "Pink"
   },
   {
-    "name": "Pink 80",
-    "hex": "#fb79b4",
+    "name": "Velvet Dawn",
+    "hex": "#f4839d",
     "category": "Pink"
   },
   {
-    "name": "Pink 81",
-    "hex": "#f57ef4",
+    "name": "Glowing Blossom",
+    "hex": "#e592d7",
     "category": "Pink"
   },
   {
-    "name": "Pink 82",
-    "hex": "#e88ab4",
+    "name": "Crystal Light",
+    "hex": "#fd79bf",
     "category": "Pink"
   },
   {
-    "name": "Pink 83",
-    "hex": "#fb75a8",
+    "name": "Cute Dawn",
+    "hex": "#e195af",
     "category": "Pink"
   },
   {
-    "name": "Pink 84",
-    "hex": "#d997b6",
+    "name": "Vanilla Warm",
+    "hex": "#fe77fb",
     "category": "Pink"
   },
   {
-    "name": "Pink 85",
-    "hex": "#de91ae",
+    "name": "Heavenly Bubblegum",
+    "hex": "#f97cb2",
     "category": "Pink"
   },
   {
-    "name": "Pink 86",
-    "hex": "#e08fbc",
+    "name": "Gentle Guava",
+    "hex": "#ee849c",
     "category": "Pink"
   },
   {
-    "name": "Pink 87",
-    "hex": "#f17ed5",
+    "name": "Gentle Strawberry",
+    "hex": "#ed84d1",
     "category": "Pink"
   },
   {
-    "name": "Pink 88",
-    "hex": "#f777cf",
+    "name": "Blush Pure",
+    "hex": "#ef80c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 89",
-    "hex": "#e48adc",
+    "name": "Blush Velvet",
+    "hex": "#df909d",
     "category": "Pink"
   },
   {
-    "name": "Pink 90",
-    "hex": "#f37ae2",
+    "name": "Peony Lovely",
+    "hex": "#ff6fa2",
     "category": "Pink"
   },
   {
-    "name": "Pink 91",
-    "hex": "#e984be",
+    "name": "Dream Romance",
+    "hex": "#ee80ab",
     "category": "Pink"
   },
   {
-    "name": "Pink 92",
-    "hex": "#f379e1",
+    "name": "Light Cream",
+    "hex": "#f07db5",
     "category": "Pink"
   },
   {
-    "name": "Pink 93",
-    "hex": "#dd8ea9",
+    "name": "Peach Radiant",
+    "hex": "#da93ab",
     "category": "Pink"
   },
   {
-    "name": "Pink 94",
-    "hex": "#e784aa",
+    "name": "Blush Bright",
+    "hex": "#f971d7",
     "category": "Pink"
   },
   {
-    "name": "Pink 95",
-    "hex": "#f477b8",
+    "name": "Fairy Angel",
+    "hex": "#e2889c",
     "category": "Pink"
   },
   {
-    "name": "Pink 96",
-    "hex": "#db8ed0",
+    "name": "Romantic Vanilla",
+    "hex": "#ef7aac",
     "category": "Pink"
   },
   {
-    "name": "Pink 97",
-    "hex": "#f47491",
+    "name": "Lace Sweet",
+    "hex": "#ea7d9c",
     "category": "Pink"
   },
   {
-    "name": "Pink 98",
-    "hex": "#e283b3",
+    "name": "Magical Angel",
+    "hex": "#de89a8",
     "category": "Pink"
   },
   {
-    "name": "Pink 99",
-    "hex": "#ec78a9",
+    "name": "Elegant Bubblegum",
+    "hex": "#de88b0",
     "category": "Pink"
   },
   {
-    "name": "Pink 100",
-    "hex": "#fe6592",
+    "name": "Rose Fairy",
+    "hex": "#d88ec2",
     "category": "Pink"
   },
   {
-    "name": "Pink 101",
-    "hex": "#dd85b3",
+    "name": "Cute Coral",
+    "hex": "#e87ebf",
     "category": "Pink"
   },
   {
-    "name": "Pink 102",
-    "hex": "#e979a8",
+    "name": "Fresh Bubblegum",
+    "hex": "#d78ec1",
     "category": "Pink"
   },
   {
-    "name": "Pink 103",
-    "hex": "#e280a3",
+    "name": "Bloom Warm",
+    "hex": "#e67ec4",
     "category": "Pink"
   },
   {
-    "name": "Pink 104",
-    "hex": "#d989c7",
+    "name": "Bright Velvet",
+    "hex": "#d78cc7",
     "category": "Pink"
   },
   {
-    "name": "Pink 105",
-    "hex": "#dc86a9",
+    "name": "Strawberry Luxury",
+    "hex": "#e2819c",
     "category": "Pink"
   },
   {
-    "name": "Pink 106",
-    "hex": "#dd8393",
+    "name": "Gentle Peony",
+    "hex": "#f86a8a",
     "category": "Pink"
   },
   {
-    "name": "Pink 107",
-    "hex": "#f867bd",
+    "name": "Light Cherry",
+    "hex": "#db87af",
     "category": "Pink"
   },
   {
-    "name": "Pink 108",
-    "hex": "#ed72a5",
+    "name": "Velvet Peach",
+    "hex": "#da88bc",
     "category": "Pink"
   },
   {
-    "name": "Pink 109",
-    "hex": "#ed728e",
+    "name": "Lace Magical",
+    "hex": "#db86c6",
     "category": "Pink"
   },
   {
-    "name": "Pink 110",
-    "hex": "#d589d5",
+    "name": "Bubblegum Dream",
+    "hex": "#ff62ab",
     "category": "Pink"
   },
   {
-    "name": "Pink 111",
-    "hex": "#f46a81",
+    "name": "Fresh Rose",
+    "hex": "#ff618f",
     "category": "Pink"
   },
   {
-    "name": "Pink 112",
-    "hex": "#df7faf",
+    "name": "Carnation Sweet",
+    "hex": "#eb74b8",
     "category": "Pink"
   },
   {
-    "name": "Pink 113",
-    "hex": "#f66883",
+    "name": "Tulip Pastel",
+    "hex": "#f06f85",
     "category": "Pink"
   },
   {
-    "name": "Pink 114",
-    "hex": "#db83bd",
+    "name": "Bubblegum Pure",
+    "hex": "#ea73c0",
     "category": "Pink"
   },
   {
-    "name": "Pink 115",
-    "hex": "#d984d0",
+    "name": "Love Cute",
+    "hex": "#ff5ee9",
     "category": "Pink"
   },
   {
-    "name": "Pink 116",
-    "hex": "#e379a3",
+    "name": "Cotton Pastel",
+    "hex": "#f16b92",
     "category": "Pink"
   },
   {
-    "name": "Pink 117",
-    "hex": "#e973dc",
+    "name": "Flamingo Blushing",
+    "hex": "#f26987",
     "category": "Pink"
   },
   {
-    "name": "Pink 118",
-    "hex": "#ef6cbe",
+    "name": "Gentle Salmon",
+    "hex": "#df7c8f",
     "category": "Pink"
   },
   {
-    "name": "Pink 119",
-    "hex": "#d4879e",
+    "name": "Fairy Gentle",
+    "hex": "#f9617e",
     "category": "Pink"
   },
   {
-    "name": "Pink 120",
-    "hex": "#ea70ca",
+    "name": "Warm Bubblegum",
+    "hex": "#d782a3",
     "category": "Pink"
   },
   {
-    "name": "Pink 121",
-    "hex": "#e970ae",
+    "name": "Peony Radiant",
+    "hex": "#ff5aec",
     "category": "Pink"
   },
   {
-    "name": "Pink 122",
-    "hex": "#dc7d95",
+    "name": "Pure Lace",
+    "hex": "#e277a7",
     "category": "Pink"
   },
   {
-    "name": "Pink 123",
-    "hex": "#ee6ace",
+    "name": "Flamingo Heavenly",
+    "hex": "#e078b0",
     "category": "Pink"
   },
   {
-    "name": "Pink 124",
-    "hex": "#fc5a98",
+    "name": "Guava Charming",
+    "hex": "#fa5dda",
     "category": "Pink"
   },
   {
-    "name": "Pink 125",
-    "hex": "#e0768a",
+    "name": "Soft Bubblegum",
+    "hex": "#d680be",
     "category": "Pink"
   },
   {
-    "name": "Pink 126",
-    "hex": "#db7ada",
+    "name": "Silky Sugar",
+    "hex": "#d67d94",
     "category": "Pink"
   },
   {
-    "name": "Pink 127",
-    "hex": "#e76c81",
+    "name": "Cute Crystal",
+    "hex": "#d18299",
     "category": "Pink"
   },
   {
-    "name": "Pink 129",
-    "hex": "#ef6387",
+    "name": "Fairy Bright",
+    "hex": "#ea68d4",
     "category": "Pink"
   },
   {
-    "name": "Pink 128",
-    "hex": "#db76da",
+    "name": "Lovely Watermelon",
+    "hex": "#ff53b1",
     "category": "Pink"
   },
   {
-    "name": "Pink 130",
-    "hex": "#e46cda",
+    "name": "Azalea Cute",
+    "hex": "#eb67b3",
     "category": "Pink"
   },
   {
-    "name": "Pink 131",
-    "hex": "#dc7390",
+    "name": "Lace Beautiful",
+    "hex": "#fd54ea",
     "category": "Pink"
   },
   {
-    "name": "Pink 132",
-    "hex": "#df70d0",
+    "name": "Marshmallow Radiant",
+    "hex": "#d180ba",
     "category": "Pink"
   },
   {
-    "name": "Pink 133",
-    "hex": "#fd51d8",
+    "name": "Elegant Ribbon",
+    "hex": "#df71cb",
     "category": "Pink"
   },
   {
-    "name": "Pink 134",
-    "hex": "#db73d7",
+    "name": "Cherry Lovely",
+    "hex": "#f85796",
     "category": "Pink"
   },
   {
-    "name": "Pink 135",
-    "hex": "#f35a96",
+    "name": "Rosewood Cute",
+    "hex": "#fd5193",
     "category": "Pink"
   },
   {
-    "name": "Pink 136",
+    "name": "Light Cherry Blossom",
+    "hex": "#fb53d0",
+    "category": "Pink"
+  },
+  {
+    "name": "Vanilla Sweet",
     "hex": "#dd6f9e",
     "category": "Pink"
   },
   {
-    "name": "Pink 137",
-    "hex": "#f05bb4",
+    "name": "Elegant Cherry Blossom",
+    "hex": "#e665c4",
     "category": "Pink"
   },
   {
-    "name": "Pink 138",
-    "hex": "#f259a7",
+    "name": "Azalea Heavenly",
+    "hex": "#df6cd5",
     "category": "Pink"
   },
   {
-    "name": "Pink 141",
-    "hex": "#ce7cb7",
+    "name": "Fresh Blush",
+    "hex": "#e1699e",
     "category": "Pink"
   },
   {
-    "name": "Pink 139",
-    "hex": "#d3778b",
+    "name": "Sweet Carnation",
+    "hex": "#e564b0",
     "category": "Pink"
   },
   {
-    "name": "Pink 140",
-    "hex": "#ea60d3",
+    "name": "Marshmallow Magical",
+    "hex": "#da6fc7",
     "category": "Pink"
   },
   {
-    "name": "Pink 142",
-    "hex": "#fc4d87",
+    "name": "Rosewood Warm",
+    "hex": "#f256d3",
     "category": "Pink"
   },
   {
-    "name": "Pink 143",
-    "hex": "#e563ae",
+    "name": "Strawberry Charming",
+    "hex": "#ec5bc4",
     "category": "Pink"
   },
   {
-    "name": "Pink 144",
-    "hex": "#d572d2",
+    "name": "Cute Velvet",
+    "hex": "#f94cda",
     "category": "Pink"
   },
   {
-    "name": "Pink 145",
-    "hex": "#fd498c",
+    "name": "Sweet Magnolia",
+    "hex": "#cd76cd",
     "category": "Pink"
   },
   {
-    "name": "Pink 147",
-    "hex": "#fc49aa",
+    "name": "Lovely Dawn",
+    "hex": "#f44fb7",
     "category": "Pink"
   },
   {
-    "name": "Pink 146",
-    "hex": "#d86cbe",
+    "name": "Carnation Cute",
+    "hex": "#e061af",
     "category": "Pink"
   },
   {
-    "name": "Pink 148",
-    "hex": "#d56eba",
+    "name": "Strawberry Delicate",
+    "hex": "#f051ac",
     "category": "Pink"
   },
   {
-    "name": "Pink 149",
-    "hex": "#e2609c",
+    "name": "Silk Fresh",
+    "hex": "#f24f87",
     "category": "Pink"
   },
   {
-    "name": "Pink 151",
-    "hex": "#ea5896",
+    "name": "Sweet Berry",
+    "hex": "#d070d0",
     "category": "Pink"
   },
   {
-    "name": "Pink 150",
-    "hex": "#f948ef",
+    "name": "Blossom Luxury",
+    "hex": "#fb45d5",
     "category": "Pink"
   },
   {
-    "name": "Pink 152",
-    "hex": "#db66bc",
+    "name": "Milkshake Romantic",
+    "hex": "#d16fbc",
     "category": "Pink"
   },
   {
-    "name": "Pink 153",
-    "hex": "#fd42a9",
+    "name": "Berry Classic",
+    "hex": "#f946e0",
     "category": "Pink"
   },
   {
-    "name": "Pink 154",
-    "hex": "#f04e93",
+    "name": "Tender Cupid",
+    "hex": "#da65d3",
     "category": "Pink"
   },
   {
-    "name": "Pink 155",
-    "hex": "#cd719c",
+    "name": "Cute Salmon",
+    "hex": "#d06eab",
     "category": "Pink"
   },
   {
-    "name": "Pink 156",
-    "hex": "#e459c4",
+    "name": "Graceful Romance",
+    "hex": "#d06e9e",
     "category": "Pink"
   },
   {
-    "name": "Pink 157",
-    "hex": "#fd40e6",
+    "name": "Carnation Fairy",
+    "hex": "#fb42ee",
     "category": "Pink"
   },
   {
-    "name": "Pink 158",
-    "hex": "#f6469c",
+    "name": "Angel Sweet",
+    "hex": "#e15bba",
     "category": "Pink"
   },
   {
-    "name": "Pink 159",
-    "hex": "#f943e6",
+    "name": "Velvet Vanilla",
+    "hex": "#e556a8",
     "category": "Pink"
   },
   {
-    "name": "Pink 160",
-    "hex": "#cc6f93",
+    "name": "Lotus Lovely",
+    "hex": "#df5cbe",
     "category": "Pink"
   },
   {
-    "name": "Pink 161",
-    "hex": "#ce6dca",
+    "name": "Glowing Dream",
+    "hex": "#cd6da8",
     "category": "Pink"
   },
   {
-    "name": "Pink 163",
-    "hex": "#db5e82",
+    "name": "Charming Strawberry",
+    "hex": "#e555a8",
     "category": "Pink"
   },
   {
-    "name": "Pink 162",
-    "hex": "#fb3ebc",
+    "name": "Blush Luminous",
+    "hex": "#f644c6",
     "category": "Pink"
   },
   {
-    "name": "Pink 164",
-    "hex": "#f840d7",
+    "name": "Tulip Charming",
+    "hex": "#d2677f",
     "category": "Pink"
   },
   {
-    "name": "Pink 166",
-    "hex": "#dd5a8e",
+    "name": "Luminous Flower",
+    "hex": "#eb4e6d",
     "category": "Pink"
   },
   {
-    "name": "Pink 167",
-    "hex": "#e156dd",
+    "name": "Berry Gentle",
+    "hex": "#ef48c6",
     "category": "Pink"
   },
   {
-    "name": "Pink 165",
-    "hex": "#fb3cc3",
+    "name": "Fresh Peach",
+    "hex": "#ff386b",
     "category": "Pink"
   },
   {
-    "name": "Pink 168",
-    "hex": "#d3627b",
+    "name": "Candy Beautiful",
+    "hex": "#cc69b8",
     "category": "Pink"
   },
   {
-    "name": "Pink 169",
-    "hex": "#e84d8d",
+    "name": "Marshmallow Cute",
+    "hex": "#ec496d",
     "category": "Pink"
   },
   {
-    "name": "Pink 170",
-    "hex": "#d85d72",
+    "name": "Magnolia Pure",
+    "hex": "#f93c9e",
     "category": "Pink"
   },
   {
-    "name": "Pink 171",
-    "hex": "#ec4785",
+    "name": "Tender Crystal",
+    "hex": "#fb3ad4",
     "category": "Pink"
   },
   {
-    "name": "Pink 172",
-    "hex": "#d55d74",
+    "name": "Lace Soft",
+    "hex": "#e351a7",
     "category": "Pink"
   },
   {
-    "name": "Pink 173",
-    "hex": "#d95989",
+    "name": "Marshmallow Heavenly",
+    "hex": "#e05396",
     "category": "Pink"
   },
   {
-    "name": "Pink 174",
-    "hex": "#e54c98",
+    "name": "Azalea Romantic",
+    "hex": "#c86ba9",
     "category": "Pink"
   },
   {
-    "name": "Pink 175",
-    "hex": "#df51d7",
+    "name": "Graceful Coral",
+    "hex": "#cf6483",
     "category": "Pink"
   },
   {
-    "name": "Pink 176",
-    "hex": "#e44c7f",
+    "name": "Fresh Tulip",
+    "hex": "#ca69b5",
     "category": "Pink"
   },
   {
-    "name": "Pink 177",
-    "hex": "#e04f9f",
+    "name": "Romance Heavenly",
+    "hex": "#eb48da",
     "category": "Pink"
   },
   {
-    "name": "Pink 178",
-    "hex": "#f23c95",
+    "name": "Pure Guava",
+    "hex": "#e64cd5",
     "category": "Pink"
   },
   {
-    "name": "Pink 179",
-    "hex": "#e24b9a",
+    "name": "Cherry Blossom Fairy",
+    "hex": "#cf637d",
     "category": "Pink"
   },
   {
-    "name": "Pink 180",
-    "hex": "#f03dee",
+    "name": "Fairy Milkshake",
+    "hex": "#ea48e9",
     "category": "Pink"
   },
   {
-    "name": "Pink 182",
-    "hex": "#ef3dc2",
+    "name": "Glowing Candy",
+    "hex": "#df5288",
     "category": "Pink"
   },
   {
-    "name": "Pink 183",
-    "hex": "#ef3dc6",
+    "name": "Pure Flamingo",
+    "hex": "#d75a7a",
     "category": "Pink"
   },
   {
-    "name": "Pink 181",
-    "hex": "#d8539e",
+    "name": "Silk Charming",
+    "hex": "#e051b9",
     "category": "Pink"
   },
   {
-    "name": "Pink 184",
-    "hex": "#e941bb",
+    "name": "Fresh Love",
+    "hex": "#f14098",
     "category": "Pink"
   },
   {
-    "name": "Pink 185",
-    "hex": "#e742e4",
+    "name": "Sunrise Magical",
+    "hex": "#ca6479",
     "category": "Pink"
   },
   {
-    "name": "Pink 186",
-    "hex": "#d256be",
+    "name": "Fairy Blushing",
+    "hex": "#fa34ef",
     "category": "Pink"
   },
   {
-    "name": "Pink 187",
-    "hex": "#e0477d",
+    "name": "Warm Petal",
+    "hex": "#d35a9e",
     "category": "Pink"
   },
   {
-    "name": "Pink 189",
-    "hex": "#cc5a7e",
+    "name": "Cotton Soft",
+    "hex": "#cf5da4",
     "category": "Pink"
   },
   {
-    "name": "Pink 188",
-    "hex": "#e83ee5",
+    "name": "Dream Silk",
+    "hex": "#fb316b",
     "category": "Pink"
   },
   {
-    "name": "Pink 190",
-    "hex": "#e342d3",
+    "name": "Bubblegum Sweet",
+    "hex": "#df4c65",
     "category": "Pink"
   },
   {
-    "name": "Pink 191",
-    "hex": "#e93cbb",
+    "name": "Raspberry Fairy",
+    "hex": "#e24982",
     "category": "Pink"
   },
   {
-    "name": "Pink 192",
-    "hex": "#d94b8a",
+    "name": "Light Milkshake",
+    "hex": "#ca61ba",
     "category": "Pink"
   },
   {
-    "name": "Pink 193",
-    "hex": "#f12f4f",
+    "name": "Sugar Radiant",
+    "hex": "#f23894",
     "category": "Pink"
   },
   {
-    "name": "Pink 194",
-    "hex": "#f32bed",
+    "name": "Blush Delicate",
+    "hex": "#d65371",
     "category": "Pink"
   },
   {
-    "name": "Pink 195",
-    "hex": "#ea3465",
+    "name": "Delicate Bubblegum",
+    "hex": "#f336a9",
     "category": "Pink"
   },
   {
-    "name": "Pink 196",
-    "hex": "#d84674",
+    "name": "Silky Love",
+    "hex": "#fc2cdf",
     "category": "Pink"
   },
   {
-    "name": "Pink 197",
-    "hex": "#dd3fdc",
+    "name": "Coral Light",
+    "hex": "#f2369d",
     "category": "Pink"
   },
   {
-    "name": "Pink 198",
-    "hex": "#c557bb",
+    "name": "Flower Elegant",
+    "hex": "#da4ec4",
     "category": "Pink"
   },
   {
-    "name": "Pink 200",
-    "hex": "#f42785",
+    "name": "Tender Pearl",
+    "hex": "#f13770",
     "category": "Pink"
   },
   {
-    "name": "Pink 199",
-    "hex": "#de3cbe",
+    "name": "Bloom Luminous",
+    "hex": "#f631ce",
     "category": "Pink"
   },
   {
-    "name": "Pink 201",
-    "hex": "#f921ae",
+    "name": "Graceful Vanilla",
+    "hex": "#f036c3",
     "category": "Pink"
   },
   {
-    "name": "Pink 202",
-    "hex": "#ee2b65",
+    "name": "Romantic Love",
+    "hex": "#d3528e",
     "category": "Pink"
   },
   {
-    "name": "Pink 203",
-    "hex": "#e6326e",
+    "name": "Classic Magnolia",
+    "hex": "#e63d78",
     "category": "Pink"
   },
   {
-    "name": "Pink 205",
-    "hex": "#cf4798",
+    "name": "Pearl Pastel",
+    "hex": "#de4598",
     "category": "Pink"
   },
   {
-    "name": "Pink 204",
-    "hex": "#db3bab",
+    "name": "Strawberry Blushing",
+    "hex": "#fe25cd",
     "category": "Pink"
   },
   {
-    "name": "Pink 206",
-    "hex": "#e431a6",
+    "name": "Fairy Classic",
+    "hex": "#e040a3",
     "category": "Pink"
   },
   {
-    "name": "Pink 208",
-    "hex": "#bf5677",
+    "name": "Marshmallow Beautiful",
+    "hex": "#d04fc4",
     "category": "Pink"
   },
   {
-    "name": "Pink 207",
-    "hex": "#d144b3",
+    "name": "Cherry Radiant",
+    "hex": "#e43b59",
     "category": "Pink"
   },
   {
-    "name": "Pink 209",
-    "hex": "#dc38c5",
+    "name": "Peony Dream",
+    "hex": "#f22b72",
     "category": "Pink"
   },
   {
-    "name": "Pink 210",
-    "hex": "#d1435d",
+    "name": "Delicate Dream",
+    "hex": "#c9546e",
     "category": "Pink"
   },
   {
-    "name": "Pink 211",
-    "hex": "#fa1abe",
+    "name": "Bright Romance",
+    "hex": "#dd3fbe",
     "category": "Pink"
   },
   {
-    "name": "Pink 212",
-    "hex": "#cf42c9",
+    "name": "Gentle Peach",
+    "hex": "#cd4f67",
     "category": "Pink"
   },
   {
-    "name": "Pink 213",
-    "hex": "#eb26b2",
+    "name": "Vivid Dream",
+    "hex": "#e73368",
     "category": "Pink"
   },
   {
-    "name": "Pink 214",
-    "hex": "#ea27ba",
+    "name": "Silky Romance",
+    "hex": "#db3f71",
     "category": "Pink"
   },
   {
-    "name": "Pink 215",
-    "hex": "#e828e0",
+    "name": "Cloud Romantic",
+    "hex": "#f624bb",
     "category": "Pink"
   },
   {
-    "name": "Pink 216",
-    "hex": "#fc138b",
+    "name": "Tender Strawberry",
+    "hex": "#d544c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 217",
-    "hex": "#c04eb9",
+    "name": "Carnation Pure",
+    "hex": "#c4547a",
     "category": "Pink"
   },
   {
-    "name": "Pink 218",
-    "hex": "#f515ea",
+    "name": "Bubblegum Velvet",
+    "hex": "#f721bc",
     "category": "Pink"
   },
   {
-    "name": "Pink 219",
-    "hex": "#cd3b71",
+    "name": "Bubblegum Romantic",
+    "hex": "#ea2eab",
     "category": "Pink"
   },
   {
-    "name": "Pink 220",
-    "hex": "#ca3d6d",
+    "name": "Peach Heavenly",
+    "hex": "#e82fe0",
     "category": "Pink"
   },
   {
-    "name": "Pink 221",
-    "hex": "#bd49a4",
+    "name": "Charming Sugar",
+    "hex": "#e43299",
     "category": "Pink"
   },
   {
-    "name": "Pink 224",
-    "hex": "#e91cc4",
+    "name": "Lotus Warm",
+    "hex": "#cb4ba5",
     "category": "Pink"
   },
   {
-    "name": "Pink 222",
-    "hex": "#d1336b",
+    "name": "Lotus Classic",
+    "hex": "#d1457a",
     "category": "Pink"
   },
   {
-    "name": "Pink 223",
-    "hex": "#e321c6",
+    "name": "Radiant Rosewood",
+    "hex": "#fc19bb",
     "category": "Pink"
   },
   {
-    "name": "Pink 225",
-    "hex": "#c3416b",
+    "name": "Lovely Marshmallow",
+    "hex": "#d93c57",
     "category": "Pink"
   },
   {
-    "name": "Pink 226",
-    "hex": "#ba4763",
+    "name": "Milkshake Pure",
+    "hex": "#ed276e",
     "category": "Pink"
   },
   {
-    "name": "Pink 227",
-    "hex": "#bd4382",
+    "name": "Ribbon Fairy",
+    "hex": "#c350b4",
     "category": "Pink"
   },
   {
-    "name": "Pink 228",
-    "hex": "#e51a58",
+    "name": "Classic Lotus",
+    "hex": "#dd36d3",
     "category": "Pink"
   },
   {
-    "name": "Pink 229",
-    "hex": "#c43a6c",
+    "name": "Ribbon Light",
+    "hex": "#ee2490",
     "category": "Pink"
   },
   {
-    "name": "Pink 230",
-    "hex": "#df1fb1",
+    "name": "Peony Classic",
+    "hex": "#d63c98",
     "category": "Pink"
   },
   {
-    "name": "Pink 231",
-    "hex": "#f20be5",
+    "name": "Vanilla Soft",
+    "hex": "#e62ad1",
     "category": "Pink"
   },
   {
-    "name": "Pink 232",
-    "hex": "#c636c1",
+    "name": "Luxury Salmon",
+    "hex": "#bf51b8",
     "category": "Pink"
   },
   {
-    "name": "Pink 233",
-    "hex": "#e01c9e",
+    "name": "Cherry Blossom Vivid",
+    "hex": "#c84764",
     "category": "Pink"
   },
   {
-    "name": "Pink 234",
-    "hex": "#e614a6",
+    "name": "Fairy Pastel",
+    "hex": "#de2fac",
     "category": "Pink"
   },
   {
-    "name": "Pink 235",
-    "hex": "#b940b2",
+    "name": "Fairy Cute",
+    "hex": "#f518c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 236",
-    "hex": "#bc3c55",
+    "name": "Radiant Raspberry",
+    "hex": "#c04db8",
     "category": "Pink"
   },
   {
-    "name": "Pink 237",
-    "hex": "#bc3b78",
+    "name": "Pastel Tulip",
+    "hex": "#e329c2",
     "category": "Pink"
   },
   {
-    "name": "Pink 238",
-    "hex": "#e215df",
+    "name": "Crystal Fairy",
+    "hex": "#ed1f88",
     "category": "Pink"
   },
   {
-    "name": "Pink 239",
-    "hex": "#e511b1",
+    "name": "Cupid Delicate",
+    "hex": "#ce3d57",
     "category": "Pink"
   },
   {
-    "name": "Pink 243",
-    "hex": "#c52f7e",
+    "name": "Candy Luxury",
+    "hex": "#ed1ea5",
     "category": "Pink"
   },
   {
-    "name": "Pink 240",
-    "hex": "#d81c9c",
+    "name": "Cherry Magical",
+    "hex": "#ed1d5b",
     "category": "Pink"
   },
   {
-    "name": "Pink 241",
-    "hex": "#c3314a",
+    "name": "Radiant Bubblegum",
+    "hex": "#d93199",
     "category": "Pink"
   },
   {
-    "name": "Pink 242",
-    "hex": "#d81ccb",
+    "name": "Dawn Glowing",
+    "hex": "#c347a5",
     "category": "Pink"
   },
   {
-    "name": "Pink 244",
-    "hex": "#d22186",
+    "name": "Dream Lotus",
+    "hex": "#eb1fc2",
     "category": "Pink"
   },
   {
-    "name": "Pink 245",
-    "hex": "#f201a9",
+    "name": "Peony Warm",
+    "hex": "#d534aa",
     "category": "Pink"
   },
   {
-    "name": "Pink 246",
-    "hex": "#c62c78",
+    "name": "Flamingo Delicate",
+    "hex": "#d53451",
     "category": "Pink"
   },
   {
-    "name": "Pink 247",
-    "hex": "#d21f6f",
+    "name": "Romantic Azalea",
+    "hex": "#e721c5",
     "category": "Pink"
   },
   {
-    "name": "Pink 248",
-    "hex": "#d41c6e",
+    "name": "Flower Luxury",
+    "hex": "#f315bf",
     "category": "Pink"
   },
   {
-    "name": "Pink 249",
-    "hex": "#c52a5a",
+    "name": "Magical Strawberry",
+    "hex": "#eb1d8a",
     "category": "Pink"
   },
   {
-    "name": "Pink 251",
-    "hex": "#d21dd1",
+    "name": "Beautiful Dawn",
+    "hex": "#d334cb",
     "category": "Pink"
   },
   {
-    "name": "Pink 250",
-    "hex": "#c32bbd",
+    "name": "Azalea Beautiful",
+    "hex": "#f60fde",
     "category": "Pink"
   },
   {
-    "name": "Pink 255",
-    "hex": "#bd308a",
+    "name": "Charming Cupid",
+    "hex": "#e12457",
     "category": "Pink"
   },
   {
-    "name": "Pink 256",
-    "hex": "#ae3f96",
+    "name": "Gentle Cupid",
+    "hex": "#cb3abe",
     "category": "Pink"
   },
   {
-    "name": "Pink 252",
-    "hex": "#e30a4c",
+    "name": "Magnolia Vivid",
+    "hex": "#e222bf",
     "category": "Pink"
   },
   {
-    "name": "Pink 254",
-    "hex": "#e20bd0",
+    "name": "Lace Graceful",
+    "hex": "#bf4470",
     "category": "Pink"
   },
   {
-    "name": "Pink 253",
-    "hex": "#d814a7",
+    "name": "Salmon Light",
+    "hex": "#c63d9e",
     "category": "Pink"
   },
   {
-    "name": "Pink 257",
-    "hex": "#b43895",
+    "name": "Love Luxury",
+    "hex": "#de2569",
     "category": "Pink"
   },
   {
-    "name": "Pink 258",
-    "hex": "#e2096c",
+    "name": "Azalea Blushing",
+    "hex": "#e919e5",
     "category": "Pink"
   },
   {
-    "name": "Pink 259",
-    "hex": "#ad3d81",
+    "name": "Radiant Salmon",
+    "hex": "#e81acc",
     "category": "Pink"
   },
   {
-    "name": "Pink 260",
-    "hex": "#d41573",
+    "name": "Charming Dream",
+    "hex": "#d42ebb",
     "category": "Pink"
   },
   {
-    "name": "Pink 261",
-    "hex": "#b435a1",
+    "name": "Soft Salmon",
+    "hex": "#be43b5",
     "category": "Pink"
   },
   {
-    "name": "Pink 262",
-    "hex": "#b435af",
+    "name": "Blush Warm",
+    "hex": "#e41bcd",
     "category": "Pink"
   },
   {
-    "name": "Pink 263",
-    "hex": "#c522b6",
+    "name": "Gentle Velvet",
+    "hex": "#ce3187",
     "category": "Pink"
   },
   {
-    "name": "Pink 264",
-    "hex": "#b92e83",
+    "name": "Soft Lace",
+    "hex": "#cf2e78",
     "category": "Pink"
   },
   {
-    "name": "Pink 265",
-    "hex": "#c91eb6",
+    "name": "Peony Delicate",
+    "hex": "#be3e59",
     "category": "Pink"
   },
   {
-    "name": "Pink 268",
-    "hex": "#cc1b57",
+    "name": "Candy Fairy",
+    "hex": "#e21ac6",
     "category": "Pink"
   },
   {
-    "name": "Pink 266",
-    "hex": "#c6207b",
+    "name": "Love Glowing",
+    "hex": "#f308af",
     "category": "Pink"
   },
   {
-    "name": "Pink 267",
-    "hex": "#b5315c",
+    "name": "Luminous Candy",
+    "hex": "#e61463",
     "category": "Pink"
   },
   {
-    "name": "Pink 269",
-    "hex": "#e501a0",
+    "name": "Silk Pure",
+    "hex": "#b64378",
     "category": "Pink"
   },
   {
-    "name": "Pink 270",
-    "hex": "#c81eae",
+    "name": "Angel Fairy",
+    "hex": "#b940aa",
     "category": "Pink"
   },
   {
-    "name": "Pink 271",
-    "hex": "#c02561",
+    "name": "Blushing Lotus",
+    "hex": "#ee0b4e",
     "category": "Pink"
   },
   {
-    "name": "Pink 272",
-    "hex": "#dd086f",
+    "name": "Cute Romance",
+    "hex": "#d227ad",
     "category": "Pink"
   },
   {
-    "name": "Pink 273",
-    "hex": "#c1209a",
+    "name": "Dream Delicate",
+    "hex": "#db1da9",
     "category": "Pink"
   },
   {
-    "name": "Pink 274",
-    "hex": "#a8378f",
+    "name": "Lace Warm",
+    "hex": "#d422a1",
     "category": "Pink"
   },
   {
-    "name": "Pink 275",
-    "hex": "#da047e",
+    "name": "Raspberry Fresh",
+    "hex": "#cd2783",
     "category": "Pink"
   },
   {
-    "name": "Pink 276",
-    "hex": "#b529a4",
+    "name": "Romance Warm",
+    "hex": "#ea074e",
     "category": "Pink"
   },
   {
-    "name": "Pink 278",
-    "hex": "#dc0145",
+    "name": "Vivid Love",
+    "hex": "#c1308a",
     "category": "Pink"
   },
   {
-    "name": "Pink 277",
-    "hex": "#ca1388",
+    "name": "Petal Pure",
+    "hex": "#e10f49",
     "category": "Pink"
   },
   {
-    "name": "Pink 281",
-    "hex": "#c41847",
+    "name": "Cute Peony",
+    "hex": "#d01f96",
     "category": "Pink"
   },
   {
-    "name": "Pink 279",
-    "hex": "#b22a6f",
+    "name": "Sugar Gentle",
+    "hex": "#ca2542",
     "category": "Pink"
   },
   {
-    "name": "Pink 280",
-    "hex": "#ab3186",
+    "name": "Sugar Romantic",
+    "hex": "#c22d7a",
     "category": "Pink"
   },
   {
-    "name": "Pink 282",
-    "hex": "#a83248",
+    "name": "Milkshake Dream",
+    "hex": "#b73793",
     "category": "Pink"
   },
   {
-    "name": "Pink 283",
-    "hex": "#a03a80",
+    "name": "Glowing Fairy",
+    "hex": "#ca2399",
     "category": "Pink"
   },
   {
-    "name": "Pink 284",
-    "hex": "#9e3a99",
+    "name": "Luminous Rose",
+    "hex": "#ad4070",
     "category": "Pink"
   },
   {
-    "name": "Pink 285",
-    "hex": "#c41347",
+    "name": "Light Lotus",
+    "hex": "#cc2040",
     "category": "Pink"
   },
   {
-    "name": "Pink 286",
-    "hex": "#b32490",
+    "name": "Pure Vanilla",
+    "hex": "#ae3d59",
     "category": "Pink"
   },
   {
-    "name": "Pink 287",
-    "hex": "#d304ce",
+    "name": "Fresh Cloud",
+    "hex": "#eb00da",
     "category": "Pink"
   },
   {
-    "name": "Pink 288",
-    "hex": "#d50188",
+    "name": "Dream Cotton",
+    "hex": "#c42671",
     "category": "Pink"
   },
   {
-    "name": "Pink 289",
-    "hex": "#d50051",
+    "name": "Blushing Sunrise",
+    "hex": "#b4366e",
     "category": "Pink"
   },
   {
-    "name": "Pink 290",
-    "hex": "#cf062b",
+    "name": "Crystal Glowing",
+    "hex": "#b83151",
     "category": "Pink"
   },
   {
-    "name": "Pink 291",
-    "hex": "#a72d86",
+    "name": "Charming Carnation",
+    "hex": "#b03881",
     "category": "Pink"
   },
   {
-    "name": "Pink 292",
-    "hex": "#9f3481",
+    "name": "Coral Graceful",
+    "hex": "#c224a7",
     "category": "Pink"
   },
   {
-    "name": "Pink 293",
-    "hex": "#c112b5",
+    "name": "Cupid Bright",
+    "hex": "#e0043e",
     "category": "Pink"
   },
   {
-    "name": "Pink 294",
-    "hex": "#c80ac4",
+    "name": "Delicate Cotton",
+    "hex": "#d60dc0",
     "category": "Pink"
   },
   {
-    "name": "Pink 295",
-    "hex": "#a42d61",
+    "name": "Charming Cloud",
+    "hex": "#cd1670",
     "category": "Pink"
   },
   {
-    "name": "Pink 296",
-    "hex": "#a03150",
+    "name": "Glowing Coral",
+    "hex": "#a83b62",
     "category": "Pink"
   },
   {
-    "name": "Pink 298",
-    "hex": "#b21f46",
+    "name": "Gentle Cloud",
+    "hex": "#be24b9",
     "category": "Pink"
   },
   {
-    "name": "Pink 297",
-    "hex": "#ca06a9",
+    "name": "Bright Watermelon",
+    "hex": "#b32f70",
     "category": "Pink"
   },
   {
-    "name": "Pink 299",
-    "hex": "#bd13bb",
+    "name": "Heavenly Magnolia",
+    "hex": "#cd1382",
     "category": "Pink"
   },
   {
-    "name": "Pink 300",
-    "hex": "#b81385",
+    "name": "Glowing Guava",
+    "hex": "#c21dbd",
     "category": "Pink"
   },
   {
-    "name": "Pink 301",
-    "hex": "#ca0134",
+    "name": "Sugar Luxury",
+    "hex": "#d807cd",
     "category": "Pink"
   },
   {
-    "name": "Pink 302",
-    "hex": "#a6236f",
+    "name": "Love Sweet",
+    "hex": "#d70750",
     "category": "Pink"
   },
   {
-    "name": "Pink 307",
-    "hex": "#ad1932",
+    "name": "Peony Light",
+    "hex": "#b62849",
     "category": "Pink"
   },
   {
-    "name": "Pink 303",
-    "hex": "#bb0b42",
+    "name": "Silky Cream",
+    "hex": "#bd20b3",
     "category": "Pink"
   },
   {
-    "name": "Pink 304",
-    "hex": "#a22446",
+    "name": "Guava Fairy",
+    "hex": "#c51882",
     "category": "Pink"
   },
   {
-    "name": "Pink 305",
-    "hex": "#9b2b80",
+    "name": "Glowing Flamingo",
+    "hex": "#c21a81",
     "category": "Pink"
   },
   {
-    "name": "Pink 306",
-    "hex": "#972e4e",
+    "name": "Warm Magnolia",
+    "hex": "#a53695",
     "category": "Pink"
   },
   {
-    "name": "Pink 308",
-    "hex": "#ad179e",
+    "name": "Glowing Petal",
+    "hex": "#aa3183",
     "category": "Pink"
   },
   {
-    "name": "Pink 309",
-    "hex": "#ad15ad",
+    "name": "Guava Silky",
+    "hex": "#b2283f",
     "category": "Pink"
   },
   {
-    "name": "Pink 313",
-    "hex": "#a41d9d",
+    "name": "Beautiful Peony",
+    "hex": "#a73247",
     "category": "Pink"
   },
   {
-    "name": "Pink 310",
-    "hex": "#a61a37",
+    "name": "Angel Fresh",
+    "hex": "#c11744",
     "category": "Pink"
   },
   {
-    "name": "Pink 311",
-    "hex": "#8f3148",
+    "name": "Dream Cupid",
+    "hex": "#9f399a",
     "category": "Pink"
   },
   {
-    "name": "Pink 312",
-    "hex": "#b40ca3",
+    "name": "Heavenly Strawberry",
+    "hex": "#d50278",
     "category": "Pink"
   },
   {
-    "name": "Pink 314",
-    "hex": "#ad1355",
+    "name": "Velvet Cream",
+    "hex": "#a334a3",
     "category": "Pink"
   },
   {
-    "name": "Pink 315",
-    "hex": "#b608a7",
+    "name": "Delicate Guava",
+    "hex": "#cb0cad",
     "category": "Pink"
   },
   {
-    "name": "Pink 316",
-    "hex": "#b40976",
+    "name": "Beautiful Blossom",
+    "hex": "#b22445",
     "category": "Pink"
   },
   {
-    "name": "Pink 317",
-    "hex": "#b50761",
+    "name": "Rosewood Sweet",
+    "hex": "#c80d80",
     "category": "Pink"
   },
   {
-    "name": "Pink 318",
-    "hex": "#a01c6a",
+    "name": "Ribbon Blushing",
+    "hex": "#a53084",
     "category": "Pink"
   },
   {
-    "name": "Pink 319",
-    "hex": "#b3078b",
+    "name": "Delicate Lotus",
+    "hex": "#ba1a88",
     "category": "Pink"
   },
   {
-    "name": "Pink 320",
-    "hex": "#b90171",
+    "name": "Classic Flower",
+    "hex": "#a23251",
     "category": "Pink"
   },
   {
-    "name": "Pink 321",
-    "hex": "#8b2e66",
+    "name": "Silky Flower",
+    "hex": "#c80a83",
     "category": "Pink"
   },
   {
-    "name": "Pink 322",
-    "hex": "#8b2c75",
+    "name": "Dream Vanilla",
+    "hex": "#a13046",
     "category": "Pink"
   },
   {
-    "name": "Pink 323",
-    "hex": "#96206e",
+    "name": "Beautiful Love",
+    "hex": "#af22a4",
     "category": "Pink"
   },
   {
-    "name": "Pink 325",
-    "hex": "#8d294d",
+    "name": "Heavenly Lace",
+    "hex": "#be13bc",
     "category": "Pink"
   },
   {
-    "name": "Pink 324",
-    "hex": "#b40167",
+    "name": "Blossom Romantic",
+    "hex": "#a82885",
     "category": "Pink"
   },
   {
-    "name": "Pink 327",
-    "hex": "#a41191",
+    "name": "Luminous Sugar",
+    "hex": "#cf01c4",
     "category": "Pink"
   },
   {
-    "name": "Pink 326",
-    "hex": "#b203ae",
+    "name": "Luminous Petal",
+    "hex": "#b61a4d",
     "category": "Pink"
   },
   {
-    "name": "Pink 328",
-    "hex": "#961e44",
+    "name": "Petal Charming",
+    "hex": "#c20e5d",
     "category": "Pink"
   },
   {
-    "name": "Pink 329",
-    "hex": "#8c2881",
+    "name": "Watermelon Heavenly",
+    "hex": "#b02071",
     "category": "Pink"
   },
   {
-    "name": "Pink 330",
-    "hex": "#931e89",
+    "name": "Pure Carnation",
+    "hex": "#be128b",
     "category": "Pink"
   },
   {
-    "name": "Pink 332",
-    "hex": "#88297a",
+    "name": "Lovely Romance",
+    "hex": "#a52a8e",
     "category": "Pink"
   },
   {
-    "name": "Pink 331",
-    "hex": "#9f1167",
+    "name": "Gentle Cotton",
+    "hex": "#a12d88",
     "category": "Pink"
   },
   {
-    "name": "Pink 333",
-    "hex": "#921e43",
+    "name": "Lotus Delicate",
+    "hex": "#ac218d",
     "category": "Pink"
   },
   {
-    "name": "Pink 334",
-    "hex": "#90203f",
+    "name": "Delicate Raspberry",
+    "hex": "#973665",
     "category": "Pink"
   },
   {
-    "name": "Pink 335",
-    "hex": "#8d2375",
+    "name": "Cupid Pure",
+    "hex": "#ad1ead",
     "category": "Pink"
   },
   {
-    "name": "Pink 336",
-    "hex": "#a30c90",
+    "name": "Velvet Silk",
+    "hex": "#9a3194",
     "category": "Pink"
   },
   {
-    "name": "Pink 337",
-    "hex": "#8c234b",
+    "name": "Cupid Glowing",
+    "hex": "#9f2981",
     "category": "Pink"
   },
   {
-    "name": "Pink 338",
-    "hex": "#ac0265",
+    "name": "Romantic Cloud",
+    "hex": "#a62299",
     "category": "Pink"
   },
   {
-    "name": "Pink 339",
-    "hex": "#842a7b",
+    "name": "Sweet Fairy",
+    "hex": "#c1065c",
     "category": "Pink"
   },
   {
-    "name": "Pink 340",
-    "hex": "#9f0e7a",
+    "name": "Angel Beautiful",
+    "hex": "#a91e49",
     "category": "Pink"
   },
   {
-    "name": "Pink 341",
-    "hex": "#832955",
+    "name": "Charming Sunrise",
+    "hex": "#a22577",
     "category": "Pink"
   },
   {
-    "name": "Pink 342",
-    "hex": "#a5065c",
+    "name": "Delicate Cherry",
+    "hex": "#b511a7",
     "category": "Pink"
   },
   {
-    "name": "Pink 343",
-    "hex": "#941731",
+    "name": "Graceful Strawberry",
+    "hex": "#9c2945",
     "category": "Pink"
   },
   {
-    "name": "Pink 344",
-    "hex": "#9f0a98",
+    "name": "Cherry Blossom Gentle",
+    "hex": "#972e6f",
     "category": "Pink"
   },
   {
-    "name": "Pink 345",
-    "hex": "#a70299",
+    "name": "Candy Bright",
+    "hex": "#bb0a43",
     "category": "Pink"
   },
   {
-    "name": "Pink 346",
-    "hex": "#881e45",
+    "name": "Romance Vivid",
+    "hex": "#b70d98",
     "category": "Pink"
   },
   {
-    "name": "Pink 347",
-    "hex": "#9b0b56",
+    "name": "Romance Lovely",
+    "hex": "#90347c",
     "category": "Pink"
   },
   {
-    "name": "Pink 348",
-    "hex": "#851d47",
+    "name": "Watermelon Lovely",
+    "hex": "#a81c8f",
     "category": "Pink"
   },
   {
-    "name": "Pink 349",
-    "hex": "#940d7a",
+    "name": "Milkshake Sweet",
+    "hex": "#a51e47",
     "category": "Pink"
   },
   {
-    "name": "Pink 350",
-    "hex": "#a00164",
+    "name": "Bubblegum Charming",
+    "hex": "#b60d41",
     "category": "Pink"
   },
   {
-    "name": "Pink 351",
-    "hex": "#8c1480",
+    "name": "Strawberry Magical",
+    "hex": "#bb086b",
     "category": "Pink"
   },
   {
-    "name": "Pink 352",
-    "hex": "#871836",
+    "name": "Beautiful Magnolia",
+    "hex": "#c101b4",
     "category": "Pink"
   },
   {
-    "name": "Pink 353",
-    "hex": "#8e1055",
+    "name": "Magnolia Silky",
+    "hex": "#8e3482",
     "category": "Pink"
   },
   {
-    "name": "Pink 354",
-    "hex": "#861841",
+    "name": "Candy Silky",
+    "hex": "#962b76",
     "category": "Pink"
   },
   {
-    "name": "Pink 355",
-    "hex": "#722a6e",
+    "name": "Cute Bubblegum",
+    "hex": "#9b264a",
     "category": "Pink"
   },
   {
-    "name": "Pink 356",
-    "hex": "#9b013f",
+    "name": "Classic Strawberry",
+    "hex": "#b50ba7",
     "category": "Pink"
   },
   {
-    "name": "Pink 357",
-    "hex": "#93097f",
+    "name": "Love Delicate",
+    "hex": "#a61a35",
     "category": "Pink"
   },
   {
-    "name": "Pink 358",
-    "hex": "#8b0f27",
+    "name": "Carnation Delicate",
+    "hex": "#9d2242",
+    "category": "Pink"
+  },
+  {
+    "name": "Watermelon Pure",
+    "hex": "#a81653",
+    "category": "Pink"
+  },
+  {
+    "name": "Sakura Gentle",
+    "hex": "#902e43",
+    "category": "Pink"
+  },
+  {
+    "name": "Sakura Sweet",
+    "hex": "#a91081",
+    "category": "Pink"
+  },
+  {
+    "name": "Guava Pastel",
+    "hex": "#90288e",
+    "category": "Pink"
+  },
+  {
+    "name": "Candy Charming",
+    "hex": "#882e4f",
+    "category": "Pink"
+  },
+  {
+    "name": "Romantic Sunrise",
+    "hex": "#853082",
+    "category": "Pink"
+  },
+  {
+    "name": "Cherry Cute",
+    "hex": "#991c98",
+    "category": "Pink"
+  },
+  {
+    "name": "Magnolia Radiant",
+    "hex": "#971d38",
+    "category": "Pink"
+  },
+  {
+    "name": "Sunrise Pure",
+    "hex": "#8d2680",
+    "category": "Pink"
+  },
+  {
+    "name": "Graceful Love",
+    "hex": "#862d7e",
+    "category": "Pink"
+  },
+  {
+    "name": "Cherry Blossom Charming",
+    "hex": "#8c266e",
+    "category": "Pink"
+  },
+  {
+    "name": "Angel Blushing",
+    "hex": "#832e41",
+    "category": "Pink"
+  },
+  {
+    "name": "Glowing Cloud",
+    "hex": "#9a1745",
+    "category": "Pink"
+  },
+  {
+    "name": "Luxury Cherry Blossom",
+    "hex": "#af014e",
+    "category": "Pink"
+  },
+  {
+    "name": "Petal Sweet",
+    "hex": "#822e52",
+    "category": "Pink"
+  },
+  {
+    "name": "Fresh Raspberry",
+    "hex": "#99166c",
+    "category": "Pink"
+  },
+  {
+    "name": "Gentle Petal",
+    "hex": "#981695",
+    "category": "Pink"
+  },
+  {
+    "name": "Lotus Graceful",
+    "hex": "#a60773",
+    "category": "Pink"
+  },
+  {
+    "name": "Cupid Vivid",
+    "hex": "#9e0f79",
+    "category": "Pink"
+  },
+  {
+    "name": "Soft Angel",
+    "hex": "#7f2e79",
+    "category": "Pink"
+  },
+  {
+    "name": "Beautiful Milkshake",
+    "hex": "#a4086f",
+    "category": "Pink"
+  },
+  {
+    "name": "Sunrise Dream",
+    "hex": "#9b1160",
+    "category": "Pink"
+  },
+  {
+    "name": "Blush Graceful",
+    "hex": "#8b2037",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Lotus",
+    "hex": "#862440",
+    "category": "Pink"
+  },
+  {
+    "name": "Dream Salmon",
+    "hex": "#94167c",
+    "category": "Pink"
+  },
+  {
+    "name": "Radiant Azalea",
+    "hex": "#991182",
+    "category": "Pink"
+  },
+  {
+    "name": "Magical Tulip",
+    "hex": "#82284b",
+    "category": "Pink"
+  },
+  {
+    "name": "Bright Milkshake",
+    "hex": "#961382",
+    "category": "Pink"
+  },
+  {
+    "name": "Flower Gentle",
+    "hex": "#941436",
+    "category": "Pink"
+  },
+  {
+    "name": "Lovely Magnolia",
+    "hex": "#8c1b77",
+    "category": "Pink"
+  },
+  {
+    "name": "Petal Silky",
+    "hex": "#8b1c41",
+    "category": "Pink"
+  },
+  {
+    "name": "Warm Velvet",
+    "hex": "#842235",
+    "category": "Pink"
+  },
+  {
+    "name": "Lovely Berry",
+    "hex": "#8c1977",
+    "category": "Pink"
+  },
+  {
+    "name": "Romantic Flower",
+    "hex": "#a00529",
+    "category": "Pink"
+  },
+  {
+    "name": "Heavenly Blossom",
+    "hex": "#9c0878",
+    "category": "Pink"
+  },
+  {
+    "name": "Romance Pure",
+    "hex": "#a40029",
+    "category": "Pink"
+  },
+  {
+    "name": "Lotus Blushing",
+    "hex": "#a1023f",
+    "category": "Pink"
+  },
+  {
+    "name": "Glowing Strawberry",
+    "hex": "#9b076c",
+    "category": "Pink"
+  },
+  {
+    "name": "Peony Cute",
+    "hex": "#8f133f",
+    "category": "Pink"
+  },
+  {
+    "name": "Delicate Love",
+    "hex": "#831f51",
+    "category": "Pink"
+  },
+  {
+    "name": "Sugar Lovely",
+    "hex": "#831f38",
+    "category": "Pink"
+  },
+  {
+    "name": "Peach Cute",
+    "hex": "#9e0329",
+    "category": "Pink"
+  },
+  {
+    "name": "Vanilla Tender",
+    "hex": "#881853",
+    "category": "Pink"
+  },
+  {
+    "name": "Magnolia Soft",
+    "hex": "#9f016d",
+    "category": "Pink"
+  },
+  {
+    "name": "Charming Pearl",
+    "hex": "#742b68",
+    "category": "Pink"
+  },
+  {
+    "name": "Bright Cupid",
+    "hex": "#861954",
+    "category": "Pink"
+  },
+  {
+    "name": "Velvet Heavenly",
+    "hex": "#7c2370",
+    "category": "Pink"
+  },
+  {
+    "name": "Fairy Strawberry",
+    "hex": "#841a51",
+    "category": "Pink"
+  },
+  {
+    "name": "Dream Magnolia",
+    "hex": "#79246d",
+    "category": "Pink"
+  },
+  {
+    "name": "Lovely Petal",
+    "hex": "#7d1f51",
+    "category": "Pink"
+  },
+  {
+    "name": "Magical Sunrise",
+    "hex": "#8e0c8a",
+    "category": "Pink"
+  },
+  {
+    "name": "Cotton Graceful",
+    "hex": "#75253c",
+    "category": "Pink"
+  },
+  {
+    "name": "Romantic Peach",
+    "hex": "#74266e",
     "category": "Pink"
   }
 ]

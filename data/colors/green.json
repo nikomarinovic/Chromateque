@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Wild Moss",
-    "hex": "#d6f5e0",
+    "name": "Lichen Wild",
+    "hex": "#d1fdcd",
     "category": "Green"
   },
   {
-    "name": "Dark Forest",
-    "hex": "#ebf9d2",
+    "name": "Herb Deep",
+    "hex": "#eeffcb",
     "category": "Green"
   },
   {
-    "name": "Soft Moss",
-    "hex": "#d6fbd0",
+    "name": "Crystal Cypress",
+    "hex": "#e5fad0",
     "category": "Green"
   },
   {
-    "name": "Wild Mint",
-    "hex": "#ebf2d9",
+    "name": "Foliage Bright",
+    "hex": "#e1fdcc",
     "category": "Green"
   },
   {
-    "name": "Deep Sage",
-    "hex": "#eef4d6",
+    "name": "Rainforest Morning",
+    "hex": "#e9f8d0",
     "category": "Green"
   },
   {
-    "name": "Soft Jade",
-    "hex": "#d6f4e6",
+    "name": "Basil Cool",
+    "hex": "#e6fdcb",
     "category": "Green"
   },
   {
-    "name": "Dark Fern",
-    "hex": "#cefcce",
+    "name": "Vine Deep",
+    "hex": "#d3f4e9",
     "category": "Green"
   },
   {
-    "name": "Deep Olive",
-    "hex": "#d1f8dc",
+    "name": "Bamboo Peaceful",
+    "hex": "#c9fdd1",
     "category": "Green"
   },
   {
-    "name": "Wild Olive",
-    "hex": "#d0f7e6",
+    "name": "Freshwater Vine",
+    "hex": "#c6ffea",
     "category": "Green"
   },
   {
-    "name": "Natural Emerald",
-    "hex": "#d0f7e4",
+    "name": "Swamp Natural",
+    "hex": "#d1f4e2",
     "category": "Green"
   },
   {
-    "name": "Dark Olive",
-    "hex": "#d6f6cc",
+    "name": "Bright Meadow",
+    "hex": "#cdf8e7",
     "category": "Green"
   },
   {
-    "name": "Natural Olive",
-    "hex": "#ddf8ca",
+    "name": "Vibrant Foliage",
+    "hex": "#cff6de",
     "category": "Green"
   },
   {
-    "name": "Fresh Sage",
-    "hex": "#c7fbd6",
+    "name": "Cypress Ancient",
+    "hex": "#cff6d8",
     "category": "Green"
   },
   {
-    "name": "Fresh Olive",
-    "hex": "#caf7cc",
+    "name": "Fresh Amazon",
+    "hex": "#cdf8d5",
     "category": "Green"
   },
   {
-    "name": "Soft Sage",
-    "hex": "#e1f0d1",
+    "name": "Peaceful Pistachio",
+    "hex": "#d7f1d3",
     "category": "Green"
   },
   {
-    "name": "Natural Pine",
-    "hex": "#e2f4cb",
+    "name": "Peaceful Vine",
+    "hex": "#cafad8",
     "category": "Green"
   },
   {
-    "name": "Natural Fern",
-    "hex": "#d1eed8",
+    "name": "Freshwater Sage",
+    "hex": "#c8fdc6",
     "category": "Green"
   },
   {
-    "name": "Soft Leaf",
-    "hex": "#cdf2e5",
+    "name": "Lime Peaceful",
+    "hex": "#d3f0da",
     "category": "Green"
   },
   {
-    "name": "Wild Pine",
-    "hex": "#cbf4d5",
+    "name": "Crystal Laurel",
+    "hex": "#d1f1d6",
     "category": "Green"
   },
   {
-    "name": "Soft Mint",
-    "hex": "#c5f8e4",
+    "name": "Lush Pistachio",
+    "hex": "#c3ffd4",
     "category": "Green"
   },
   {
-    "name": "Soft Pine",
-    "hex": "#c6f5ce",
+    "name": "Cactus Peaceful",
+    "hex": "#dfffc3",
     "category": "Green"
   },
   {
-    "name": "Dark Pine",
-    "hex": "#d2edcd",
+    "name": "Lime Tropical",
+    "hex": "#dbf7c9",
     "category": "Green"
   },
   {
-    "name": "Dark Sage",
-    "hex": "#c0facb",
+    "name": "Lagoon Vibrant",
+    "hex": "#e9f1cf",
     "category": "Green"
   },
   {
-    "name": "Fresh Emerald",
-    "hex": "#e7f2c7",
+    "name": "Darkened Peridot",
+    "hex": "#c4fccf",
     "category": "Green"
   },
   {
-    "name": "Natural Leaf",
-    "hex": "#cafeba",
+    "name": "Fresh Lichen",
+    "hex": "#e8f7c9",
     "category": "Green"
   },
   {
-    "name": "Natural Jade",
-    "hex": "#c7f4c4",
+    "name": "Deep Foliage",
+    "hex": "#e0f5cb",
     "category": "Green"
   },
   {
-    "name": "Deep Leaf",
-    "hex": "#baffb9",
+    "name": "Vine Living",
+    "hex": "#c4fce2",
     "category": "Green"
   },
   {
-    "name": "Wild Forest",
-    "hex": "#bdf9e5",
+    "name": "Lime Pure",
+    "hex": "#d1f1cd",
     "category": "Green"
   },
   {
-    "name": "Fresh Forest",
-    "hex": "#e9f4c2",
+    "name": "Deep Garden",
+    "hex": "#f0fac4",
     "category": "Green"
   },
   {
-    "name": "Deep Pine",
-    "hex": "#cef0c6",
+    "name": "Organic Lagoon",
+    "hex": "#defebf",
     "category": "Green"
   },
   {
-    "name": "Fresh Fern",
-    "hex": "#d2ebca",
+    "name": "Grass Freshwater",
+    "hex": "#cafbc2",
     "category": "Green"
   },
   {
-    "name": "Natural Forest",
-    "hex": "#c0f2cd",
+    "name": "Canopy Spring",
+    "hex": "#c2fbc4",
     "category": "Green"
   },
   {
-    "name": "Dark Moss",
-    "hex": "#e2f6b9",
+    "name": "Meadow Crystal",
+    "hex": "#cafcc0",
     "category": "Green"
   },
   {
-    "name": "Fresh Jade",
-    "hex": "#c5feb0",
+    "name": "Vibrant Reed",
+    "hex": "#bdfed5",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Wild",
+    "hex": "#eefebc",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Organic",
+    "hex": "#f1febc",
+    "category": "Green"
+  },
+  {
+    "name": "Spring Jade",
+    "hex": "#c6f4d6",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Wild",
+    "hex": "#c7f7c2",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Darkened",
+    "hex": "#ebf3c6",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Seaweed",
+    "hex": "#caefcf",
+    "category": "Green"
+  },
+  {
+    "name": "Lime Living",
+    "hex": "#e1f9bf",
+    "category": "Green"
+  },
+  {
+    "name": "Reed Calm",
+    "hex": "#c2fbbd",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Cactus",
+    "hex": "#c1f7cb",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Verdant",
+    "hex": "#c5f5c2",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Tropical",
+    "hex": "#d9f8be",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Meadow",
+    "hex": "#d9efc6",
+    "category": "Green"
+  },
+  {
+    "name": "Darkened Pistachio",
+    "hex": "#e2fdb7",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Organic",
+    "hex": "#c3f1de",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Deep",
+    "hex": "#b7fccc",
     "category": "Green"
   },
   {
     "name": "Wild Sage",
-    "hex": "#dde9c5",
+    "hex": "#b8fbd9",
     "category": "Green"
   },
   {
-    "name": "Wild Fern",
-    "hex": "#b5f8d0",
+    "name": "Meadow Wild",
+    "hex": "#dff0c3",
     "category": "Green"
   },
   {
-    "name": "Wild Emerald",
-    "hex": "#e0f1ba",
+    "name": "Spruce Mystic",
+    "hex": "#c6ecd6",
     "category": "Green"
   },
   {
-    "name": "Deep Emerald",
-    "hex": "#e3feab",
+    "name": "Morning Amazon",
+    "hex": "#bef3bd",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Willow",
+    "hex": "#bdf2c4",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Peaceful",
+    "hex": "#bbf4de",
+    "category": "Green"
+  },
+  {
+    "name": "Vine Fresh",
+    "hex": "#b4fabf",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Morning",
+    "hex": "#c2ecc7",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Forest",
+    "hex": "#c3f7b6",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Olive",
+    "hex": "#c9ecc1",
+    "category": "Green"
+  },
+  {
+    "name": "Living Malachite",
+    "hex": "#c0edd1",
+    "category": "Green"
+  },
+  {
+    "name": "Thyme Rich",
+    "hex": "#bbf2d1",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Jungle",
+    "hex": "#c2ebcf",
+    "category": "Green"
+  },
+  {
+    "name": "Jade Dark",
+    "hex": "#c8edbf",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Forest",
+    "hex": "#e2f8b3",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Amazon",
+    "hex": "#dcecbe",
+    "category": "Green"
+  },
+  {
+    "name": "Basil Earthy",
+    "hex": "#b5f4bd",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Verdant",
+    "hex": "#b0f9b1",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Avocado",
+    "hex": "#c0e8db",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Spruce",
+    "hex": "#b0f8d1",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Verdant",
+    "hex": "#c9efb9",
+    "category": "Green"
+  },
+  {
+    "name": "Cypress Natural",
+    "hex": "#aafeaf",
+    "category": "Green"
+  },
+  {
+    "name": "Pistachio Spring",
+    "hex": "#adf9b2",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Emerald",
+    "hex": "#bbead7",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Lime",
+    "hex": "#c9eeb7",
+    "category": "Green"
+  },
+  {
+    "name": "Cool Verdant",
+    "hex": "#abf6b6",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Avocado",
+    "hex": "#b0eecc",
+    "category": "Green"
+  },
+  {
+    "name": "Gentle Mint",
+    "hex": "#a1fdc9",
+    "category": "Green"
+  },
+  {
+    "name": "Reed Natural",
+    "hex": "#aeefcc",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Silent",
+    "hex": "#bcecb1",
+    "category": "Green"
+  },
+  {
+    "name": "Gentle Thyme",
+    "hex": "#abf1b9",
+    "category": "Green"
+  },
+  {
+    "name": "Amazon Lush",
+    "hex": "#baecaf",
+    "category": "Green"
+  },
+  {
+    "name": "Earthy Canopy",
+    "hex": "#d7f1aa",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Mystic",
+    "hex": "#c2ebaf",
+    "category": "Green"
+  },
+  {
+    "name": "Leaf Dark",
+    "hex": "#b1e8cc",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Bright",
+    "hex": "#b8e5b3",
+    "category": "Green"
+  },
+  {
+    "name": "Foliage Lush",
+    "hex": "#a9eecf",
+    "category": "Green"
+  },
+  {
+    "name": "Meadow Earthy",
+    "hex": "#a6f0c1",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Wild",
+    "hex": "#afe6c8",
+    "category": "Green"
+  },
+  {
+    "name": "Palm Emerald",
+    "hex": "#ccf4a0",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Morning",
+    "hex": "#a9ebc4",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Willow",
+    "hex": "#a2f2c5",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Meadow",
+    "hex": "#a5eed2",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Amazon",
+    "hex": "#a7ecbc",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Cactus",
+    "hex": "#a7ecac",
+    "category": "Green"
+  },
+  {
+    "name": "Gentle Bamboo",
+    "hex": "#b0e3b3",
+    "category": "Green"
+  },
+  {
+    "name": "Canopy Natural",
+    "hex": "#aff39f",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Olive",
+    "hex": "#ace5ce",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Fern",
+    "hex": "#92ffb2",
+    "category": "Green"
+  },
+  {
+    "name": "Malachite Fresh",
+    "hex": "#e1f998",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Pine",
+    "hex": "#b9e3ad",
+    "category": "Green"
+  },
+  {
+    "name": "Bright Basil",
+    "hex": "#a8e7cf",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Swamp",
+    "hex": "#96f9ce",
+    "category": "Green"
+  },
+  {
+    "name": "Darkened Seaweed",
+    "hex": "#9df2a4",
+    "category": "Green"
+  },
+  {
+    "name": "Rainforest Living",
+    "hex": "#ace3ac",
+    "category": "Green"
+  },
+  {
+    "name": "Garden Rich",
+    "hex": "#c3e3ab",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Mystic",
+    "hex": "#bce1ac",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Basil",
+    "hex": "#ccf598",
+    "category": "Green"
+  },
+  {
+    "name": "Canopy Emerald",
+    "hex": "#aaf498",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Peaceful",
+    "hex": "#b0f993",
+    "category": "Green"
+  },
+  {
+    "name": "Clover Organic",
+    "hex": "#a4e7bd",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Pure",
+    "hex": "#94f7d1",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Spruce",
+    "hex": "#b0eaa1",
+    "category": "Green"
+  },
+  {
+    "name": "Vibrant Jungle",
+    "hex": "#8dfdba",
+    "category": "Green"
+  },
+  {
+    "name": "Darkened Leaf",
+    "hex": "#b9e4a5",
+    "category": "Green"
+  },
+  {
+    "name": "Calm Myrtle",
+    "hex": "#bef099",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Bamboo",
+    "hex": "#a4e4b2",
+    "category": "Green"
+  },
+  {
+    "name": "Seaweed Bright",
+    "hex": "#b0ec9c",
+    "category": "Green"
+  },
+  {
+    "name": "Herb Mystic",
+    "hex": "#abe6a2",
+    "category": "Green"
+  },
+  {
+    "name": "Freshwater Laurel",
+    "hex": "#89febc",
+    "category": "Green"
+  },
+  {
+    "name": "Calm Cedar",
+    "hex": "#a7e0c8",
+    "category": "Green"
+  },
+  {
+    "name": "Lime Cool",
+    "hex": "#8ffb8c",
+    "category": "Green"
+  },
+  {
+    "name": "Jade Royal",
+    "hex": "#8afaba",
+    "category": "Green"
+  },
+  {
+    "name": "Olive Natural",
+    "hex": "#a7f193",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Ivy",
+    "hex": "#bde1a1",
+    "category": "Green"
+  },
+  {
+    "name": "Malachite Calm",
+    "hex": "#baef92",
+    "category": "Green"
+  },
+  {
+    "name": "Vine Earthy",
+    "hex": "#a5dda3",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Seaweed",
+    "hex": "#abfc84",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Spring",
+    "hex": "#a1dfbd",
+    "category": "Green"
+  },
+  {
+    "name": "Calm Vine",
+    "hex": "#94ecb9",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Cypress",
+    "hex": "#a7dca2",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Pure",
+    "hex": "#abe499",
+    "category": "Green"
+  },
+  {
+    "name": "Myrtle Forest",
+    "hex": "#a0fb82",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Emerald",
+    "hex": "#b1e398",
+    "category": "Green"
+  },
+  {
+    "name": "Freshwater Foliage",
+    "hex": "#80fbc4",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Royal",
+    "hex": "#94e695",
+    "category": "Green"
+  },
+  {
+    "name": "Swamp Mystic",
+    "hex": "#a7e991",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Reed",
+    "hex": "#cded8c",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Malachite",
+    "hex": "#92e6ba",
+    "category": "Green"
+  },
+  {
+    "name": "Jungle Freshwater",
+    "hex": "#8cebaa",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Deep",
+    "hex": "#b9df98",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Lagoon",
+    "hex": "#7cfbb6",
+    "category": "Green"
+  },
+  {
+    "name": "Rich Laurel",
+    "hex": "#aaea8c",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Morning",
+    "hex": "#8ce9c0",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Living",
+    "hex": "#7df783",
+    "category": "Green"
+  },
+  {
+    "name": "Tea Cool",
+    "hex": "#cde58d",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Matcha",
+    "hex": "#8fea87",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Verdant",
+    "hex": "#89e889",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Tea",
+    "hex": "#72fe83",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Forest",
+    "hex": "#b1df91",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Rainforest",
+    "hex": "#b5f17d",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Foliage",
+    "hex": "#7af4a3",
+    "category": "Green"
+  },
+  {
+    "name": "Swamp Darkened",
+    "hex": "#71fc84",
+    "category": "Green"
+  },
+  {
+    "name": "Basil Tropical",
+    "hex": "#ade686",
+    "category": "Green"
+  },
+  {
+    "name": "Seaweed Elegant",
+    "hex": "#b5fa72",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Organic",
+    "hex": "#7ceeb4",
+    "category": "Green"
+  },
+  {
+    "name": "Peridot Soft",
+    "hex": "#aed892",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Cactus",
+    "hex": "#b8e088",
+    "category": "Green"
+  },
+  {
+    "name": "Avocado Emerald",
+    "hex": "#72f5bb",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Avocado",
+    "hex": "#8addbc",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Peridot",
+    "hex": "#92ff67",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Forest",
+    "hex": "#ace481",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Herb",
+    "hex": "#97ef75",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Crystal",
+    "hex": "#93ef75",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Canopy",
+    "hex": "#73f270",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Elegant",
+    "hex": "#71f170",
+    "category": "Green"
+  },
+  {
+    "name": "Vibrant Myrtle",
+    "hex": "#89ef72",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Pure",
+    "hex": "#66fb89",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Myrtle",
+    "hex": "#e1ff61",
+    "category": "Green"
+  },
+  {
+    "name": "Botanical Mystic",
+    "hex": "#71ee81",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Peridot",
+    "hex": "#66f9b3",
+    "category": "Green"
+  },
+  {
+    "name": "Bright Amazon",
+    "hex": "#89e778",
+    "category": "Green"
+  },
+  {
+    "name": "Herb Bright",
+    "hex": "#b7e776",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Sage",
+    "hex": "#7de08b",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Bamboo",
+    "hex": "#bde37a",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Valley",
+    "hex": "#98e775",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Natural",
+    "hex": "#c1e772",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Silent",
+    "hex": "#addc7d",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Freshwater",
+    "hex": "#78e0ab",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Grass",
+    "hex": "#8ae573",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Matcha",
+    "hex": "#7cdcb3",
+    "category": "Green"
+  },
+  {
+    "name": "Cool Vine",
+    "hex": "#cafb5d",
+    "category": "Green"
+  },
+  {
+    "name": "Tea Natural",
+    "hex": "#aade78",
+    "category": "Green"
+  },
+  {
+    "name": "Foliage Pure",
+    "hex": "#7fd78f",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Bright",
+    "hex": "#8eeb6a",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Hidden",
+    "hex": "#aaf163",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Rainforest",
+    "hex": "#5ef5b9",
+    "category": "Green"
+  },
+  {
+    "name": "Garden Hidden",
+    "hex": "#c6e271",
+    "category": "Green"
+  },
+  {
+    "name": "Myrtle Soft",
+    "hex": "#7eeb68",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Ancient",
+    "hex": "#83d087",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Darkened",
+    "hex": "#a5e172",
+    "category": "Green"
+  },
+  {
+    "name": "Pine Lush",
+    "hex": "#69e8b3",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Ancient",
+    "hex": "#5af76f",
+    "category": "Green"
+  },
+  {
+    "name": "Garden Dark",
+    "hex": "#77f25e",
+    "category": "Green"
+  },
+  {
+    "name": "Laurel Rich",
+    "hex": "#63edb3",
+    "category": "Green"
+  },
+  {
+    "name": "Rainforest Bright",
+    "hex": "#a1fb54",
+    "category": "Green"
+  },
+  {
+    "name": "Rich Reed",
+    "hex": "#b3f25d",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Tea",
+    "hex": "#69e69c",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Royal",
+    "hex": "#98f559",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Swamp",
+    "hex": "#66e7ae",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Darkened",
+    "hex": "#baf05d",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Tea",
+    "hex": "#6ce26b",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Bamboo",
+    "hex": "#80fd4f",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Forest",
+    "hex": "#a6e961",
+    "category": "Green"
+  },
+  {
+    "name": "Foliage Elegant",
+    "hex": "#67e281",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Clover",
+    "hex": "#c0dc6c",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Olive",
+    "hex": "#59ef5a",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Botanical",
+    "hex": "#abf84e",
+    "category": "Green"
+  },
+  {
+    "name": "Moss Silent",
+    "hex": "#77cf9e",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Crystal",
+    "hex": "#93dd67",
+    "category": "Green"
+  },
+  {
+    "name": "Earthy Herb",
+    "hex": "#60e499",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Elegant",
+    "hex": "#4ef657",
+    "category": "Green"
+  },
+  {
+    "name": "Canopy Cool",
+    "hex": "#6ff054",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Palm",
+    "hex": "#63e064",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Earthy",
+    "hex": "#45fea2",
+    "category": "Green"
+  },
+  {
+    "name": "Cool Canopy",
+    "hex": "#49f9a4",
+    "category": "Green"
+  },
+  {
+    "name": "Cypress Organic",
+    "hex": "#5ee2b4",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Lush",
+    "hex": "#b0de61",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Ivy",
+    "hex": "#8ae854",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Foliage",
+    "hex": "#54e8a7",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Freshwater",
+    "hex": "#56e69c",
+    "category": "Green"
+  },
+  {
+    "name": "Amazon Hidden",
+    "hex": "#70cb8e",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Hidden",
+    "hex": "#76e15a",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Lime",
+    "hex": "#b4ee4d",
+    "category": "Green"
+  },
+  {
+    "name": "Lichen Natural",
+    "hex": "#66d487",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Willow",
+    "hex": "#49f16e",
+    "category": "Green"
+  },
+  {
+    "name": "Laurel Darkened",
+    "hex": "#bfdc5e",
+    "category": "Green"
+  },
+  {
+    "name": "Vine Hidden",
+    "hex": "#4aed57",
+    "category": "Green"
+  },
+  {
+    "name": "Malachite Bright",
+    "hex": "#3ef99d",
+    "category": "Green"
+  },
+  {
+    "name": "Myrtle Natural",
+    "hex": "#ccf145",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Spring",
+    "hex": "#43f358",
+    "category": "Green"
+  },
+  {
+    "name": "Pistachio Vibrant",
+    "hex": "#6fef45",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Soft",
+    "hex": "#63d261",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Cactus",
+    "hex": "#41f170",
     "category": "Green"
   },
   {
     "name": "Wild Jade",
-    "hex": "#cee8c0",
+    "hex": "#61d066",
     "category": "Green"
   },
   {
-    "name": "Natural Sage",
-    "hex": "#abfcbd",
+    "name": "Botanical Emerald",
+    "hex": "#39f883",
     "category": "Green"
   },
   {
-    "name": "Soft Forest",
-    "hex": "#caf7b0",
+    "name": "Freshwater Garden",
+    "hex": "#cafc31",
     "category": "Green"
   },
   {
-    "name": "Fresh Pine",
-    "hex": "#b5f2dd",
+    "name": "Clover Natural",
+    "hex": "#82e745",
     "category": "Green"
   },
   {
-    "name": "Wild Leaf",
-    "hex": "#abfcc9",
+    "name": "Foliage Wild",
+    "hex": "#5fcc87",
     "category": "Green"
   },
   {
-    "name": "Natural Moss",
-    "hex": "#e5f1b5",
+    "name": "Valley Deep",
+    "hex": "#30fb5e",
     "category": "Green"
   },
   {
-    "name": "Natural Mint",
-    "hex": "#baebc6",
+    "name": "Deep Seaweed",
+    "hex": "#57d377",
     "category": "Green"
   },
   {
-    "name": "Fresh Mint",
-    "hex": "#b0f5c2",
+    "name": "Pine Bright",
+    "hex": "#c0f039",
     "category": "Green"
   },
   {
-    "name": "Dark Mint",
-    "hex": "#bee7bf",
+    "name": "Bamboo Elegant",
+    "hex": "#54d585",
     "category": "Green"
   },
   {
-    "name": "Fresh Moss",
-    "hex": "#bbf5af",
+    "name": "Forest Valley",
+    "hex": "#a8d653",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Bamboo",
+    "hex": "#c2df4a",
+    "category": "Green"
+  },
+  {
+    "name": "Rich Amazon",
+    "hex": "#82e543",
+    "category": "Green"
+  },
+  {
+    "name": "Living Spruce",
+    "hex": "#abf434",
+    "category": "Green"
+  },
+  {
+    "name": "Basil Emerald",
+    "hex": "#34f433",
+    "category": "Green"
+  },
+  {
+    "name": "Rainforest Pure",
+    "hex": "#70d255",
+    "category": "Green"
+  },
+  {
+    "name": "Clover Tropical",
+    "hex": "#29fd61",
+    "category": "Green"
+  },
+  {
+    "name": "Swamp Wild",
+    "hex": "#48de69",
+    "category": "Green"
+  },
+  {
+    "name": "Reed Royal",
+    "hex": "#82cf56",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Bamboo",
+    "hex": "#97c55f",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Emerald",
+    "hex": "#3de779",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Wild",
+    "hex": "#52d251",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Wild",
+    "hex": "#9bc55e",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Garden",
+    "hex": "#3fe37f",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Pure",
+    "hex": "#adc55c",
+    "category": "Green"
+  },
+  {
+    "name": "Leaf Peaceful",
+    "hex": "#5ec35d",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Willow",
+    "hex": "#5bc59c",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Cactus",
+    "hex": "#7ed34d",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Canopy",
+    "hex": "#30ef31",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Cool",
+    "hex": "#39e661",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Amazon",
+    "hex": "#5bc39e",
+    "category": "Green"
+  },
+  {
+    "name": "Malachite Wild",
+    "hex": "#31ed98",
+    "category": "Green"
+  },
+  {
+    "name": "Gentle Verdant",
+    "hex": "#54c957",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Elegant",
+    "hex": "#50cd62",
+    "category": "Green"
+  },
+  {
+    "name": "Clover Freshwater",
+    "hex": "#2cf070",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Living",
+    "hex": "#a4c358",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Peaceful",
+    "hex": "#52c774",
+    "category": "Green"
+  },
+  {
+    "name": "Earthy Thyme",
+    "hex": "#22f646",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Bamboo",
+    "hex": "#51d344",
+    "category": "Green"
+  },
+  {
+    "name": "Thyme Elegant",
+    "hex": "#2de9a9",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Tea",
+    "hex": "#45d195",
+    "category": "Green"
+  },
+  {
+    "name": "Living Valley",
+    "hex": "#69f71f",
+    "category": "Green"
+  },
+  {
+    "name": "Pistachio Gentle",
+    "hex": "#a6c94d",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Cypress",
+    "hex": "#53e035",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Bright",
+    "hex": "#b7d243",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Cedar",
+    "hex": "#5fcc48",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Basil",
+    "hex": "#5bef25",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Fern",
+    "hex": "#84c153",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Botanical",
+    "hex": "#a0c251",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Cool",
+    "hex": "#2de640",
+    "category": "Green"
+  },
+  {
+    "name": "Tea Deep",
+    "hex": "#74f61b",
+    "category": "Green"
+  },
+  {
+    "name": "Canopy Hidden",
+    "hex": "#37da87",
+    "category": "Green"
+  },
+  {
+    "name": "Tea Emerald",
+    "hex": "#36db4c",
+    "category": "Green"
+  },
+  {
+    "name": "Peridot Peaceful",
+    "hex": "#24ea74",
+    "category": "Green"
+  },
+  {
+    "name": "Living Herb",
+    "hex": "#ace826",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Matcha",
+    "hex": "#35d773",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Darkened",
+    "hex": "#37f413",
+    "category": "Green"
+  },
+  {
+    "name": "Valley Fresh",
+    "hex": "#0bfb15",
+    "category": "Green"
+  },
+  {
+    "name": "Laurel Bright",
+    "hex": "#77c83d",
+    "category": "Green"
+  },
+  {
+    "name": "Canopy Rich",
+    "hex": "#8cc53e",
+    "category": "Green"
+  },
+  {
+    "name": "Spring Avocado",
+    "hex": "#0ef436",
+    "category": "Green"
+  },
+  {
+    "name": "Sage Ancient",
+    "hex": "#18f10f",
+    "category": "Green"
+  },
+  {
+    "name": "Lichen Peaceful",
+    "hex": "#78d52a",
+    "category": "Green"
+  },
+  {
+    "name": "Seaweed Calm",
+    "hex": "#27d86d",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Dark",
+    "hex": "#0ff019",
+    "category": "Green"
+  },
+  {
+    "name": "Lichen Spring",
+    "hex": "#2cd287",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Peaceful",
+    "hex": "#41bc62",
+    "category": "Green"
+  },
+  {
+    "name": "Reed Gentle",
+    "hex": "#72c439",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Garden",
+    "hex": "#a6c735",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Myrtle",
+    "hex": "#2fcc68",
+    "category": "Green"
+  },
+  {
+    "name": "Bright Mint",
+    "hex": "#b0f406",
+    "category": "Green"
+  },
+  {
+    "name": "Botanical Spring",
+    "hex": "#7ed02a",
+    "category": "Green"
+  },
+  {
+    "name": "Avocado Fresh",
+    "hex": "#15e448",
+    "category": "Green"
+  },
+  {
+    "name": "Natural Leaf",
+    "hex": "#84ca2e",
+    "category": "Green"
+  },
+  {
+    "name": "Darkened Meadow",
+    "hex": "#06f261",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Moss",
+    "hex": "#afd621",
+    "category": "Green"
+  },
+  {
+    "name": "Seaweed Emerald",
+    "hex": "#a3ba3c",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Amazon",
+    "hex": "#46d91c",
+    "category": "Green"
+  },
+  {
+    "name": "Bright Leaf",
+    "hex": "#20d51f",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Ivy",
+    "hex": "#34c038",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Mystic",
+    "hex": "#08eb74",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Wild",
+    "hex": "#21d22a",
+    "category": "Green"
+  },
+  {
+    "name": "Willow Deep",
+    "hex": "#c6ec06",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Emerald",
+    "hex": "#2ac87c",
+    "category": "Green"
+  },
+  {
+    "name": "Basil Elegant",
+    "hex": "#1cd534",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Garden",
+    "hex": "#1ad749",
+    "category": "Green"
+  },
+  {
+    "name": "Laurel Soft",
+    "hex": "#6dbc34",
+    "category": "Green"
+  },
+  {
+    "name": "Olive Spring",
+    "hex": "#24ca8d",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Tea",
+    "hex": "#51bb33",
+    "category": "Green"
+  },
+  {
+    "name": "Bright Palm",
+    "hex": "#17d41b",
+    "category": "Green"
+  },
+  {
+    "name": "Pistachio Crystal",
+    "hex": "#99c12a",
+    "category": "Green"
+  },
+  {
+    "name": "Fern Morning",
+    "hex": "#78e00a",
+    "category": "Green"
+  },
+  {
+    "name": "Pure Swamp",
+    "hex": "#4cd613",
+    "category": "Green"
+  },
+  {
+    "name": "Reed Silent",
+    "hex": "#56bf2a",
+    "category": "Green"
+  },
+  {
+    "name": "Gentle Spruce",
+    "hex": "#12d765",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Cactus",
+    "hex": "#30b562",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Peridot",
+    "hex": "#abd114",
+    "category": "Green"
+  },
+  {
+    "name": "Freshwater Lichen",
+    "hex": "#2fb557",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Rich",
+    "hex": "#33b03b",
+    "category": "Green"
+  },
+  {
+    "name": "Earthy Clover",
+    "hex": "#59c51d",
+    "category": "Green"
+  },
+  {
+    "name": "Elegant Jade",
+    "hex": "#1dc54c",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Rich",
+    "hex": "#27ba74",
+    "category": "Green"
+  },
+  {
+    "name": "Lagoon Natural",
+    "hex": "#0fd227",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Sage",
+    "hex": "#28b96e",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Amazon",
+    "hex": "#6ea63a",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Royal",
+    "hex": "#15cb3e",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Seaweed",
+    "hex": "#3ca15f",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Thyme",
+    "hex": "#36a57d",
+    "category": "Green"
+  },
+  {
+    "name": "Vine Soft",
+    "hex": "#1dd703",
+    "category": "Green"
+  },
+  {
+    "name": "Swamp Royal",
+    "hex": "#21b82e",
+    "category": "Green"
+  },
+  {
+    "name": "Lichen Bright",
+    "hex": "#5dba1f",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Morning",
+    "hex": "#01d759",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Organic",
+    "hex": "#4cca0e",
+    "category": "Green"
+  },
+  {
+    "name": "Cactus Lush",
+    "hex": "#0bd402",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Darkened",
+    "hex": "#7fcd08",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Lagoon",
+    "hex": "#58a82b",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Cactus",
+    "hex": "#7bce04",
+    "category": "Green"
+  },
+  {
+    "name": "Pine Fresh",
+    "hex": "#81983a",
+    "category": "Green"
+  },
+  {
+    "name": "Living Peridot",
+    "hex": "#44b121",
+    "category": "Green"
+  },
+  {
+    "name": "Cool Cedar",
+    "hex": "#17ba54",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Bright",
+    "hex": "#8ba42c",
+    "category": "Green"
+  },
+  {
+    "name": "Grass Mystic",
+    "hex": "#6ca12f",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Lichen",
+    "hex": "#83b718",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Matcha",
+    "hex": "#6faa24",
+    "category": "Green"
+  },
+  {
+    "name": "Wild Lime",
+    "hex": "#4ccc01",
+    "category": "Green"
+  },
+  {
+    "name": "Mint Forest",
+    "hex": "#2e9f6e",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Natural",
+    "hex": "#91c408",
+    "category": "Green"
+  },
+  {
+    "name": "Botanical Hidden",
+    "hex": "#13b86e",
+    "category": "Green"
+  },
+  {
+    "name": "Peaceful Valley",
+    "hex": "#4fab20",
+    "category": "Green"
+  },
+  {
+    "name": "Herb Forest",
+    "hex": "#55a426",
+    "category": "Green"
+  },
+  {
+    "name": "Ancient Matcha",
+    "hex": "#31996c",
+    "category": "Green"
+  },
+  {
+    "name": "Morning Clover",
+    "hex": "#22a741",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Herb",
+    "hex": "#71c108",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Jungle",
+    "hex": "#00c87f",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Pure",
+    "hex": "#1ea954",
+    "category": "Green"
+  },
+  {
+    "name": "Forest Canopy",
+    "hex": "#63b80f",
+    "category": "Green"
+  },
+  {
+    "name": "Leaf Rich",
+    "hex": "#54b215",
+    "category": "Green"
+  },
+  {
+    "name": "Lush Basil",
+    "hex": "#319653",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Moss",
+    "hex": "#40b214",
+    "category": "Green"
+  },
+  {
+    "name": "Hidden Jungle",
+    "hex": "#45b015",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Amazon",
+    "hex": "#05c00c",
+    "category": "Green"
+  },
+  {
+    "name": "Crystal Amazon",
+    "hex": "#1fa558",
+    "category": "Green"
+  },
+  {
+    "name": "Organic Meadow",
+    "hex": "#55ae16",
+    "category": "Green"
+  },
+  {
+    "name": "Dark Willow",
+    "hex": "#32bb09",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Vine",
+    "hex": "#3eb50c",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Herb",
+    "hex": "#04bd34",
+    "category": "Green"
+  },
+  {
+    "name": "Palm Royal",
+    "hex": "#25ab15",
+    "category": "Green"
+  },
+  {
+    "name": "Tropical Spruce",
+    "hex": "#3a942b",
+    "category": "Green"
+  },
+  {
+    "name": "Matcha Crystal",
+    "hex": "#7bbc03",
+    "category": "Green"
+  },
+  {
+    "name": "Tea Bright",
+    "hex": "#28966e",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Moss",
+    "hex": "#6ca21b",
+    "category": "Green"
+  },
+  {
+    "name": "Soft Myrtle",
+    "hex": "#4a8d2f",
+    "category": "Green"
+  },
+  {
+    "name": "Verdant Earthy",
+    "hex": "#12aa66",
+    "category": "Green"
+  },
+  {
+    "name": "Sage Deep",
+    "hex": "#359426",
+    "category": "Green"
+  },
+  {
+    "name": "Clover Elegant",
+    "hex": "#728d2a",
+    "category": "Green"
+  },
+  {
+    "name": "Royal Spruce",
+    "hex": "#1e9955",
+    "category": "Green"
+  },
+  {
+    "name": "Silent Mint",
+    "hex": "#4f8430",
+    "category": "Green"
+  },
+  {
+    "name": "Meadow Mystic",
+    "hex": "#278d37",
+    "category": "Green"
+  },
+  {
+    "name": "Deep Pine",
+    "hex": "#2f8466",
+    "category": "Green"
+  },
+  {
+    "name": "Bamboo Fresh",
+    "hex": "#1f945d",
+    "category": "Green"
+  },
+  {
+    "name": "Ivy Cool",
+    "hex": "#2b8862",
+    "category": "Green"
+  },
+  {
+    "name": "Cedar Lush",
+    "hex": "#229023",
+    "category": "Green"
+  },
+  {
+    "name": "Vine Silent",
+    "hex": "#739020",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Cool",
+    "hex": "#4a901e",
+    "category": "Green"
+  },
+  {
+    "name": "Seaweed Wild",
+    "hex": "#35a608",
+    "category": "Green"
+  },
+  {
+    "name": "Spruce Hidden",
+    "hex": "#1c9816",
+    "category": "Green"
+  },
+  {
+    "name": "Sage Silent",
+    "hex": "#6b931a",
+    "category": "Green"
+  },
+  {
+    "name": "Fresh Lime",
+    "hex": "#169542",
+    "category": "Green"
+  },
+  {
+    "name": "Malachite Spring",
+    "hex": "#1f8c2c",
+    "category": "Green"
+  },
+  {
+    "name": "Emerald Elegant",
+    "hex": "#11a803",
+    "category": "Green"
+  },
+  {
+    "name": "Herb Cool",
+    "hex": "#08a268",
     "category": "Green"
   },
   {
     "name": "Deep Jade",
-    "hex": "#c4edb6",
+    "hex": "#19902d",
     "category": "Green"
   },
   {
-    "name": "Deep Moss",
-    "hex": "#b6eac9",
+    "name": "Rainforest Elegant",
+    "hex": "#56a007",
     "category": "Green"
   },
   {
-    "name": "Dark Jade",
-    "hex": "#b9e6d4",
+    "name": "Fresh Palm",
+    "hex": "#12953f",
     "category": "Green"
   },
   {
-    "name": "Fresh Leaf",
-    "hex": "#cef1ac",
+    "name": "Mint Ancient",
+    "hex": "#739313",
     "category": "Green"
   },
   {
-    "name": "Deep Mint",
-    "hex": "#b2f1ab",
+    "name": "Olive Hidden",
+    "hex": "#458a1c",
     "category": "Green"
   },
   {
-    "name": "Soft Olive",
-    "hex": "#d4e7b5",
+    "name": "Earthy Valley",
+    "hex": "#42782c",
     "category": "Green"
   },
   {
-    "name": "Deep Fern",
-    "hex": "#b2fc9f",
+    "name": "Forest Malachite",
+    "hex": "#03a03f",
     "category": "Green"
   },
   {
-    "name": "Dark Emerald",
-    "hex": "#bdf3a8",
+    "name": "Cool Emerald",
+    "hex": "#0d9543",
     "category": "Green"
   },
   {
-    "name": "Deep Forest",
-    "hex": "#aff3a7",
+    "name": "Gentle Malachite",
+    "hex": "#43950d",
     "category": "Green"
   },
   {
-    "name": "Soft Fern",
-    "hex": "#9cfac7",
+    "name": "Gentle Leaf",
+    "hex": "#24831f",
     "category": "Green"
   },
   {
-    "name": "Soft Emerald",
-    "hex": "#afe7b4",
+    "name": "Cool Amazon",
+    "hex": "#649809",
     "category": "Green"
   },
   {
-    "name": "Dark Leaf",
-    "hex": "#9df8c2",
+    "name": "Spring Willow",
+    "hex": "#30752c",
     "category": "Green"
   },
   {
-    "name": "Green 1",
-    "hex": "#c3e5b0",
+    "name": "Cool Garden",
+    "hex": "#18891e",
     "category": "Green"
   },
   {
-    "name": "Green 2",
-    "hex": "#befa97",
+    "name": "Spring Pistachio",
+    "hex": "#1a8626",
     "category": "Green"
   },
   {
-    "name": "Green 3",
-    "hex": "#d6f39e",
+    "name": "Lush Lime",
+    "hex": "#10905f",
     "category": "Green"
   },
   {
-    "name": "Green 4",
-    "hex": "#c1e7a8",
+    "name": "Pistachio Bright",
+    "hex": "#158a3a",
     "category": "Green"
   },
   {
-    "name": "Green 5",
-    "hex": "#bbe1ae",
+    "name": "Emerald Morning",
+    "hex": "#278a15",
     "category": "Green"
   },
   {
-    "name": "Green 6",
-    "hex": "#d0eda1",
+    "name": "Jungle Calm",
+    "hex": "#26794f",
     "category": "Green"
   },
   {
-    "name": "Green 7",
-    "hex": "#a3e9af",
+    "name": "Organic Spruce",
+    "hex": "#2e752a",
     "category": "Green"
   },
   {
-    "name": "Green 8",
-    "hex": "#c2e5a6",
+    "name": "Freshwater Fern",
+    "hex": "#72900e",
     "category": "Green"
   },
   {
-    "name": "Green 9",
-    "hex": "#96f4c4",
+    "name": "Soft Swamp",
+    "hex": "#118d3d",
     "category": "Green"
   },
   {
-    "name": "Green 10",
-    "hex": "#9af0a3",
+    "name": "Morning Meadow",
+    "hex": "#1c8158",
     "category": "Green"
   },
   {
-    "name": "Green 11",
-    "hex": "#c8e1a8",
+    "name": "Fresh Forest",
+    "hex": "#237a5b",
     "category": "Green"
   },
   {
-    "name": "Green 12",
-    "hex": "#90f9b8",
+    "name": "Spring Mint",
+    "hex": "#1f7d24",
     "category": "Green"
   },
   {
-    "name": "Green 13",
-    "hex": "#9cecb7",
+    "name": "Lush Bamboo",
+    "hex": "#6c9803",
     "category": "Green"
   },
   {
-    "name": "Green 15",
-    "hex": "#a6e0b8",
+    "name": "Ivy Gentle",
+    "hex": "#278614",
     "category": "Green"
   },
   {
-    "name": "Green 14",
-    "hex": "#91f4a1",
+    "name": "Peridot Tropical",
+    "hex": "#1a9307",
     "category": "Green"
   },
   {
-    "name": "Green 16",
-    "hex": "#a5e0bc",
+    "name": "Moss Freshwater",
+    "hex": "#297041",
     "category": "Green"
   },
   {
-    "name": "Green 17",
-    "hex": "#d4f590",
+    "name": "Earthy Spruce",
+    "hex": "#4d9108",
     "category": "Green"
   },
   {
-    "name": "Green 19",
-    "hex": "#93f2cd",
+    "name": "Rich Foliage",
+    "hex": "#297038",
     "category": "Green"
   },
   {
-    "name": "Green 18",
-    "hex": "#a6e59f",
+    "name": "Tea Forest",
+    "hex": "#088f4f",
     "category": "Green"
   },
   {
-    "name": "Green 20",
-    "hex": "#b4f58f",
+    "name": "Sage Tropical",
+    "hex": "#069029",
     "category": "Green"
   },
   {
-    "name": "Green 22",
-    "hex": "#d7fe85",
+    "name": "Forest Lichen",
+    "hex": "#1c7a57",
     "category": "Green"
   },
   {
-    "name": "Green 21",
-    "hex": "#d1f68c",
+    "name": "Calm Lime",
+    "hex": "#318e07",
     "category": "Green"
   },
   {
-    "name": "Green 23",
-    "hex": "#cff191",
+    "name": "Dark Myrtle",
+    "hex": "#0e861b",
     "category": "Green"
   },
   {
-    "name": "Green 24",
-    "hex": "#94eec8",
+    "name": "Living Verdant",
+    "hex": "#296b37",
     "category": "Green"
   },
   {
-    "name": "Green 25",
-    "hex": "#d0ec93",
+    "name": "Moss Pure",
+    "hex": "#568113",
     "category": "Green"
   },
   {
-    "name": "Green 26",
-    "hex": "#ddef8f",
+    "name": "Fern Darkened",
+    "hex": "#048f28",
     "category": "Green"
   },
   {
-    "name": "Green 27",
-    "hex": "#89f3cf",
+    "name": "Tea Spring",
+    "hex": "#187b41",
     "category": "Green"
   },
   {
-    "name": "Green 28",
-    "hex": "#deee8e",
+    "name": "Botanical Dark",
+    "hex": "#5d6b26",
     "category": "Green"
   },
   {
-    "name": "Green 29",
-    "hex": "#9ae0ab",
+    "name": "Basil Darkened",
+    "hex": "#2f6d22",
     "category": "Green"
   },
   {
-    "name": "Green 30",
-    "hex": "#b2ea8f",
+    "name": "Lush Grass",
+    "hex": "#416e1f",
     "category": "Green"
   },
   {
-    "name": "Green 31",
-    "hex": "#b7e88f",
+    "name": "Bright Swamp",
+    "hex": "#256737",
     "category": "Green"
   },
   {
-    "name": "Green 32",
-    "hex": "#cade98",
+    "name": "Verdant Soft",
+    "hex": "#2b6923",
     "category": "Green"
   },
   {
-    "name": "Green 33",
-    "hex": "#85f1c3",
+    "name": "Darkened Swamp",
+    "hex": "#446823",
     "category": "Green"
   },
   {
-    "name": "Green 34",
-    "hex": "#98df96",
+    "name": "Thyme Hidden",
+    "hex": "#0e7c33",
     "category": "Green"
   },
   {
-    "name": "Green 35",
-    "hex": "#91e4b3",
+    "name": "Avocado Spring",
+    "hex": "#3f6f1b",
     "category": "Green"
   },
   {
-    "name": "Green 36",
-    "hex": "#d9f481",
+    "name": "Deep Spruce",
+    "hex": "#698602",
     "category": "Green"
   },
   {
-    "name": "Green 37",
-    "hex": "#b5f87d",
+    "name": "Matcha Freshwater",
+    "hex": "#256247",
     "category": "Green"
   },
   {
-    "name": "Green 38",
-    "hex": "#bdf480",
+    "name": "Malachite Lush",
+    "hex": "#097e0f",
     "category": "Green"
   },
   {
-    "name": "Green 39",
-    "hex": "#85ef87",
+    "name": "Palm Calm",
+    "hex": "#048239",
     "category": "Green"
   },
   {
-    "name": "Green 40",
-    "hex": "#82f094",
+    "name": "Lush Meadow",
+    "hex": "#417c09",
     "category": "Green"
   },
   {
-    "name": "Green 41",
-    "hex": "#a9fe74",
+    "name": "Vibrant Emerald",
+    "hex": "#238302",
     "category": "Green"
   },
   {
-    "name": "Green 42",
-    "hex": "#baf47b",
+    "name": "Peridot Pure",
+    "hex": "#29691c",
     "category": "Green"
   },
   {
-    "name": "Green 43",
-    "hex": "#87f877",
+    "name": "Foliage Natural",
+    "hex": "#236144",
     "category": "Green"
   },
   {
-    "name": "Green 44",
-    "hex": "#93ff70",
+    "name": "Silent Leaf",
+    "hex": "#386c17",
     "category": "Green"
   },
   {
-    "name": "Green 45",
-    "hex": "#9ae985",
+    "name": "Peridot Rich",
+    "hex": "#3c7b07",
     "category": "Green"
   },
   {
-    "name": "Green 46",
-    "hex": "#abe18c",
+    "name": "Vibrant Cedar",
+    "hex": "#0e7439",
     "category": "Green"
   },
   {
-    "name": "Green 47",
-    "hex": "#80ec82",
+    "name": "Pistachio Cool",
+    "hex": "#216037",
     "category": "Green"
   },
   {
-    "name": "Green 48",
-    "hex": "#8fee7d",
+    "name": "Tea Mystic",
+    "hex": "#397b06",
     "category": "Green"
   },
   {
-    "name": "Green 49",
-    "hex": "#a4dc8f",
+    "name": "Rich Olive",
+    "hex": "#297904",
     "category": "Green"
   },
   {
-    "name": "Green 52",
-    "hex": "#72f89f",
+    "name": "Tea Rich",
+    "hex": "#0e6e3e",
     "category": "Green"
   },
   {
-    "name": "Green 50",
-    "hex": "#b6e882",
+    "name": "Sage Cool",
+    "hex": "#097212",
     "category": "Green"
   },
   {
-    "name": "Green 51",
-    "hex": "#71f9c0",
+    "name": "Vibrant Willow",
+    "hex": "#176242",
     "category": "Green"
   },
   {
-    "name": "Green 53",
-    "hex": "#cffa6f",
+    "name": "Wild Malachite",
+    "hex": "#376e0b",
     "category": "Green"
   },
   {
-    "name": "Green 55",
-    "hex": "#67fec0",
+    "name": "Sage Pure",
+    "hex": "#426811",
     "category": "Green"
   },
   {
-    "name": "Green 54",
-    "hex": "#8ada9d",
+    "name": "Spring Fern",
+    "hex": "#037529",
     "category": "Green"
   },
   {
-    "name": "Green 56",
-    "hex": "#69fb87",
+    "name": "Freshwater Malachite",
+    "hex": "#406315",
     "category": "Green"
   },
   {
-    "name": "Green 57",
-    "hex": "#70f3b5",
+    "name": "Olive Emerald",
+    "hex": "#245a1e",
     "category": "Green"
   },
   {
-    "name": "Green 58",
-    "hex": "#74eea3",
+    "name": "Bamboo Freshwater",
+    "hex": "#057346",
     "category": "Green"
   },
   {
-    "name": "Green 59",
-    "hex": "#a7f072",
+    "name": "Tea Tropical",
+    "hex": "#1a7601",
     "category": "Green"
   },
   {
-    "name": "Green 60",
-    "hex": "#75ecc2",
+    "name": "Bamboo Darkened",
+    "hex": "#3d7007",
     "category": "Green"
   },
   {
-    "name": "Green 61",
-    "hex": "#6ff296",
+    "name": "Wild Basil",
+    "hex": "#31591e",
     "category": "Green"
   },
   {
-    "name": "Green 62",
-    "hex": "#74f06f",
+    "name": "Silent Amazon",
+    "hex": "#436512",
     "category": "Green"
   },
   {
-    "name": "Green 63",
-    "hex": "#dbf865",
+    "name": "Cool Ivy",
+    "hex": "#076f30",
     "category": "Green"
   },
   {
-    "name": "Green 64",
-    "hex": "#bedb81",
+    "name": "Pistachio Fresh",
+    "hex": "#176a0b",
     "category": "Green"
   },
   {
-    "name": "Green 65",
-    "hex": "#78e48a",
+    "name": "Pure Pistachio",
+    "hex": "#2c5b1a",
     "category": "Green"
   },
   {
-    "name": "Green 66",
-    "hex": "#6fecb9",
+    "name": "Organic Garden",
+    "hex": "#0e6631",
     "category": "Green"
   },
   {
-    "name": "Green 67",
-    "hex": "#cdf368",
+    "name": "Grass Tropical",
+    "hex": "#3d7301",
     "category": "Green"
   },
   {
-    "name": "Green 68",
-    "hex": "#60fba9",
+    "name": "Botanical Forest",
+    "hex": "#096840",
     "category": "Green"
   },
   {
-    "name": "Green 69",
-    "hex": "#83d887",
+    "name": "Mystic Sage",
+    "hex": "#096842",
     "category": "Green"
   },
   {
-    "name": "Green 70",
-    "hex": "#99d684",
+    "name": "Ancient Leaf",
+    "hex": "#046b07",
     "category": "Green"
   },
   {
-    "name": "Green 71",
-    "hex": "#6ded97",
+    "name": "Thyme Emerald",
+    "hex": "#1c5334",
     "category": "Green"
   },
   {
-    "name": "Green 72",
-    "hex": "#5bfe78",
+    "name": "Spring Vine",
+    "hex": "#016e40",
     "category": "Green"
   },
   {
-    "name": "Green 73",
-    "hex": "#76e18d",
+    "name": "Fern Living",
+    "hex": "#596c02",
     "category": "Green"
   },
   {
-    "name": "Green 74",
-    "hex": "#66f1aa",
+    "name": "Emerald Royal",
+    "hex": "#3e6a04",
     "category": "Green"
   },
   {
-    "name": "Green 75",
-    "hex": "#afe175",
+    "name": "Clover Living",
+    "hex": "#476706",
     "category": "Green"
   },
   {
-    "name": "Green 76",
-    "hex": "#74e1bb",
+    "name": "Peaceful Swamp",
+    "hex": "#096d00",
     "category": "Green"
   },
   {
-    "name": "Green 77",
-    "hex": "#a4d183",
+    "name": "Basil Morning",
+    "hex": "#355a12",
     "category": "Green"
   },
   {
-    "name": "Green 78",
-    "hex": "#acf160",
+    "name": "Moss Rich",
+    "hex": "#2e6804",
     "category": "Green"
   },
   {
-    "name": "Green 79",
-    "hex": "#76dab8",
+    "name": "Swamp Forest",
+    "hex": "#346a01",
     "category": "Green"
   },
   {
-    "name": "Green 80",
-    "hex": "#81f45b",
+    "name": "Cactus Forest",
+    "hex": "#016839",
     "category": "Green"
   },
   {
-    "name": "Green 81",
-    "hex": "#a4e06c",
+    "name": "Leaf Deep",
+    "hex": "#1c4c27",
     "category": "Green"
   },
   {
-    "name": "Green 82",
-    "hex": "#7ddc70",
+    "name": "Pine Calm",
+    "hex": "#17502d",
     "category": "Green"
   },
   {
-    "name": "Green 83",
-    "hex": "#6be0a8",
+    "name": "Tropical Botanical",
+    "hex": "#0e5918",
     "category": "Green"
   },
   {
-    "name": "Green 85",
-    "hex": "#6cdeaf",
+    "name": "Pure Malachite",
+    "hex": "#046208",
     "category": "Green"
   },
   {
-    "name": "Green 84",
-    "hex": "#5feb7e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 86",
-    "hex": "#5af851",
-    "category": "Green"
-  },
-  {
-    "name": "Green 88",
-    "hex": "#70e960",
-    "category": "Green"
-  },
-  {
-    "name": "Green 87",
-    "hex": "#64e48d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 89",
-    "hex": "#4afd62",
-    "category": "Green"
-  },
-  {
-    "name": "Green 90",
-    "hex": "#bfe661",
-    "category": "Green"
-  },
-  {
-    "name": "Green 91",
-    "hex": "#96f84f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 92",
-    "hex": "#9cfe44",
-    "category": "Green"
-  },
-  {
-    "name": "Green 93",
-    "hex": "#aedc66",
-    "category": "Green"
-  },
-  {
-    "name": "Green 94",
-    "hex": "#50f27a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 95",
-    "hex": "#74f84a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 96",
-    "hex": "#7bcc73",
-    "category": "Green"
-  },
-  {
-    "name": "Green 97",
-    "hex": "#52ec52",
-    "category": "Green"
-  },
-  {
-    "name": "Green 98",
-    "hex": "#3ffe76",
-    "category": "Green"
-  },
-  {
-    "name": "Green 99",
-    "hex": "#cbe459",
-    "category": "Green"
-  },
-  {
-    "name": "Green 100",
-    "hex": "#71eb52",
-    "category": "Green"
-  },
-  {
-    "name": "Green 101",
-    "hex": "#66d774",
-    "category": "Green"
-  },
-  {
-    "name": "Green 102",
-    "hex": "#56e68e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 103",
-    "hex": "#6ece7e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 104",
-    "hex": "#5ddf60",
-    "category": "Green"
-  },
-  {
-    "name": "Green 105",
-    "hex": "#b4e851",
-    "category": "Green"
-  },
-  {
-    "name": "Green 106",
-    "hex": "#acde5b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 107",
-    "hex": "#83cd6c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 108",
-    "hex": "#60d89b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 109",
-    "hex": "#6cc994",
-    "category": "Green"
-  },
-  {
-    "name": "Green 110",
-    "hex": "#4ee376",
-    "category": "Green"
-  },
-  {
-    "name": "Green 111",
-    "hex": "#66caa7",
-    "category": "Green"
-  },
-  {
-    "name": "Green 112",
-    "hex": "#65ca69",
-    "category": "Green"
-  },
-  {
-    "name": "Green 113",
-    "hex": "#4de288",
-    "category": "Green"
-  },
-  {
-    "name": "Green 114",
-    "hex": "#84e449",
-    "category": "Green"
-  },
-  {
-    "name": "Green 115",
-    "hex": "#60cc7c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 116",
-    "hex": "#6bce5e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 120",
-    "hex": "#52d991",
-    "category": "Green"
-  },
-  {
-    "name": "Green 117",
-    "hex": "#84e249",
-    "category": "Green"
-  },
-  {
-    "name": "Green 119",
-    "hex": "#9df338",
-    "category": "Green"
-  },
-  {
-    "name": "Green 118",
-    "hex": "#5dcda4",
-    "category": "Green"
-  },
-  {
-    "name": "Green 121",
-    "hex": "#43e774",
-    "category": "Green"
-  },
-  {
-    "name": "Green 123",
-    "hex": "#33f649",
-    "category": "Green"
-  },
-  {
-    "name": "Green 124",
-    "hex": "#2bfeb7",
-    "category": "Green"
-  },
-  {
-    "name": "Green 122",
-    "hex": "#79e247",
-    "category": "Green"
-  },
-  {
-    "name": "Green 125",
-    "hex": "#a1f237",
-    "category": "Green"
-  },
-  {
-    "name": "Green 126",
-    "hex": "#4edb81",
-    "category": "Green"
-  },
-  {
-    "name": "Green 128",
-    "hex": "#7bfd2b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 127",
-    "hex": "#38f137",
-    "category": "Green"
-  },
-  {
-    "name": "Green 129",
-    "hex": "#7dc461",
-    "category": "Green"
-  },
-  {
-    "name": "Green 131",
-    "hex": "#4ff332",
-    "category": "Green"
-  },
-  {
-    "name": "Green 130",
-    "hex": "#38ec95",
-    "category": "Green"
-  },
-  {
-    "name": "Green 132",
-    "hex": "#53ce65",
-    "category": "Green"
-  },
-  {
-    "name": "Green 133",
-    "hex": "#8dfc25",
-    "category": "Green"
-  },
-  {
-    "name": "Green 134",
-    "hex": "#47d9a0",
-    "category": "Green"
-  },
-  {
-    "name": "Green 135",
-    "hex": "#38e84b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 136",
-    "hex": "#86f728",
-    "category": "Green"
-  },
-  {
-    "name": "Green 137",
-    "hex": "#50ce96",
-    "category": "Green"
-  },
-  {
-    "name": "Green 138",
-    "hex": "#7af529",
-    "category": "Green"
-  },
-  {
-    "name": "Green 140",
-    "hex": "#c7e736",
-    "category": "Green"
-  },
-  {
-    "name": "Green 139",
-    "hex": "#82f725",
-    "category": "Green"
-  },
-  {
-    "name": "Green 141",
-    "hex": "#78c259",
-    "category": "Green"
-  },
-  {
-    "name": "Green 142",
-    "hex": "#a0d744",
-    "category": "Green"
-  },
-  {
-    "name": "Green 144",
-    "hex": "#1bffae",
-    "category": "Green"
-  },
-  {
-    "name": "Green 143",
-    "hex": "#8ceb2e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 145",
-    "hex": "#bbe433",
-    "category": "Green"
-  },
-  {
-    "name": "Green 146",
-    "hex": "#3ed97b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 147",
-    "hex": "#5ed442",
-    "category": "Green"
-  },
-  {
-    "name": "Green 148",
-    "hex": "#a4c155",
-    "category": "Green"
-  },
-  {
-    "name": "Green 149",
-    "hex": "#82cb4a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 150",
-    "hex": "#98dc38",
-    "category": "Green"
-  },
-  {
-    "name": "Green 151",
-    "hex": "#52c18e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 152",
-    "hex": "#bee52d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 153",
-    "hex": "#45cb7b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 154",
-    "hex": "#9dd43b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 155",
-    "hex": "#7de32b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 156",
-    "hex": "#6fc746",
-    "category": "Green"
-  },
-  {
-    "name": "Green 157",
-    "hex": "#0ffd57",
-    "category": "Green"
-  },
-  {
-    "name": "Green 158",
-    "hex": "#a7bd4e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 159",
-    "hex": "#17f46b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 160",
-    "hex": "#5fe920",
-    "category": "Green"
-  },
-  {
-    "name": "Green 161",
-    "hex": "#2dda62",
-    "category": "Green"
-  },
-  {
-    "name": "Green 162",
-    "hex": "#2dda79",
-    "category": "Green"
-  },
-  {
-    "name": "Green 164",
-    "hex": "#3adc2a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 165",
-    "hex": "#24e521",
-    "category": "Green"
-  },
-  {
-    "name": "Green 163",
-    "hex": "#41c560",
-    "category": "Green"
-  },
-  {
-    "name": "Green 166",
-    "hex": "#27df5d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 167",
-    "hex": "#36cf40",
-    "category": "Green"
-  },
-  {
-    "name": "Green 168",
-    "hex": "#11f377",
-    "category": "Green"
-  },
-  {
-    "name": "Green 169",
-    "hex": "#49dc27",
-    "category": "Green"
-  },
-  {
-    "name": "Green 170",
-    "hex": "#70c042",
-    "category": "Green"
-  },
-  {
-    "name": "Green 171",
-    "hex": "#1df110",
-    "category": "Green"
-  },
-  {
-    "name": "Green 172",
-    "hex": "#8eff02",
-    "category": "Green"
-  },
-  {
-    "name": "Green 173",
-    "hex": "#9ac839",
-    "category": "Green"
-  },
-  {
-    "name": "Green 174",
-    "hex": "#2bd54a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 175",
-    "hex": "#2ad430",
-    "category": "Green"
-  },
-  {
-    "name": "Green 176",
-    "hex": "#52de1f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 177",
-    "hex": "#3cd22b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 178",
-    "hex": "#29ed0e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 179",
-    "hex": "#3dbe3f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 181",
-    "hex": "#48ba41",
-    "category": "Green"
-  },
-  {
-    "name": "Green 182",
-    "hex": "#86c535",
-    "category": "Green"
-  },
-  {
-    "name": "Green 184",
-    "hex": "#0eec4b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 180",
-    "hex": "#afcb2f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 185",
-    "hex": "#9db643",
-    "category": "Green"
-  },
-  {
-    "name": "Green 183",
-    "hex": "#97f108",
-    "category": "Green"
-  },
-  {
-    "name": "Green 186",
-    "hex": "#07f033",
-    "category": "Green"
-  },
-  {
-    "name": "Green 187",
-    "hex": "#6ab641",
-    "category": "Green"
-  },
-  {
-    "name": "Green 189",
-    "hex": "#48de15",
-    "category": "Green"
-  },
-  {
-    "name": "Green 188",
-    "hex": "#4dd81b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 190",
-    "hex": "#82d51c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 191",
-    "hex": "#4eef01",
-    "category": "Green"
-  },
-  {
-    "name": "Green 192",
-    "hex": "#07e882",
-    "category": "Green"
-  },
-  {
-    "name": "Green 194",
-    "hex": "#35b95c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 193",
-    "hex": "#35e508",
-    "category": "Green"
-  },
-  {
-    "name": "Green 195",
-    "hex": "#7fad40",
-    "category": "Green"
-  },
-  {
-    "name": "Green 196",
-    "hex": "#25c47c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 197",
-    "hex": "#34b579",
-    "category": "Green"
-  },
-  {
-    "name": "Green 198",
-    "hex": "#38af67",
-    "category": "Green"
-  },
-  {
-    "name": "Green 199",
-    "hex": "#28d80f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 200",
-    "hex": "#4fd017",
-    "category": "Green"
-  },
-  {
-    "name": "Green 201",
-    "hex": "#acce18",
-    "category": "Green"
-  },
-  {
-    "name": "Green 203",
-    "hex": "#14d277",
-    "category": "Green"
-  },
-  {
-    "name": "Green 202",
-    "hex": "#81c322",
-    "category": "Green"
-  },
-  {
-    "name": "Green 205",
-    "hex": "#37ad71",
-    "category": "Green"
-  },
-  {
-    "name": "Green 206",
-    "hex": "#71cc18",
-    "category": "Green"
-  },
-  {
-    "name": "Green 204",
-    "hex": "#36db09",
-    "category": "Green"
-  },
-  {
-    "name": "Green 207",
-    "hex": "#1cd80c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 208",
-    "hex": "#26ca19",
-    "category": "Green"
-  },
-  {
-    "name": "Green 209",
-    "hex": "#85b130",
-    "category": "Green"
-  },
-  {
-    "name": "Green 210",
-    "hex": "#1bc679",
-    "category": "Green"
-  },
-  {
-    "name": "Green 211",
-    "hex": "#89ba25",
-    "category": "Green"
-  },
-  {
-    "name": "Green 212",
-    "hex": "#51b52a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 213",
-    "hex": "#48c41a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 214",
-    "hex": "#1cc27b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 215",
-    "hex": "#55bd21",
-    "category": "Green"
-  },
-  {
-    "name": "Green 216",
-    "hex": "#82bd20",
-    "category": "Green"
-  },
-  {
-    "name": "Green 217",
-    "hex": "#6bb32a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 218",
-    "hex": "#1dbc60",
-    "category": "Green"
-  },
-  {
-    "name": "Green 219",
-    "hex": "#3b9e45",
-    "category": "Green"
-  },
-  {
-    "name": "Green 220",
-    "hex": "#31a87b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 221",
-    "hex": "#7ea434",
-    "category": "Green"
-  },
-  {
-    "name": "Green 222",
-    "hex": "#4ea632",
-    "category": "Green"
-  },
-  {
-    "name": "Green 223",
-    "hex": "#19bd50",
-    "category": "Green"
-  },
-  {
-    "name": "Green 224",
-    "hex": "#1eb856",
-    "category": "Green"
-  },
-  {
-    "name": "Green 226",
-    "hex": "#16bf2f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 225",
-    "hex": "#03d216",
-    "category": "Green"
-  },
-  {
-    "name": "Green 227",
-    "hex": "#8fce06",
-    "category": "Green"
-  },
-  {
-    "name": "Green 228",
-    "hex": "#719939",
-    "category": "Green"
-  },
-  {
-    "name": "Green 229",
-    "hex": "#2dc40c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 230",
-    "hex": "#19b665",
-    "category": "Green"
-  },
-  {
-    "name": "Green 231",
-    "hex": "#1cb36f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 232",
-    "hex": "#63cd01",
-    "category": "Green"
-  },
-  {
-    "name": "Green 233",
-    "hex": "#2db11d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 234",
-    "hex": "#5fb418",
-    "category": "Green"
-  },
-  {
-    "name": "Green 235",
-    "hex": "#15b738",
-    "category": "Green"
-  },
-  {
-    "name": "Green 236",
-    "hex": "#07c479",
-    "category": "Green"
-  },
-  {
-    "name": "Green 238",
-    "hex": "#8db219",
-    "category": "Green"
-  },
-  {
-    "name": "Green 239",
-    "hex": "#60ad1d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 241",
-    "hex": "#669c2e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 237",
-    "hex": "#77a02a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 240",
-    "hex": "#15b713",
-    "category": "Green"
-  },
-  {
-    "name": "Green 242",
-    "hex": "#76ab1f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 243",
-    "hex": "#82aa20",
-    "category": "Green"
-  },
-  {
-    "name": "Green 244",
-    "hex": "#08c253",
-    "category": "Green"
-  },
-  {
-    "name": "Green 245",
-    "hex": "#11b747",
-    "category": "Green"
-  },
-  {
-    "name": "Green 246",
-    "hex": "#98b216",
-    "category": "Green"
-  },
-  {
-    "name": "Green 247",
-    "hex": "#1bac78",
-    "category": "Green"
-  },
-  {
-    "name": "Green 248",
-    "hex": "#08bf6a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 249",
-    "hex": "#40c400",
-    "category": "Green"
-  },
-  {
-    "name": "Green 251",
-    "hex": "#15af7a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 250",
-    "hex": "#0cb832",
-    "category": "Green"
-  },
-  {
-    "name": "Green 252",
-    "hex": "#299b74",
-    "category": "Green"
-  },
-  {
-    "name": "Green 253",
-    "hex": "#30933d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 254",
-    "hex": "#10b261",
-    "category": "Green"
-  },
-  {
-    "name": "Green 255",
-    "hex": "#7d8e33",
-    "category": "Green"
-  },
-  {
-    "name": "Green 256",
-    "hex": "#52a818",
-    "category": "Green"
-  },
-  {
-    "name": "Green 257",
-    "hex": "#2e912e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 258",
-    "hex": "#0bb416",
-    "category": "Green"
-  },
-  {
-    "name": "Green 259",
-    "hex": "#259729",
-    "category": "Green"
-  },
-  {
-    "name": "Green 260",
-    "hex": "#26ad0c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 261",
-    "hex": "#57a415",
-    "category": "Green"
-  },
-  {
-    "name": "Green 262",
-    "hex": "#2c8a4b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 263",
-    "hex": "#609121",
-    "category": "Green"
-  },
-  {
-    "name": "Green 264",
-    "hex": "#1da70b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 265",
-    "hex": "#179a2d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 266",
-    "hex": "#77ac04",
-    "category": "Green"
-  },
-  {
-    "name": "Green 267",
-    "hex": "#56852b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 268",
-    "hex": "#778b25",
-    "category": "Green"
-  },
-  {
-    "name": "Green 269",
-    "hex": "#2c845e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 270",
-    "hex": "#03ac07",
-    "category": "Green"
-  },
-  {
-    "name": "Green 271",
-    "hex": "#0da254",
-    "category": "Green"
-  },
-  {
-    "name": "Green 274",
-    "hex": "#66822d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 272",
-    "hex": "#149a31",
-    "category": "Green"
-  },
-  {
-    "name": "Green 275",
-    "hex": "#27875e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 273",
-    "hex": "#7bab03",
-    "category": "Green"
-  },
-  {
-    "name": "Green 276",
-    "hex": "#458627",
-    "category": "Green"
-  },
-  {
-    "name": "Green 277",
-    "hex": "#159748",
-    "category": "Green"
-  },
-  {
-    "name": "Green 278",
-    "hex": "#199224",
-    "category": "Green"
-  },
-  {
-    "name": "Green 280",
-    "hex": "#04a62a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 279",
-    "hex": "#2e8129",
-    "category": "Green"
-  },
-  {
-    "name": "Green 281",
-    "hex": "#0da901",
-    "category": "Green"
-  },
-  {
-    "name": "Green 282",
-    "hex": "#0b9f2b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 283",
-    "hex": "#17a306",
-    "category": "Green"
-  },
-  {
-    "name": "Green 284",
-    "hex": "#398e1b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 286",
-    "hex": "#317a2b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 285",
-    "hex": "#69792c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 287",
-    "hex": "#2a7835",
-    "category": "Green"
-  },
-  {
-    "name": "Green 288",
-    "hex": "#6a7e23",
-    "category": "Green"
-  },
-  {
-    "name": "Green 289",
-    "hex": "#339808",
-    "category": "Green"
-  },
-  {
-    "name": "Green 290",
-    "hex": "#7a940b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 291",
-    "hex": "#039960",
-    "category": "Green"
-  },
-  {
-    "name": "Green 292",
-    "hex": "#237835",
-    "category": "Green"
-  },
-  {
-    "name": "Green 293",
-    "hex": "#1c9b00",
-    "category": "Green"
-  },
-  {
-    "name": "Green 294",
-    "hex": "#6f9603",
-    "category": "Green"
-  },
-  {
-    "name": "Green 295",
-    "hex": "#558810",
-    "category": "Green"
-  },
-  {
-    "name": "Green 296",
-    "hex": "#566f27",
-    "category": "Green"
-  },
-  {
-    "name": "Green 298",
-    "hex": "#01943b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 297",
-    "hex": "#0a8b25",
-    "category": "Green"
-  },
-  {
-    "name": "Green 299",
-    "hex": "#177d1c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 300",
-    "hex": "#11823e",
-    "category": "Green"
-  },
-  {
-    "name": "Green 301",
-    "hex": "#1c772f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 302",
-    "hex": "#2e7e12",
-    "category": "Green"
-  },
-  {
-    "name": "Green 303",
-    "hex": "#4e741c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 304",
-    "hex": "#0e8c03",
-    "category": "Green"
-  },
-  {
-    "name": "Green 305",
-    "hex": "#216e31",
-    "category": "Green"
-  },
-  {
-    "name": "Green 306",
-    "hex": "#187724",
-    "category": "Green"
-  },
-  {
-    "name": "Green 307",
-    "hex": "#1c7225",
-    "category": "Green"
-  },
-  {
-    "name": "Green 308",
-    "hex": "#5b6e1c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 309",
-    "hex": "#526f19",
-    "category": "Green"
-  },
-  {
-    "name": "Green 311",
-    "hex": "#15731d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 310",
-    "hex": "#206a1d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 312",
-    "hex": "#177e08",
-    "category": "Green"
-  },
-  {
-    "name": "Green 313",
-    "hex": "#0b7b28",
-    "category": "Green"
-  },
-  {
-    "name": "Green 314",
-    "hex": "#018308",
-    "category": "Green"
-  },
-  {
-    "name": "Green 315",
-    "hex": "#1a6932",
-    "category": "Green"
-  },
-  {
-    "name": "Green 316",
-    "hex": "#2a641f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 317",
-    "hex": "#325e21",
-    "category": "Green"
-  },
-  {
-    "name": "Green 318",
-    "hex": "#525e21",
-    "category": "Green"
-  },
-  {
-    "name": "Green 319",
-    "hex": "#1d631c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 320",
-    "hex": "#0f7608",
-    "category": "Green"
-  },
-  {
-    "name": "Green 321",
-    "hex": "#586d11",
-    "category": "Green"
-  },
-  {
-    "name": "Green 322",
-    "hex": "#0c714f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 323",
-    "hex": "#39710b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 324",
-    "hex": "#265f19",
-    "category": "Green"
-  },
-  {
-    "name": "Green 325",
-    "hex": "#04732a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 327",
-    "hex": "#527204",
-    "category": "Green"
-  },
-  {
-    "name": "Green 326",
-    "hex": "#33690d",
-    "category": "Green"
-  },
-  {
-    "name": "Green 328",
-    "hex": "#0a6b14",
-    "category": "Green"
-  },
-  {
-    "name": "Green 329",
-    "hex": "#32660f",
-    "category": "Green"
-  },
-  {
-    "name": "Green 330",
-    "hex": "#096b24",
-    "category": "Green"
-  },
-  {
-    "name": "Green 331",
-    "hex": "#346311",
-    "category": "Green"
-  },
-  {
-    "name": "Green 332",
-    "hex": "#046e2b",
-    "category": "Green"
-  },
-  {
-    "name": "Green 333",
-    "hex": "#0d652c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 334",
-    "hex": "#475a16",
-    "category": "Green"
-  },
-  {
-    "name": "Green 335",
-    "hex": "#0b642a",
-    "category": "Green"
-  },
-  {
-    "name": "Green 336",
-    "hex": "#4b5617",
-    "category": "Green"
-  },
-  {
-    "name": "Green 337",
-    "hex": "#4d5f0c",
-    "category": "Green"
-  },
-  {
-    "name": "Green 338",
-    "hex": "#2a5a11",
-    "category": "Green"
-  },
-  {
-    "name": "Green 339",
-    "hex": "#2a5019",
-    "category": "Green"
-  },
-  {
-    "name": "Green 340",
-    "hex": "#0b5c1f",
+    "name": "Hidden Bamboo",
+    "hex": "#284a1c",
     "category": "Green"
   }
 ]

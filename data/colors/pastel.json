@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Light Cream",
-    "hex": "#f7f5ee",
+    "name": "Gentle Frost",
+    "hex": "#f4f3f0",
     "category": "Pastel"
   },
   {
-    "name": "Sweet Milk",
-    "hex": "#f5eff5",
+    "name": "Natural Pearl",
+    "hex": "#f4f0f0",
     "category": "Pastel"
   },
   {
-    "name": "Pale Peach",
-    "hex": "#f6eef2",
+    "name": "Meringue Calm",
+    "hex": "#ecf7f0",
     "category": "Pastel"
   },
   {
-    "name": "Gentle Cream",
-    "hex": "#f5f5ef",
+    "name": "Delicate Marshmallow",
+    "hex": "#eff4f1",
     "category": "Pastel"
   },
   {
-    "name": "Gentle Candy",
-    "hex": "#f5f1ef",
+    "name": "Fresh Meringue",
+    "hex": "#f4f7ec",
     "category": "Pastel"
   },
   {
-    "name": "Sweet Cream",
-    "hex": "#eaf5f9",
+    "name": "Powder Pure",
+    "hex": "#edf6ef",
     "category": "Pastel"
   },
   {
-    "name": "Pale Cotton",
-    "hex": "#f4efee",
+    "name": "Soft Flora",
+    "hex": "#ebf7f2",
     "category": "Pastel"
   },
   {
-    "name": "Light Dream",
-    "hex": "#f0ecf6",
+    "name": "Subtle Peach",
+    "hex": "#edf5f5",
     "category": "Pastel"
   },
   {
-    "name": "Pale Cream",
-    "hex": "#f6f3ec",
+    "name": "Airy Pearl",
+    "hex": "#ecf5f6",
     "category": "Pastel"
   },
   {
-    "name": "Light Milk",
-    "hex": "#edebf6",
+    "name": "Quiet Breeze",
+    "hex": "#f4f2ee",
     "category": "Pastel"
   },
   {
-    "name": "Gentle Dream",
-    "hex": "#ecf7ea",
+    "name": "Snow Delicate",
+    "hex": "#f4ebf6",
     "category": "Pastel"
   },
   {
-    "name": "Sweet Candy",
-    "hex": "#f5eceb",
-    "category": "Pastel"
-  },
-  {
-    "name": "Gentle Cotton",
-    "hex": "#f5ebf0",
-    "category": "Pastel"
-  },
-  {
-    "name": "Light Cloud",
-    "hex": "#eaf2f6",
-    "category": "Pastel"
-  },
-  {
-    "name": "Pale Lavender",
-    "hex": "#ece7f8",
-    "category": "Pastel"
-  },
-  {
-    "name": "Sweet Lavender",
-    "hex": "#f2e7f8",
-    "category": "Pastel"
-  },
-  {
-    "name": "Gentle Lavender",
-    "hex": "#eaf4f5",
-    "category": "Pastel"
-  },
-  {
-    "name": "Light Candy",
-    "hex": "#f5eaf2",
-    "category": "Pastel"
-  },
-  {
-    "name": "Gentle Peach",
-    "hex": "#edeff2",
-    "category": "Pastel"
-  },
-  {
-    "name": "Light Peach",
-    "hex": "#ebe9f5",
-    "category": "Pastel"
-  },
-  {
-    "name": "Sweet Dream",
-    "hex": "#e7f7ef",
-    "category": "Pastel"
-  },
-  {
-    "name": "Soft Dream",
-    "hex": "#eaf4f2",
-    "category": "Pastel"
-  },
-  {
-    "name": "Soft Milk",
-    "hex": "#f5f4e8",
-    "category": "Pastel"
-  },
-  {
-    "name": "Soft Cream",
-    "hex": "#f4f3e9",
-    "category": "Pastel"
-  },
-  {
-    "name": "Sweet Cloud",
-    "hex": "#ebf5e8",
-    "category": "Pastel"
-  },
-  {
-    "name": "Pale Dream",
-    "hex": "#ebf2f1",
-    "category": "Pastel"
-  },
-  {
-    "name": "Light Cotton",
-    "hex": "#f1eaf3",
-    "category": "Pastel"
-  },
-  {
-    "name": "Sweet Peach",
-    "hex": "#e7eef5",
-    "category": "Pastel"
-  },
-  {
-    "name": "Gentle Cloud",
-    "hex": "#f1f0eb",
-    "category": "Pastel"
-  },
-  {
-    "name": "Gentle Milk",
-    "hex": "#f3f1e9",
-    "category": "Pastel"
-  },
-  {
-    "name": "Light Lavender",
-    "hex": "#f7e5f2",
-    "category": "Pastel"
-  },
-  {
-    "name": "Pale Candy",
-    "hex": "#e6f4f6",
+    "name": "Pale Meringue",
+    "hex": "#f2ebf6",
     "category": "Pastel"
   },
   {
     "name": "Soft Candy",
-    "hex": "#e6f5f1",
+    "hex": "#f3eef0",
     "category": "Pastel"
   },
   {
-    "name": "Pale Milk",
-    "hex": "#ebf1ea",
+    "name": "Frost Sweet",
+    "hex": "#eeedf4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 1",
-    "hex": "#e8f6e5",
+    "name": "Frost Natural",
+    "hex": "#f8ebe9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 2",
-    "hex": "#f1eae9",
+    "name": "Dream Pale",
+    "hex": "#f5eced",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 3",
-    "hex": "#f3e7f3",
+    "name": "Clean Frost",
+    "hex": "#f2ecf4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 4",
-    "hex": "#f3e7e9",
+    "name": "Moon Airy",
+    "hex": "#f7e9ea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 5",
-    "hex": "#f1e7f3",
+    "name": "Lovely Cotton",
+    "hex": "#edf2f3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 6",
-    "hex": "#f2e7e7",
+    "name": "Airy Cloud",
+    "hex": "#e9eaf7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 7",
+    "name": "Soft Lotus",
+    "hex": "#eaf5f0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cotton Smooth",
+    "hex": "#eeeaf5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Peach Light",
+    "hex": "#f6e9e8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Peach Calm",
+    "hex": "#f4eaf1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Subtle Milk",
+    "hex": "#f1ebf3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lotus Soft",
+    "hex": "#f2f0ec",
+    "category": "Pastel"
+  },
+  {
+    "name": "Milk Light",
+    "hex": "#f3f2ea",
+    "category": "Pastel"
+  },
+  {
+    "name": "Crystal Quiet",
+    "hex": "#f2ebf1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Snow Airy",
+    "hex": "#e9e7f6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Light Frost",
+    "hex": "#e7f5f6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Clean Milk",
+    "hex": "#ece7f5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Vanilla Subtle",
+    "hex": "#f3f4e8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Quiet Milk",
+    "hex": "#f1ebeb",
+    "category": "Pastel"
+  },
+  {
+    "name": "Sweet Pearl",
+    "hex": "#f2f2ea",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cloud Minimal",
+    "hex": "#e5f0f6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cotton Clean",
+    "hex": "#f1f3e8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Petal Gentle",
+    "hex": "#f0e6f5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Milk Airy",
+    "hex": "#e9f2f0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pale Cream",
+    "hex": "#efe9f2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Flora Delicate",
+    "hex": "#e5f7e4",
+    "category": "Pastel"
+  },
+  {
+    "name": "Minimal Cotton",
+    "hex": "#e4f4f7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Elegant Rose",
+    "hex": "#edf6e4",
+    "category": "Pastel"
+  },
+  {
+    "name": "Rose Calm",
+    "hex": "#f0eaeb",
+    "category": "Pastel"
+  },
+  {
+    "name": "Moon Calm",
+    "hex": "#f0e4f6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Powder Lovely",
+    "hex": "#f7f0e3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Marshmallow Sweet",
     "hex": "#f0ebe9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 8",
-    "hex": "#eef4e5",
+    "name": "Blush Quiet",
+    "hex": "#f1e8ea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 9",
-    "hex": "#f0e9ed",
+    "name": "Cotton Pale",
+    "hex": "#efefe9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 11",
-    "hex": "#e8eef1",
+    "name": "Lily Quiet",
+    "hex": "#e7ebf1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 12",
-    "hex": "#e7e7f2",
+    "name": "Warm Cotton",
+    "hex": "#e8f4e4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 10",
-    "hex": "#f2e9e6",
+    "name": "Frost Quiet",
+    "hex": "#f0ede8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 13",
-    "hex": "#f2f1e5",
+    "name": "Light Rose",
+    "hex": "#e8e7f1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 14",
-    "hex": "#ede2f5",
+    "name": "Delicate Cream",
+    "hex": "#e7e7f0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 15",
-    "hex": "#e1f6f3",
+    "name": "Sugar Delicate",
+    "hex": "#f5e3e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 16",
-    "hex": "#e6edf0",
+    "name": "Breeze Lovely",
+    "hex": "#e4f3e5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 18",
-    "hex": "#ebf2e4",
+    "name": "Pure Flora",
+    "hex": "#ebf0e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 19",
-    "hex": "#efe6f0",
+    "name": "Breeze Soft",
+    "hex": "#e2eff4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 20",
-    "hex": "#ede0f6",
+    "name": "Fresh Powder",
+    "hex": "#f4e1ef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 17",
-    "hex": "#e5e3f3",
+    "name": "Meringue Gentle",
+    "hex": "#e6efed",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 22",
-    "hex": "#f5e0ed",
+    "name": "Silk Clean",
+    "hex": "#efe6ee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 21",
-    "hex": "#e3f2ec",
+    "name": "Dream Fresh",
+    "hex": "#e1f4f2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 23",
-    "hex": "#f2e3ea",
+    "name": "Vanilla Pale",
+    "hex": "#ece6ef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 24",
-    "hex": "#e5e3f2",
+    "name": "Calm Rose",
+    "hex": "#e3eef2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 25",
-    "hex": "#f3eae1",
+    "name": "Warm Peach",
+    "hex": "#e6e2f3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 26",
-    "hex": "#e4efe7",
+    "name": "Moon Minimal",
+    "hex": "#eef2e3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 27",
-    "hex": "#efe4ed",
+    "name": "Snow Quiet",
+    "hex": "#e3e8f2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 28",
-    "hex": "#e9dff4",
+    "name": "Dream Calm",
+    "hex": "#eaf3e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 29",
-    "hex": "#edeee5",
+    "name": "Dawn Clean",
+    "hex": "#e8f3e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 30",
-    "hex": "#eee4e4",
+    "name": "Natural Milk",
+    "hex": "#eee4f0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 31",
-    "hex": "#f4dedf",
+    "name": "Dream Dreamy",
+    "hex": "#e6e9ee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 32",
-    "hex": "#f1e1ef",
+    "name": "Milk Soft",
+    "hex": "#e7e3f1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 34",
-    "hex": "#efe2f0",
+    "name": "Petal Calm",
+    "hex": "#dff1f4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 33",
-    "hex": "#e5ece6",
+    "name": "Petal Airy",
+    "hex": "#dfe7f4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 35",
-    "hex": "#eceee3",
+    "name": "Powder Delicate",
+    "hex": "#f5dee0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 36",
-    "hex": "#f2eadf",
+    "name": "Dreamy Cotton",
+    "hex": "#e0f2f3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 37",
-    "hex": "#e4ece9",
+    "name": "Delicate Silk",
+    "hex": "#e3f1e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 38",
-    "hex": "#dddef3",
+    "name": "Clean Silk",
+    "hex": "#ede8e5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 39",
-    "hex": "#f1ecde",
+    "name": "Light Candy",
+    "hex": "#e4e6ee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 40",
-    "hex": "#e9ece3",
+    "name": "Dawn Delicate",
+    "hex": "#e6eee4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 42",
-    "hex": "#e5dff0",
+    "name": "Powder Warm",
+    "hex": "#e2f0e4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 43",
-    "hex": "#e7f1de",
+    "name": "Fresh Candy",
+    "hex": "#e4eaed",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 41",
-    "hex": "#e9def0",
+    "name": "Clean Crystal",
+    "hex": "#eae2ef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 45",
-    "hex": "#f0deec",
+    "name": "Pale Breeze",
+    "hex": "#e8f0e1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 46",
-    "hex": "#eff0de",
+    "name": "Moon Clean",
+    "hex": "#edf1e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 47",
-    "hex": "#eee0e7",
+    "name": "Soft Ice",
+    "hex": "#ede3ec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 48",
-    "hex": "#daf4e2",
+    "name": "Natural Ice",
+    "hex": "#e8f0e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 49",
-    "hex": "#dcf2f0",
+    "name": "Lily Elegant",
+    "hex": "#e8efe1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 51",
-    "hex": "#ebede1",
+    "name": "Pearl Natural",
+    "hex": "#f3e7dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 44",
-    "hex": "#f0dbf3",
+    "name": "Light Dream",
+    "hex": "#def2ed",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 50",
-    "hex": "#f0dddf",
+    "name": "Cotton Calm",
+    "hex": "#dbe0f4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 53",
-    "hex": "#e0e0ed",
+    "name": "Breeze Pure",
+    "hex": "#e3ece9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 52",
-    "hex": "#e3ebe2",
+    "name": "Minimal Marshmallow",
+    "hex": "#ebece3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 54",
-    "hex": "#e7efdd",
+    "name": "Lily Delicate",
+    "hex": "#e2e8ec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 55",
-    "hex": "#e7eede",
+    "name": "Calm Milk",
+    "hex": "#ece2e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 56",
-    "hex": "#f0eddc",
+    "name": "Quiet Lavender",
+    "hex": "#e4f1dc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 58",
-    "hex": "#e9ecdf",
+    "name": "Minimal Rose",
+    "hex": "#dfeedf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 57",
-    "hex": "#e6f1da",
+    "name": "Frost Gentle",
+    "hex": "#e1e3ec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 59",
-    "hex": "#e1eae1",
+    "name": "Lotus Natural",
+    "hex": "#f2dbe6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 60",
-    "hex": "#ede5dd",
+    "name": "Warm Marshmallow",
+    "hex": "#deedee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 61",
-    "hex": "#e0dbef",
+    "name": "Subtle Lavender",
+    "hex": "#e0ece2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 62",
-    "hex": "#e3f0da",
+    "name": "Pearl Calm",
+    "hex": "#daf2e8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 63",
-    "hex": "#e2e9e0",
+    "name": "Soft Dream",
+    "hex": "#e2e7ea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 65",
-    "hex": "#efe2da",
+    "name": "Minimal Dream",
+    "hex": "#f1e7db",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 66",
-    "hex": "#e9e4e0",
+    "name": "Meringue Lovely",
+    "hex": "#e8f3d9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 64",
-    "hex": "#f2d6eb",
+    "name": "Vanilla Calm",
+    "hex": "#efdcea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 67",
-    "hex": "#f3d5e9",
+    "name": "Delicate Butter",
+    "hex": "#eddeea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 69",
-    "hex": "#f0d8db",
+    "name": "Warm Rose",
+    "hex": "#ddd9f2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 70",
-    "hex": "#eddbed",
+    "name": "Ice Delicate",
+    "hex": "#e1eae8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 68",
-    "hex": "#dfe8e0",
+    "name": "Blush Subtle",
+    "hex": "#eddde6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 71",
-    "hex": "#dfe8e2",
+    "name": "Cream Sweet",
+    "hex": "#dbdeef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 72",
-    "hex": "#d8deef",
+    "name": "Flora Natural",
+    "hex": "#e9e4e1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 73",
-    "hex": "#dbecec",
+    "name": "Smooth Milk",
+    "hex": "#d9f1e4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 74",
-    "hex": "#f1e6d5",
+    "name": "Minimal Cream",
+    "hex": "#f0e7d9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 75",
-    "hex": "#d8e9ee",
+    "name": "Sweet Lotus",
+    "hex": "#deebeb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 76",
-    "hex": "#e3daeb",
+    "name": "Quiet Dream",
+    "hex": "#deebe3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 77",
-    "hex": "#ebe8da",
+    "name": "Dreamy Bubblegum",
+    "hex": "#e7f0d9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 79",
-    "hex": "#ecd9e8",
+    "name": "Peach Lovely",
+    "hex": "#e4dcec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 78",
-    "hex": "#d5eaef",
+    "name": "Crystal Dreamy",
+    "hex": "#f1d7f0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 80",
-    "hex": "#d4f0e7",
+    "name": "Lavender Dreamy",
+    "hex": "#efd9e4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 82",
-    "hex": "#e7eada",
+    "name": "Ice Soft",
+    "hex": "#e6dfe8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 81",
-    "hex": "#dee8db",
+    "name": "Mist Gentle",
+    "hex": "#ecd8ef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 83",
-    "hex": "#e5ead9",
+    "name": "Vanilla Smooth",
+    "hex": "#d9eee6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 84",
-    "hex": "#eadcd9",
+    "name": "Cream Dreamy",
+    "hex": "#dee7e9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 85",
-    "hex": "#f1d1e3",
+    "name": "Elegant Blush",
+    "hex": "#daece2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 86",
-    "hex": "#f0d5d1",
+    "name": "Delicate Lavender",
+    "hex": "#d8eee3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 87",
-    "hex": "#d4e4eb",
+    "name": "Sugar Smooth",
+    "hex": "#dbf2d3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 88",
-    "hex": "#cfe5f0",
+    "name": "Meringue Subtle",
+    "hex": "#ddeadb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 89",
-    "hex": "#dff0cf",
+    "name": "Quiet Candy",
+    "hex": "#d3eef2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 90",
-    "hex": "#dadde4",
+    "name": "Dreamy Petal",
+    "hex": "#ebe5da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 91",
-    "hex": "#d7e7de",
+    "name": "Lovely Cloud",
+    "hex": "#dde8dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 92",
-    "hex": "#e6e5d8",
+    "name": "Pearl Airy",
+    "hex": "#d8dfec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 93",
-    "hex": "#ead3e2",
+    "name": "Lotus Sweet",
+    "hex": "#ecefd5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 94",
-    "hex": "#d1dfeb",
+    "name": "Ice Elegant",
+    "hex": "#d5efd7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 95",
-    "hex": "#d9d8e4",
+    "name": "Fresh Frost",
+    "hex": "#efe7d5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 96",
-    "hex": "#dee4d8",
+    "name": "Butter Lovely",
+    "hex": "#dce8db",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 97",
-    "hex": "#ebd1d8",
+    "name": "Sugar Pale",
+    "hex": "#ebe6d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 98",
-    "hex": "#e0d5e7",
+    "name": "Ice Fresh",
+    "hex": "#eadcd8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 99",
-    "hex": "#d0e1eb",
+    "name": "Butter Elegant",
+    "hex": "#f1e5d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 100",
-    "hex": "#e9d2d7",
+    "name": "Powder Smooth",
+    "hex": "#e6dce2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 101",
-    "hex": "#d5d6e6",
+    "name": "Sugar Warm",
+    "hex": "#d2d7f0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 102",
-    "hex": "#e9dbd1",
+    "name": "Minimal Cloud",
+    "hex": "#ecd6e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 103",
-    "hex": "#e6eecc",
+    "name": "Candy Quiet",
+    "hex": "#e2d5ec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 104",
-    "hex": "#d9e2d8",
+    "name": "Lily Fresh",
+    "hex": "#d9e0e8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 105",
-    "hex": "#e9ecce",
+    "name": "Airy Cream",
+    "hex": "#d4d9ed",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 106",
-    "hex": "#e7edcd",
+    "name": "Elegant Petal",
+    "hex": "#d8ebd6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 107",
-    "hex": "#dfd7e2",
+    "name": "Clean Breeze",
+    "hex": "#f0e1d0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 108",
-    "hex": "#d5e5d4",
+    "name": "Crystal Smooth",
+    "hex": "#dbd1ef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 109",
-    "hex": "#ccddec",
+    "name": "Clean Cream",
+    "hex": "#d5e5eb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 110",
-    "hex": "#d1e7df",
+    "name": "Moon Delicate",
+    "hex": "#f1cfd9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 111",
-    "hex": "#e6d3d2",
+    "name": "Warm Dream",
+    "hex": "#dbd8e8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 113",
-    "hex": "#efe2c9",
+    "name": "Soft Meringue",
+    "hex": "#d2ebee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 112",
-    "hex": "#d2eccb",
+    "name": "Fresh Petal",
+    "hex": "#d3ede9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 114",
-    "hex": "#e3d4e3",
+    "name": "Calm Dream",
+    "hex": "#f0edd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 115",
-    "hex": "#cdead5",
+    "name": "Meringue Delicate",
+    "hex": "#edd2e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 117",
-    "hex": "#dfe1d5",
+    "name": "Sugar Clean",
+    "hex": "#d6dae8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 116",
-    "hex": "#e3d3db",
+    "name": "Natural Cotton",
+    "hex": "#dbecd2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 118",
-    "hex": "#ccdce9",
+    "name": "Lotus Pure",
+    "hex": "#daeecf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 119",
-    "hex": "#e7cee1",
+    "name": "Airy Dream",
+    "hex": "#e4edd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 120",
-    "hex": "#e1d4e0",
+    "name": "Warm Cream",
+    "hex": "#d5d4e9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 122",
-    "hex": "#d8d1e4",
+    "name": "Dawn Lovely",
+    "hex": "#cfecee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 123",
-    "hex": "#d4ecc9",
+    "name": "Lovely Crystal",
+    "hex": "#d0ecea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 124",
-    "hex": "#d4e3d2",
+    "name": "Natural Moon",
+    "hex": "#ebd6d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 125",
-    "hex": "#cee7cd",
+    "name": "Smooth Rose",
+    "hex": "#d0ece1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 126",
-    "hex": "#e4c7ed",
+    "name": "Pearl Warm",
+    "hex": "#e4dbd8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 127",
-    "hex": "#e5cfdf",
+    "name": "Lavender Light",
+    "hex": "#e5e5d7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 128",
-    "hex": "#d0e4d7",
+    "name": "Peach Warm",
+    "hex": "#ebe5d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 129",
-    "hex": "#d4dde0",
+    "name": "Natural Dawn",
+    "hex": "#e6dcd6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 121",
-    "hex": "#e1d3da",
+    "name": "Milk Gentle",
+    "hex": "#d9cfed",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 131",
-    "hex": "#c5e1ee",
+    "name": "Delicate Vanilla",
+    "hex": "#efcde7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 130",
-    "hex": "#e2e8cb",
+    "name": "Peach Fresh",
+    "hex": "#ded4e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 133",
-    "hex": "#cde5e0",
+    "name": "Candy Calm",
+    "hex": "#e0d1ea",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 132",
-    "hex": "#d6e8ca",
+    "name": "Natural Lily",
+    "hex": "#cbccef",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 134",
-    "hex": "#cde4da",
+    "name": "Cream Airy",
+    "hex": "#ead9d0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 136",
-    "hex": "#c4edd6",
+    "name": "Natural Dream",
+    "hex": "#d7d4e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 135",
-    "hex": "#e1e1d0",
+    "name": "Airy Crystal",
+    "hex": "#e3edcc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 137",
-    "hex": "#e9cac8",
+    "name": "Flora Airy",
+    "hex": "#ece3cd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 138",
-    "hex": "#c7e8d5",
+    "name": "Subtle Snow",
+    "hex": "#e9d0d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 140",
-    "hex": "#e4cbde",
+    "name": "Rose Warm",
+    "hex": "#e7dfd2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 141",
-    "hex": "#cfe0d8",
+    "name": "Warm Powder",
+    "hex": "#ccedd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 139",
-    "hex": "#cee0de",
+    "name": "Clean Lavender",
+    "hex": "#cbe8ee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 142",
-    "hex": "#c9e5e1",
+    "name": "Lavender Clean",
+    "hex": "#ede7cb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 144",
-    "hex": "#c9e4da",
+    "name": "Flora Gentle",
+    "hex": "#d3e5e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 143",
-    "hex": "#ebc2db",
+    "name": "Petal Dreamy",
+    "hex": "#e9dbcf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 145",
-    "hex": "#e2cbe0",
+    "name": "Light Lavender",
+    "hex": "#dbedcb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 146",
-    "hex": "#cdd8df",
+    "name": "Dawn Airy",
+    "hex": "#e2d1e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 148",
-    "hex": "#c0ceec",
+    "name": "Frost Subtle",
+    "hex": "#ccd4ec",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 150",
-    "hex": "#c5dde7",
+    "name": "Calm Petal",
+    "hex": "#e7d1d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 152",
-    "hex": "#c1ebc1",
+    "name": "Elegant Mist",
+    "hex": "#ebc9ee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 147",
-    "hex": "#c3cae8",
+    "name": "Milk Lovely",
+    "hex": "#e5d4d2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 149",
-    "hex": "#c1eada",
+    "name": "Dawn Light",
+    "hex": "#ede5c9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 151",
-    "hex": "#c9e2d9",
+    "name": "Frost Minimal",
+    "hex": "#d5e1dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 153",
-    "hex": "#eae2c1",
+    "name": "Cloud Warm",
+    "hex": "#d7cde9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 154",
-    "hex": "#e8c2d2",
+    "name": "Breeze Natural",
+    "hex": "#ecdac9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 155",
-    "hex": "#c9d1e1",
+    "name": "Snow Light",
+    "hex": "#dbcfe5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 156",
-    "hex": "#c2d0e8",
+    "name": "Flora Lovely",
+    "hex": "#d0e3e4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 157",
-    "hex": "#d9dfca",
+    "name": "Silk Smooth",
+    "hex": "#e5d4cf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 158",
-    "hex": "#c6d3e3",
+    "name": "Pearl Pale",
+    "hex": "#e6dfce",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 159",
-    "hex": "#e1c8c8",
+    "name": "Delicate Cloud",
+    "hex": "#e9cbe2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 160",
-    "hex": "#dccdcc",
+    "name": "Pearl Clean",
+    "hex": "#cce7df",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 161",
-    "hex": "#c2e6ca",
+    "name": "Candy Sweet",
+    "hex": "#e3cee5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 162",
-    "hex": "#cbe2c5",
+    "name": "Delicate Moon",
+    "hex": "#cce7d5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 163",
-    "hex": "#c7c9e0",
+    "name": "Sweet Vanilla",
+    "hex": "#c5cdee",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 164",
-    "hex": "#c3e4c6",
+    "name": "Dream Light",
+    "hex": "#d0e3d0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 165",
-    "hex": "#c4dee3",
+    "name": "Frost Light",
+    "hex": "#e3d0e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 166",
-    "hex": "#e2c5de",
+    "name": "Subtle Vanilla",
+    "hex": "#cee4e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 168",
-    "hex": "#d6c8df",
+    "name": "Ice Pale",
+    "hex": "#eccac6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 167",
-    "hex": "#cce7bf",
+    "name": "Ice Quiet",
+    "hex": "#c6ecdf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 169",
-    "hex": "#e5dac0",
+    "name": "Gentle Pearl",
+    "hex": "#cee4d5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 170",
-    "hex": "#c9dcd2",
+    "name": "Peach Natural",
+    "hex": "#c5ede8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 171",
-    "hex": "#d7e1c4",
+    "name": "Moon Lovely",
+    "hex": "#e3cfd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 172",
-    "hex": "#cbdad3",
+    "name": "Calm Cloud",
+    "hex": "#eae9c7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 173",
-    "hex": "#bde8e2",
+    "name": "Subtle Mist",
+    "hex": "#d0e1d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 174",
-    "hex": "#e7dfbe",
+    "name": "Fresh Breeze",
+    "hex": "#d4c9e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 175",
-    "hex": "#cfcbd9",
+    "name": "Soft Milk",
+    "hex": "#e1d7cf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 176",
-    "hex": "#dec7c5",
+    "name": "Fresh Dream",
+    "hex": "#e7c9df",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 177",
-    "hex": "#e8c0bb",
+    "name": "Elegant Butter",
+    "hex": "#ebc5d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 178",
-    "hex": "#d9dec4",
+    "name": "Soft Moon",
+    "hex": "#dac9e7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 179",
-    "hex": "#c5cadd",
+    "name": "Natural Powder",
+    "hex": "#d1cee2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 180",
-    "hex": "#c5bbe7",
+    "name": "Lovely Milk",
+    "hex": "#e0cfd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 181",
-    "hex": "#dcc5d7",
+    "name": "Fresh Silk",
+    "hex": "#cee1d2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 183",
-    "hex": "#c2dfc4",
+    "name": "Milk Dreamy",
+    "hex": "#cae4dc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 182",
-    "hex": "#c8cad8",
+    "name": "Pale Candy",
+    "hex": "#c5e2e9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 184",
-    "hex": "#dbc5ca",
+    "name": "Gentle Breeze",
+    "hex": "#ded0d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 185",
-    "hex": "#cbdec2",
+    "name": "Smooth Butter",
+    "hex": "#d0d5de",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 186",
-    "hex": "#e7c1b9",
+    "name": "Airy Sugar",
+    "hex": "#cfcee0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 187",
-    "hex": "#e2cdbe",
+    "name": "Natural Bubblegum",
+    "hex": "#e5cbc8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 188",
-    "hex": "#cce6b9",
+    "name": "Sweet Mist",
+    "hex": "#dddcd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 189",
-    "hex": "#c9b9e6",
+    "name": "Blush Soft",
+    "hex": "#d0ddd3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 190",
-    "hex": "#bbe4e1",
+    "name": "Frost Smooth",
+    "hex": "#e7dec6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 191",
-    "hex": "#decbc0",
+    "name": "Fresh Milk",
+    "hex": "#dfced6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 192",
-    "hex": "#d8bde1",
+    "name": "Natural Breeze",
+    "hex": "#e8c5cc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 193",
-    "hex": "#e7d6b6",
+    "name": "Rose Lovely",
+    "hex": "#e3e7c5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 194",
-    "hex": "#cbc2db",
+    "name": "Meringue Quiet",
+    "hex": "#decdd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 195",
-    "hex": "#c4d9c6",
+    "name": "Minimal Vanilla",
+    "hex": "#ebe1c0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 196",
-    "hex": "#c6d6cf",
+    "name": "Delicate Sugar",
+    "hex": "#d7e0cb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 197",
-    "hex": "#d7c6c5",
+    "name": "Minimal Bubblegum",
+    "hex": "#dfe6c4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 198",
-    "hex": "#e7b4db",
+    "name": "Gentle Lily",
+    "hex": "#d2e1c9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 199",
-    "hex": "#bbcfe0",
+    "name": "Meringue Sweet",
+    "hex": "#c5e4c8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 200",
-    "hex": "#d8c3cc",
+    "name": "Lavender Pure",
+    "hex": "#e4c5e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 201",
-    "hex": "#cadfbc",
+    "name": "Meringue Soft",
+    "hex": "#c9d0e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 202",
-    "hex": "#c5c5d6",
+    "name": "Bubblegum Light",
+    "hex": "#d5c3e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 203",
-    "hex": "#c6d5d1",
+    "name": "Candy Gentle",
+    "hex": "#bfe9c8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 204",
-    "hex": "#d8b5e5",
+    "name": "Pure Cream",
+    "hex": "#c6e8bf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 205",
-    "hex": "#bae0bb",
+    "name": "Delicate Powder",
+    "hex": "#e4cfc3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 206",
-    "hex": "#c1c4d9",
+    "name": "Gentle Marshmallow",
+    "hex": "#c9c5e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 207",
-    "hex": "#d9c5c0",
+    "name": "Marshmallow Warm",
+    "hex": "#cdd7da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 208",
-    "hex": "#e1b8c9",
+    "name": "Rose Smooth",
+    "hex": "#d2c4e3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 210",
-    "hex": "#c9d9c0",
+    "name": "Delicate Ice",
+    "hex": "#c1e0e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 209",
-    "hex": "#d6bddb",
+    "name": "Soft Marshmallow",
+    "hex": "#ebbbe1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 211",
-    "hex": "#c9d7c1",
+    "name": "Gentle Powder",
+    "hex": "#e2c4dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 212",
-    "hex": "#c3bcdc",
+    "name": "Rose Airy",
+    "hex": "#d0e0c6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 213",
-    "hex": "#d8e0b8",
+    "name": "Cloud Light",
+    "hex": "#c7dfd0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 214",
-    "hex": "#bfcdd9",
+    "name": "Airy Blush",
+    "hex": "#c5e1da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 215",
-    "hex": "#c0dcbc",
+    "name": "Petal Smooth",
+    "hex": "#cebee8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 216",
-    "hex": "#dfd3b9",
+    "name": "Cloud Clean",
+    "hex": "#dec8db",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 217",
-    "hex": "#dfb9dc",
+    "name": "Sweet Silk",
+    "hex": "#bee8c9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 218",
-    "hex": "#deb9dc",
+    "name": "Calm Peach",
+    "hex": "#eabbc1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 219",
-    "hex": "#bed9c3",
+    "name": "Blush Light",
+    "hex": "#dfc6c9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 220",
-    "hex": "#dbbcd3",
+    "name": "Light Blush",
+    "hex": "#c9c6df",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 222",
-    "hex": "#e6b1b2",
+    "name": "Warm Flora",
+    "hex": "#e3c2ca",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 223",
-    "hex": "#b4dde3",
+    "name": "Elegant Ice",
+    "hex": "#c4e1dc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 221",
-    "hex": "#e1b5d6",
+    "name": "Cream Elegant",
+    "hex": "#bec2e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 224",
-    "hex": "#b1e5e5",
+    "name": "Butter Pale",
+    "hex": "#e7e9bb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 226",
-    "hex": "#d8bcce",
+    "name": "Smooth Candy",
+    "hex": "#e3e0c0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 227",
-    "hex": "#e0b4cb",
+    "name": "Blush Lovely",
+    "hex": "#d3e2c1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 228",
-    "hex": "#e2b0e4",
+    "name": "Dawn Pure",
+    "hex": "#e7d5bb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 225",
-    "hex": "#b8e2b2",
+    "name": "Meringue Airy",
+    "hex": "#dac8d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 229",
-    "hex": "#d6bdbe",
+    "name": "Breeze Pale",
+    "hex": "#bfe3dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 230",
-    "hex": "#b4dec4",
+    "name": "Frost Delicate",
+    "hex": "#c9d8d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 232",
-    "hex": "#d5c0bd",
+    "name": "Natural Peach",
+    "hex": "#ddcac4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 231",
-    "hex": "#bbd3d7",
+    "name": "Dreamy Rose",
+    "hex": "#bbe6da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 233",
-    "hex": "#b9d9bc",
+    "name": "Minimal Silk",
+    "hex": "#d6dcc4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 234",
-    "hex": "#b2bfdf",
+    "name": "Quiet Butter",
+    "hex": "#c6d5d9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 235",
-    "hex": "#b8bdd9",
+    "name": "Meringue Clean",
+    "hex": "#dec1c3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 236",
-    "hex": "#b4deb3",
+    "name": "Petal Quiet",
+    "hex": "#c6d9d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 237",
-    "hex": "#b9d8ca",
+    "name": "Clean Powder",
+    "hex": "#ddd4c2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 238",
-    "hex": "#afdde2",
+    "name": "Pale Dawn",
+    "hex": "#e8b7c3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 239",
-    "hex": "#aee3bb",
+    "name": "Blush Minimal",
+    "hex": "#e8b7d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 240",
-    "hex": "#dcb4d3",
+    "name": "Fresh Snow",
+    "hex": "#ccb7e8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 241",
-    "hex": "#c8b5db",
+    "name": "Dreamy Dawn",
+    "hex": "#bce2c4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 242",
-    "hex": "#b6d9cc",
+    "name": "Natural Candy",
+    "hex": "#b9b9e5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 243",
-    "hex": "#d5ace3",
+    "name": "Soft Breeze",
+    "hex": "#cfe8b6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 244",
-    "hex": "#e2bfad",
+    "name": "Natural Petal",
+    "hex": "#e1cbbd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 245",
-    "hex": "#afe0d9",
+    "name": "Lily Pure",
+    "hex": "#b9e4cd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 246",
-    "hex": "#d7b7b9",
+    "name": "Lily Sweet",
+    "hex": "#e2cdbb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 247",
-    "hex": "#c7b5d9",
+    "name": "Petal Warm",
+    "hex": "#b7d8e6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 248",
-    "hex": "#b5b5d9",
+    "name": "Natural Crystal",
+    "hex": "#b5cbe8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 249",
-    "hex": "#d5b8c0",
+    "name": "Blush Fresh",
+    "hex": "#ddc0ce",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 251",
-    "hex": "#bbdeaf",
+    "name": "Pearl Sweet",
+    "hex": "#d9bae3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 250",
-    "hex": "#bad3c1",
+    "name": "Minimal Ice",
+    "hex": "#b6bde6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 252",
-    "hex": "#b0ddaf",
+    "name": "Pure Silk",
+    "hex": "#c3c7d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 253",
-    "hex": "#d7b9b5",
+    "name": "Snow Sweet",
+    "hex": "#c5e6b5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 254",
-    "hex": "#bdbfcf",
+    "name": "Sweet Butter",
+    "hex": "#dfd6bc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 255",
-    "hex": "#ced7b5",
+    "name": "Powder Soft",
+    "hex": "#c0e1ba",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 257",
-    "hex": "#b7d5ba",
+    "name": "Flora Sweet",
+    "hex": "#d0dac1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 258",
-    "hex": "#e0acb6",
+    "name": "Subtle Candy",
+    "hex": "#d7ddbd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 256",
-    "hex": "#dbb1c7",
+    "name": "Gentle Dawn",
+    "hex": "#b7e3de",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 261",
-    "hex": "#c6b7d4",
+    "name": "Mist Soft",
+    "hex": "#d0bddd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 259",
-    "hex": "#cde2a9",
+    "name": "Pearl Delicate",
+    "hex": "#d4dcbd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 260",
-    "hex": "#b9d2c1",
+    "name": "Breeze Sweet",
+    "hex": "#b5e4be",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 262",
-    "hex": "#dddeac",
+    "name": "Gentle Flora",
+    "hex": "#dbbebe",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 263",
-    "hex": "#d1b9d0",
+    "name": "Warm Crystal",
+    "hex": "#e5bcb3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 264",
-    "hex": "#d5b4b5",
+    "name": "Pure Cotton",
+    "hex": "#d6c1d7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 265",
-    "hex": "#d8b0b6",
+    "name": "Smooth Powder",
+    "hex": "#ccbfd9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 266",
-    "hex": "#a9dfd7",
+    "name": "Lovely Ice",
+    "hex": "#dcbbd9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 267",
-    "hex": "#d1d2b6",
+    "name": "Quiet Bubblegum",
+    "hex": "#b5b8e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 268",
-    "hex": "#bea5e2",
+    "name": "Meringue Light",
+    "hex": "#b5e2dc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 269",
-    "hex": "#b7daac",
+    "name": "Lovely Flora",
+    "hex": "#b7dfb8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 270",
-    "hex": "#a8dea8",
+    "name": "Clean Peach",
+    "hex": "#b8ded2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 271",
-    "hex": "#b3d3b6",
+    "name": "Warm Frost",
+    "hex": "#e0b6d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 272",
-    "hex": "#c2e2a4",
+    "name": "Minimal Lavender",
+    "hex": "#e5b1e2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 273",
-    "hex": "#dda9bf",
+    "name": "Bubblegum Clean",
+    "hex": "#e1b5d4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 276",
-    "hex": "#d2b4be",
+    "name": "Frost Clean",
+    "hex": "#bbdbcb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 274",
-    "hex": "#d1abda",
+    "name": "Peach Subtle",
+    "hex": "#b4dee1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 275",
-    "hex": "#a6bddf",
+    "name": "Subtle Cream",
+    "hex": "#dcc0b9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 277",
-    "hex": "#d2b3c0",
+    "name": "Meringue Warm",
+    "hex": "#c8e0b5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 278",
-    "hex": "#b5d0bf",
+    "name": "Petal Elegant",
+    "hex": "#b4e1dd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 279",
-    "hex": "#a9dbca",
+    "name": "Dreamy Silk",
+    "hex": "#d9bcd5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 280",
-    "hex": "#e0c2a4",
+    "name": "Airy Bubblegum",
+    "hex": "#dedcb7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 281",
-    "hex": "#d2a7dc",
+    "name": "Butter Airy",
+    "hex": "#c9b5e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 282",
-    "hex": "#d2cbb0",
+    "name": "Clean Dream",
+    "hex": "#cebbda",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 283",
-    "hex": "#cfb3c9",
+    "name": "Fresh Lily",
+    "hex": "#d3c2c7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 284",
-    "hex": "#a6b4dc",
+    "name": "Lily Lovely",
+    "hex": "#badbbd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 286",
-    "hex": "#a0e39f",
+    "name": "Dreamy Cloud",
+    "hex": "#d6e3b2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 287",
-    "hex": "#d9a9cc",
+    "name": "Smooth Cloud",
+    "hex": "#b7b6de",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 285",
-    "hex": "#dfd2a2",
+    "name": "Moon Pale",
+    "hex": "#d8c9bc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 288",
-    "hex": "#aac8d6",
+    "name": "Peach Dreamy",
+    "hex": "#cfddb7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 289",
-    "hex": "#a9d7ce",
+    "name": "Ice Clean",
+    "hex": "#afe5bd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 290",
-    "hex": "#dea1cf",
+    "name": "Vanilla Dreamy",
+    "hex": "#dbb9d7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 291",
-    "hex": "#a7d8b8",
+    "name": "Natural Rose",
+    "hex": "#b2e2d7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 292",
-    "hex": "#acbed2",
+    "name": "Butter Gentle",
+    "hex": "#b1dfe3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 293",
-    "hex": "#baa4da",
+    "name": "Snow Warm",
+    "hex": "#d8e3b0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 294",
-    "hex": "#b8b3cb",
+    "name": "Lavender Warm",
+    "hex": "#c0c0d3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 295",
-    "hex": "#d5aca8",
+    "name": "Breeze Quiet",
+    "hex": "#c0ddb5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 296",
-    "hex": "#bfccb1",
+    "name": "Blush Natural",
+    "hex": "#deb6b4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 297",
-    "hex": "#bb9ce1",
+    "name": "Powder Natural",
+    "hex": "#b5ddbd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 298",
-    "hex": "#bdacd1",
+    "name": "Light Powder",
+    "hex": "#e0dcb2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 299",
-    "hex": "#9fded7",
+    "name": "Clean Dawn",
+    "hex": "#d2d7bb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 300",
-    "hex": "#b2cbc9",
+    "name": "Quiet Flora",
+    "hex": "#d7e2b0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 302",
-    "hex": "#aeceb0",
+    "name": "Cream Lovely",
+    "hex": "#b4ddbf",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 301",
-    "hex": "#d0d5a6",
+    "name": "Lotus Smooth",
+    "hex": "#ace5c1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 303",
-    "hex": "#ccc5af",
+    "name": "Subtle Dawn",
+    "hex": "#d5cdbc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 305",
-    "hex": "#bca3d8",
+    "name": "Pure Petal",
+    "hex": "#b3abe6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 306",
-    "hex": "#a5a7d6",
+    "name": "Sweet Marshmallow",
+    "hex": "#cae1b0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 304",
-    "hex": "#d2a8b7",
+    "name": "Petal Subtle",
+    "hex": "#d6bbc8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 307",
-    "hex": "#caa4d5",
+    "name": "Pale Lily",
+    "hex": "#d4c7bc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 308",
-    "hex": "#d3c0a6",
+    "name": "Pure Marshmallow",
+    "hex": "#c5deb2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 309",
-    "hex": "#c8c9af",
+    "name": "Clean Vanilla",
+    "hex": "#c4d2be",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 310",
-    "hex": "#caaeb8",
+    "name": "Pure Bubblegum",
+    "hex": "#d1dfb0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 312",
-    "hex": "#afc8ba",
+    "name": "Light Sugar",
+    "hex": "#bad5d3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 311",
-    "hex": "#d5a1a9",
+    "name": "Lily Airy",
+    "hex": "#aee1d4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 313",
-    "hex": "#d99dc7",
+    "name": "Sugar Natural",
+    "hex": "#e0afb7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 314",
-    "hex": "#ac98de",
+    "name": "Cream Delicate",
+    "hex": "#bbd4bc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 315",
-    "hex": "#98dedc",
+    "name": "Dreamy Pearl",
+    "hex": "#dcb8b3",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 317",
-    "hex": "#cedd97",
+    "name": "Subtle Pearl",
+    "hex": "#dcb2c8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 318",
-    "hex": "#d6ca9e",
+    "name": "Flora Minimal",
+    "hex": "#ace2c6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 319",
-    "hex": "#a69cd8",
+    "name": "Silk Airy",
+    "hex": "#d7b7c7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 321",
-    "hex": "#aeb1c6",
+    "name": "Candy Lovely",
+    "hex": "#b3dbdb",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 316",
-    "hex": "#ad99db",
+    "name": "Lovely Mist",
+    "hex": "#bdc2d0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 320",
-    "hex": "#9cc9d7",
+    "name": "Light Vanilla",
+    "hex": "#c8d8b5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 323",
-    "hex": "#d6b39d",
+    "name": "Pearl Subtle",
+    "hex": "#b7d7b6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 326",
-    "hex": "#a6a7cd",
+    "name": "Meringue Elegant",
+    "hex": "#bdd0cc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 322",
-    "hex": "#a0d3ce",
+    "name": "Minimal Lotus",
+    "hex": "#b7d3d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 328",
-    "hex": "#95d5dd",
+    "name": "Delicate Blush",
+    "hex": "#d9c1b4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 331",
-    "hex": "#afa5cd",
+    "name": "Milk Warm",
+    "hex": "#bcc7d1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 324",
-    "hex": "#c1c9a9",
+    "name": "Ice Pure",
+    "hex": "#c5b5d8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 325",
-    "hex": "#a7cbb3",
+    "name": "Airy Silk",
+    "hex": "#b3b7da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 327",
-    "hex": "#d2a0a5",
+    "name": "Marshmallow Light",
+    "hex": "#d9e0ac",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 333",
-    "hex": "#a4cdb9",
+    "name": "Rose Quiet",
+    "hex": "#deaed4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 329",
-    "hex": "#96dbac",
+    "name": "Vanilla Gentle",
+    "hex": "#c7b5d7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 330",
-    "hex": "#a9b1c8",
+    "name": "Quiet Meringue",
+    "hex": "#b2b6da",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 332",
-    "hex": "#d998a8",
+    "name": "Quiet Crystal",
+    "hex": "#abe1c9",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 334",
-    "hex": "#c8a9b4",
+    "name": "Elegant Moon",
+    "hex": "#dab2be",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 335",
-    "hex": "#97c1d9",
+    "name": "Warm Breeze",
+    "hex": "#d2c9ba",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 336",
-    "hex": "#93dca4",
+    "name": "Snow Subtle",
+    "hex": "#bdcecd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 337",
-    "hex": "#bcd19e",
+    "name": "Delicate Dawn",
+    "hex": "#b0adde",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 338",
-    "hex": "#cea1cd",
+    "name": "Quiet Marshmallow",
+    "hex": "#bad1ba",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 339",
-    "hex": "#c1c6a8",
+    "name": "Elegant Marshmallow",
+    "hex": "#d9b2ca",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 341",
-    "hex": "#cad698",
+    "name": "Minimal Candy",
+    "hex": "#d8aedc",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 342",
-    "hex": "#d29cb1",
+    "name": "Dreamy Butter",
+    "hex": "#d3d6b4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 340",
-    "hex": "#d5b398",
+    "name": "Airy Mist",
+    "hex": "#dcd5ae",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 343",
-    "hex": "#dc91a2",
+    "name": "Dream Elegant",
+    "hex": "#b3d7d6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 344",
-    "hex": "#a6c7a6",
+    "name": "Marshmallow Pale",
+    "hex": "#aae0b7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 345",
-    "hex": "#dec28f",
+    "name": "Subtle Dream",
+    "hex": "#cfbbcd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 346",
-    "hex": "#9dd0aa",
+    "name": "Airy Dawn",
+    "hex": "#c5d4b5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 347",
-    "hex": "#97cfd6",
+    "name": "Smooth Cream",
+    "hex": "#d5dfaa",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 348",
-    "hex": "#a1bacc",
+    "name": "Rose Minimal",
+    "hex": "#d2d2b6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 349",
-    "hex": "#c8c4a5",
+    "name": "Candy Minimal",
+    "hex": "#e1b1a6",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 350",
-    "hex": "#d3b798",
+    "name": "Bubblegum Subtle",
+    "hex": "#c3cdba",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 351",
-    "hex": "#aed793",
+    "name": "Breeze Gentle",
+    "hex": "#a9ddde",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 352",
-    "hex": "#aecaa0",
+    "name": "Pale Blush",
+    "hex": "#b0b8d5",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 353",
-    "hex": "#c2a8ad",
+    "name": "Quiet Sugar",
+    "hex": "#d9d2ab",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 354",
-    "hex": "#c6cf9b",
+    "name": "Calm Meringue",
+    "hex": "#d2c2b2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 356",
-    "hex": "#d099b2",
+    "name": "Dreamy Blush",
+    "hex": "#bcdca8",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 357",
-    "hex": "#d6c393",
+    "name": "Lavender Quiet",
+    "hex": "#b2d3b1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 355",
-    "hex": "#cf98d0",
+    "name": "Ice Dreamy",
+    "hex": "#e2daa1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 358",
-    "hex": "#b7cb9c",
+    "name": "Natural Frost",
+    "hex": "#d0dea4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 359",
-    "hex": "#8dc3da",
+    "name": "Bubblegum Minimal",
+    "hex": "#a1a9e1",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 360",
-    "hex": "#dc8b9c",
+    "name": "Rose Pure",
+    "hex": "#d1dba7",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 361",
-    "hex": "#a3abc4",
+    "name": "Cotton Warm",
+    "hex": "#cbb7c4",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 362",
-    "hex": "#d0cd95",
+    "name": "Calm Cream",
+    "hex": "#a1d5e0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 363",
-    "hex": "#ce96cf",
+    "name": "Rose Light",
+    "hex": "#b9b1d0",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 364",
-    "hex": "#93d2cb",
+    "name": "Candy Natural",
+    "hex": "#b3cfb2",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 365",
-    "hex": "#cbb29a",
+    "name": "Subtle Lotus",
+    "hex": "#a7dabd",
     "category": "Pastel"
   },
   {
-    "name": "Pastel 366",
-    "hex": "#c499cc",
+    "name": "Moon Gentle",
+    "hex": "#d0b4b1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Calm Sugar",
+    "hex": "#c7abd5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Light Moon",
+    "hex": "#cdd0b0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Subtle Rose",
+    "hex": "#acd4ac",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pale Moon",
+    "hex": "#a0a7df",
+    "category": "Pastel"
+  },
+  {
+    "name": "Sweet Breeze",
+    "hex": "#cfb0c8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Dreamy Candy",
+    "hex": "#b3afd0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Soft Dawn",
+    "hex": "#a5d9ce",
+    "category": "Pastel"
+  },
+  {
+    "name": "Moon Warm",
+    "hex": "#a0a1de",
+    "category": "Pastel"
+  },
+  {
+    "name": "Subtle Sugar",
+    "hex": "#cea2db",
+    "category": "Pastel"
+  },
+  {
+    "name": "Bubblegum Fresh",
+    "hex": "#cab3bf",
+    "category": "Pastel"
+  },
+  {
+    "name": "Subtle Silk",
+    "hex": "#ccb9b1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Milk Sweet",
+    "hex": "#e09cb8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Quiet Moon",
+    "hex": "#dca0b3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cream Light",
+    "hex": "#a0acdc",
+    "category": "Pastel"
+  },
+  {
+    "name": "Fresh Flora",
+    "hex": "#d9c6a2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Ice Sweet",
+    "hex": "#a4b3d7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Butter Delicate",
+    "hex": "#b3adce",
+    "category": "Pastel"
+  },
+  {
+    "name": "Airy Lily",
+    "hex": "#a9b6d1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Frost Pale",
+    "hex": "#caafc2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Snow Elegant",
+    "hex": "#c8b1c8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Vanilla Clean",
+    "hex": "#c8c8b1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Fresh Lotus",
+    "hex": "#cca9d0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Warm Vanilla",
+    "hex": "#a7ccd1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Flora Pure",
+    "hex": "#d6a2c5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Crystal Pale",
+    "hex": "#dbd39c",
+    "category": "Pastel"
+  },
+  {
+    "name": "Light Snow",
+    "hex": "#dfb997",
+    "category": "Pastel"
+  },
+  {
+    "name": "Silk Sweet",
+    "hex": "#98ded3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pure Lily",
+    "hex": "#9aaedc",
+    "category": "Pastel"
+  },
+  {
+    "name": "Bubblegum Natural",
+    "hex": "#acd0a6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pale Butter",
+    "hex": "#d7c39f",
+    "category": "Pastel"
+  },
+  {
+    "name": "Moon Fresh",
+    "hex": "#abcbab",
+    "category": "Pastel"
+  },
+  {
+    "name": "Sweet Lavender",
+    "hex": "#beabcb",
+    "category": "Pastel"
+  },
+  {
+    "name": "Light Peach",
+    "hex": "#acde97",
+    "category": "Pastel"
+  },
+  {
+    "name": "Marshmallow Dreamy",
+    "hex": "#96d6df",
+    "category": "Pastel"
+  },
+  {
+    "name": "Airy Lavender",
+    "hex": "#a7ceb4",
+    "category": "Pastel"
+  },
+  {
+    "name": "Natural Flora",
+    "hex": "#abbcca",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cotton Sweet",
+    "hex": "#d3a2ab",
+    "category": "Pastel"
+  },
+  {
+    "name": "Moon Smooth",
+    "hex": "#adaec7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Dawn Minimal",
+    "hex": "#9fd5c3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Dreamy Dream",
+    "hex": "#ccd89c",
+    "category": "Pastel"
+  },
+  {
+    "name": "Dreamy Lily",
+    "hex": "#de96c6",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lily Light",
+    "hex": "#a2add2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lovely Rose",
+    "hex": "#cdd2a2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Cotton Delicate",
+    "hex": "#a7b9cc",
+    "category": "Pastel"
+  },
+  {
+    "name": "Powder Light",
+    "hex": "#a3d0c9",
+    "category": "Pastel"
+  },
+  {
+    "name": "Gentle Sugar",
+    "hex": "#b899da",
+    "category": "Pastel"
+  },
+  {
+    "name": "Dawn Dreamy",
+    "hex": "#aecda5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Smooth Bubblegum",
+    "hex": "#9ca3d5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pale Flora",
+    "hex": "#b4c5ac",
+    "category": "Pastel"
+  },
+  {
+    "name": "Delicate Candy",
+    "hex": "#a4aecd",
+    "category": "Pastel"
+  },
+  {
+    "name": "Fresh Butter",
+    "hex": "#a6cbb7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pale Bubblegum",
+    "hex": "#9b99d8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pearl Smooth",
+    "hex": "#9fb5d2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Rose Gentle",
+    "hex": "#ada0d1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Fresh Ice",
+    "hex": "#dbd595",
+    "category": "Pastel"
+  },
+  {
+    "name": "Bubblegum Lovely",
+    "hex": "#cfa1b7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Milk Pale",
+    "hex": "#d2ae9e",
+    "category": "Pastel"
+  },
+  {
+    "name": "Snow Dreamy",
+    "hex": "#a4d59b",
+    "category": "Pastel"
+  },
+  {
+    "name": "Meringue Smooth",
+    "hex": "#b4dc93",
+    "category": "Pastel"
+  },
+  {
+    "name": "Mist Airy",
+    "hex": "#d1b99e",
+    "category": "Pastel"
+  },
+  {
+    "name": "Clean Moon",
+    "hex": "#c5b8aa",
+    "category": "Pastel"
+  },
+  {
+    "name": "Breeze Elegant",
+    "hex": "#9ed798",
+    "category": "Pastel"
+  },
+  {
+    "name": "Snow Gentle",
+    "hex": "#adcea1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Soft Sugar",
+    "hex": "#d3ad9c",
+    "category": "Pastel"
+  },
+  {
+    "name": "Pearl Minimal",
+    "hex": "#dba893",
+    "category": "Pastel"
+  },
+  {
+    "name": "Crystal Minimal",
+    "hex": "#a096d7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Sweet Cream",
+    "hex": "#d09dc7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Quiet Petal",
+    "hex": "#b6d796",
+    "category": "Pastel"
+  },
+  {
+    "name": "Smooth Flora",
+    "hex": "#c3bdaa",
+    "category": "Pastel"
+  },
+  {
+    "name": "Ice Warm",
+    "hex": "#95d7a0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Minimal Snow",
+    "hex": "#d794d8",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lotus Gentle",
+    "hex": "#d8ae94",
+    "category": "Pastel"
+  },
+  {
+    "name": "Mist Natural",
+    "hex": "#c5b1a7",
+    "category": "Pastel"
+  },
+  {
+    "name": "Light Butter",
+    "hex": "#bfabc1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Powder Gentle",
+    "hex": "#9bd1c2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Clean Marshmallow",
+    "hex": "#a9aec2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Butter Clean",
+    "hex": "#c4b3a5",
+    "category": "Pastel"
+  },
+  {
+    "name": "Calm Mist",
+    "hex": "#a6d891",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lotus Airy",
+    "hex": "#d098d1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Bubblegum Warm",
+    "hex": "#cb9ea0",
+    "category": "Pastel"
+  },
+  {
+    "name": "Blush Smooth",
+    "hex": "#c1c7a2",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lovely Snow",
+    "hex": "#d29a96",
+    "category": "Pastel"
+  },
+  {
+    "name": "Airy Marshmallow",
+    "hex": "#d593ac",
+    "category": "Pastel"
+  },
+  {
+    "name": "Airy Snow",
+    "hex": "#ce9a9a",
+    "category": "Pastel"
+  },
+  {
+    "name": "Subtle Frost",
+    "hex": "#a5c3bf",
+    "category": "Pastel"
+  },
+  {
+    "name": "Smooth Peach",
+    "hex": "#b2a7c1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Elegant Pearl",
+    "hex": "#d098a1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Silk Pale",
+    "hex": "#a5abc3",
+    "category": "Pastel"
+  },
+  {
+    "name": "Petal Minimal",
+    "hex": "#8fd893",
+    "category": "Pastel"
+  },
+  {
+    "name": "Delicate Milk",
+    "hex": "#cbcb9b",
+    "category": "Pastel"
+  },
+  {
+    "name": "Clean Lily",
+    "hex": "#99a1cd",
+    "category": "Pastel"
+  },
+  {
+    "name": "Lily Subtle",
+    "hex": "#94d299",
+    "category": "Pastel"
+  },
+  {
+    "name": "Quiet Cotton",
+    "hex": "#a7a5c1",
+    "category": "Pastel"
+  },
+  {
+    "name": "Candy Clean",
+    "hex": "#99ccbc",
+    "category": "Pastel"
+  },
+  {
+    "name": "Quiet Peach",
+    "hex": "#cad095",
     "category": "Pastel"
   }
 ]

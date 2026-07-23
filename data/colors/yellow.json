@@ -1,2002 +1,2502 @@
 [
   {
-    "name": "Fresh Lemon",
-    "hex": "#f8f9eb",
+    "name": "Mustard Dreamy",
+    "hex": "#fbf8e9",
     "category": "Yellow"
   },
   {
-    "name": "Pure Honey",
-    "hex": "#faf8ea",
+    "name": "Summer Mustard",
+    "hex": "#fdfde6",
     "category": "Yellow"
   },
   {
-    "name": "Pure Sun",
-    "hex": "#fef9e6",
+    "name": "Classic Primrose",
+    "hex": "#fefce4",
     "category": "Yellow"
   },
   {
-    "name": "Soft Gold",
-    "hex": "#fefde6",
+    "name": "Sweet Hay",
+    "hex": "#f8f7e9",
     "category": "Yellow"
   },
   {
-    "name": "Pure Amber",
-    "hex": "#f9f9e8",
+    "name": "Radiant Sand",
+    "hex": "#f8f6e7",
     "category": "Yellow"
   },
   {
-    "name": "Bright Canary",
-    "hex": "#faf5e7",
+    "name": "Sun Honeyed",
+    "hex": "#f9f3e6",
     "category": "Yellow"
   },
   {
-    "name": "Fresh Canary",
-    "hex": "#fbfae5",
+    "name": "Luminous Mustard",
+    "hex": "#fcfae2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Golden Wheat",
+    "hex": "#fbfce2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunrise Soft",
+    "hex": "#fbf5e2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dandelion Soft",
+    "hex": "#fafae3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Bronze",
+    "hex": "#fbfce1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Marigold Warm",
+    "hex": "#f7f7e4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Desert Sparkling",
+    "hex": "#f9f5e1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Harvest Pineapple",
+    "hex": "#fdfedc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Hay Delicate",
+    "hex": "#fcf2de",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sun Natural",
+    "hex": "#fffdda",
+    "category": "Yellow"
+  },
+  {
+    "name": "Vanilla Fresh",
+    "hex": "#fdf3dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Vanilla",
+    "hex": "#f8f1e1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Hay Elegant",
+    "hex": "#f5f3e3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Luxury Gold",
+    "hex": "#fcfadc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Topaz",
+    "hex": "#f7f7e1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Elegant Hay",
+    "hex": "#f4f5e2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Canary Gentle",
+    "hex": "#faf4dd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dawn Elegant",
+    "hex": "#f8f4df",
+    "category": "Yellow"
+  },
+  {
+    "name": "Amber Honeyed",
+    "hex": "#f6f5e1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Luxury Wheat",
+    "hex": "#f7f8de",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Quartz",
+    "hex": "#fefad7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clean Radiance",
+    "hex": "#f6f2df",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunny Dawn",
+    "hex": "#fdfcd7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Flare Pure",
+    "hex": "#f8f5dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Morning Mango",
+    "hex": "#f6f3dd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dawn Sparkling",
+    "hex": "#f8f5db",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pineapple Pure",
+    "hex": "#fcf0d6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gold Elegant",
+    "hex": "#fff9d3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honeyed Dandelion",
+    "hex": "#f5f1dc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ray Honeyed",
+    "hex": "#fdfcd4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Classic Banana",
+    "hex": "#faf4d7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Caramel",
+    "hex": "#fdf4d3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pear Luxury",
+    "hex": "#f9f6d7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Summer Primrose",
+    "hex": "#f6edda",
+    "category": "Yellow"
+  },
+  {
+    "name": "Royal Lemon",
+    "hex": "#f3f0dd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clear Dawn",
+    "hex": "#f2eddc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunflower Elegant",
+    "hex": "#f3ecdb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ancient Daffodil",
+    "hex": "#fdf1d0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Delicate Goldenrod",
+    "hex": "#f3f4d8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ancient Flare",
+    "hex": "#f3f4d7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Light Honey",
+    "hex": "#f8f8d2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Morning Mustard",
+    "hex": "#f5edd4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honeyed Citrine",
+    "hex": "#f7f5d2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Brilliant Tulip",
+    "hex": "#fbeece",
+    "category": "Yellow"
+  },
+  {
+    "name": "Topaz Brilliant",
+    "hex": "#fff0ca",
+    "category": "Yellow"
+  },
+  {
+    "name": "Custard Clear",
+    "hex": "#f7f9cf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clean Custard",
+    "hex": "#fef6ca",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dreamy Cream",
+    "hex": "#f8f7cf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Daffodil Clear",
+    "hex": "#f6f6d0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honeyed Bronze",
+    "hex": "#fdfdc7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Harvest Corn",
+    "hex": "#f8edcc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Mustard Summer",
+    "hex": "#fafbc9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Canary Muted",
+    "hex": "#f6e9ce",
+    "category": "Yellow"
+  },
+  {
+    "name": "Cream Brilliant",
+    "hex": "#fcfcc7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sweet Custard",
+    "hex": "#f9f9c9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honey Rich",
+    "hex": "#fbf5c7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Rich Mango",
+    "hex": "#f8f8c8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Canary Fresh",
+    "hex": "#f6e8c9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Amber Luminous",
+    "hex": "#f1e8cd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honeyed Sunrise",
+    "hex": "#fff0bf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Corn Royal",
+    "hex": "#eee9cf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Lemon Luxury",
+    "hex": "#eee8cf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Muted Biscuit",
+    "hex": "#fcf9c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sweet Buttercup",
+    "hex": "#eeedce",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pear Gentle",
+    "hex": "#faf6c2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pear Muted",
+    "hex": "#faf4c0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Citrine Soft",
+    "hex": "#fef2bc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Quartz Golden",
+    "hex": "#fdecbd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Light Bronze",
+    "hex": "#eceecb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Sun",
+    "hex": "#eeeecb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Butter Sweet",
+    "hex": "#fce9bc",
+    "category": "Yellow"
+  },
+  {
+    "name": "Muted Cream",
+    "hex": "#f9eabe",
+    "category": "Yellow"
+  },
+  {
+    "name": "Goldleaf Harvest",
+    "hex": "#f1f4c3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Goldenrod Vivid",
+    "hex": "#f9ecbd",
     "category": "Yellow"
   },
   {
     "name": "Pure Canary",
-    "hex": "#faf7e6",
+    "hex": "#f6efc0",
     "category": "Yellow"
   },
   {
-    "name": "Warm Lemon",
-    "hex": "#fffbe1",
+    "name": "Sweet Marigold",
+    "hex": "#faecbb",
     "category": "Yellow"
   },
   {
-    "name": "Bright Citrine",
-    "hex": "#fcf9e3",
+    "name": "Royal Champagne",
+    "hex": "#f7f9bb",
     "category": "Yellow"
   },
   {
-    "name": "Warm Citrine",
-    "hex": "#fcfce3",
+    "name": "Honey Classic",
+    "hex": "#f0ecc2",
     "category": "Yellow"
   },
   {
-    "name": "Pure Gold",
-    "hex": "#fcf5e2",
+    "name": "Bronze Glowing",
+    "hex": "#faf7b7",
     "category": "Yellow"
   },
   {
-    "name": "Fresh Sun",
-    "hex": "#fcfbe2",
+    "name": "Bright Hay",
+    "hex": "#fefcb1",
     "category": "Yellow"
   },
   {
-    "name": "Warm Sun",
-    "hex": "#f8f2e6",
-    "category": "Yellow"
-  },
-  {
-    "name": "Bright Lemon",
-    "hex": "#fef9df",
-    "category": "Yellow"
-  },
-  {
-    "name": "Soft Citrine",
-    "hex": "#fcf9e1",
-    "category": "Yellow"
-  },
-  {
-    "name": "Soft Butter",
-    "hex": "#f6f7e5",
-    "category": "Yellow"
-  },
-  {
-    "name": "Warm Honey",
-    "hex": "#fdf3de",
-    "category": "Yellow"
-  },
-  {
-    "name": "Fresh Citrine",
-    "hex": "#f8f1e3",
-    "category": "Yellow"
-  },
-  {
-    "name": "Bright Gold",
-    "hex": "#f7f4e4",
-    "category": "Yellow"
-  },
-  {
-    "name": "Soft Canary",
-    "hex": "#f5f4e4",
-    "category": "Yellow"
-  },
-  {
-    "name": "Bright Honey",
-    "hex": "#fbfcdd",
-    "category": "Yellow"
-  },
-  {
-    "name": "Golden Gold",
-    "hex": "#fdfbdc",
-    "category": "Yellow"
-  },
-  {
-    "name": "Fresh Gold",
-    "hex": "#fdfcdb",
-    "category": "Yellow"
-  },
-  {
-    "name": "Golden Citrine",
-    "hex": "#fcf6dc",
-    "category": "Yellow"
-  },
-  {
-    "name": "Soft Sun",
-    "hex": "#fcffd9",
-    "category": "Yellow"
-  },
-  {
-    "name": "Golden Butter",
-    "hex": "#f8f0df",
-    "category": "Yellow"
-  },
-  {
-    "name": "Pure Butter",
-    "hex": "#faf7dc",
-    "category": "Yellow"
-  },
-  {
-    "name": "Fresh Butter",
-    "hex": "#fafdd7",
+    "name": "Fresh Ochre",
+    "hex": "#f2efbd",
     "category": "Yellow"
   },
   {
     "name": "Pure Lemon",
-    "hex": "#fcf8d8",
+    "hex": "#f0f4bb",
     "category": "Yellow"
   },
   {
-    "name": "Bright Sun",
-    "hex": "#f8f6dc",
+    "name": "Glowing Lemon",
+    "hex": "#f6e6b8",
     "category": "Yellow"
   },
   {
-    "name": "Golden Canary",
-    "hex": "#fbf0d9",
+    "name": "Honey Soft",
+    "hex": "#eeebc0",
     "category": "Yellow"
   },
   {
-    "name": "Golden Honey",
-    "hex": "#f6f8d9",
+    "name": "Custard Morning",
+    "hex": "#fdefb1",
     "category": "Yellow"
   },
   {
-    "name": "Fresh Honey",
-    "hex": "#fef0d0",
+    "name": "Soft Bronze",
+    "hex": "#f6e2b7",
     "category": "Yellow"
   },
   {
-    "name": "Golden Lemon",
-    "hex": "#f3edda",
+    "name": "Vivid Banana",
+    "hex": "#f6e9b7",
     "category": "Yellow"
   },
   {
-    "name": "Golden Sun",
-    "hex": "#f6f4d6",
+    "name": "Luxury Dandelion",
+    "hex": "#e8eac3",
     "category": "Yellow"
   },
   {
-    "name": "Soft Honey",
-    "hex": "#fbfcd0",
+    "name": "Muted Flare",
+    "hex": "#efedbd",
     "category": "Yellow"
   },
   {
-    "name": "Warm Gold",
-    "hex": "#f2f1d7",
+    "name": "Honey Gentle",
+    "hex": "#f0ecbc",
     "category": "Yellow"
   },
   {
-    "name": "Warm Butter",
-    "hex": "#f6f7d2",
+    "name": "Quartz Harvest",
+    "hex": "#ece0c0",
     "category": "Yellow"
   },
   {
-    "name": "Pure Citrine",
-    "hex": "#f4f3d4",
+    "name": "Pure Buttercup",
+    "hex": "#efeabd",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dreamy Tulip",
+    "hex": "#f3efb9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clean Mustard",
+    "hex": "#f1ecbb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Mango Fresh",
+    "hex": "#faf4b2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Rich Sunflower",
+    "hex": "#f9f0b1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Natural Brass",
+    "hex": "#f8f4b2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Canary Rich",
+    "hex": "#f8f9b0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clean Saffron",
+    "hex": "#e9dcbf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Wheat Delicate",
+    "hex": "#f0e1b8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Goldleaf Sunny",
+    "hex": "#e9e0bf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Elegant Amber",
+    "hex": "#f1f3b4",
+    "category": "Yellow"
+  },
+  {
+    "name": "Marigold Natural",
+    "hex": "#fdf8a9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Corn Warm",
+    "hex": "#e9edb8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Brilliant Amber",
+    "hex": "#ece1b8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Soft Marigold",
+    "hex": "#f0f2b2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Citrine Radiant",
+    "hex": "#f1e5b3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Daffodil Pure",
+    "hex": "#fbeca8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Bright Sunflower",
+    "hex": "#e8e7bb",
+    "category": "Yellow"
+  },
+  {
+    "name": "Muted Marigold",
+    "hex": "#f9e4aa",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunrise Glowing",
+    "hex": "#f4eeaf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gold Honeyed",
+    "hex": "#fceca7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Cream Vivid",
+    "hex": "#f2e3b0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Solar Luminous",
+    "hex": "#f8fda5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Goldleaf Dreamy",
+    "hex": "#ece8b5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Brass",
+    "hex": "#f5f8a9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Muted Maize",
+    "hex": "#f7eda9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Gold",
+    "hex": "#f8eca7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Champagne Elegant",
+    "hex": "#f0eeaf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Classic Bronze",
+    "hex": "#f5f3a9",
+    "category": "Yellow"
+  },
+  {
+    "name": "Caramel Luxury",
+    "hex": "#e7e3b7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Banana Brilliant",
+    "hex": "#fff99f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Tulip Dreamy",
+    "hex": "#f0e2ad",
+    "category": "Yellow"
+  },
+  {
+    "name": "Radiant Quartz",
+    "hex": "#eee9af",
+    "category": "Yellow"
+  },
+  {
+    "name": "Citrine Golden",
+    "hex": "#f9e3a3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Champagne Light",
+    "hex": "#fbfca0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sparkling Dandelion",
+    "hex": "#ffe59d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ray Sunny",
+    "hex": "#feec9d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sparkling Marigold",
+    "hex": "#fde19e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Light Brass",
+    "hex": "#e9e0b1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Primrose Morning",
+    "hex": "#f8dfa2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Primrose Brilliant",
+    "hex": "#ebddaf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Vivid Mustard",
+    "hex": "#fadd9f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Classic Sand",
+    "hex": "#e4d7b5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ray Luxury",
+    "hex": "#e6e1b2",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ray Harvest",
+    "hex": "#f7e7a0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Glowing Sun",
+    "hex": "#f8e89f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Vivid Sand",
+    "hex": "#e7dbaf",
+    "category": "Yellow"
+  },
+  {
+    "name": "Saffron Sweet",
+    "hex": "#f6dda0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sparkling Ochre",
+    "hex": "#efe9a6",
+    "category": "Yellow"
+  },
+  {
+    "name": "Champagne Soft",
+    "hex": "#e8e6ac",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pure Biscuit",
+    "hex": "#e1e3b1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Fresh Glow",
+    "hex": "#fef095",
+    "category": "Yellow"
+  },
+  {
+    "name": "Radiant Saffron",
+    "hex": "#f2e0a1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Buttercup Light",
+    "hex": "#f3f29f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Lemon Delicate",
+    "hex": "#eadca8",
+    "category": "Yellow"
+  },
+  {
+    "name": "Tulip Golden",
+    "hex": "#e5e4ac",
+    "category": "Yellow"
+  },
+  {
+    "name": "Royal Goldenrod",
+    "hex": "#ebeca5",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dreamy Topaz",
+    "hex": "#f7e69a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Custard",
+    "hex": "#f4f49b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Harvest Marigold",
+    "hex": "#fafa95",
+    "category": "Yellow"
+  },
+  {
+    "name": "Honeyed Pineapple",
+    "hex": "#e0e2ad",
+    "category": "Yellow"
+  },
+  {
+    "name": "Quartz Luminous",
+    "hex": "#fcec93",
+    "category": "Yellow"
+  },
+  {
+    "name": "Vivid Marigold",
+    "hex": "#f2f09c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Saffron Honeyed",
+    "hex": "#f1f895",
+    "category": "Yellow"
+  },
+  {
+    "name": "Citrine Delicate",
+    "hex": "#f2e59b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunny Wheat",
+    "hex": "#e5d9a7",
+    "category": "Yellow"
+  },
+  {
+    "name": "Summer Butter",
+    "hex": "#eed49c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Biscuit Bright",
+    "hex": "#efe49b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pineapple Rich",
+    "hex": "#efe89a",
+    "category": "Yellow"
+  },
+  {
+    "name": "Flare Classic",
+    "hex": "#fef78b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunrise Sweet",
+    "hex": "#f0f792",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clean Primrose",
+    "hex": "#e7e5a1",
+    "category": "Yellow"
+  },
+  {
+    "name": "Ochre Luxury",
+    "hex": "#ebd39c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Daffodil Sunny",
+    "hex": "#ecdf9b",
+    "category": "Yellow"
+  },
+  {
+    "name": "Warm Wheat",
+    "hex": "#f1ed95",
+    "category": "Yellow"
+  },
+  {
+    "name": "Mango Light",
+    "hex": "#e5d9a0",
+    "category": "Yellow"
+  },
+  {
+    "name": "Glow Clear",
+    "hex": "#fed887",
+    "category": "Yellow"
+  },
+  {
+    "name": "Canary Soft",
+    "hex": "#e8d89d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Gentle Champagne",
+    "hex": "#f3f191",
+    "category": "Yellow"
+  },
+  {
+    "name": "Clear Goldenrod",
+    "hex": "#f5de8f",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunny Sunflower",
+    "hex": "#fbec89",
+    "category": "Yellow"
+  },
+  {
+    "name": "Tulip Light",
+    "hex": "#e7e69d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Tulip Radiant",
+    "hex": "#fafe85",
+    "category": "Yellow"
+  },
+  {
+    "name": "Radiant Radiance",
+    "hex": "#f4e98e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Brilliant Solar",
+    "hex": "#e6e39c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Sunflower Sweet",
+    "hex": "#e0e49d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Natural Caramel",
+    "hex": "#f2d58e",
+    "category": "Yellow"
+  },
+  {
+    "name": "Glowing Goldenrod",
+    "hex": "#ddcba3",
+    "category": "Yellow"
+  },
+  {
+    "name": "Luxury Bronze",
+    "hex": "#f2d48d",
+    "category": "Yellow"
+  },
+  {
+    "name": "Pear Warm",
+    "hex": "#e2cf9c",
+    "category": "Yellow"
+  },
+  {
+    "name": "Dreamy Solar",
+    "hex": "#f0f985",
     "category": "Yellow"
   },
   {
     "name": "Soft Lemon",
-    "hex": "#f8f7d0",
+    "hex": "#fbd983",
     "category": "Yellow"
   },
   {
-    "name": "Bright Butter",
-    "hex": "#f9f0cf",
+    "name": "Sunny Quartz",
+    "hex": "#efd68f",
     "category": "Yellow"
   },
   {
-    "name": "Warm Canary",
-    "hex": "#f2ecd5",
+    "name": "Bright Vanilla",
+    "hex": "#f7f187",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 1",
-    "hex": "#fafacb",
+    "name": "Royal Cream",
+    "hex": "#fdf881",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 2",
-    "hex": "#f3ead2",
+    "name": "Sand Rich",
+    "hex": "#edea90",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 3",
-    "hex": "#fcf4c9",
+    "name": "Sunrise Gentle",
+    "hex": "#ead793",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 4",
-    "hex": "#f0e8d5",
+    "name": "Buttercup Glowing",
+    "hex": "#dccda1",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 5",
-    "hex": "#f3f0d1",
+    "name": "Hay Soft",
+    "hex": "#f6dd86",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 6",
-    "hex": "#f9f0ca",
+    "name": "Radiant Lemon",
+    "hex": "#dedc9d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 7",
-    "hex": "#f1ebd2",
+    "name": "Muted Ray",
+    "hex": "#f9d281",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 8",
-    "hex": "#fbfec4",
+    "name": "Golden Sun",
+    "hex": "#f6fd7d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 9",
-    "hex": "#f8fbc7",
+    "name": "Flare Honeyed",
+    "hex": "#e6d494",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 10",
-    "hex": "#faecc7",
+    "name": "Luminous Vanilla",
+    "hex": "#f3fc7e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 11",
-    "hex": "#f1eccf",
+    "name": "Vanilla Brilliant",
+    "hex": "#fad47f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 12",
-    "hex": "#f0ebd0",
+    "name": "Ancient Sunflower",
+    "hex": "#e0cb98",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 13",
-    "hex": "#f0eecf",
+    "name": "Mustard Muted",
+    "hex": "#fef07a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 15",
-    "hex": "#f4eaca",
+    "name": "Custard Brilliant",
+    "hex": "#dcd29c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 14",
-    "hex": "#fdeec0",
+    "name": "Goldleaf Natural",
+    "hex": "#e4d194",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 16",
-    "hex": "#faecc2",
+    "name": "Goldenrod Glowing",
+    "hex": "#ead68d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 17",
-    "hex": "#fbf2c0",
+    "name": "Goldleaf Luminous",
+    "hex": "#dcca9b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 18",
-    "hex": "#fdf4be",
+    "name": "Champagne Luminous",
+    "hex": "#f5ed7f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 19",
-    "hex": "#f0f1c9",
+    "name": "Harvest Topaz",
+    "hex": "#e7dc8b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 20",
-    "hex": "#efefca",
+    "name": "Elegant Canary",
+    "hex": "#fbec77",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 21",
-    "hex": "#f7f8c0",
+    "name": "Luxury Hay",
+    "hex": "#f6ed7b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 22",
-    "hex": "#f5f8c0",
+    "name": "Warm Pear",
+    "hex": "#edf47d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 25",
-    "hex": "#fdfeb8",
+    "name": "Fresh Quartz",
+    "hex": "#e1e58a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 23",
-    "hex": "#fdecb8",
+    "name": "Pear Radiant",
+    "hex": "#e7de87",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 24",
-    "hex": "#fdf4b8",
+    "name": "Solar Sparkling",
+    "hex": "#fce271",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 26",
-    "hex": "#ebe1c9",
+    "name": "Amber Brilliant",
+    "hex": "#f0eb7d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 27",
-    "hex": "#f4f5be",
+    "name": "Summer Canary",
+    "hex": "#f7ea76",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 28",
-    "hex": "#fbe8b7",
+    "name": "Honey Sweet",
+    "hex": "#f8f074",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 29",
-    "hex": "#f4ecbd",
+    "name": "Luxury Butter",
+    "hex": "#f8ea74",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 30",
-    "hex": "#fdfdb4",
+    "name": "Sunrise Harvest",
+    "hex": "#f1db7b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 31",
-    "hex": "#fbf8b5",
+    "name": "Dandelion Ancient",
+    "hex": "#e6de86",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 32",
-    "hex": "#f2e5be",
+    "name": "Radiance Clear",
+    "hex": "#ddc68f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 33",
-    "hex": "#f9ecb7",
+    "name": "Classic Vanilla",
+    "hex": "#d9d693",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 34",
-    "hex": "#f4e5bb",
+    "name": "Sunny Mango",
+    "hex": "#fbef71",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 35",
-    "hex": "#efe5c0",
+    "name": "Butter Honeyed",
+    "hex": "#faf371",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 36",
-    "hex": "#efe6bd",
+    "name": "Sand Luminous",
+    "hex": "#e2e783",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 37",
-    "hex": "#ebecc0",
+    "name": "Mustard Soft",
+    "hex": "#fdfc6c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 38",
-    "hex": "#f6e4b6",
+    "name": "Brass Dreamy",
+    "hex": "#e4cc85",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 39",
-    "hex": "#eef2b9",
+    "name": "Ancient Pineapple",
+    "hex": "#eaeb7e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 40",
-    "hex": "#ebdec0",
+    "name": "Elegant Dawn",
+    "hex": "#f0fb6e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 41",
-    "hex": "#fdfdad",
+    "name": "Rich Custard",
+    "hex": "#d6d292",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 42",
-    "hex": "#f6eab3",
+    "name": "Fresh Radiance",
+    "hex": "#edca7a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 43",
-    "hex": "#f0deb9",
+    "name": "Sparkling Daffodil",
+    "hex": "#f4f96e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 44",
-    "hex": "#e8e1c1",
+    "name": "Natural Pineapple",
+    "hex": "#d6ce91",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 45",
-    "hex": "#f1e6b7",
+    "name": "Brass Pure",
+    "hex": "#eaf274",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 46",
-    "hex": "#e7dcbf",
+    "name": "Tulip Pure",
+    "hex": "#e0e284",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 47",
-    "hex": "#fbffa7",
+    "name": "Gold Brilliant",
+    "hex": "#e6df80",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 48",
-    "hex": "#f5faac",
+    "name": "Fresh Cream",
+    "hex": "#e4e382",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 49",
-    "hex": "#f9e3ac",
+    "name": "Sunrise Ancient",
+    "hex": "#e4d081",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 50",
-    "hex": "#f3f8aa",
+    "name": "Classic Canary",
+    "hex": "#e2d083",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 51",
-    "hex": "#fceaa5",
+    "name": "Biscuit Dreamy",
+    "hex": "#e6d07e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 52",
-    "hex": "#e8e7b7",
+    "name": "Glowing Pear",
+    "hex": "#dcc487",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 53",
-    "hex": "#fceda1",
+    "name": "Glowing Bronze",
+    "hex": "#d8ce8b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 54",
-    "hex": "#e8dab4",
+    "name": "Champagne Fresh",
+    "hex": "#d6d28b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 55",
-    "hex": "#f0e8ac",
+    "name": "Butter Morning",
+    "hex": "#feef63",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 56",
-    "hex": "#f8e9a1",
+    "name": "Soft Solar",
+    "hex": "#e0c780",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 57",
-    "hex": "#fef29a",
+    "name": "Solar Natural",
+    "hex": "#f7f169",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 58",
-    "hex": "#f9f09f",
+    "name": "Natural Champagne",
+    "hex": "#e2cd7e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 59",
-    "hex": "#f2eda5",
+    "name": "Light Mango",
+    "hex": "#fad964",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 60",
-    "hex": "#f6e8a0",
+    "name": "Bright Maize",
+    "hex": "#e3de7b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 61",
-    "hex": "#e4e7af",
+    "name": "Sweet Sand",
+    "hex": "#facd64",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 62",
-    "hex": "#f6e89d",
+    "name": "Daffodil Morning",
+    "hex": "#f4e369",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 63",
-    "hex": "#efeaa4",
+    "name": "Luminous Bronze",
+    "hex": "#f9f764",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 64",
-    "hex": "#e4e2af",
+    "name": "Light Goldleaf",
+    "hex": "#dfce7e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 65",
-    "hex": "#ecd5a5",
+    "name": "Quartz Brilliant",
+    "hex": "#eacd72",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 66",
-    "hex": "#f2fb96",
+    "name": "Pure Daffodil",
+    "hex": "#d3bd89",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 67",
-    "hex": "#eadba5",
+    "name": "Natural Sunflower",
+    "hex": "#e0de7c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 68",
-    "hex": "#fef391",
+    "name": "Mango Classic",
+    "hex": "#fafc60",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 69",
-    "hex": "#e8eca2",
+    "name": "Sunny Goldenrod",
+    "hex": "#e5e675",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 71",
-    "hex": "#e6d6a8",
+    "name": "Summer Wheat",
+    "hex": "#d6d085",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 72",
-    "hex": "#f4df9a",
+    "name": "Harvest Sun",
+    "hex": "#e4c577",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 70",
-    "hex": "#f3e19b",
+    "name": "Clean Banana",
+    "hex": "#e4dc76",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 73",
-    "hex": "#e5d8a7",
+    "name": "Bright Gold",
+    "hex": "#e3d076",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 74",
-    "hex": "#ffe58d",
+    "name": "Quartz Rich",
+    "hex": "#d6c783",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 75",
-    "hex": "#e8d8a3",
+    "name": "Elegant Vanilla",
+    "hex": "#e7c271",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 76",
-    "hex": "#ecde9e",
+    "name": "Dandelion Royal",
+    "hex": "#dce573",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 77",
-    "hex": "#eddc9c",
+    "name": "Sand Pure",
+    "hex": "#d9d77e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 78",
-    "hex": "#f8fa8e",
+    "name": "Goldenrod Harvest",
+    "hex": "#ebcc6c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 79",
-    "hex": "#e2e0a5",
+    "name": "Mustard Bright",
+    "hex": "#e6c16f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 80",
-    "hex": "#e9ea9c",
+    "name": "Goldenrod Pure",
+    "hex": "#d4c381",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 81",
-    "hex": "#ead39c",
+    "name": "Glow Luxury",
+    "hex": "#ffe956",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 82",
-    "hex": "#f4d68e",
+    "name": "Vivid Pear",
+    "hex": "#dabb7b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 83",
-    "hex": "#dfe2a0",
+    "name": "Gold Light",
+    "hex": "#e2c273",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 84",
-    "hex": "#f4f988",
+    "name": "Goldenrod Clean",
+    "hex": "#dfe372",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 85",
-    "hex": "#f5d78b",
+    "name": "Soft Vanilla",
+    "hex": "#e0da74",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 86",
-    "hex": "#f6f288",
+    "name": "Classic Desert",
+    "hex": "#fae95a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 87",
-    "hex": "#e3d99a",
+    "name": "Maize Light",
+    "hex": "#d1c082",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 88",
-    "hex": "#e4d798",
+    "name": "Lemon Natural",
+    "hex": "#dacc78",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 89",
-    "hex": "#f1d58b",
+    "name": "Brass Morning",
+    "hex": "#f0dc61",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 90",
-    "hex": "#f2e989",
+    "name": "Daffodil Radiant",
+    "hex": "#ced47c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 91",
-    "hex": "#e2cf97",
+    "name": "Hay Ancient",
+    "hex": "#f2c55e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 92",
-    "hex": "#e6dc93",
+    "name": "Fresh Champagne",
+    "hex": "#d9e16f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 93",
-    "hex": "#f6ea83",
+    "name": "Caramel Warm",
+    "hex": "#efca60",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 96",
-    "hex": "#eae68d",
+    "name": "Goldleaf Bright",
+    "hex": "#e6bf68",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 94",
-    "hex": "#d8da9c",
+    "name": "Saffron Clear",
+    "hex": "#ebbf63",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 95",
-    "hex": "#f7e07f",
+    "name": "Classic Quartz",
+    "hex": "#d8c575",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 98",
-    "hex": "#ded897",
+    "name": "Ancient Goldleaf",
+    "hex": "#f2d157",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 99",
-    "hex": "#e7e88c",
+    "name": "Brilliant Daffodil",
+    "hex": "#e1e366",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 97",
-    "hex": "#e1cb93",
+    "name": "Champagne Morning",
+    "hex": "#f6e652",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 100",
-    "hex": "#dddd94",
+    "name": "Delicate Glow",
+    "hex": "#f4f651",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 101",
-    "hex": "#ddcf92",
+    "name": "Buttercup Bright",
+    "hex": "#d9df67",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 102",
-    "hex": "#f2ce7d",
+    "name": "Sweet Ochre",
+    "hex": "#d2d273",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 103",
-    "hex": "#e4da8b",
+    "name": "Sweet Wheat",
+    "hex": "#c8cc79",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 104",
-    "hex": "#ffe56f",
+    "name": "Delicate Citrine",
+    "hex": "#eabf5b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 105",
-    "hex": "#efd67f",
+    "name": "Clean Wheat",
+    "hex": "#d5d26f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 107",
-    "hex": "#e3cf8b",
+    "name": "Rich Dawn",
+    "hex": "#fcd348",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 108",
-    "hex": "#edd880",
+    "name": "Mustard Sparkling",
+    "hex": "#decc64",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 109",
-    "hex": "#e4d089",
+    "name": "Maize Classic",
+    "hex": "#f0c350",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 106",
-    "hex": "#dac393",
+    "name": "Gentle Solar",
+    "hex": "#e6d758",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 110",
-    "hex": "#ddd28f",
+    "name": "Biscuit Gentle",
+    "hex": "#f4eb4a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 112",
-    "hex": "#fcf670",
+    "name": "Dawn Brilliant",
+    "hex": "#eeeb4f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 111",
-    "hex": "#dbc591",
+    "name": "Brass Rich",
+    "hex": "#eded4f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 115",
-    "hex": "#f1de7a",
+    "name": "Bright Daffodil",
+    "hex": "#dfd45d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 113",
-    "hex": "#dfe388",
+    "name": "Sunrise Dreamy",
+    "hex": "#ecca4f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 114",
-    "hex": "#fbea6f",
+    "name": "Gentle Bronze",
+    "hex": "#f4cb47",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 116",
-    "hex": "#eee27b",
+    "name": "Morning Glow",
+    "hex": "#ffc43b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 117",
-    "hex": "#dfcf8a",
+    "name": "Corn Ancient",
+    "hex": "#ece14d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 120",
-    "hex": "#e4c684",
+    "name": "Lemon Light",
+    "hex": "#f4e044",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 118",
-    "hex": "#d9d38f",
+    "name": "Sunflower Natural",
+    "hex": "#efd948",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 119",
-    "hex": "#f4f96f",
+    "name": "Sunflower Honeyed",
+    "hex": "#d4c963",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 121",
-    "hex": "#ede77a",
+    "name": "Mango Sparkling",
+    "hex": "#fbd43c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 122",
-    "hex": "#d5db8c",
+    "name": "Royal Banana",
+    "hex": "#e9b64d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 123",
-    "hex": "#e0c887",
+    "name": "Sunflower Delicate",
+    "hex": "#cfbd66",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 124",
-    "hex": "#fad66c",
+    "name": "Sparkling Gold",
+    "hex": "#f2e742",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 126",
-    "hex": "#dbd98a",
+    "name": "Fresh Custard",
+    "hex": "#e3e94a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 125",
-    "hex": "#d9d98b",
+    "name": "Wheat Honeyed",
+    "hex": "#d9b15a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 127",
-    "hex": "#dbc189",
+    "name": "Honey Sparkling",
+    "hex": "#c0c76b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 128",
-    "hex": "#f6fc68",
+    "name": "Dreamy Banana",
+    "hex": "#ceb463",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 129",
-    "hex": "#d5d38d",
+    "name": "Light Tulip",
+    "hex": "#d7ca59",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 130",
-    "hex": "#d2d68b",
+    "name": "Lemon Clean",
+    "hex": "#debe52",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 131",
-    "hex": "#dad687",
+    "name": "Vivid Goldenrod",
+    "hex": "#d7c359",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 132",
-    "hex": "#d5bd8a",
+    "name": "Fresh Dawn",
+    "hex": "#fec231",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 133",
-    "hex": "#d4d788",
+    "name": "Summer Gold",
+    "hex": "#e8e045",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 134",
-    "hex": "#f9e665",
+    "name": "Amber Sunny",
+    "hex": "#ffd42e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 136",
-    "hex": "#ead274",
+    "name": "Elegant Corn",
+    "hex": "#f8be34",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 135",
-    "hex": "#ded67f",
+    "name": "Pineapple Luminous",
+    "hex": "#d5d556",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 137",
-    "hex": "#f8f465",
+    "name": "Clear Sunflower",
+    "hex": "#dcd94e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 138",
-    "hex": "#fedc5e",
+    "name": "Glowing Gold",
+    "hex": "#cba95f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 139",
-    "hex": "#d7c981",
+    "name": "Morning Wheat",
+    "hex": "#cbb55e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 141",
-    "hex": "#e5d672",
+    "name": "Daffodil Sweet",
+    "hex": "#e4b543",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 142",
-    "hex": "#f1e166",
+    "name": "Gentle Cream",
+    "hex": "#ccbe5a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 140",
-    "hex": "#e2c375",
+    "name": "Clear Banana",
+    "hex": "#f5f431",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 146",
-    "hex": "#d3d57f",
+    "name": "Muted Amber",
+    "hex": "#fae62c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 143",
-    "hex": "#e0c574",
+    "name": "Vivid Dandelion",
+    "hex": "#dfe73f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 144",
-    "hex": "#eed265",
+    "name": "Honeyed Daffodil",
+    "hex": "#e2ca43",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 145",
-    "hex": "#dace79",
+    "name": "Royal Solar",
+    "hex": "#faca2b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 147",
-    "hex": "#f1c862",
+    "name": "Goldenrod Sweet",
+    "hex": "#cdca57",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 148",
-    "hex": "#e7d56b",
+    "name": "Goldenrod Fresh",
+    "hex": "#cdb057",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 149",
-    "hex": "#f5c55c",
+    "name": "Rich Champagne",
+    "hex": "#e1e83c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 150",
-    "hex": "#f9cb57",
+    "name": "Dawn Muted",
+    "hex": "#c8a65b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 151",
-    "hex": "#fecc51",
+    "name": "Sun Luminous",
+    "hex": "#f2dd2f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 152",
-    "hex": "#edd961",
+    "name": "Sparkling Goldenrod",
+    "hex": "#ecee31",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 153",
-    "hex": "#e2d76c",
+    "name": "Glow Light",
+    "hex": "#ffed20",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 154",
-    "hex": "#fbee52",
+    "name": "Elegant Sun",
+    "hex": "#d8e639",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 155",
-    "hex": "#dde16c",
+    "name": "Clear Amber",
+    "hex": "#f8ed26",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 156",
-    "hex": "#dec26e",
+    "name": "Elegant Champagne",
+    "hex": "#ced34b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 157",
-    "hex": "#e4bd68",
+    "name": "Wheat Glowing",
+    "hex": "#eada34",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 158",
-    "hex": "#fcf94f",
+    "name": "Solar Radiant",
+    "hex": "#cdcf4d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 159",
-    "hex": "#fbf04f",
+    "name": "Pure Quartz",
+    "hex": "#e9d033",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 160",
-    "hex": "#d8d071",
+    "name": "Maize Honeyed",
+    "hex": "#d3bc49",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 161",
-    "hex": "#dcb86c",
+    "name": "Canary Radiant",
+    "hex": "#fae721",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 162",
-    "hex": "#dad26c",
+    "name": "Radiance Elegant",
+    "hex": "#e0ca3b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 163",
-    "hex": "#f2e353",
+    "name": "Elegant Pineapple",
+    "hex": "#d1a84a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 164",
-    "hex": "#dfe065",
+    "name": "Luxury Honey",
+    "hex": "#c1c05a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 165",
-    "hex": "#eeda56",
+    "name": "Pear Light",
+    "hex": "#cfc648",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 166",
-    "hex": "#fcda47",
+    "name": "Elegant Goldenrod",
+    "hex": "#fcbd1b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 167",
-    "hex": "#dfb864",
+    "name": "Gold Soft",
+    "hex": "#f5e422",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 168",
-    "hex": "#cbc875",
+    "name": "Clear Ochre",
+    "hex": "#fccf1a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 169",
-    "hex": "#e7ed52",
+    "name": "Luxury Maize",
+    "hex": "#dcb73a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 170",
-    "hex": "#dcc363",
+    "name": "Muted Sand",
+    "hex": "#e1e72f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 171",
-    "hex": "#d3ca6b",
+    "name": "Cream Royal",
+    "hex": "#e3d033",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 172",
-    "hex": "#e2ba5c",
+    "name": "Corn Harvest",
+    "hex": "#c3bf53",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 173",
-    "hex": "#ecdf51",
+    "name": "Goldenrod Elegant",
+    "hex": "#dcba39",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 175",
-    "hex": "#f7c046",
+    "name": "Summer Desert",
+    "hex": "#efea26",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 174",
-    "hex": "#e2e359",
+    "name": "Amber Elegant",
+    "hex": "#edd927",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 176",
-    "hex": "#e5d757",
+    "name": "Radiant Sunflower",
+    "hex": "#d4ab40",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 177",
-    "hex": "#e9e153",
+    "name": "Topaz Warm",
+    "hex": "#d4d03f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 178",
-    "hex": "#f8ff3d",
+    "name": "Delicate Custard",
+    "hex": "#dddc36",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 179",
-    "hex": "#d8c861",
+    "name": "Summer Lemon",
+    "hex": "#ead826",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 180",
-    "hex": "#e7e351",
+    "name": "Hay Glowing",
+    "hex": "#cda743",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 181",
-    "hex": "#f0c648",
+    "name": "Vivid Citrine",
+    "hex": "#bebe50",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 183",
-    "hex": "#cfcb69",
+    "name": "Goldenrod Ancient",
+    "hex": "#cdbc41",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 182",
-    "hex": "#cbc96d",
+    "name": "Primrose Summer",
+    "hex": "#cec83f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 184",
-    "hex": "#f3f442",
+    "name": "Clean Gold",
+    "hex": "#cccd40",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 185",
-    "hex": "#f4c042",
+    "name": "Luminous Ray",
+    "hex": "#e8f11b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 186",
-    "hex": "#deb157",
+    "name": "Daffodil Luxury",
+    "hex": "#e4be27",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 187",
-    "hex": "#d4af61",
+    "name": "Bright Sun",
+    "hex": "#dbae2e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 188",
-    "hex": "#d9c55c",
+    "name": "Sparkling Wheat",
+    "hex": "#ebfe0a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 189",
-    "hex": "#e8e24d",
+    "name": "Bright Glow",
+    "hex": "#fbd20c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 190",
-    "hex": "#dcb458",
+    "name": "Classic Gold",
+    "hex": "#dfbd26",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 191",
-    "hex": "#fcdf38",
+    "name": "Sparkling Honey",
+    "hex": "#d3a731",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 192",
-    "hex": "#dfdc53",
+    "name": "Bright Sunrise",
+    "hex": "#f1c913",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 193",
-    "hex": "#e8b547",
+    "name": "Harvest Flare",
+    "hex": "#e8ae1b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 194",
-    "hex": "#e0c34f",
+    "name": "Sand Bright",
+    "hex": "#efd913",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 195",
-    "hex": "#f2db3b",
+    "name": "Vivid Flare",
+    "hex": "#d2b330",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 196",
-    "hex": "#e3f13b",
+    "name": "Pear Vivid",
+    "hex": "#ced42c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 197",
-    "hex": "#c8c962",
+    "name": "Honeyed Caramel",
+    "hex": "#bc9741",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 198",
-    "hex": "#ddc64d",
+    "name": "Brilliant Sun",
+    "hex": "#f2b00b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 199",
-    "hex": "#dcc14d",
+    "name": "Summer Caramel",
+    "hex": "#f5b307",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 200",
-    "hex": "#c8b460",
+    "name": "Sun Luxury",
+    "hex": "#d4bc28",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 201",
-    "hex": "#dbad4d",
+    "name": "Goldleaf Pure",
+    "hex": "#c7a935",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 202",
-    "hex": "#e5eb3b",
+    "name": "Sand Ancient",
+    "hex": "#d9b223",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 203",
-    "hex": "#f6bf2f",
+    "name": "Radiant Ochre",
+    "hex": "#c7d02c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 204",
-    "hex": "#d2d451",
+    "name": "Morning Canary",
+    "hex": "#ba9641",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 205",
-    "hex": "#c7ca5a",
+    "name": "Solar Warm",
+    "hex": "#f2ca09",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 207",
-    "hex": "#ecdf38",
+    "name": "Sunflower Royal",
+    "hex": "#ccc82e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 206",
-    "hex": "#edb736",
+    "name": "Fresh Pear",
+    "hex": "#d6c123",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 208",
-    "hex": "#fefb25",
+    "name": "Pure Corn",
+    "hex": "#d4d022",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 209",
-    "hex": "#edb834",
+    "name": "Dandelion Luxury",
+    "hex": "#c8ab2e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 210",
-    "hex": "#c9af58",
+    "name": "Golden Primrose",
+    "hex": "#f5b401",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 211",
-    "hex": "#efdc31",
+    "name": "Royal Tulip",
+    "hex": "#d7b41f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 212",
-    "hex": "#ecbc33",
+    "name": "Maize Vivid",
+    "hex": "#e5ea0b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 213",
-    "hex": "#d9da44",
+    "name": "Radiant Mango",
+    "hex": "#c9a92c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 214",
-    "hex": "#c4b25a",
+    "name": "Sunflower Clean",
+    "hex": "#cc9e28",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 215",
-    "hex": "#f1de2d",
+    "name": "Dreamy Daffodil",
+    "hex": "#c6be2d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 216",
-    "hex": "#dcbc41",
+    "name": "Desert Delicate",
+    "hex": "#b3b63d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 217",
-    "hex": "#f5bc26",
+    "name": "Lemon Muted",
+    "hex": "#bf9134",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 218",
-    "hex": "#deb83c",
+    "name": "Honeyed Brass",
+    "hex": "#bfb334",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 219",
-    "hex": "#c9be51",
+    "name": "Mango Golden",
+    "hex": "#d8b61a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 220",
-    "hex": "#e0b838",
+    "name": "Ray Fresh",
+    "hex": "#cbb127",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 221",
-    "hex": "#ceac4a",
+    "name": "Royal Vanilla",
+    "hex": "#bdc130",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 222",
-    "hex": "#c2cb4b",
+    "name": "Sunny Marigold",
+    "hex": "#dde10f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 223",
-    "hex": "#e6d62d",
+    "name": "Buttercup Sparkling",
+    "hex": "#b1a33e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 224",
-    "hex": "#fccd17",
+    "name": "Topaz Luxury",
+    "hex": "#eee300",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 225",
-    "hex": "#dfb234",
+    "name": "Royal Radiance",
+    "hex": "#c1b42d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 226",
-    "hex": "#c0a153",
+    "name": "Luminous Banana",
+    "hex": "#c4c529",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 227",
-    "hex": "#c8b54a",
+    "name": "Fresh Brass",
+    "hex": "#e6c407",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 228",
-    "hex": "#dcde33",
+    "name": "Tulip Sparkling",
+    "hex": "#c6b126",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 229",
-    "hex": "#e7ad29",
+    "name": "Bright Honey",
+    "hex": "#e59e06",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 230",
-    "hex": "#e4cf2b",
+    "name": "Fresh Maize",
+    "hex": "#dcd10f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 232",
-    "hex": "#ccb343",
+    "name": "Cream Natural",
+    "hex": "#e3b208",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 231",
-    "hex": "#cfa23f",
+    "name": "Desert Harvest",
+    "hex": "#aea43b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 233",
-    "hex": "#c0a84e",
+    "name": "Custard Luxury",
+    "hex": "#d7d010",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 234",
-    "hex": "#cca942",
+    "name": "Pineapple Gentle",
+    "hex": "#d0df07",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 235",
-    "hex": "#edd520",
+    "name": "Brass Vivid",
+    "hex": "#c9a41d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 236",
-    "hex": "#ebb922",
+    "name": "Warm Custard",
+    "hex": "#c5c521",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 238",
-    "hex": "#f0b31a",
+    "name": "Glowing Glow",
+    "hex": "#c7bb1e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 237",
-    "hex": "#dad530",
+    "name": "Luminous Caramel",
+    "hex": "#bbb22a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 239",
-    "hex": "#c0b049",
+    "name": "Harvest Primrose",
+    "hex": "#d6a90e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 240",
-    "hex": "#f6d912",
+    "name": "Pure Caramel",
+    "hex": "#c3c31f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 241",
-    "hex": "#ceca3a",
+    "name": "Sweet Lemon",
+    "hex": "#b7a92b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 242",
-    "hex": "#cdaf3a",
+    "name": "Bright Primrose",
+    "hex": "#d4cd0d",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 243",
-    "hex": "#cdbc3a",
+    "name": "Cream Sparkling",
+    "hex": "#cb9415",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 244",
-    "hex": "#c2ce39",
+    "name": "Corn Clean",
+    "hex": "#ae9b32",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 245",
-    "hex": "#fed608",
+    "name": "Banana Sparkling",
+    "hex": "#cdb012",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 246",
-    "hex": "#dfbd25",
+    "name": "Luminous Goldenrod",
+    "hex": "#acac33",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 248",
-    "hex": "#dccb28",
+    "name": "Luxury Glow",
+    "hex": "#b79327",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 247",
-    "hex": "#b8be45",
+    "name": "Hay Dreamy",
+    "hex": "#d4c10a",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 249",
-    "hex": "#fdf406",
+    "name": "Dawn Fresh",
+    "hex": "#dc9f01",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 250",
-    "hex": "#cfb534",
+    "name": "Caramel Sweet",
+    "hex": "#ada930",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 251",
-    "hex": "#bfba42",
+    "name": "Brilliant Gold",
+    "hex": "#a49738",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 252",
-    "hex": "#cbbf34",
+    "name": "Honeyed Maize",
+    "hex": "#c1b11b",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 253",
-    "hex": "#c69e37",
+    "name": "Brass Soft",
+    "hex": "#cfc10c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 254",
-    "hex": "#e3d819",
+    "name": "Canary Glowing",
+    "hex": "#b3a827",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 256",
-    "hex": "#eaf605",
+    "name": "Summer Solar",
+    "hex": "#a28838",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 255",
-    "hex": "#c3b738",
+    "name": "Pure Mustard",
+    "hex": "#cfd504",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 257",
-    "hex": "#e3a318",
+    "name": "Brilliant Caramel",
+    "hex": "#b2ae27",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 258",
-    "hex": "#e0b01a",
+    "name": "Luxury Lemon",
+    "hex": "#a19037",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 259",
-    "hex": "#e3a515",
+    "name": "Sweet Sunrise",
+    "hex": "#d19406",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 260",
-    "hex": "#e1b716",
+    "name": "Primrose Clean",
+    "hex": "#c1ae15",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 261",
-    "hex": "#bbae3b",
+    "name": "Luminous Tulip",
+    "hex": "#ada729",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 262",
-    "hex": "#b8983d",
+    "name": "Buttercup Royal",
+    "hex": "#cdd204",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 263",
-    "hex": "#b79f3e",
+    "name": "Radiance Gentle",
+    "hex": "#d2d303",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 264",
-    "hex": "#c0a035",
+    "name": "Light Daffodil",
+    "hex": "#b5b320",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 265",
-    "hex": "#b5983f",
+    "name": "Banana Luxury",
+    "hex": "#a8b124",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 267",
-    "hex": "#cdcc25",
+    "name": "Vivid Cream",
+    "hex": "#9e9336",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 269",
-    "hex": "#c4b12e",
+    "name": "Radiance Pure",
+    "hex": "#c59d0f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 266",
-    "hex": "#e3c80f",
+    "name": "Classic Ray",
+    "hex": "#c39311",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 268",
-    "hex": "#e1a010",
+    "name": "Clean Goldenrod",
+    "hex": "#aca525",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 270",
-    "hex": "#e0e40c",
+    "name": "Fresh Saffron",
+    "hex": "#a3ac25",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 271",
-    "hex": "#cfa11f",
+    "name": "Vanilla Radiant",
+    "hex": "#b3991e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 272",
-    "hex": "#c5a829",
+    "name": "Pear Sweet",
+    "hex": "#bbb815",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 273",
-    "hex": "#e6a406",
+    "name": "Lemon Sparkling",
+    "hex": "#a1ac24",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 275",
-    "hex": "#cdb71f",
+    "name": "Bronze Golden",
+    "hex": "#c59806",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 274",
-    "hex": "#d1c71b",
+    "name": "Caramel Ancient",
+    "hex": "#958a36",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 276",
-    "hex": "#b09a3b",
+    "name": "Bronze Natural",
+    "hex": "#a38028",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 277",
-    "hex": "#c7bd22",
+    "name": "Goldleaf Sparkling",
+    "hex": "#b59614",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 278",
-    "hex": "#e7da02",
+    "name": "Light Caramel",
+    "hex": "#c8b901",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 279",
-    "hex": "#bd932b",
+    "name": "Goldenrod Light",
+    "hex": "#a8b118",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 280",
-    "hex": "#afb335",
+    "name": "Banana Classic",
+    "hex": "#9ea127",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 281",
-    "hex": "#debc0a",
+    "name": "Pure Sand",
+    "hex": "#bfc403",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 283",
-    "hex": "#afa839",
+    "name": "Goldenrod Honeyed",
+    "hex": "#a6a421",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 282",
-    "hex": "#acaf38",
+    "name": "Goldleaf Morning",
+    "hex": "#b39914",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 284",
-    "hex": "#cfc318",
+    "name": "Elegant Wheat",
+    "hex": "#91972e",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 285",
-    "hex": "#d2c515",
+    "name": "Banana Royal",
+    "hex": "#9da61f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 286",
-    "hex": "#e5be02",
+    "name": "Natural Vanilla",
+    "hex": "#aeac16",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 289",
-    "hex": "#d6e600",
+    "name": "Bright Buttercup",
+    "hex": "#b3bf05",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 287",
-    "hex": "#ca911c",
+    "name": "Goldleaf Ancient",
+    "hex": "#b3a110",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 288",
-    "hex": "#ab8e3b",
+    "name": "Citrine Elegant",
+    "hex": "#adb211",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 291",
-    "hex": "#c5b720",
+    "name": "Vanilla Elegant",
+    "hex": "#c2ab01",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 292",
-    "hex": "#d7b20d",
+    "name": "Canary Morning",
+    "hex": "#bc9406",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 290",
-    "hex": "#d1a213",
+    "name": "Banana Summer",
+    "hex": "#9f8523",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 293",
-    "hex": "#c9991b",
+    "name": "Muted Corn",
+    "hex": "#9a7728",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 294",
-    "hex": "#c0ba22",
+    "name": "Tulip Glowing",
+    "hex": "#ac8315",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 295",
-    "hex": "#cec612",
+    "name": "Mango Delicate",
+    "hex": "#8f8e31",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 296",
-    "hex": "#bba524",
+    "name": "Daffodil Summer",
+    "hex": "#8b8c34",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 297",
-    "hex": "#bd9222",
+    "name": "Classic Biscuit",
+    "hex": "#9d9622",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 298",
-    "hex": "#bebf1f",
+    "name": "Hay Vivid",
+    "hex": "#b7ad07",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 299",
-    "hex": "#a68c38",
+    "name": "Fresh Desert",
+    "hex": "#ad9611",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 301",
-    "hex": "#bdb220",
+    "name": "Royal Citrine",
+    "hex": "#968c28",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 300",
-    "hex": "#dbc402",
+    "name": "Vivid Custard",
+    "hex": "#a67813",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 302",
-    "hex": "#c68b16",
+    "name": "Ochre Light",
+    "hex": "#8e6e28",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 303",
-    "hex": "#9d813a",
+    "name": "Golden Canary",
+    "hex": "#8c7d29",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 305",
-    "hex": "#c6d105",
+    "name": "Delicate Canary",
+    "hex": "#9e8f17",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 304",
-    "hex": "#baab1c",
+    "name": "Natural Goldleaf",
+    "hex": "#a17f14",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 306",
-    "hex": "#a48b31",
+    "name": "Light Solar",
+    "hex": "#938422",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 307",
-    "hex": "#ae8e26",
+    "name": "Muted Sunrise",
+    "hex": "#958a1f",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 308",
-    "hex": "#c2a511",
+    "name": "Custard Royal",
+    "hex": "#a6840c",
     "category": "Yellow"
   },
   {
-    "name": "Yellow 309",
-    "hex": "#b29921",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 310",
-    "hex": "#bdc40e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 313",
-    "hex": "#a1a42e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 311",
-    "hex": "#bab518",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 312",
-    "hex": "#afa323",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 314",
-    "hex": "#9a8336",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 315",
-    "hex": "#a3932c",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 316",
-    "hex": "#b5a81a",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 317",
-    "hex": "#bebe11",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 318",
-    "hex": "#c8ae07",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 319",
-    "hex": "#cbc203",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 320",
-    "hex": "#ae7e1f",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 321",
-    "hex": "#c0bb0d",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 322",
-    "hex": "#bea40e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 323",
-    "hex": "#b1a719",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 324",
-    "hex": "#919435",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 325",
-    "hex": "#968532",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 326",
-    "hex": "#b3ba0d",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 327",
-    "hex": "#978630",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 328",
-    "hex": "#917f35",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 329",
-    "hex": "#9b9f25",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 330",
-    "hex": "#939a2a",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 332",
-    "hex": "#96932d",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 333",
-    "hex": "#9e9625",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 335",
-    "hex": "#ad8016",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 331",
-    "hex": "#c2bf01",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 334",
-    "hex": "#af8014",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 336",
-    "hex": "#bc9206",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 337",
-    "hex": "#a48d1e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 339",
-    "hex": "#9e9f22",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 338",
-    "hex": "#bfa201",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 340",
-    "hex": "#b88008",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 341",
-    "hex": "#979a25",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 342",
-    "hex": "#a39c1c",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 343",
-    "hex": "#bd8f00",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 344",
-    "hex": "#8f722e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 346",
-    "hex": "#b97f03",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 347",
-    "hex": "#aba111",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 348",
-    "hex": "#8d702e",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 345",
-    "hex": "#ba9901",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 349",
-    "hex": "#b3b405",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 350",
-    "hex": "#949524",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 351",
-    "hex": "#89812f",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 353",
-    "hex": "#aea40a",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 352",
-    "hex": "#88722f",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 354",
-    "hex": "#aaa80d",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 355",
-    "hex": "#ae9209",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 356",
-    "hex": "#9c9219",
-    "category": "Yellow"
-  },
-  {
-    "name": "Yellow 357",
-    "hex": "#96951f",
+    "name": "Flare Clean",
+    "hex": "#a78a0b",
     "category": "Yellow"
   }
 ]
