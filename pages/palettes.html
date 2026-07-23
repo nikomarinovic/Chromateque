@@ -153,41 +153,94 @@
     <script src="../assets/js/palettes.js" defer></script>
     <script defer>
       window.addEventListener("DOMContentLoaded", () => {
+
         const grid = document.getElementById("palette-grid");
         const count = document.getElementById("palette-count");
         const tabsWrap = document.getElementById("palette-tabs");
 
-        const allTags = Array.from(
-          new Set(palettes.flatMap((p) => p.tags))
-        ).sort();
 
-        allTags.forEach((tag) => {
-          const btn = document.createElement("button");
-          btn.className = "tab";
-          btn.dataset.tag = tag;
-          btn.textContent = tag;
-          tabsWrap.appendChild(btn);
-        });
+        function setupPaletteTabs(){
 
-        function apply(tag) {
-          const list =
-            tag === "All"
-              ? palettes
-              : palettes.filter((p) => p.tags.includes(tag));
-          renderPaletteGrid(grid, list);
-          count.textContent = `Showing ${list.length} of ${palettes.length} palettes`;
+          const allTags = Array.from(
+            new Set(activePalettes.flatMap((p) => p.tags))
+          ).sort();
+
+
+          allTags.forEach((tag) => {
+
+            const btn = document.createElement("button");
+
+            btn.className = "tab";
+            btn.dataset.tag = tag;
+            btn.textContent = tag;
+
+            tabsWrap.appendChild(btn);
+
+          });
+
         }
 
+
+        function apply(tag) {
+
+          visiblePalettes = 60;
+
+          const list =
+            tag === "All"
+              ? activePalettes
+              : activePalettes.filter(
+                  (p) => p.tags.includes(tag)
+                );
+
+
+          renderPaletteGrid(grid, list);
+
+
+          count.textContent =
+            `Showing ${Math.min(visiblePalettes, list.length).toLocaleString()} of ${list.length.toLocaleString()} palettes`;
+
+        }
+
+
         tabsWrap.addEventListener("click", (e) => {
+
           const btn = e.target.closest(".tab");
+
           if (!btn) return;
+
+
           Array.from(tabsWrap.children).forEach((el) =>
             el.classList.toggle("is-active", el === btn)
           );
+
+
           apply(btn.dataset.tag);
+
         });
 
-        apply("All");
+
+        if (typeof activePalettes !== "undefined") {
+          setupPaletteTabs();
+          apply("All");
+        }
+
+
+        window.addEventListener(
+          "palettes-loaded",
+          () => {
+
+            tabsWrap.innerHTML =
+              `<button class="tab is-active" data-tag="All">All</button>`;
+
+
+            setupPaletteTabs();
+
+            apply("All");
+
+          }
+        );
+
+
       });
     </script>
   </body>

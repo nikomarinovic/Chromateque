@@ -68,26 +68,103 @@ const palettes = [
     name: "Terminal Green",
     tags: ["Cyberpunk", "Monochrome"],
     colors: ["#031409", "#0a3d1c", "#15803d", "#4ade80", "#d1fae5"]
+  },
+  {
+    name: "Deep Fjord",
+    tags: ["Cool", "Monochrome"],
+    colors: ["#193d43", "#30737e", "#46aab9", "#90ccd5", "#daeef1"]
+  },
+  {
+    name: "Velvet Bloom",
+    tags: ["Cool", "Editorial"],
+    colors: ["#3c1943", "#72307e", "#a846b9", "#cb90d5", "#eedaf1"]
+  },
+  {
+    name: "Midnight Contrast",
+    tags: ["pastel", "Editorial"],
+    colors: ["#ffffff", "#676f9d", "#424769", "#2d3250", "#f9b17a"]
   }
 ];
+
+let archivePalettes = [];
+let activePalettes = palettes;
+
+const PALETTE_LIMIT = 60;
+let visiblePalettes = 60;
+
+fetch("../data/palettes/manifest.json")
+
+  .then((res) => (res.ok ? res.json() : null))
+
+  .then((manifest) => {
+    if (!manifest) return;
+    const requests = Object.keys(manifest).map((file) =>
+      fetch(`../data/palettes/${file}.json`)
+        .then((res) => res.json())
+        .catch(() => [])
+    );
+    return Promise.all(requests);
+  })
+
+  .then((files) => {
+    if (!files) return;
+    archivePalettes = files.flat();
+
+    activePalettes = [
+      ...palettes,
+      ...archivePalettes
+    ];
+
+    window.dispatchEvent(new Event("palettes-loaded"));
+  })
+
+  .catch(() => {
+    activePalettes = palettes;
+    window.dispatchEvent(new Event("palettes-loaded"));
+  });
 
 const swatchWeights = [2, 1.5, 1, 1, 1];
 
 function paletteChip(hex, i) {
-  return `<div style="background:${hex}; flex:${swatchWeights[i] || 1}"></div>`;
+  return `
+    <div 
+      style="
+        background:${hex};
+        flex:${swatchWeights[i] || 1}
+      ">
+    </div>
+  `;
 }
 
 function paletteCard(palette) {
   return `
-    <article class="palette" data-tags="${palette.tags.join(",")}" data-colors="${palette.colors.join(",")}">
+    <article 
+      class="palette"
+      data-tags="${palette.tags.join(",")}"
+      data-colors="${palette.colors.join(",")}"
+    >
       <div class="palette-swatches">
-        ${palette.colors.map((hex, i) => paletteChip(hex, i)).join("")}
+        ${palette.colors
+          .map((hex, i) => paletteChip(hex, i))
+          .join("")
+        }
       </div>
       <div class="palette-meta">
         <h3>${palette.name}</h3>
         <div class="palette-meta-right">
-          <div class="tags">${palette.tags.map((t) => `<span>${t}</span>`).join("")}</div>
-          <button class="palette-copy" type="button" aria-label="Copy ${palette.name} as CSS variables">Copy</button>
+          <div class="tags">
+            ${palette.tags
+              .map((tag)=>`<span>${tag}</span>`)
+              .join("")
+            }
+          </div>
+          <button 
+            class="palette-copy"
+            type="button"
+            aria-label="Copy ${palette.name} as CSS variables"
+          >
+            Copy
+          </button>
         </div>
       </div>
     </article>
@@ -95,31 +172,139 @@ function paletteCard(palette) {
 }
 
 function copyPaletteCard(article) {
+
   const hexes = article.dataset.colors.split(",");
-  const css = `:root {\n${hexes.map((hex, i) => `  --color-${i + 1}: ${hex};`).join("\n")}\n}`;
+
+  const css =
+
+`:root {
+
+${hexes
+
+.map((hex,i)=>`  --color-${i+1}: ${hex};`)
+
+.join("\n")}
+
+}`;
+
   const btn = article.querySelector(".palette-copy");
+
   const finish = () => {
-    if (!btn) return;
-    const original = btn.textContent;
+
+    if(!btn) return;
+
+    const old = btn.textContent;
+
     btn.textContent = "Copied!";
-    setTimeout(() => {
-      btn.textContent = original;
-    }, 1200);
+
+    setTimeout(()=>{
+
+      btn.textContent = old;
+
+    },1200);
+
   };
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(css).then(finish).catch(finish);
-  } else {
-    finish();
+
+  if(
+
+    navigator.clipboard &&
+
+    navigator.clipboard.writeText
+
+  ){
+
+    navigator.clipboard
+
+      .writeText(css)
+
+      .then(finish)
+
+      .catch(finish);
+
   }
+
+  else {
+
+    finish();
+
+  }
+
 }
 
-function renderPaletteGrid(el, list) {
-  if (!el) return;
-  el.innerHTML = list.map(paletteCard).join("");
-  Array.from(el.querySelectorAll(".palette-copy")).forEach((btn) => {
-    btn.addEventListener("click", (e) => {
-      e.preventDefault();
-      copyPaletteCard(btn.closest(".palette"));
+function renderPaletteGrid(el, list){
+
+  if(!el) return;
+
+  const visible = list.slice(0, visiblePalettes);
+
+  el.innerHTML = visible
+    .map(paletteCard)
+    .join("");
+
+
+  if(list.length > visiblePalettes){
+
+    el.innerHTML += `
+      <div 
+        class="load-trigger"
+        id="load-trigger">
+      </div>
+    `;
+
+  }
+
+
+  el
+    .querySelectorAll(".palette-copy")
+    .forEach((btn)=>{
+
+      btn.addEventListener(
+        "click",
+        (e)=>{
+
+          e.preventDefault();
+
+          copyPaletteCard(
+            btn.closest(".palette")
+          );
+
+        }
+      );
+
     });
-  });
+
+
+
+  const trigger = document.getElementById("load-trigger");
+
+
+  if(trigger){
+
+    const observer = new IntersectionObserver(
+      (entries)=>{
+
+        if(entries[0].isIntersecting){
+
+          visiblePalettes += 60;
+
+          renderPaletteGrid(
+            el,
+            list
+          );
+
+          observer.disconnect();
+
+        }
+
+      },
+      {
+        rootMargin: "200px"
+      }
+    );
+
+
+    observer.observe(trigger);
+
+  }
+
 }

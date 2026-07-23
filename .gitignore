@@ -18,6 +18,4 @@ venv/
 # Build folders
 dist/
 build/
-
-# Files
-generate_colors.py
+tools/
