@@ -16,6 +16,7 @@
     />
     <link rel="icon" href="../assets/images/favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="../assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/converter.css" />
   </head>
   <body data-mode="tool">
     <header class="nav">
@@ -48,6 +49,7 @@
               <a href="image-colors.html">Colors from Image</a>
               <a href="color-match.html">Color Match</a>
             </div>
+          </div>
         </nav>
         <div class="nav-cta">
           <a
@@ -79,77 +81,78 @@
 
       <section class="section" style="padding-top: 8px;">
         <div class="container">
-          <div class="tool-card">
-            <label class="field-label" for="converter-input">Enter a color</label>
-            <div style="display: flex; align-items: center; gap: 10px;">
-              <input
-                id="converter-picker"
-                type="color"
-                value="#3b82f6"
-                aria-label="Pick a color"
-                style="width: 44px; height: 44px; flex: none; border: none; padding: 0; border-radius: 10px; cursor: pointer; box-shadow: 0 0 0 1px var(--line-2);"
-              />
-              <input
-                id="converter-input"
-                class="field-input"
-                type="text"
-                value="#3b82f6"
-                placeholder="#3b82f6, rgb(59,130,246), hsl(217,91%,60%), 59,130,246…"
-                autocomplete="off"
-                spellcheck="false"
-                style="flex: 1;"
-              />
-            </div>
-            <p id="converter-error" class="field-hint is-error"></p>
+          <div class="cvt-card-wrap">
+            <div class="tool-card cvt-card">
+              <label class="field-label" for="converter-input">Enter a color</label>
+              <div class="cvt-input-row">
+                <input
+                  id="converter-picker"
+                  class="cvt-swatch-btn"
+                  type="color"
+                  value="#3b82f6"
+                  aria-label="Pick a color"
+                />
+                <input
+                  id="converter-input"
+                  class="field-input cvt-input"
+                  type="text"
+                  value="#3b82f6"
+                  placeholder="#3b82f6, rgb(59,130,246), hsl(217,91%,60%), 59,130,246…"
+                  autocomplete="off"
+                  spellcheck="false"
+                />
+              </div>
+              <p id="converter-error" class="field-hint is-error"></p>
 
-            <div class="converter-layout" style="margin-top: 24px;">
-              <div id="converter-preview" class="converter-preview"></div>
+              <div class="converter-layout" style="margin-top: 24px;">
+                <div id="converter-preview" class="converter-preview cvt-preview"></div>
 
-              <div class="format-grid">
-                <div id="row-hex" class="format-row">
-                  <div>
-                    <div class="format-row-label">Hex</div>
-                    <div class="format-row-value">—</div>
+                <div class="format-grid cvt-grid">
+                  <div id="row-hex" class="format-row cvt-row">
+                    <div>
+                      <div class="format-row-label">Hex</div>
+                      <div class="format-row-value cvt-value">—</div>
+                    </div>
+                    <button class="format-copy cvt-copy" type="button" aria-label="Copy hex value">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    </button>
                   </div>
-                  <button class="format-copy" type="button" aria-label="Copy hex value">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                  </button>
-                </div>
-                <div id="row-rgb" class="format-row">
-                  <div>
-                    <div class="format-row-label">RGB</div>
-                    <div class="format-row-value">—</div>
+                  <div id="row-rgb" class="format-row cvt-row">
+                    <div>
+                      <div class="format-row-label">RGB</div>
+                      <div class="format-row-value cvt-value">—</div>
+                    </div>
+                    <button class="format-copy cvt-copy" type="button" aria-label="Copy RGB value">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    </button>
                   </div>
-                  <button class="format-copy" type="button" aria-label="Copy RGB value">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                  </button>
-                </div>
-                <div id="row-hsl" class="format-row">
-                  <div>
-                    <div class="format-row-label">HSL</div>
-                    <div class="format-row-value">—</div>
+                  <div id="row-hsl" class="format-row cvt-row">
+                    <div>
+                      <div class="format-row-label">HSL</div>
+                      <div class="format-row-value cvt-value">—</div>
+                    </div>
+                    <button class="format-copy cvt-copy" type="button" aria-label="Copy HSL value">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    </button>
                   </div>
-                  <button class="format-copy" type="button" aria-label="Copy HSL value">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                  </button>
-                </div>
-                <div id="row-hsv" class="format-row">
-                  <div>
-                    <div class="format-row-label">HSV</div>
-                    <div class="format-row-value">—</div>
+                  <div id="row-hsv" class="format-row cvt-row">
+                    <div>
+                      <div class="format-row-label">HSV</div>
+                      <div class="format-row-value cvt-value">—</div>
+                    </div>
+                    <button class="format-copy cvt-copy" type="button" aria-label="Copy HSV value">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    </button>
                   </div>
-                  <button class="format-copy" type="button" aria-label="Copy HSV value">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                  </button>
-                </div>
-                <div id="row-cmyk" class="format-row" style="grid-column: 1 / -1;">
-                  <div>
-                    <div class="format-row-label">CMYK</div>
-                    <div class="format-row-value">—</div>
+                  <div id="row-cmyk" class="format-row cvt-row" style="grid-column: 1 / -1;">
+                    <div>
+                      <div class="format-row-label">CMYK</div>
+                      <div class="format-row-value cvt-value">—</div>
+                    </div>
+                    <button class="format-copy cvt-copy" type="button" aria-label="Copy CMYK value">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    </button>
                   </div>
-                  <button class="format-copy" type="button" aria-label="Copy CMYK value">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                  </button>
                 </div>
               </div>
             </div>
@@ -200,9 +203,11 @@
           <div class="footer-col">
             <h4>Tools</h4>
             <ul>
+              <li><a href="chromai.html">ChromAI</a></li>
               <li><a href="converter.html">Color Converter</a></li>
               <li><a href="gradient.html">Gradient Generator</a></li>
               <li><a href="image-colors.html">Colors from Image</a></li>
+              <li><a href="color-match.html">Color Match</a></li>
             </ul>
           </div>
 
@@ -234,5 +239,6 @@
 
     <script src="../assets/js/nav.js" defer></script>
     <script src="../assets/js/converter.js" defer></script>
+    <script src="../assets/js/converter-premium.js" defer></script>
   </body>
 </html>

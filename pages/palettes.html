@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="../assets/css/style.css" />
   </head>
   <body data-mode="archive">
+
     <header class="nav">
       <div class="container nav-inner">
         <a href="../index.html" class="brand">
@@ -48,6 +49,7 @@
               <a href="image-colors.html">Colors from Image</a>
               <a href="color-match.html">Color Match</a>
             </div>
+          </div>
         </nav>
         <div class="nav-cta">
           <a href="../index.html#generator" class="btn btn-ghost">Generator</a>
@@ -57,10 +59,11 @@
     </header>
 
     <main>
-      <section class="section">
+      <section class="section" style="padding-top: 56px;">
         <div class="container">
           <div class="section-head">
             <div>
+              <p class="docs-eyebrow">Archive</p>
               <h2>All palettes</h2>
               <p>
                 Every curated palette in the archive — five-color systems
@@ -124,9 +127,11 @@
           <div class="footer-col">
             <h4>Tools</h4>
             <ul>
+              <li><a href="chromai.html">ChromAI</a></li>
               <li><a href="converter.html">Color Converter</a></li>
               <li><a href="gradient.html">Gradient Generator</a></li>
               <li><a href="image-colors.html">Colors from Image</a></li>
+              <li><a href="color-match.html">Color Match</a></li>
             </ul>
           </div>
 
@@ -155,100 +160,69 @@
         </div>
       </div>
     </footer>
-
     <script src="../assets/js/nav.js" defer></script>
     <script src="../assets/js/palettes.js" defer></script>
-    <script defer>
-      window.addEventListener("DOMContentLoaded", () => {
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const grid     = document.getElementById("palette-grid");
+      const countEl  = document.getElementById("palette-count");
+      const tabsWrap = document.getElementById("palette-tabs");
 
-        const grid = document.getElementById("palette-grid");
-        const count = document.getElementById("palette-count");
-        const tabsWrap = document.getElementById("palette-tabs");
+      let currentTag = "All";
 
-
-        function setupPaletteTabs(){
-
-          const allTags = Array.from(
-            new Set(activePalettes.flatMap((p) => p.tags))
-          ).sort();
-
-
-          allTags.forEach((tag) => {
-
-            const btn = document.createElement("button");
-
-            btn.className = "tab";
-            btn.dataset.tag = tag;
-            btn.textContent = tag;
-
-            tabsWrap.appendChild(btn);
-
-          });
-
-        }
-
-
-        function apply(tag) {
-
-          visiblePalettes = 60;
-
-          const list =
-            tag === "All"
-              ? activePalettes
-              : activePalettes.filter(
-                  (p) => p.tags.includes(tag)
-                );
-
-
-          renderPaletteGrid(grid, list);
-
-
-          count.textContent =
-            `Showing ${Math.min(visiblePalettes, list.length).toLocaleString()} of ${list.length.toLocaleString()} palettes`;
-
-        }
-
-
-        tabsWrap.addEventListener("click", (e) => {
-
-          const btn = e.target.closest(".tab");
-
-          if (!btn) return;
-
-
-          Array.from(tabsWrap.children).forEach((el) =>
-            el.classList.toggle("is-active", el === btn)
-          );
-
-
-          apply(btn.dataset.tag);
-
+      // Build tag buttons from whatever palettes are available right now.
+      // Called again after "palettes-loaded" fires so generated tags appear.
+      function buildTabs(allPals) {
+        const tags = Array.from(new Set(allPals.flatMap((p) => p.tags))).sort();
+        // Keep "All" button, rebuild the rest
+        tabsWrap.innerHTML = `<button class="tab is-active" data-tag="All">All</button>`;
+        tags.forEach((tag) => {
+          const btn = document.createElement("button");
+          btn.className = "tab";
+          btn.dataset.tag = tag;
+          btn.textContent = tag;
+          tabsWrap.appendChild(btn);
         });
+        // Re-mark active
+        tabsWrap.querySelectorAll(".tab").forEach((btn) => {
+          btn.classList.toggle("is-active", btn.dataset.tag === currentTag);
+        });
+      }
 
+      function apply(tag, allPals) {
+        currentTag = tag;
+        const list = tag === "All"
+          ? allPals
+          : allPals.filter((p) => p.tags.map(t => t.toLowerCase()).includes(tag.toLowerCase()));
+        renderPaletteGrid(grid, list);
+        updateCount(list.length, allPals.length);
+      }
 
-        if (typeof activePalettes !== "undefined") {
-          setupPaletteTabs();
-          apply("All");
-        }
+      function updateCount(shown, total) {
+        if (!countEl) return;
+        countEl.textContent = `Showing ${shown.toLocaleString()} of ${total.toLocaleString()} palettes`;
+      }
 
-
-        window.addEventListener(
-          "palettes-loaded",
-          () => {
-
-            tabsWrap.innerHTML =
-              `<button class="tab is-active" data-tag="All">All</button>`;
-
-
-            setupPaletteTabs();
-
-            apply("All");
-
-          }
-        );
-
-
+      tabsWrap.addEventListener("click", (e) => {
+        const btn = e.target.closest(".tab");
+        if (!btn) return;
+        tabsWrap.querySelectorAll(".tab").forEach((b) => b.classList.remove("is-active"));
+        btn.classList.add("is-active");
+        apply(btn.dataset.tag, getAllPalettes());
       });
+
+      // Initial render with the curated 17
+      buildTabs(getAllPalettes());
+      apply("All", getAllPalettes());
+
+      // Re-render when generated palettes arrive
+      window.addEventListener("palettes-loaded", () => {
+        const all = getAllPalettes();
+        buildTabs(all);
+        apply(currentTag, all);
+      });
+    });
     </script>
+
   </body>
 </html>

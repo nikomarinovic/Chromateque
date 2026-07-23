@@ -1,3 +1,11 @@
+// ---------------------------------------------------------------------------
+// Chromateque — palettes.js
+// ---------------------------------------------------------------------------
+// The 17 curated palettes below are always available immediately (no fetch).
+// Generated palettes are loaded lazily from data/palettes.json — one flat
+// file, not a folder of manifests. Both sets are merged and treated the same.
+// ---------------------------------------------------------------------------
+
 const palettes = [
   {
     name: "Neutral Monotone",
@@ -81,230 +89,181 @@ const palettes = [
   },
   {
     name: "Midnight Contrast",
-    tags: ["pastel", "Editorial"],
+    tags: ["Pastel", "Editorial"],
     colors: ["#ffffff", "#676f9d", "#424769", "#2d3250", "#f9b17a"]
   }
 ];
 
-let archivePalettes = [];
-let activePalettes = palettes;
+// ---------------------------------------------------------------------------
+// State
+// ---------------------------------------------------------------------------
 
-const PALETTE_LIMIT = 60;
-let visiblePalettes = 60;
+let _allPalettes = [...palettes]; // curated + generated, merged after fetch
+let _activeList  = [...palettes]; // what's currently filtered/shown
+const BATCH      = 60;
+let _shown       = 0;
+let _sentinel    = null;
+let _observer    = null;
 
-fetch("../data/palettes/manifest.json")
+// ---------------------------------------------------------------------------
+// Fetch generated palettes from data/palettes.json (one flat array file).
+// Merges with the curated 17 and fires "palettes-loaded" when ready.
+// ---------------------------------------------------------------------------
 
-  .then((res) => (res.ok ? res.json() : null))
+(function fetchGenerated() {
+  // Resolve the right path whether this script is loaded from /assets/js/
+  // (works for both root index.html and pages/*.html because the HTML
+  // uses a relative path like ../../data/palettes.json anyway — here we
+  // just use the same relative trick: go up from assets/js → root → data).
+  const base = (function () {
+    // Find this script's src to derive the base, fallback to "../.."
+    const scripts = document.querySelectorAll("script[src]");
+    for (const s of scripts) {
+      if (s.src && s.src.includes("palettes.js")) {
+        // e.g. http://localhost:8000/assets/js/palettes.js  → ../../
+        return s.src.replace(/assets\/js\/palettes\.js.*$/, "");
+      }
+    }
+    return "../../"; // pages/*.html fallback
+  })();
 
-  .then((manifest) => {
-    if (!manifest) return;
-    const requests = Object.keys(manifest).map((file) =>
-      fetch(`../data/palettes/${file}.json`)
-        .then((res) => res.json())
-        .catch(() => [])
-    );
-    return Promise.all(requests);
-  })
+  fetch(`${base}data/palettes/palettes.json`)
+    .then((res) => (res.ok ? res.json() : null))
+    .then((data) => {
+      if (!Array.isArray(data) || data.length === 0) return;
+      // Dedupe against the curated set by name
+      const existing = new Set(palettes.map((p) => p.name));
+      const generated = data.filter((p) => !existing.has(p.name));
+      _allPalettes = [...palettes, ...generated];
+      window.dispatchEvent(new CustomEvent("palettes-loaded", { detail: { total: _allPalettes.length } }));
+    })
+    .catch(() => {
+      // No generated file yet — curated 17 still work fine.
+      window.dispatchEvent(new CustomEvent("palettes-loaded", { detail: { total: palettes.length } }));
+    });
+})();
 
-  .then((files) => {
-    if (!files) return;
-    archivePalettes = files.flat();
+// ---------------------------------------------------------------------------
+// Rendering helpers
+// ---------------------------------------------------------------------------
 
-    activePalettes = [
-      ...palettes,
-      ...archivePalettes
-    ];
+const _swatchFlex = [2, 1.5, 1, 1, 1];
 
-    window.dispatchEvent(new Event("palettes-loaded"));
-  })
+function _paletteChipHTML(hex, i) {
+  return `<div style="background:${hex};flex:${_swatchFlex[i] || 1}"></div>`;
+}
 
-  .catch(() => {
-    activePalettes = palettes;
-    window.dispatchEvent(new Event("palettes-loaded"));
+function _paletteCardHTML(p) {
+  return `
+<article class="palette" data-tags="${p.tags.join(",")}" data-colors="${p.colors.join(",")}">
+  <div class="palette-swatches">
+    ${p.colors.map((hex, i) => _paletteChipHTML(hex, i)).join("")}
+  </div>
+  <div class="palette-meta">
+    <h3>${p.name}</h3>
+    <div class="palette-meta-right">
+      <div class="tags">${p.tags.map((t) => `<span>${t}</span>`).join("")}</div>
+      <button class="palette-copy" type="button" aria-label="Copy ${p.name} as CSS variables">Copy</button>
+    </div>
+  </div>
+</article>`;
+}
+
+function _copyPaletteCard(article) {
+  const hexes = article.dataset.colors.split(",");
+  const css = `:root {\n${hexes.map((hex, i) => `  --color-${i + 1}: ${hex};`).join("\n")}\n}`;
+  const btn = article.querySelector(".palette-copy");
+  const finish = () => {
+    if (!btn) return;
+    const orig = btn.textContent;
+    btn.textContent = "Copied!";
+    setTimeout(() => (btn.textContent = orig), 1200);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(css).then(finish).catch(finish);
+  } else {
+    finish();
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Core grid renderer — appends one batch, sets up IntersectionObserver for
+// the next one. Call with (el, list, reset=true) to start fresh.
+// ---------------------------------------------------------------------------
+
+function _appendBatch(el, list) {
+  // Remove old sentinel if present
+  if (_sentinel && _sentinel.parentNode === el) {
+    _sentinel.remove();
+    _sentinel = null;
+  }
+  if (_observer) {
+    _observer.disconnect();
+    _observer = null;
+  }
+
+  const slice = list.slice(_shown, _shown + BATCH);
+  if (slice.length === 0) return;
+
+  const frag = document.createDocumentFragment();
+  const tmp = document.createElement("div");
+  tmp.innerHTML = slice.map(_paletteCardHTML).join("");
+  while (tmp.firstChild) frag.appendChild(tmp.firstChild);
+  el.appendChild(frag);
+
+  el.querySelectorAll(".palette-copy").forEach((btn) => {
+    // Only wire up buttons that don't already have a listener
+    if (!btn.dataset.wired) {
+      btn.dataset.wired = "1";
+      btn.addEventListener("click", (e) => {
+        e.preventDefault();
+        _copyPaletteCard(btn.closest(".palette"));
+      });
+    }
   });
 
-const swatchWeights = [2, 1.5, 1, 1, 1];
+  _shown += slice.length;
 
-function paletteChip(hex, i) {
-  return `
-    <div 
-      style="
-        background:${hex};
-        flex:${swatchWeights[i] || 1}
-      ">
-    </div>
-  `;
-}
+  // If there's more, add a sentinel and watch it
+  if (_shown < list.length) {
+    _sentinel = document.createElement("div");
+    _sentinel.className = "grid-sentinel";
+    _sentinel.innerHTML = `<span class="spinner" aria-hidden="true"></span><span>Loading more…</span>`;
+    el.appendChild(_sentinel);
 
-function paletteCard(palette) {
-  return `
-    <article 
-      class="palette"
-      data-tags="${palette.tags.join(",")}"
-      data-colors="${palette.colors.join(",")}"
-    >
-      <div class="palette-swatches">
-        ${palette.colors
-          .map((hex, i) => paletteChip(hex, i))
-          .join("")
+    _observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          _observer.disconnect();
+          _observer = null;
+          _appendBatch(el, list);
         }
-      </div>
-      <div class="palette-meta">
-        <h3>${palette.name}</h3>
-        <div class="palette-meta-right">
-          <div class="tags">
-            ${palette.tags
-              .map((tag)=>`<span>${tag}</span>`)
-              .join("")
-            }
-          </div>
-          <button 
-            class="palette-copy"
-            type="button"
-            aria-label="Copy ${palette.name} as CSS variables"
-          >
-            Copy
-          </button>
-        </div>
-      </div>
-    </article>
-  `;
-}
-
-function copyPaletteCard(article) {
-
-  const hexes = article.dataset.colors.split(",");
-
-  const css =
-
-`:root {
-
-${hexes
-
-.map((hex,i)=>`  --color-${i+1}: ${hex};`)
-
-.join("\n")}
-
-}`;
-
-  const btn = article.querySelector(".palette-copy");
-
-  const finish = () => {
-
-    if(!btn) return;
-
-    const old = btn.textContent;
-
-    btn.textContent = "Copied!";
-
-    setTimeout(()=>{
-
-      btn.textContent = old;
-
-    },1200);
-
-  };
-
-  if(
-
-    navigator.clipboard &&
-
-    navigator.clipboard.writeText
-
-  ){
-
-    navigator.clipboard
-
-      .writeText(css)
-
-      .then(finish)
-
-      .catch(finish);
-
-  }
-
-  else {
-
-    finish();
-
-  }
-
-}
-
-function renderPaletteGrid(el, list){
-
-  if(!el) return;
-
-  const visible = list.slice(0, visiblePalettes);
-
-  el.innerHTML = visible
-    .map(paletteCard)
-    .join("");
-
-
-  if(list.length > visiblePalettes){
-
-    el.innerHTML += `
-      <div 
-        class="load-trigger"
-        id="load-trigger">
-      </div>
-    `;
-
-  }
-
-
-  el
-    .querySelectorAll(".palette-copy")
-    .forEach((btn)=>{
-
-      btn.addEventListener(
-        "click",
-        (e)=>{
-
-          e.preventDefault();
-
-          copyPaletteCard(
-            btn.closest(".palette")
-          );
-
-        }
-      );
-
-    });
-
-
-
-  const trigger = document.getElementById("load-trigger");
-
-
-  if(trigger){
-
-    const observer = new IntersectionObserver(
-      (entries)=>{
-
-        if(entries[0].isIntersecting){
-
-          visiblePalettes += 60;
-
-          renderPaletteGrid(
-            el,
-            list
-          );
-
-          observer.disconnect();
-
-        }
-
       },
-      {
-        rootMargin: "200px"
-      }
+      { rootMargin: "300px" }
     );
-
-
-    observer.observe(trigger);
-
+    _observer.observe(_sentinel);
   }
+}
 
+/**
+ * Public API — renders `list` into `el`, resetting any previous render.
+ * Used by palettes.html, index.html (preview), and trending.html.
+ */
+function renderPaletteGrid(el, list) {
+  if (!el) return;
+  // Clean up previous observer/sentinel
+  if (_observer) { _observer.disconnect(); _observer = null; }
+  _sentinel = null;
+  _shown = 0;
+  el.innerHTML = "";
+  _activeList = list;
+  _appendBatch(el, list);
+}
+
+/**
+ * Returns all available palettes (curated + generated).
+ * Safe to call any time; generated ones appear after the fetch resolves.
+ */
+function getAllPalettes() {
+  return _allPalettes;
 }
